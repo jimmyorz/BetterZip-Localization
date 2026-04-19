@@ -1,0 +1,6 @@
+/* Class = "NSMenuItem"; title = "Remove From Favorites"; ObjectID = "928"; */
+"928.title" = "Remove from Favorites";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete files and folders from the archive"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.toolTip" = "Delete the selected files or folders from the archive";
+

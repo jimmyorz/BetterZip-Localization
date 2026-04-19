@@ -1,0 +1,1072 @@
+/* (No Comment) */
+"(incl. %d hidden)" = "(incl. %d oculto(s)";
+
+/* (No Comment) */
+"(newer)" = "(reciente)";
+
+/* (No Comment) */
+"(older)" = "(antiguo)";
+
+/* (No Comment) */
+"%@ (damaged)" = "%@ (dañado)";
+
+/* initial name of a duplicated extract preset, %@ being the original name
+initial name of a duplicated save preset, %@ being the original name */
+"%@ copy" = "%@ copia";
+
+/* (No Comment) */
+"%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ no es controlado por ninguna aplicación. Intenta extraer el archivo y utilizar el Finder para abrirlo.";
+
+/* (No Comment) */
+"%@ of %@" = "%@ de %@";
+
+/* (No Comment) */
+"%d item, uncompressed size: %@ %@" = "%d elemento, tamaño sin comprimir: %@ %@";
+
+/* (No Comment) */
+"%d items, uncompressed size: %@ %@" = "%d elementos, tamaño sin comprimir: %@ %@";
+
+/* (No Comment) */
+"%d selected, uncompressed size: %@ %@" = "%d seleccionado, tamaño sin comprimir: %@ %@";
+
+/* (No Comment) */
+"+pwd" = "+pwd";
+
+/* displayed in the file types table for user defined extensions */
+"<Click to add your own>" = "<Haz clic para añadir uno propio>";
+
+/* initial name of a new password */
+"<new password>" = "<nueva contraseña>";
+
+/* (No Comment) */
+"<new pattern>" = "<nuevo patrón>";
+
+/* (No Comment) */
+"<new preset>" = "<nuevo preajuste>";
+
+/* (No Comment) */
+"⚠️ (older)" = "⚠️ (antiguo)";
+
+/* (No Comment) */
+"7-Zip Format (best compression)" = "Formato 7-Zip (mejor compresión)";
+
+/* (No Comment) */
+"A volume is missing: %@." = "Falta un volumen: %@.";
+
+/* (No Comment) */
+"Activate" = "Activar";
+
+/* Import presets button */
+"Add" = "Añadir";
+
+/* (No Comment) */
+"Add a new file or folder to the archive" = "Añadir un nuevo elemento o carpeta al archivo";
+
+/* (No Comment) */
+"Add Files to Archive" = "Añadir archivos al archivo";
+
+/* (No Comment) */
+"Add Items" = "Añadir elementos";
+
+/* (No Comment) */
+"Add Mac Stuff" = "Añadir cosas de Mac (.DS)";
+
+/* (No Comment) */
+"Add the items to a new archive" = "Añadir los elementos a un archivo nuevo";
+
+/* (No Comment) */
+"Added" = "Añadido";
+
+/* added in BetterZip 3 */
+"Adding files to archive %@" = "Añadir elementos al archivo %@";
+
+/* Preferences tab title */
+"Advanced" = "Avanzado";
+
+/* (No Comment) */
+"After filtering, there are no files left to archive." = "Después de filtrar, no hay archivos a la izquierda para archivar.";
+
+/* (No Comment) */
+"All Queued Archive Operations Complete" = "Todas las operaciones en la cola completadas";
+
+/* (No Comment) */
+"An error occurred" = "Se ha producido un error";
+
+/* (No Comment) */
+"An error occurred opening %@. Do you want to try to open the archive anyway?" = "Error al abrir el archivo %@. ¿Desea abrir el archivo de todos modos?";
+
+/* (No Comment) */
+"An error occurred opening %@. Do you want to try to repair the archive?" = "Se produjo un error al abrir %@. ¿Quieres intentar reparar el archivo?";
+
+/* (No Comment) */
+"An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?" = "Un elemento con el nombre %@ ya existe en esta ubicación dentro del archivo. ¿Desea reemplazarlo por el que vas a añadir?";
+
+/* (No Comment) */
+"An item named %@ already exists in this location inside the archive. Do you want to update it?" = "Un elemento con el nombre %@ ya existe en esta ubicación dentro del archivo. ¿Quieres actualizarlo?";
+
+/* ReplaceExistingFiles */
+"An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?" = "Un elemento con el nombre %@ ya existe en esta ubicación. ¿Desea reemplazarlo por el que se extrae?";
+
+/* (No Comment) */
+"An item with this name already exists in this folder!" = "¡Ya existe en esta carpeta un elemento con este nombre!";
+
+/* (No Comment) */
+"An unknown error occurred." = "Se ha producido un error desconocido.";
+
+/* (No Comment) */
+"Apple Disk Image" = "Imagen de disco de Apple";
+
+/* (No Comment) */
+"Apply to all" = "Aplicar a todos";
+
+/* (No Comment) */
+"Apply to all folders" = "Aplicar a todas las carpetas";
+
+/* (No Comment) */
+"Apply to all in queue" = "Aplicar a toda la cola";
+
+/* column header */
+"Archive" = "Archivo";
+
+/* (No Comment) */
+"Archive Creation Complete" = "Creación de archivos completado";
+
+/* (No Comment) */
+"Archive Creation Failed" = "Error en la creación de archivos";
+
+/* (No Comment) */
+"Archive Extraction Complete" = "Extracción de archivo completa";
+
+/* (No Comment) */
+"Archive Extraction Failed" = "Error en la extracción de archivos";
+
+/* (No Comment) */
+"Archive Test Failed" = "Error en la prueba de archivos";
+
+/* (No Comment) */
+"Archive test successful" = "Archivo funcionando correctamente";
+
+/* (No Comment) */
+"Archive Test Successful" = "Archivo funcionando correctamente";
+
+/* No comment provided by engineer. */
+"Archive test successful. No errors were found." = "Prueba de archivo correcta. No se encontraron errores.";
+
+/* Preferences tab title */
+"Archive Types" = "Tipos de archivo";
+
+/* (No Comment) */
+"Archives" = "Archivos";
+
+/* (No Comment) */
+"Are you sure you want to overwrite the original archive?" = "¿Seguro que quieres sobrescribir el archivo original?";
+
+/* Info table key */
+"Author" = "Autor";
+
+/* (No Comment) */
+"Back" = "Retroceder";
+
+/* (No Comment) */
+"Best (solid, slow extraction)" = "Mejor (extracción sólida, lenta)";
+
+/* (No Comment) */
+"Best, but slower operation" = "Mejor, pero operación más lenta";
+
+/* (No Comment) */
+"BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip no se puede extraer a esta carpeta. Quizás no tienes acceso de escritura.";
+
+/* Welcome text, line 1 */
+"BetterZip is the most powerful archiver for macOS, and you can customize it in many ways. To get started quickly use a few select options below. " = "BetterZip es el archivador más potente para macOS, y puedes personalizarlo de muchas maneras. Para comenzar, utiliza rápidamente algunas opciones seleccionadas a continuación. ";
+
+/* (No Comment) */
+"BetterZip Recovered Files" = "Archivos recuperados BetterZip";
+
+/* (No Comment) */
+"BetterZip Temporary Folder" = "Carpeta temporal BetterZip";
+
+/* added in V 5.0 */
+"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip no tiene acceso a %@. Puedes permitir el acceso en preferencias del sistema.";
+
+/* (No Comment) */
+"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip ahora quitará %d elementos del archivo que coinciden con los patrones configurados en la ventana de preferencias.";
+
+/* (No Comment) */
+"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip ahora eliminará %d archivos que coinciden con sus patrones del archivo.";
+
+/* (No Comment) */
+"BetterZip will now remove %d Mac specific files from the archive." = "BetterZip ahora eliminará del archivo %d elementos Mac específicos como .DS_Store";
+
+/* (No Comment) */
+"BetterZip will now remove Mac specific files from the archive." = "BetterZip ahora eliminará del archivo elementos Mac específicos como .DS_Store";
+
+/* (No Comment) */
+"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip ahora eliminará un elemento del archivo que coincide con los patrones configurados en la ventana de preferencias.";
+
+/* (No Comment) */
+"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip ahora eliminará un archivo que coincide con sus patrones del archivo.";
+
+/* (No Comment) */
+"BetterZip will now remove one Mac specific file from the archive." = "BetterZip eliminará del archivo una extención usada en Mac, tipo .DS_Store";
+
+/* AppController */
+"BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip solo se ejecutará en macOS 10.13 (High Sierra) o sistemas posteriores.";
+
+/* (No Comment) */
+"BZip2-compressed image" = "BZip2-imagen comprimida";
+
+/* Import presets button
+button */
+"Cancel" = "Cancelar";
+
+/* (No Comment) */
+"Cancel Opening" = "Cancelar apertura";
+
+/* V 2.0 */
+"Cancel the operation" = "Cancelar la operación";
+
+/* (No Comment) */
+"cancelled" = "cancelado";
+
+/* (No Comment) */
+"Caution" = "Precaución";
+
+/* (No Comment) */
+"Change Archive Mode" = "Cambiar el modo de archivo";
+
+/* (No Comment) */
+"Check for updates on startup?" = "¿Comprobar actualizaciones al iniciar?";
+
+/* (No Comment) */
+"Choose from your favorite presets" = "Elige entre tus preajustes favoritos";
+
+/* Welcome text, line 3 */
+"Choose Help > BetterZip Help from the menu for more information." = "Elige Ayuda > Ayuda de BetterZip en el menú para obtener más información.";
+
+/* The window title. */
+"Choose Master Password" = "Elegir contraseña maestra";
+
+/* (No Comment) */
+"Clean" = "Limpiar";
+
+/* (No Comment) */
+"Clean Archive" = "Limpiar archivo";
+
+/* (No Comment) */
+"Clean now" = "Limpiar ahora";
+
+/* (No Comment) */
+"Cleaning" = "Limpiando";
+
+/* (No Comment) */
+"Clear" = "Limpiar";
+
+/* (No Comment) */
+"Close" = "Cerrar";
+
+/* (No Comment) */
+"Columns" = "Columnas";
+
+/* Info table key */
+"Comment" = "Comentario";
+
+/* (No Comment) */
+"Comment Text" = "Texto del comentario";
+
+/* Open panel title */
+"Compress" = "Comprimir";
+
+/* default service name */
+"Compress with BetterZip" = "Comprimir con BetterZip";
+
+/* Default title for dynamic preset services */
+"Compress with Preset %@" = "Comprimir con preajuste %@";
+
+/* (No Comment) */
+"Compressed %@" = "Comprimido %@";
+
+/* (No Comment) */
+"Compressing %@" = "Comprimiendo %@";
+
+/* (No Comment) */
+"Continue" = "Continuar";
+
+/* Info table key */
+"Copyright" = "Copyright";
+
+/* (No Comment) */
+"CPIO Format, uncompressed (cpio)" = "Formato CPIO, sin comprimir (cpio)";
+
+/* (No Comment) */
+"Create a new folder in the selected place inside the archive." = "Crea una carpeta nueva en el lugar seleccionado dentro del archivo.";
+
+/* (No Comment) */
+"Create New Folder" = "Crear carpeta nueva";
+
+/* File infos in preview sidebar */
+"Date" = "Fecha";
+
+/* Option in the password encoding pop-up to use the default encoding */
+"Default encoding" = "Codificación predeterminada";
+
+/* (No Comment) */
+"Delete" = "Borrar";
+
+/* menu item */
+"Delete Empty Folders" = "Eliminar carpetas vacías";
+
+/* (No Comment) */
+"Delete Files From Archive" = "Eliminar elementos del archivo";
+
+/* (No Comment) */
+"Delete Items" = "Eliminar elementos";
+
+/* menu item */
+"Delete Mac Files" = "Eliminar archivos Mac";
+
+/* Menu items for delete menu */
+"Delete Selected" = "Eliminar seleccionados";
+
+/* (No Comment) */
+"Delete the selected files or folders from the archive" = "Eliminar los elementos o carpetas seleccionadas desde el archivo";
+
+/* Tooltip for the delete with pattern toolbar button */
+"Delete with pattern" = "Eliminar con patrón";
+
+/* menu item */
+"Delete with Pattern" = "Eliminar con patrón";
+
+/* (No Comment) */
+"Deleting items" = "Eliminar elementos";
+
+/* Option in the encoding pop-up to detect the encoding automatically */
+"Detect automatically" = "Detectar automáticamente";
+
+/* Menu item for character encoding detector */
+"Detect Automatically" = "Detectar automáticamente";
+
+/* Info table key */
+"Dimensions" = "Dimensiones";
+
+/* Welcome text, line 2 */
+"Dive into all available settings in the preferences window when you are ready." = "Sumérgete en todos los ajustes disponibles en la ventana de preferencias cuando quieras.";
+
+/* (No Comment) */
+"Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "No habilite esta opción, si no tiene por costumbre realizar copias de seguridad periódicas de tus datos. BetterZip no te advertirá antes de sobrescribir archivos, si utiliza un preajuste con el interruptor de sobrescritura activado. Los archivos se pueden perder. Úsalo bajo tu propio riesgo.";
+
+/* Warning when quitting BetterZip while operations are running */
+"Do you really want to quit BetterZip?" = "¿Quieres salir y cerrar BetterZip?";
+
+/* (No Comment) */
+"Do you want to extract the %d archives that were found inside the selected folders?" = "¿Quieres extraer los archivos %d que se han encontrado dentro de las carpetas seleccionadas?";
+
+/* (No Comment) */
+"Do you want to keep it that way or add metadata to your archive?" = "¿Quieres mantenerlo de esa manera o añadir metadatos al archivo?";
+
+/* (No Comment) */
+"Do you want to save the changes back to the archive?" = "¿Quieres guardar los cambios en el archivo?";
+
+/* (No Comment) */
+"Do you want to save the changes you made in the document %@?" = "¿Quieres guardar los cambios realizados en el documento %@?";
+
+/* (No Comment) */
+"Don't move" = "No mover";
+
+/* Button title */
+"Don't Quit" = "No quitar";
+
+/* (No Comment) */
+"Don't Save" = "No guardar";
+
+/* (No Comment) */
+"Drag items here to compress or extract" = "Arrastrar elementos aquí para comprimir o extraer";
+
+/* (No Comment) */
+"Drop archives here to extract" = "Arrastrar archivos aquí para extraer";
+
+/* (No Comment) */
+"Drop items here to compress" = "Arrastrar archivos aquí para comprimir";
+
+/* (No Comment) */
+"Drop the archives here to open them" = "Arrastrar archivos aquí para abrirlos";
+
+/* (No Comment) */
+"Drop the files here to add them to a new archive" = "Arrastrar archivos aquí para añadirlos a un nuevo archivo";
+
+/* (No Comment) */
+"DVD/CD-R master for export" = "DVD/CD-R maestro para exportar";
+
+/* Info table key */
+"Encryption" = "Cifrado";
+
+/* (No Comment) */
+"Error" = "Error";
+
+/* (No Comment) */
+"External command returned: %d%c" = "Comando externo recibido: %d%c";
+
+/* Open panel title
+button */
+"Extract" = "Extraer";
+
+/* (No Comment) */
+"Extract All" = "Extraer todo";
+
+/* (No Comment) */
+"Extract all files and folders from the archive" = "Extraer todos los archivos y carpetas del archivo";
+
+/* (No Comment) */
+"Extract files or folders from the archive" = "Extraer elementos o carpetas desde el archivo";
+
+/* (No Comment) */
+"Extract Here" = "Extraer aquí";
+
+/* (No Comment) */
+"Extract Selected" = "Extraer seleccionados";
+
+/* (No Comment) */
+"Extract Selected Only" = "Extraer sólo seleccionados";
+
+/* (No Comment) */
+"Extract the selected files or folders from the archive" = "Extraer los archivos o carpetas seleccionadas desde el archivo";
+
+/* default service name */
+"Extract with BetterZip" = "Extraer con BetterZip";
+
+/* Menu items for extract menu */
+"Extract with Preset" = "Extraer con preajuste";
+
+/* (No Comment) */
+"Extract with Preset %@" = "Extraer con preajuste %@";
+
+/* (No Comment) */
+"Extracted %@" = "Extraído %@";
+
+/* (No Comment) */
+"Extracting %@" = "Extrayendo %@";
+
+/* (No Comment) */
+"Extracting archive: %@" = "Extrayendo archivo: %@";
+
+/* (No Comment) */
+"Extracting items from %@" = "Extrayendo elementos de %@";
+
+/* (No Comment) */
+"Extracting items from archive: %@ of %@" = "Extrayendo elementos del archivo: %@ de %@";
+
+/* (No Comment) */
+"Extracting items temporarily" = "Extrayendo elementos temporalmente";
+
+/* (No Comment) */
+"Failed" = "Fallido";
+
+/* (No Comment) */
+"Failed (unpacking failed)" = "Fallido (error desempacando)";
+
+/* (No Comment) */
+"Failed (unsupported)" = "Fallido (no soportado)";
+
+/* (No Comment) */
+"Failed (wrong checksum)" = "Fallido (comprobación checksum incorrecta)";
+
+/* (No Comment) */
+"Failed (wrong password)" = "Fallido (Contraseña incorrecta)";
+
+/* (No Comment) */
+"Failed (Wrong size)" = "Fallido (tamaño incorrecto)";
+
+/* (No Comment) */
+"Fast, but larger archives" = "Rápida, pero archivos más grandes";
+
+/* (No Comment) */
+"File in archive:" = "Elemento en el archivo:";
+
+/* (No Comment) */
+"File on disc:" = "Archivo en disco:";
+
+/* (No Comment) */
+"File Types" = "Tipos de archivos";
+
+/* Info table key */
+"Filename encoding" = "Codificación nombre de archivo";
+
+/* Preferences tab title */
+"Files" = "Tipos de archivos";
+
+/* Preferences window - name of the tab to manage filter patterns */
+"Filtering" = "Filtrado";
+
+/* Info table key */
+"Format" = "Formato";
+
+/* Preferences tab title */
+"General" = "General";
+
+/* Title of the 'download rar' button */
+"Go to the win.rar GmbH web site" = "Ir al sitio web de win.rar GmbH";
+
+/* Preferences tab title */
+"Helpers" = "Ayudantes";
+
+/* Info table key */
+"Hidden" = "Oculto";
+
+/* (No Comment) */
+"Hide Favorites" = "Ocultar Favoritos";
+
+/* (No Comment) */
+"Hide Preview" = "Ocultar vista previa";
+
+/* new compression levels */
+"High, but slower operation" = "Alto, pero operación más lenta";
+
+/* (No Comment) */
+"Hold cmd ⌘ to add them to a new archive" = "Manten pulsado cmd ⌘ para añadir a un nuevo archivo";
+
+/* (No Comment) */
+"http://www.win-rar.com/" = "http://www.win-rar.com/";
+
+/* (No Comment) */
+"https://macitbetter.com/" = "https://macitbetter.com/";
+
+/* (No Comment) */
+"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
+
+/* (No Comment) */
+"Ignore" = "Ignorar";
+
+/* (No Comment) */
+"Ignore and go on" = "Ignorar y continuar";
+
+/* (No Comment) */
+"Ignore Changes" = "Ignorar cambios";
+
+/* (No Comment) */
+"Ignore This Time" = "Ignorar esta vez";
+
+/* (No Comment) */
+"It is either damaged or in an unsupported format." = "Está dañado o en un formato no compatible.";
+
+/* Info table key */
+"Items" = "Elementos";
+
+/* conflict action */
+"Keep Both" = "Mantener ambas";
+
+/* (No Comment) */
+"Keep Mac Stuff out" = "Mantener (.DS) del Mac fuera";
+
+/* conflict action */
+"Keep Newer" = "Mantener nuevo";
+
+/* Info table key */
+"Kind" = "Tipo";
+
+/* PreferenceController */
+"Last checked: " = "Ultima comprobación: ";
+
+/* (No Comment) */
+"Last modified: %@ %@%cSize: %@" = "Última modificación: %@ %@%cTamaño: %@";
+
+/* helpers */
+"Last modified: %@%cSize: %@" = "Última modificación: %@%cTamaño: %@";
+
+/* (No Comment) */
+"Loading archive: %@" = "Cargando archivo: %@";
+
+/* (No Comment) */
+"Lock Password Manager" = "Bloquear Administrador de Contraseñas";
+
+/* (No Comment) */
+"LZMA compressed (macOS 10.15+)" = "LZMA comprimido (macOS 10.15+)";
+
+/* (No Comment) */
+"macOS default (AES-128)" = "MacOS predeterminado (AES-128)";
+
+/* (No Comment) */
+"macOS returned this error:" = "macOS devuelve este error:";
+
+/* (No Comment) */
+"Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "Quizás no haya suficiente espacio libre en el disco de destino. O la contraseña sea incorrecta.";
+
+/* (No Comment) */
+"Merge Folders" = "Combinar carpetas";
+
+/* possible file status strings */
+"Modified" = "Modificado";
+
+/* Info table key */
+"Modified at" = "Modificado en";
+
+/* (No Comment) */
+"Move Items" = "Mover elementos";
+
+/* (No Comment) */
+"Moved" = "Movido";
+
+/* (No Comment) */
+"Multi-volume" = "Multi-volumen";
+
+/* (No Comment) */
+"Multiple Copies Installed" = "Varias copias instaladas";
+
+/* (No Comment) */
+"Multiple files" = "Varios archivos";
+
+/* (No Comment) */
+"N/A" = "N/A";
+
+/* (No Comment) */
+"never" = "nunca";
+
+/* (No Comment) */
+"Never" = "Nunca";
+
+/* (No Comment) */
+"New Folder" = "Carpeta Nueva";
+
+/* (No Comment) */
+"New Preset" = "Nuevo Preajuste";
+
+/* (No Comment) */
+"New Preset (%@)" = "Nuevo Preajuste (%@)";
+
+/* (No Comment) */
+"Next to archive" = "Junto al archivo";
+
+/* (No Comment) */
+"Next to original" = "Junto al original";
+
+/* (No Comment) */
+"No" = "No";
+
+/* (No Comment) */
+"No checksum" = "Sin checksum";
+
+/* (No Comment) */
+"No compression" = "Sin compresión";
+
+/* (No Comment) */
+"no errors" = "sin errores";
+
+/* (No Comment) */
+"No files selected" = "Nada seleccionado";
+
+/* (No Comment) */
+"Normal" = "Normal";
+
+/* (No Comment) */
+"Not encrypted" = "No cifrado";
+
+/* button */
+"OK" = "Aceptar";
+
+/* Descriptive title of the password editor window */
+"One password per line:" = "Una contraseña por línea:";
+
+/* Open panel title */
+"Open" = "Abrir";
+
+/* (No Comment) */
+"Open and browse the archive" = "Abrir y examinar el archivo";
+
+/* (No Comment) */
+"Open Anyway" = "Abrir de todas formas";
+
+/* (No Comment) */
+"Open System Preferences" = "Abrir preferencias del sistema";
+
+/* (No Comment) */
+"Opening archive failed" = "Error al abrir archivo";
+
+/* (No Comment) */
+"Opening archive with %d items" = "Abriendo archivo con %d elementos";
+
+/* Info table key */
+"Pages" = "Páginas";
+
+/* Preferences tab title */
+"Passwords" = "Contraseñas";
+
+/* Info table key */
+"Path" = "Ruta";
+
+/* (No Comment) */
+"Permission denied" = "Permiso denegado";
+
+/* Preferences tab title */
+"Places" = "Lugares";
+
+/* (No Comment) */
+"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Por favor escribe la ruta correcta en Preferencias > Ayudantes o elige un formato diferente para el guardado.";
+
+/* Preferences tab title */
+"Presets" = "Preajustes";
+
+/* (No Comment) */
+"Queued for compression" = "En cola para comprimir";
+
+/* (No Comment) */
+"Queued for extraction" = "En cola para extracción";
+
+/* (No Comment) */
+"Queued for testing" = "En cola para probar";
+
+/* Button title */
+"Quit" = "Salir";
+
+/* (No Comment) */
+"Quit and Reveal in Finder" = "Salir y mostrar en el Finder";
+
+/* (No Comment) */
+"Quit!" = "¡Salir!";
+
+/* (No Comment) */
+"RAR Format" = "Formato RAR";
+
+/* (No Comment) */
+"Read-only image" = "Imagen de solo lectura";
+
+/* DMG Options */
+"Read/write image" = "Imagen de lectura/escritura";
+
+/* (No Comment) */
+"Regular Expression" = "Expresión regular";
+
+/* (No Comment) */
+"Reload Drop Bar" = "Reiniciar barra de carga";
+
+/* (No Comment) */
+"Remove" = "Quitar";
+
+/* (No Comment) */
+"Remove files matching the patterns configured in the preferences window from the archive." = "Eliminar elementos del archivo que coinciden con los patrones configurados en la ventana de preferencias.";
+
+/* (No Comment) */
+"Rename Item" = "Renombrar elemento";
+
+/* (No Comment) */
+"Repair" = "Reparar";
+
+/* Import presets button
+conflict action */
+"Replace" = "Reemplazar";
+
+/* (No Comment) */
+"Reset Password Manager" = "Restablecer administrador de contraseñas";
+
+/* (No Comment) */
+"Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "Restablecer el administrador de contraseñas borrará todas sus contraseñas y la contraseña maestra. Esta acción no puede deshacerse.";
+
+/* (No Comment) */
+"Reveal in Finder" = "Mostrar en el Finder";
+
+/* (No Comment) */
+"Running script" = "Ejecutar script";
+
+/* Progress messages */
+"Running user script %@" = "Ejecutando script de usuario %@";
+
+/* (No Comment) */
+"Save" = "Guardar";
+
+/* (No Comment) */
+"Save the archive" = "Guardar el archivo";
+
+/* menu item in sharing menu */
+"Save the archive before sharing" = "Guardar el archivo antes de compartirlo";
+
+/* (No Comment) */
+"Save the archive with another name." = "Guardar el archivo con otro nombre.";
+
+/* (No Comment) */
+"Save the current settings as preset" = "Guardar la configuración actual como preajuste";
+
+/* (No Comment) */
+"Saving archive %@" = "Guardando archivo %@";
+
+/* (No Comment) */
+"Saving archive failed" = "Error al guardar el archivo";
+
+/* (No Comment) */
+"Saving archive: %@ of %@" = "Guardando archivo: %@ de %@";
+
+/* (No Comment) */
+"Search" = "Buscar";
+
+/* (No Comment) */
+"Search the archive file" = "Buscar en el archivo";
+
+/* (No Comment) */
+"Service Name" = "Nombre Servicio";
+
+/* possible button labels for setting and clearing passwords in the save presets configuration */
+"Set" = "Establecer";
+
+/* (No Comment) */
+"Show Favorites" = "Mostrar Favoritos";
+
+/* (No Comment) */
+"Show Preview" = "Mostrar vista previa";
+
+/* (No Comment) */
+"Show save panel" = "Mostrar panel guardar";
+
+/* Pattern control */
+"Simple File Mask" = "Mascara simple archivo";
+
+/* Info table key */
+"Size" = "Tamaño";
+
+/* Info table key */
+"Solid" = "Sólido";
+
+/* (No Comment) */
+"Sorry!" = "¡Lo siento!";
+
+/* (No Comment) */
+"Stop" = "Detener";
+
+/* (No Comment) */
+"Strong (AES-256)" = "Fuerte (AES-256)";
+
+/* (No Comment) */
+"Strong (AES-256) with header encryption" = "Fuerte (AES-256) con cifrado de encabezado";
+
+/* (No Comment) */
+"Symbolic Link (no preview possible)" = "Enlace simbólico (previsualización no posible)";
+
+/* The system default app should handle this file type. */
+"System Default" = "Sistema por defecto";
+
+/* (No Comment) */
+"TAR Format, Brotli compressed (tbr)" = "Formato TAR, Brotli comprimido (tbr)";
+
+/* (No Comment) */
+"TAR Format, BZip2 compressed (tbz)" = "Formato TAR, BZip2 comprimido (tbz)";
+
+/* (No Comment) */
+"TAR Format, GZip compressed (tgz)" = "Formato TAR, GZip comprimido (tgz)";
+
+/* (No Comment) */
+"TAR Format, uncompressed (tar)" = "Formato TAR, sin comprimir";
+
+/* (No Comment) */
+"TAR Format, xz compressed (txz)" = "Formato TAR, xz comprimido";
+
+/* New formats */
+"TAR Format, Z compressed (tz)" = "Formato TAR, Z comprimido (tz)";
+
+/* (No Comment) */
+"TAR Format, Zstandard compressed (tzst)" = "Formato TAR, Zstandard comprimido (tzst)";
+
+/* (No Comment) */
+"Test" = "Probar";
+
+/* (No Comment) */
+"Test the archive" = "Prueba el archivo";
+
+/* (No Comment) */
+"Test the archive integrity" = "Probar la integridad del archivo";
+
+/* (No Comment) */
+"Testing %@" = "Probando %@";
+
+/* (No Comment) */
+"Testing archive %@" = "Probando archivo %@";
+
+/* (No Comment) */
+"The archive cannot be created." = "No se puede crear el archivo.";
+
+/* (No Comment) */
+"The archive could not be extracted completely. It may be damaged." = "El archivo no se pudo extraer completamente. Puede que esté dañado.";
+
+/* (No Comment) */
+"The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "El archivo no se pudo extraer completamente. Puede estar dañado. ¿Quieres intentar reparar el archivo?";
+
+/* (No Comment) */
+"The archive could not be extracted." = "No se pudo extraer el archivo.";
+
+/* (No Comment) */
+"The archive disappeared" = "El archivo ha desaparecido";
+
+/* (No Comment) */
+"The archive extraction failed." = "Error en la extracción del archivo.";
+
+/* (No Comment) */
+"The archive is either damaged or in an unsupported format." = "El archivo está dañado o en un formato no compatible.";
+
+/* (No Comment) */
+"The archive test failed. Do you want to try to repair the archive?" = "Error en la prueba de archivado. ¿Quieres intentar reparar el archivo?";
+
+/* (No Comment) */
+"The archive test was completed successfully." = "La prueba de archivo se ha completado correctamente.";
+
+/* (No Comment) */
+"The archive tests failed." = "Error probando el archivo.";
+
+/* No comment provided by engineer. */
+"The archive tests failed. The archive is either damaged or in an unsupported format. The transcript window may contain further details." = "Error en las pruebas de archivado. El archivo está dañado o en un formato no compatible. La ventana de transcripción puede contener más detalles.";
+
+/* (No Comment) */
+"The file %@ could not be added to the archive. Maybe the system disc is full?" = "No se puede añadir el elemento %@ al archivo. ¿Quizás el disco del sistema está lleno?";
+
+/* (No Comment) */
+"The file %@ could not be extracted." = "No se pudo extraer el archivo %@.";
+
+/* (No Comment) */
+"The file %@ has been modified." = "Se ha modificado el archivo %@.";
+
+/* (No Comment) */
+"The last error macOS reported was:" = " El último error de macOS notificado fue:";
+
+/* (No Comment) */
+"The password may be incorrect." = "La contraseña puede ser incorrecta.";
+
+/* (No Comment) */
+"The rar helper could not be found." = "Ayudante rar no encontrado.";
+
+/* (No Comment) */
+"The transcript window may contain further details." = "La ventana de transcripción puede contener más detalles.";
+
+/* (No Comment) */
+"There are operations in progress." = "Hay operaciones en curso.";
+
+/* (No Comment) */
+"There is not enough free space on the destination drive." = "No hay suficiente espacio libre en el disco de destino.";
+
+/* (No Comment) */
+"This archive appears to be damaged." = "Este archivo parece estar dañado.";
+
+/* (No Comment) */
+"This archive doesn't contain any Mac specific files yet" = "Este archivo aún no contiene ningún archivo específico de Mac (.DS)";
+
+/* The user entered a wrong master password. */
+"This is not the password you are looking for." = "Esta no es la contraseña que estás buscando.";
+
+/* Info table key */
+"Title" = "Título";
+
+/* (No Comment) */
+"To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "Para omitir las carpetas seleccionadas y extraer directamente los archivos seleccionados haz click en “Extraer sólo seleccionados”.";
+
+/* Today title string */
+"Today" = "Hoy";
+
+/* menu item */
+"Trash" = "Papelera";
+
+/* (No Comment) */
+"Unknown" = "Desconocido";
+
+/* (No Comment) */
+"Unlock Password Manager…" = "Desbloquear Administrador de Contraseñas...";
+
+/* (No Comment) */
+"Unpacking failed" = "Error descomprimiendo";
+
+/* (No Comment) */
+"untitled folder" = "carpeta sin título";
+
+/* the two possible labels of the action button in the "file replace" alert panel */
+"Update" = "Actualizar";
+
+/* (No Comment) */
+"Update File" = "Actualizar archivo";
+
+/* (No Comment) */
+"Updated" = "Actualizado";
+
+/* title of the OK button in the file open panel used to locate the temp folder or standard opening program */
+"Use" = "Usar";
+
+/* (No Comment) */
+"Use for subsequent archives" = "Usar para los siguientes archivos";
+
+/* (No Comment) */
+"Use RAR" = "Usar RAR";
+
+/* (No Comment) */
+"Use this password for the new archive" = "Usa esta contraseña nuevamente para el archivo";
+
+/* (No Comment) */
+"Use this pattern to delete files and folders from the archive:" = "Utilice este patrón para borrar archivos y carpetas del archivo:";
+
+/* (No Comment) */
+"Use this pattern to specify which files and folders to add to the archive:" = "Utilice este patrón para especificar qué archivos y carpetas debe añadirse al archivo:";
+
+/* (No Comment) */
+"Use this preset as default in the toolbar" = "Usar este preajuste por defecto en la barra de herramientas";
+
+/* (No Comment) */
+"Use this preset as service" = "Usar este preajuste como servicio";
+
+/* Info table key */
+"Version" = "Versión";
+
+/* (No Comment) */
+"View" = "Ver";
+
+/* (No Comment) */
+"View the selected file" = "Ver el archivo seleccionado";
+
+/* Logging volume changes during extraction and testing of multi-volume rar archives */
+"Volume: %@" = "Volumen: %@";
+
+/* Info table key */
+"Volumes" = "Volúmenes";
+
+/* (No Comment) */
+"Warning" = "Advertencia";
+
+/* (No Comment) */
+"Warning: Saving cannot be undone" = "Advertencia: El guardado no puede deshacerse";
+
+/* (No Comment) */
+"Weak (PKZip2 compatible)" = "Débil (PKZip2 compatible)";
+
+/* (No Comment) */
+"When in Direct Mode, all archive operations are immediate and cannot be undone." = "Cuando está en modo directo, todas las operaciones de archivo son inmediatas y no se puede deshacer.";
+
+/* (No Comment) */
+"with errors" = "con errores";
+
+/* (No Comment) */
+"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "¿Quieres que %@ compruebe actualizaciones al iniciar? Se puede iniciar la comprobación manualmente desde la ventana de preferencias en cualquier momento.";
+
+/* (No Comment) */
+"Wrong checksum" = "Checksum incorrecto";
+
+/* (No Comment) */
+"XAR Format" = "Formato XAR";
+
+/* (No Comment) */
+"Yes" = "Si";
+
+/* Yesterday title string */
+"Yesterday" = "Ayer";
+
+/* (No Comment) */
+"You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "Todavía puede explorar el contenido, pero todas las operaciones de archivo fallarán. ¿Quieres cerrar la ventana?";
+
+/* (No Comment) */
+"You can't move an item into one of its subfolders!" = "¡No se puede mover un elemento en una de sus subcarpetas!";
+
+/* (No Comment) */
+"You don't have permission to write to this folder." = "No tienes permiso para escribir en esta carpeta.";
+
+/* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
+"You should save this archive with ZIP or RAR format or your comment will be lost." = "Debes guardar este archivo en formato ZIP o RAR o tu comentario se perderá.";
+
+/* (No Comment) */
+"Your changes will be lost if you don't save them." = "Los cambios realizados se perderán si no los guarda.";
+
+/* ZipDocument */
+"Zip Format (recommended)" = "Formato Zip (recomendado)";
+
+/* (No Comment) */
+"Zlib compressed" = "Zlib comprimido";
+
+/* (No Comment) */
+"Zlib compressed (level 9)" = "Zlib comprimido (nivel 9)";
+

@@ -1,0 +1,548 @@
+/* AppController */
+"BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip will only run on macOS 10.13 (High Sierra) or later systems.";
+"Quit!" = "Quit!";
+"Sorry!" = "Sorry!";
+"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
+"https://macitbetter.com/" = "https://macitbetter.com/";
+"http://www.win-rar.com/" = "http://www.win-rar.com/";
+
+/* helpers */
+"Last modified: %@%cSize: %@" = "Last modified: %@%cSize: %@";
+
+/* ReplaceExistingFiles */
+"An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?" = "An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?";
+"An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?" = "An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?";
+"File in archive:" = "File in archive:";
+"File on disc:" = "File on disk:";
+
+/* ZipDocument */
+"Zip Format (recommended)" = "Zip Format (recommended)";
+"TAR Format, uncompressed (tar)" = "TAR Format, uncompressed (tar)";
+"TAR Format, GZip compressed (tgz)" = "TAR Format, GZip compressed (tgz)"; 
+"TAR Format, BZip2 compressed (tbz)" = "TAR Format, BZip2 compressed (tbz)";
+"7-Zip Format (best compression)" = "7-Zip Format (best compression)";
+"RAR Format" = "RAR Format";
+"Extract All" = "Extract All";
+"Extract all files and folders from the archive" = "Extract all files and folders from the archive";
+"Extract" = "Extract";
+"Extract the selected files or folders from the archive" = "Extract the selected files or folders from the archive";
+"Extracting archive: %@" = "Extracting archive: %@";
+"Opening archive with %d items" = "Opening archive with %d items";
+"Check for updates on startup?" = "Check for updates on startup?";
+"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time.";
+"Yes" = "Yes";
+"No" = "No";
+"Are you sure you want to overwrite the original archive?" = "Are you sure you want to overwrite the original archive?";
+"Warning: Saving cannot be undone" = "Warning: Saving cannot be undone";
+"Save" = "Save";
+"Don't Save" = "Don't Save";
+"Saving archive: %@ of %@" = "Saving archive: %@ of %@";
+"Extracting items from archive: %@ of %@" = "Extracting items from archive: %@ of %@";
+"Add" = "Add";
+"Open" = "Open";
+"Add Items" = "Add Items";
+"Extract Here" = "Extract Here";
+"Warning" = "Warning";
+"%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ is not handled by any application. Try to extract the file and use Finder to open it.";
+"OK" = "OK";
+"Delete Items" = "Delete Items";
+"You can't move an item into one of its subfolders!" = "You can't move an item into one of its subfolders!";
+"Move Items" = "Move Items";
+"BetterZip will now remove Mac specific files from the archive." = "BetterZip will now remove Mac specific files from the archive.";
+"Clean now" = "Clean now";
+"Cancel" = "Cancel";
+"Clean Archive" = "Clean Archive";
+"Change Archive Mode" = "Change Archive Mode";
+"Archive" = "Archive";
+"Add to %@…" = "Add to %@…";
+"Extract All" = "Extract All";
+"Extract Selected" = "Extract Selected";
+"Save the archive" = "Save the archive";
+"Add a new file or folder to the archive" = "Add a new file or folder to the archive";
+"Extract files or folders from the archive" = "Extract files or folders from the archive";
+"View" = "View";
+"View the selected file" = "View the selected file";
+"Delete" = "Delete";
+"Delete the selected files or folders from the archive" = "Delete the selected files or folders from the archive";
+"Search" = "Search";
+"Search the archive file" = "Search the archive file";
+"Clean" = "Clean";
+"Stop" = "Stop";
+"Ignore and go on" = "Ignore and go on";
+"The file %@ could not be added to the archive. Maybe the system disc is full?" = "The file %@ could not be added to the archive. Maybe the system disk is full?";
+"There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
+"Loading archive: %@" = "Loading archive: %@";
+"External command returned: %d%c" = "External command returned: %d%c";
+"Saving archive failed" = "Saving archive failed";
+"You don't have permission to write to this folder." = "You don't have permission to write to this folder.";
+"An unknown error occurred." = "An unknown error occurred.";
+"New Folder" = "New Folder";
+"Create New Folder" = "Create New Folder";
+"Error" = "Error";
+"Create a new folder in the selected place inside the archive." = "Create a new folder in the selected place inside the archive.";
+"An item with this name already exists in this folder!" = "An item with this name already exists in this folder!";
+"Do you want to save the changes you made in the document %@?" = "Do you want to save the changes you made in the document %@?";
+"Your changes will be lost if you don't save them." = "Your changes will be lost if you don't save them.";
+"The archive extraction failed." = "The archive extraction failed.";
+"Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "Maybe, there is not enough free space on the destination drive. Or the password is incorrect.";
+"Rename Item" = "Rename Item";
+"Opening archive failed" = "Opening archive failed";
+"Not encrypted" = "Not encrypted";
+"Weak (PKZip2 compatible)" = "Weak (PKZip2 compatible)";
+"Strong (AES-256)" = "Strong (AES-256)";
+"untitled folder" = "untitled folder";
+"BetterZip Temporary Folder" = "BetterZip temporary folder"; 
+"(incl. %d hidden)" = "(incl. %d hidden)";
+"%d selected, uncompressed size: %@ %@" = "%d selected, uncompressed size: %@ %@";
+"%d items, uncompressed size: %@ %@" = "%d items, uncompressed size: %@ %@";
+"%d item, uncompressed size: %@ %@" = "%d item, uncompressed size: %@ %@";
+"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip will now remove one file matching the patterns configured in the preferences window from the archive.";
+"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive.";
+"BetterZip will now remove one Mac specific file from the archive." = "BetterZip will now remove one Mac specific file from the archive.";
+"BetterZip will now remove %d Mac specific files from the archive." = "BetterZip will now remove %d Mac specific files from the archive.";
+"Remove" = "Remove";
+"BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip cannot extract to this folder. Maybe you don't have write access.";
+"Save As…" = "Save As…";
+"Save the archive with another name." = "Save the archive with another name.";
+"Cleaning" = "Cleaning";
+"No compression" = "No compression"; 
+"Fast, but larger archives" = "Fast, but larger archives";
+"Normal" = "Normal";
+"Best, but slower operation" = "Best, but slower operation";
+"Remove files matching the patterns configured in the preferences window from the archive." = "Remove files matching the patterns configured in the preferences window from the archive.";
+"File Types" = "File Types";
+"N/A" = "N/A";
+"Multiple files" = "Multiple files";
+"No files selected" = "No files selected";
+"A volume is missing: %@." = "A volume is missing: %@.";
+"Close" = "Close";
+"Strong (AES-256) with header encryption" = "Strong (AES-256) with header encryption";
+
+
+/* PreferenceController */
+"Last checked: " = "Last checked: ";
+"General" = "General";
+"Columns" = "Columns";
+"Advanced" = "Advanced";
+"Helpers" = "Helpers";
+"Use RAR" = "Use RAR";
+"Never" = "Never";
+"never" = "never";
+"Next to original" = "Next to original";
+
+
+/* V 2.0 */
+"Cancel the operation" = "Cancel the operation";
+"Reveal in Finder" = "Reveal in Finder";
+"Passwords" = "Passwords";
+"no errors" = "no errors";
+"with errors" = "with errors";
+"cancelled" = "cancelled";
+"Extracted %@" = "Extracted %@";
+"Extracting %@" = "Extracting %@";
+"Compressing %@" = "Compressing %@";
+"Extracting items temporarily" = "Extracting items temporarily";
+"%@ of %@" = "%@ of %@";
+"%@ copy" = "%@ copy";
+"Extract to…" = "Extract to…";
+"The archive could not be extracted completely. It may be damaged." = "The archive could not be extracted completely. It may be damaged.";
+"This archive appears to be damaged." = "This archive appears to be damaged.";
+"The archive could not be extracted." = "The archive could not be extracted.";
+"It is either damaged or in an unsupported format." = "It is either damaged or in an unsupported format.";
+"BetterZip Recovered Files" = "BetterZip Recovered Files";
+"Multiple Copies Installed" = "Multiple Copies Installed";
+"Quit and Reveal in Finder" = "Quit and Reveal in Finder";
+"Queued for extraction" = "Queued for extraction";
+"Queued for compression" = "Queued for compression";
+"The archive tests failed." = "The archive tests failed.";
+"The archive is either damaged or in an unsupported format." = "The archive is either damaged or in an unsupported format.";
+"Test" = "Test";
+"Testing %@" = "Testing %@";
+"Test the archive" = "Test the archive";
+"Running script" = "Running script";
+"Show Favorites" = "Show Favorites";
+"Hide Favorites" = "Hide Favorites";
+"Show Preview" = "Show Preview";
+"Hide Preview" = "Hide Preview";
+"<new password>" = "<new password>";
+"The transcript window may contain further details." = "The transcript window may contain further details.";
+"The file %@ has been modified." = "The file %@ has been modified.";
+"Do you want to save the changes back to the archive?" = "Do you want to save the changes back to the archive?";
+"Update File" = "Update File";
+"Ignore Changes" = "Ignore Changes";
+"Ignore This Time" = "Ignore This Time";
+"Symbolic Link (no preview possible)" = "Symbolic Link (no preview possible)";
+"Use for subsequent archives" = "Use for subsequent archives";
+"Use this password for the new archive" = "Use this password for the new archive";
+"This is not the password you are looking for." = "This is not the password you are looking for.";
+"Edit Presets…" = "Edit Presets…";
+"Show save panel" = "Show save panel";
+"XAR Format" = "XAR Format";
+"Presets" = "Presets";
+"Testing archive %@" = "Testing archive %@";
+"Archive test successful" = "Archive test successful";
+"The archive test was completed successfully." = "The archive test was completed successfully.";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Go to the win.rar GmbH web site" = "Go to the win.rar GmbH web site";
+"Extracting items from %@" = "Extracting items from %@";
+"The rar helper could not be found." = "The rar helper could not be found.";
+"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Please set the correct path in Preferences > Helpers or choose a different format for saving.";
+"Merge Folders" = "Merge Folders";
+"Keep Both" = "Keep Both";
+"Apply to all folders" = "Apply to all folders";
+"Apply to all" = "Apply to all";
+"Do you want to extract the %d archives that were found inside the selected folders?" = "Do you want to extract the %d archives that were found inside the selected folders?";
+"To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”.";
+"Extract Selected Only" = "Extract Selected Only";
+"Archive Creation Complete" = "Archive Creation Complete";
+"Archive Extraction Complete" = "Archive Extraction Complete";
+"All Queued Archive Operations Complete" = "All Queued Archive Operations Complete";
+"<new preset>" = "<new preset>";
+"Other folder…" = "Other folder…";
+/* open with other application */
+"Other…" = "Other…";
+"Compress" = "Compress";
+"Saving archive %@" = "Saving archive %@";
+"Compressed %@" = "Compressed %@";
+"An error occurred" = "An error occurred";
+"Use this preset as default in the toolbar" = "Use this preset as default in the toolbar";
+"Use this preset as service" = "Use this preset as service";
+
+/* added in BetterZip 3 */
+"Adding files to archive %@" = "Adding files to archive %@";
+"When in Direct Mode, all archive operations are immediate and cannot be undone." = "When in Direct Mode, all archive operations are immediate and cannot be undone.";
+
+/* the two possible labels of the action button in the "file replace" alert panel */
+"Update" = "Update";
+"Replace" = "Replace";
+
+"An item named %@ already exists in this location inside the archive. Do you want to update it?" = "An item named %@ already exists in this location inside the archive. Do you want to update it?";
+
+"The archive cannot be created." = "The archive cannot be created.";
+"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip will now remove one file matching your patterns from the archive.";
+"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip will now remove %d files matching your patterns from the archive.";
+"After filtering, there are no files left to archive." = "After filtering, there are no files left to archive.";
+"macOS returned this error:" = "macOS returned this error:";
+"Use this pattern to specify which files and folders to add to the archive:" = "Use this pattern to specify which files and folders to add to the archive:";
+"Add Files to Archive" = "Add Files to Archive";
+"Use this pattern to delete files and folders from the archive:" = "Use this pattern to delete files and folders from the archive:";
+"Delete Files From Archive" = "Delete Files From Archive";
+
+/* displayed in the file types table for user defined extensions */
+"<Click to add your own>" = "<Click to add your own>";
+
+/* new compression levels */
+"High, but slower operation" = "High, but slower operation";
+"Best (solid, slow extraction)" = "Best (solid, slow extraction)";
+
+/* Preferences window - name of the tab to manage filter patterns */
+"Filtering" = "Filtering";
+
+/* Tooltip for the delete with pattern toolbar button */
+"Delete with pattern" = "Delete with pattern";
+
+"<new pattern>" = "<new pattern>";
+
+/* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
+"You should save this archive with ZIP or RAR format or your comment will be lost." = "You should save this archive with ZIP or RAR format or your comment will be lost.";
+
+/* possible button labels for setting and clearing passwords in the save presets configuration */
+"Set" = "Set";
+"Clear" = "Clear";
+
+"CPIO Format, uncompressed (cpio)" = "CPIO Format, uncompressed (cpio)";
+"TAR Format, xz compressed (txz)" = "TAR Format, xz compressed (txz)";
+
+/* title of the OK button in the file open panel used to locate the temp folder or standard opening program */ 
+"Use" = "Use";
+
+/* possible file status strings */
+"Modified" = "Modified";
+"Moved" = "Moved";
+"Added" = "Added";
+"Updated" = "Updated";
+
+"An error occurred opening %@. Do you want to try to open the archive anyway?" = "An error occurred opening %@. Do you want to try to open the archive anyway?";
+"Cancel Opening" = "Cancel Opening";
+"Open Anyway" = "Open Anyway";
+
+/* added in BetterZip 4 */
+
+/* Default title for dynamic preset services */
+"Compress with Preset %@" = "Compress with Preset %@";
+"Extract with Preset %@" = "Extract with Preset %@";
+"Service Name" = "Service Name";
+"Comment Text" = "Comment Text";
+
+"Caution" = "Caution";
+"Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk.";
+"Activate" = "Activate";
+"Trash" = "Trash";
+"Don't move" = "Don't move";
+"+pwd" = "+pwd";
+"Reload Drop Bar" = "Reload Drop Bar";
+
+"The file %@ could not be extracted." = "The file %@ could not be extracted.";
+"The last error macOS reported was:" = " The last error macOS reported was:";
+"The password may be incorrect." = "The password may be incorrect.";
+"Archive Extraction Failed" = "Archive Extraction Failed";
+"Archive Creation Failed" = "Archive Creation Failed";
+"Archive Test Successful" = "Archive Test Successful";
+"Archive Test Failed" = "Archive Test Failed";
+
+"The archive disappeared" = "The archive disappeared";
+"You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "You can still browse the contents, but all archive operations will fail. Do you want to close the window?";
+"Ignore" = "Ignore";
+
+"An error occurred opening %@. Do you want to try to repair the archive?" = "An error occurred opening %@. Do you want to try to repair the archive?";
+"The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?";
+"Repair" = "Repair";
+"%@ (damaged)" = "%@ (damaged)";
+
+"Drag items here to compress or extract" = "Drag items here to compress or extract";
+"Drop archives here to extract" = "Drop archives here to extract";
+"Drop the archives here to open them" = "Drop the archives here to open them";
+"Hold cmd ⌘ to add them to a new archive" = "Hold cmd ⌘ to add them to a new archive";
+"Drop items here to compress" = "Drop items here to compress";
+"Drop the files here to add them to a new archive" = "Drop the files here to add them to a new archive";
+"Choose from your favorite presets" = "Choose from your favorite presets";
+"Test the archive integrity" = "Test the archive integrity";
+"Open and browse the archive" = "Open and browse the archive";
+"Add the items to a new archive" = "Add the items to a new archive";
+"Trash" = "Trash";
+
+"Compress with BetterZip" = "Compress with BetterZip";
+"Extract with BetterZip" = "Extract with BetterZip";
+
+"Reveal in Finder" = "Reveal in Finder";
+"Cancel the operation" = "Cancel the operation";
+
+"This archive doesn't contain any Mac specific files yet" = "This archive doesn't contain any Mac specific files yet";
+"Do you want to keep it that way or add metadata to your archive?" = "Do you want to keep it that way or add metadata to your archive?";
+"Add Mac Stuff" = "Add Mac Stuff";
+"Keep Mac Stuff out" = "Keep Mac Stuff out";
+
+"System Default" = "System Default";
+"One password per line:" = "One password per line:";
+"Back" = "Back";
+"Unlock Password Manager…" = "Unlock Password Manager…";
+"Lock Password Manager" = "Lock Password Manager";
+"Archives" = "Archives";
+"Archive Types" = "Archive Types";
+"Files" = "Files";
+"Next to archive" = "Next to archive";
+"Choose Master Password" = "Choose Master Password";
+
+"Apply to all in queue" = "Apply to all in queue";
+"Last modified: %@ %@%cSize: %@" = "Last modified: %@ %@%cSize: %@";
+"⚠️ (older)" = "⚠️ (older)";
+"(older)" = "(older)";
+"(newer)" = "(newer)";
+
+/* added in V 5.0 */
+"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip was denied access to %@. You can grant it access in the System Preferences.";
+"Open System Preferences" = "Open System Preferences";
+
+/* File infos in preview sidebar */
+"Date" = "Date";
+"Kind" = "Kind";
+"Path" = "Path";
+"Size" = "Size";
+"Comment" = "Comment";
+"Dimensions" = "Dimensions";
+"Pages" = "Pages";
+"Hidden" = "Hidden";
+"Format" = "Format";
+"Solid" = "Solid";
+"Multi-volume" = "Multi-volume";
+"Volumes" = "Volumes";
+"Filename encoding" = "Filename encoding";
+"Encryption" = "Encryption";
+"Author" = "Author";
+"Title" = "Title";
+"Modified at" = "Modified at";
+"Items" = "Items";
+"Version" = "Version";
+"Copyright" = "Copyright";
+"Method" = "Method";
+"Compressed" = "Compressed";
+"Ratio" = "Ratio";
+"Attributes" = "Attributes";
+"Missing volumes" = "Missing volumes";
+
+/* Output while testing archives */
+"Testing: %@…" = "Testing: %@…";
+"Failed (unsupported)" = "Failed (unsupported)"; 
+"Failed (wrong password)" = "Failed (wrong password)";
+"Failed (unpacking failed)" = "Failed (unpacking failed)";
+"Failed (Wrong size)" = "Failed (wrong size)"; 
+"Failed (wrong checksum)" = "Failed (wrong checksum)";
+"Failed" = "Failed"; 
+"Unknown" = "Unknown";
+"Wrong checksum" = "Wrong checksum";
+"No checksum" = "No checksum";
+"Unpacking failed" = "Unpacking failed";
+
+"Queued for testing" = "Queued for testing";
+"The archive test failed. Do you want to try to repair the archive?" = "The archive test failed. Do you want to try to repair the archive?";
+"Permission denied" = "Permission denied";
+"Continue" = "Continue";
+
+"macOS default (AES-128)" = "macOS default (AES-128)";
+
+/* DMG Options */
+"Read/write image" = "Read/write image";
+"Read-only image" = "Read-only image";
+"Zlib compressed" = "Zlib compressed"; 
+"Zlib compressed (level 9)" = "Zlib compressed (level 9)";
+"BZip2-compressed image" = "BZip2-compressed image";
+"LZMA compressed (macOS 10.15+)" = "LZMA compressed (macOS 10.15+)";
+"DVD/CD-R master for export" = "DVD/CD-R master for export";
+
+/* New formats */
+"TAR Format, Z compressed (tz)" = "TAR Format, Z compressed (tz)";
+"TAR Format, Zstandard compressed (tzst)" = "TAR Format, Zstandard compressed (tzst)";
+"TAR Format, Brotli compressed (tbr)" = "TAR Format, Brotli compressed (tbr)";
+"Apple Disk Image" = "Apple Disk Image";
+
+/* Pattern control */
+"Simple File Mask" = "Simple File Mask";
+"Regular Expression" = "Regular Expression";
+
+/* Menu items for extract menu */
+"Extract with Preset" = "Extract with Preset";
+"Edit Places…" = "Edit Places…";
+
+/* Menu item for character encoding detector */
+"Detect Automatically" = "Detect Automatically";
+
+/* Menu items for delete menu */
+"Delete Selected" = "Delete Selected";
+"Delete with Pattern" = "Delete with Pattern";
+"Delete Empty Folders" = "Delete Empty Folders";
+"Delete Mac Files" = "Delete Mac Files";
+"Edit Patterns…" = "Edit Patterns…";
+
+"New Preset (%@)" = "New Preset (%@)";
+"New Preset" = "New Preset";
+"Save the current settings as preset" = "Save the current settings as preset";
+
+/* Warning when quitting BetterZip while operations are running */
+"Do you really want to quit BetterZip?" = "Do you really want to quit BetterZip?";
+"There are operations in progress." = "There are operations in progress.";
+"Don't Quit" = "Don't Quit";
+"Quit" = "Quit";
+
+/* Logging volume changes during extraction and testing of multi-volume rar archives */
+"Volume: %@" = "Volume: %@";
+
+"Deleting items" = "Deleting items";
+
+/* Progress messages */
+"Running user script %@" = "Running user script %@";
+"Finishing…" = "Finishing…";
+
+"Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "Resetting the password manager will erase all your passwords and the master password. The action cannot be undone.";
+"Reset Password Manager" = "Reset Password Manager";
+
+"This name is invalid." = "This name is invalid.";
+
+/* Show file panel to ask for destination when moving archive/originals after operations */
+"Move archive here" = "Move archive here";
+"Move originals here" = "Move originals here";
+"Move Archive" = "Move Archive"; 
+"Move Originals" = "Move Originals"; 
+
+/* unnamed filter predicate */
+"(untitled)" = "(untitled)";
+
+/* Error messages when saving Helpers configuration JSON */
+"Invalid Install Path" = "Invalid Install Path";
+"The file at '%@' does not exist." = "The file at '%@' does not exist.";
+"Invalid JSON" = "Invalid JSON";
+"The JSON must be a dictionary (top-level object)." = "The JSON must be a dictionary (top-level object).";
+"Invalid Tag" = "Invalid Tag";
+"Tags for user-defined formats must be 1000 or greater." = "Tags for user-defined formats must be 1000 or greater.";
+"Duplicate Tag" = "Duplicate Tag";
+"Another helper (%@) already uses tag %d." = "Another helper (%@) already uses tag %d.";
+
+"Known file types" = "Known file types";
+"Unknown file types" = "Unknown file types";
+
+"Cancel Operation" = "Cancel Operation";
+"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
+
+/* MIBStr keys added 2026-04-11 */
+
+/* Error messages */
+"%@ could not be extracted. Error code: %ld" = "%@ could not be extracted. Error code: %ld";
+"The archive extraction encountered errors." = "The archive extraction encountered errors.";
+"The helper tool %@ could not be found or is not executable." = "The helper tool %@ could not be found or is not executable.";
+"Archive seems to be damaged" = "Archive seems to be damaged";
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?";
+
+/* Multi-volume RAR */
+"Missing Volumes" = "Missing Volumes";
+"Reconstruct" = "Reconstruct";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps.";
+
+/* Operations queue */
+"Operations Completed" = "Operations Completed";
+"Operation time: %.1lf s" = "Operation time: %.1lf s";
+"Reveal" = "Reveal";
+
+/* Filter / pattern UI */
+"Create Filter" = "Create Filter";
+"Edit Filter" = "Edit Filter";
+"Define the filter criteria:" = "Define the filter criteria:";
+"Let me add a filter" = "Let me add a filter";
+"Use this filter to select which files and folders to add:" = "Use this filter to select which files and folders to add:";
+
+/* Extraction error suppression */
+"Cancel extraction" = "Cancel extraction";
+"Ignore errors" = "Ignore errors";
+"Don't show again for this archive" = "Don't show again for this archive";
+
+/* Password */
+"Show password" = "Show password";
+"Hide password" = "Hide password";
+"Unlock the password manager to set a preset password." = "Unlock the password manager to set a preset password.";
+"Set Master Password…" = "Set Master Password…";
+"Please confirm" = "Please confirm";
+
+/* UI elements */
+"%d Items" = "%d Items";
+"Corrupted" = "Corrupted";
+"Untitled Archive" = "Untitled Archive";
+"Open With" = "Open With";
+"Test Archive" = "Test Archive";
+"Sort By" = "Sort By";
+"Compression:" = "Compression:";
+"None" = "None";
+"Scripts" = "Scripts";
+"Shortcuts" = "Shortcuts";
+"Running shortcut" = "Running shortcut";
+"Running shortcut %@" = "Running shortcut %@";
+"tar options,compressor options" = "tar options,compressor options";
+"Update Items" = "Update Items";
+
+/* Crash reporter */
+"CrashReport" = "CrashReport";
+"Thanks for helping us improve %@" = "Thanks for helping us improve %@";
+"%@ was unable to send the crashlog." = "%@ was unable to send the crashlog.";
+
+/* Hash helper */
+"Computing…" = "Computing…";
+"Cannot open file: %@" = "Cannot open file: %@";
+"Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
+
+/* Application integrity */
+"The application is damaged." = "The application is damaged.";
+"Please download a fresh copy from our website." = "Please download a fresh copy from our website.";
+
+/* Advanced prefs – reset learned progress weights */
+"Reset Learned Progress Weights?" = "Reset Learned Progress Weights?";
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered.";
+"Reset" = "Reset";

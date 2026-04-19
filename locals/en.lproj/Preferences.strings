@@ -1,0 +1,12 @@
+/* Class = "NSMenuItem"; title = "Remove All Passwords"; ObjectID = "9s4-EZ-fNH"; */
+"9s4-EZ-fNH.title" = "Remove All";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "1405"; */
+"1405.title" = "Additional setting";
+
+/* Class = "NSButtonCell"; title = "Quit when the last window is closed"; ObjectID = "2218"; */
+"2218.title" = "Quit after the last window has been closed";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "sDU-aG-kZ5"; */
+"sDU-aG-kZ5.title" = "Extensions";
+

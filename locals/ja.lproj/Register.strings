@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "リセラーコードで BetterZip をアクティベートする";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "BetterZip を登録";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Web ブラウザでオンラインの注文ページを開きます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "ウェブブラウザでオンライン注文ページを開く";
+
+/* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
+"138.title" = "キーを紛失?";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip is not yet registered. Your trial period will end in 30 days. You will not be able to use BetterZip after this time."; ObjectID = "140"; */
+"140.title" = "BetterZip は未だ登録されていません。試用期間は 30 日間です。それを過ぎると BetterZip は使えなくなります。";
+
+/* Class = "NSButtonCell"; title = "Buy now"; ObjectID = "141"; */
+"141.title" = "オンラインで購入";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Copy/paste the key from the e-mail you received."; ObjectID = "142"; */
+"142.placeholderString" = "受信したメールからキーをコピーしてペーストします";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
+"143.title" = "後で";
+
+/* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
+"144.title" = "ライセンスキー:";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
+"EDz-qk-Feh.title" = "戻る";
+
+/* Class = "NSTabViewItem"; label = "Register"; ObjectID = "G8e-Xx-KQQ"; */
+"G8e-Xx-KQQ.label" = "登録";
+
+/* Class = "NSTabViewItem"; label = "Claim Voucher"; ObjectID = "l3n-jx-lIq"; */
+"l3n-jx-lIq.label" = "領収書を要求";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "MpD-2n-QXa"; */
+"MpD-2n-QXa.title" = "登録";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
+"t2U-Sw-lRl.title" = "BetterZip を使うには、このコードとメールアドレスでアクティベートしなくてはなりません。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
+"VOR-xE-oVT.placeholderString" = "あなたのメールアドレス";
+

@@ -1,0 +1,141 @@
+/* (No Comment) */
+"7-Zip Archive" = "Archivo 7-Zip";
+
+/* (No Comment) */
+"Android Application Package" = "Paquete Aplicaciones Android";
+
+/* (No Comment) */
+"ARJ Archive" = "Archivo ARJ";
+
+/* (No Comment) */
+"BinHex Archive" = "Archivo BinHex";
+
+/* (No Comment) */
+"Brotli Archive" = "Archivo Brotli";
+
+/* (No Comment) */
+"Brotli compressed TAR Archive" = "Archivo Brotli TAR comprimido";
+
+/* (No Comment) */
+"BZip2 Archive" = "Archivo BZip2";
+
+/* (No Comment) */
+"BZip2 compressed TAR Archive" = "Archivo TAR comprimido BZip2";
+
+/* (No Comment) */
+"CAB Archive" = "Archivo CAB";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Get Info string */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2023 MacItBetter, Robert Rezabek";
+
+/* Bundle name */
+"CFBundleName" = "BetterZip";
+
+/* (No Comment) */
+"Chromium Extra" = "Chromium Extra";
+
+/* (No Comment) */
+"Comicbook RAR Archive" = "Archivo Comicbook RAR";
+
+/* (No Comment) */
+"Comicbook Zip Archive" = "Archivo Comicbook RAR";
+
+/* (No Comment) */
+"Compiled HTML Archive" = "Archivo HTML compilado";
+
+/* (No Comment) */
+"Compressed CPIO Archive" = "Archivo CPIO comprimido";
+
+/* (No Comment) */
+"CPIO Archive" = "Archivo CPIO";
+
+/* (No Comment) */
+"Debian Linux Package" = "Paquete Linux Debian";
+
+/* (No Comment) */
+"Disk Image" = "Imagen de disco";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "Archivo DiskDoubler";
+
+/* (No Comment) */
+"Electronic Publication (ePub)" = "Publicación Electrónica (ePub)";
+
+/* (No Comment) */
+"GZip Archive" = "Archivo GZip";
+
+/* (No Comment) */
+"GZipped Tar Archive" = "Archivo GZipped Tar";
+
+/* (No Comment) */
+"ISO Disk Image" = "CImagen de disco ISO";
+
+/* (No Comment) */
+"Java ZIP Archive" = "Archivo Java ZIP";
+
+/* (No Comment) */
+"LHA Archive" = "Archivo LHA";
+
+/* (No Comment) */
+"Linux RPM Archive" = "Archivo Linux RPM";
+
+/* (No Comment) */
+"MacBinary Archive" = "Archivo MacBinary";
+
+/* (No Comment) */
+"Microsoft E-mail Attachment" = "Microsoft E-mail Adjunto";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "Ejecutar AppleScipts definidos por el usuario después de comprimir o extraer archivos.";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "Tu dirección de correo electrónico solo se utilizará para rellenar el campo de contacto en el informe de fallos de BetterZip.";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2006-2023 MacItBetter, Robert Rezabek";
+
+/* (No Comment) */
+"NSIS Archive" = "Archivo NSIS";
+
+/* (No Comment) */
+"Python Egg" = "Python Egg";
+
+/* (No Comment) */
+"RAR Archive" = "Archivo RAR";
+
+/* (No Comment) */
+"Segmented Archive" = "Archivo Segmentado";
+
+/* (No Comment) */
+"Stuffit Archive" = "Archivo Stuffit";
+
+/* (No Comment) */
+"TAR Archive" = "Archivo TAR";
+
+/* (No Comment) */
+"User-Defined Archive" = "Archivo definido por el usuario";
+
+/* (No Comment) */
+"XAR Archive" = "Archivo XAR";
+
+/* (No Comment) */
+"xz Archive" = "Archivo xz";
+
+/* (No Comment) */
+"xz compressed TAR Archive" = "Archivo TAR comprimido xz";
+
+/* (No Comment) */
+"Zip Archive" = "Archivo Zip";
+
+/* (No Comment) */
+"ZIP Archive" = "Archivo ZIP";
+
+/* (No Comment) */
+"Zstandard Archive" = "Archivo Zstandard";
+
+/* (No Comment) */
+"Zstandard compressed TAR Archive" = "Archivo TAR comprimido de Zstandard";
+

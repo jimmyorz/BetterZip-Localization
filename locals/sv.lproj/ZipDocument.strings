@@ -1,0 +1,435 @@
+/* Class = "NSTableColumn"; headerCell.title = "key"; ObjectID = "0W4-j3-kLO"; */
+"0W4-j3-kLO.headerCell.title" = "key";
+
+/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
+"3Db-W6-KiY.title" = "Ställ in kolumnstorleken automatiskt";
+
+/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
+"6Il-Hd-fod.label" = "Släpparea";
+
+/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
+"7f0-k5-lWA.headerCell.title" = "value";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; */
+"8p6-fL-GfM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
+"8Yx-BY-UEi.title" = "Byt namn";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; */
+"9xa-Ff-0K9.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
+"19d-zw-yaW.title" = "Slå på filsökning";
+
+/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
+"89T-hX-8ou.title" = "Öppna i ny flik";
+
+/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
+"99.title" = "Förloppsfönster";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "189"; */
+"189.title" = "Meny";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "192"; */
+"192.title" = "Radera";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "193"; */
+"193.title" = "Byt namn";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "205"; */
+"205.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = ".zip"; ObjectID = "206"; */
+"206.title" = ".zip";
+
+/* Class = "NSMenuItem"; title = ".tar.gz"; ObjectID = "207"; */
+"207.title" = ".tar.gz";
+
+/* Class = "NSMenuItem"; title = "TAR format, BZip2 compressed (tbz)"; ObjectID = "208"; */
+"208.title" = "TAR format, BZip2 komprimerad (tbz)";
+
+/* Class = "NSMenuItem"; title = ".tar"; ObjectID = "213"; */
+"213.title" = ".tar";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "226"; */
+"226.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Best, but slower"; ObjectID = "227"; */
+"227.title" = "Bäst, men långsamt";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "228"; */
+"228.title" = "Ingen komprimering";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "229"; */
+"229.title" = "Normal";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "286"; */
+"286.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "MB"; ObjectID = "287"; */
+"287.title" = "MB";
+
+/* Class = "NSMenuItem"; title = "GB"; ObjectID = "289"; */
+"289.title" = "GB";
+
+/* Class = "NSMenuItem"; title = "KB"; ObjectID = "292"; */
+"292.title" = "KB";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "311"; */
+"311.headerCell.title" = "Namn";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "322"; */
+"322.title" = "Ny mapp";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "326"; */
+"326.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "No encryption"; ObjectID = "327"; */
+"327.title" = "Ingen kryptering";
+
+/* Class = "NSMenuItem"; title = "Strong (AES-256, WinZip compatible)"; ObjectID = "329"; */
+"329.title" = "Stark (AES-256, WinZip kompatibel)";
+
+/* Class = "NSMenuItem"; title = "Fast, but larger archive size"; ObjectID = "338"; */
+"338.title" = "Snabb, men större arkiv";
+
+/* Class = "NSTabViewItem"; label = "Image"; ObjectID = "385"; */
+"385.label" = "Bild";
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "386"; */
+"386.label" = "Text";
+
+/* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "389"; */
+"389.label" = "PDF";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; */
+"601.title" = "Titel";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "602"; */
+"602.title" = "Avbryt";
+
+/* Class = "NSTextFieldCell"; title = "Warning"; ObjectID = "603"; */
+"603.title" = "Varning";
+
+/* Class = "NSTextFieldCell"; title = "Warning message text"; ObjectID = "604"; */
+"604.title" = "Varningsmeddelande";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "605"; */
+"605.title" = "Okej";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "606"; */
+"606.title" = "Avbryt";
+
+/* Class = "NSButtonCell"; title = "Don't ask again"; ObjectID = "607"; */
+"607.title" = "Fråga inte igen";
+
+/* Class = "NSTextFieldCell"; title = "Archive format:"; ObjectID = "610"; */
+"610.title" = "Arkivformat:";
+
+/* Class = "NSTextFieldCell"; title = "Compression:"; ObjectID = "612"; */
+"612.title" = "Komprimering:";
+
+/* Class = "NSTextFieldCell"; title = "Split into volumes of:"; ObjectID = "614"; */
+"614.title" = "Dela upp delar på:";
+
+/* Class = "NSTextFieldCell"; title = "Encryption method:"; ObjectID = "617"; */
+"617.title" = "Krypteringsmetod:";
+
+/* Class = "NSTextFieldCell"; title = "Filename"; ObjectID = "625"; */
+"625.title" = "Filnamn";
+
+/* Class = "NSButtonCell"; title = "Preview as Text"; ObjectID = "637"; */
+"637.title" = "Förhandsgranska som text";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "648"; */
+"648.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Detail"; ObjectID = "659"; */
+"659.title" = "Detaljera";
+
+/* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "681"; */
+"681.title" = "Ta bort Macspecifika saker från arkivet";
+
+/* Class = "NSTextFieldCell"; title = "Additional parameters:"; ObjectID = "687"; */
+"687.title" = "Ytterligare parametrar:";
+
+/* Class = "NSWindow"; title = "ZipWindow"; ObjectID = "692"; */
+"692.title" = "Zipfönster";
+
+/* Class = "NSTableColumn"; headerCell.title = "CRC-32"; ObjectID = "703"; */
+"703.headerCell.title" = "CRC-32";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "704"; */
+"704.headerCell.title" = "Sökväg";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "705"; */
+"705.headerCell.title" = "Sort";
+
+/* Class = "NSTableColumn"; headerCell.title = "Ratio"; ObjectID = "706"; */
+"706.headerCell.title" = "Ratio";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "707"; */
+"707.headerCell.title" = "Namn";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modified"; ObjectID = "708"; */
+"708.headerCell.title" = "Ändrad";
+
+/* Class = "NSTableColumn"; headerCell.title = "Packed"; ObjectID = "709"; */
+"709.headerCell.title" = "Komprimerad";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "710"; */
+"710.headerCell.title" = "Storlek";
+
+/* Class = "NSTableColumn"; headerCell.title = "Attributes"; ObjectID = "711"; */
+"711.headerCell.title" = "Attribut";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "713"; */
+"713.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "714"; */
+"714.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "715"; */
+"715.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "716"; */
+"716.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "718"; */
+"718.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; */
+"720.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "848"; */
+"848.label" = "Förlopp";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "855"; */
+"855.title" = "Avbryt";
+
+/* Class = "NSButtonCell"; title = "Set the archive's date to the latest date in the archive"; ObjectID = "887"; */
+"887.title" = "Ställ in arkivets datum till det senaste datumet i arkivet";
+
+/* Class = "NSButtonCell"; alternateTitle = "Fewer options"; ObjectID = "899"; */
+"899.alternateTitle" = "Mindre alternativ";
+
+/* Class = "NSButtonCell"; title = "More options"; ObjectID = "899"; */
+"899.title" = "Flera alternativ";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "923"; */
+"923.title" = "Meny";
+
+/* Class = "NSMenuItem"; title = "Remove From Favorites"; ObjectID = "928"; */
+"928.title" = "Ta bort från favoriter";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "929"; */
+"929.title" = "Flytta till papperskorgen";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "952"; */
+"952.title" = "Visa";
+
+/* Class = "NSMenuItem"; title = "Open With"; ObjectID = "954"; */
+"954.title" = "Öppna med";
+
+/* Class = "NSMenu"; title = "Open With"; ObjectID = "955"; */
+"955.title" = "Öppna med";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "956"; */
+"956.title" = "Objekt";
+
+/* Class = "NSToolbarItem"; label = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.label" = "Direktläge";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.paletteLabel" = "Direktläge";
+
+/* Class = "NSToolbarItem"; toolTip = "Toggle the Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.toolTip" = "Skifta direktläget";
+
+/* Class = "NSMenuItem"; title = "Use Preset Password"; ObjectID = "bnA-4H-jLt"; */
+"bnA-4H-jLt.title" = "Använd sparat lösenord";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "bRl-As-x1L"; */
+"bRl-As-x1L.title" = "Visa i Finder";
+
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "drc-eC-pc8"; */
+"drc-eC-pc8.headerCell.title" = "Metod";
+
+/* Class = "NSMenuItem"; title = "Show Archive Count"; ObjectID = "EGp-mY-cAx"; */
+"EGp-mY-cAx.title" = "Visa antal arkiv";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show only archives"; ObjectID = "EHg-Kv-f4s"; */
+"EHg-Kv-f4s.ibShadowedToolTip" = "Visa endast arkiv";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "Eqj-CB-527"; */
+"Eqj-CB-527.headerCell.title" = "Kommentera";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fWl-GQ-HyD"; */
+"fWl-GQ-HyD.title" = "Table View Cell";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.label" = "Dela";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.paletteLabel" = "Dela";
+
+/* Class = "NSToolbarItem"; toolTip = "Share the archive"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.toolTip" = "Dela arkivet";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Comment"; ObjectID = "g4x-oH-yuM"; */
+"g4x-oH-yuM.placeholderString" = "Kommentar";
+
+/* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "h0w-vY-MO7"; */
+"h0w-vY-MO7.title" = "Flytta ursprungsfilerna till:";
+
+/* Class = "NSToolbarItem"; label = "Save"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.label" = "Spara";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.paletteLabel" = "Spara";
+
+/* Class = "NSToolbarItem"; toolTip = "Save the archive"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.toolTip" = "Spara arkivet";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hkk-Wb-LPd"; */
+"hkk-Wb-LPd.title" = "OtherViews";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "iKs-9F-vrS"; */
+"iKs-9F-vrS.ibExternalAccessibilityDescription" = "Åtgärdsmeny-knapp";
+
+/* Class = "NSToolbarItem"; label = "Test"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.label" = "Testa";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Test"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.paletteLabel" = "Testa";
+
+/* Class = "NSToolbarItem"; toolTip = "Test the archive integrity"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.toolTip" = "Testa arkivets integritet";
+
+/* Class = "NSToolbarItem"; toolTip = "Search the archive file"; ObjectID = "lAz-UZ-j4a"; */
+"lAz-UZ-j4a.toolTip" = "Sök i arkivet";
+
+/* Class = "NSMenuItem"; title = "Open in New Window"; ObjectID = "lz3-ce-RB0"; */
+"lz3-ce-RB0.title" = "Öppna i nytt fönster";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "M6K-Iz-FQE"; */
+"M6K-Iz-FQE.ibExternalAccessibilityDescription" = "Åtgärdsmeny-knapp";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Preset password"; ObjectID = "M6K-Iz-FQE"; */
+"M6K-Iz-FQE.ibShadowedToolTip" = "Spara lösenord";
+
+/* Class = "NSToolbarItem"; label = "View"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.label" = "Visa";
+
+/* Class = "NSToolbarItem"; paletteLabel = "View"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.paletteLabel" = "Visa";
+
+/* Class = "NSToolbarItem"; toolTip = "View the selected file"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.toolTip" = "Granska den valda filen";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "nBv-d0-U0Q"; */
+"nBv-d0-U0Q.title" = "Item3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Index"; ObjectID = "Nd6-Wb-kZI"; */
+"Nd6-Wb-kZI.headerCell.title" = "Indexera";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel editing comment"; ObjectID = "nfD-Px-ynP"; */
+"nfD-Px-ynP.ibShadowedToolTip" = "Abryt kommenteringen";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nzp-Eb-OZ3"; */
+"nzp-Eb-OZ3.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8r-P4-qfV"; */
+"O8r-P4-qfV.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
+"qFO-f9-zNK.title" = "Exkludera mönster:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save comment"; ObjectID = "QXz-Vs-X5W"; */
+"QXz-Vs-X5W.ibShadowedToolTip" = "Spara kommentar";
+
+/* Class = "NSMenuItem"; title = "Preview as Text"; ObjectID = "RLi-Cg-7Eq"; */
+"RLi-Cg-7Eq.title" = "Förhandsgranska som text";
+
+/* Class = "NSToolbarItem"; label = "New Folder"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.label" = "Ny mapp";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Folder"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.paletteLabel" = "Ny mapp";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a new folder in the selected place inside the archive"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.toolTip" = "Skapa en ny mapp på den valda platsen inuti arkivet";
+
+/* Class = "NSToolbarItem"; label = "Add"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.label" = "Lägg till";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Add"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.paletteLabel" = "Lägg till";
+
+/* Class = "NSToolbarItem"; toolTip = "Add a new file or folder to the archive"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.toolTip" = "Lägg till en ny fil eller mapp till arkivet";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "T9W-iu-Su0"; */
+"T9W-iu-Su0.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "VfB-Ez-dR2"; */
+"VfB-Ez-dR2.title" = "Item2";
+
+/* Class = "NSToolbarItem"; label = "Move"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.label" = "Flytta";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Move"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.paletteLabel" = "Flytta";
+
+/* Class = "NSToolbarItem"; toolTip = "Move the archive to the Trash or another folder"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.toolTip" = "Radera valda filer elelr mappar från arkivet";
+
+/* Class = "NSMenuItem"; title = "Enter New Password"; ObjectID = "x1E-4h-A7n"; */
+"x1E-4h-A7n.title" = "Skriv in nytt lösenord";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "xia-Oz-guz"; */
+"xia-Oz-guz.headerCell.title" = "Status";
+
+/* Class = "NSPathCell"; placeholderString = "Archive"; ObjectID = "XVl-a4-b5t"; */
+"XVl-a4-b5t.placeholderString" = "Arkiv";
+
+/* Class = "NSTabViewItem"; label = "Comment"; ObjectID = "yBQ-i8-7Jw"; */
+"yBQ-i8-7Jw.label" = "Kommentar";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.label" = "Radera";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.paletteLabel" = "Radera";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete files and folders from the archive"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.toolTip" = "Radera de valda filerna eller mapparna från arkivet";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yWf-Lk-fWN"; */
+"yWf-Lk-fWN.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide follow-up parts of multi-volume archives"; ObjectID = "YXr-Xn-USm"; */
+"YXr-Xn-USm.ibShadowedToolTip" = "Göm följd-delar av flerdelsarkiv";
+
+/* Class = "NSTabViewItem"; label = "QL"; ObjectID = "z5p-yZ-uuv"; */
+"z5p-yZ-uuv.label" = "QL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Size"; ObjectID = "zbK-89-hjt"; */
+"zbK-89-hjt.headerCell.title" = "Totalstorleken";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zoC-fh-3zP"; */
+"zoC-fh-3zP.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Extract"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.label" = "Extrahera";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.paletteLabel" = "Extrahera";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract files or folders from the archive"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.toolTip" = "Extrahera valda filer eller mappar från arkivet";
+
+/* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "zx3-jY-Ozc"; */
+"zx3-jY-Ozc.label" = "Innehåll";
+

@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip Finder Schaltfläche";
+
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+

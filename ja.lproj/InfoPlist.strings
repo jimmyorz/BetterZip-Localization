@@ -1,0 +1,138 @@
+/* No comment provided by engineer. */
+"7-Zip Archive" = "7-Zip 書庫";
+
+/* No comment provided by engineer. */
+"Android Application Package" = "Android アプリケーションパッケージ";
+
+/* No comment provided by engineer. */
+"ARJ Archive" = "ARJ 書庫";
+
+/* No comment provided by engineer. */
+"BinHex Archive" = "BinHex 書庫";
+
+/* No comment provided by engineer. */
+"Brotli Archive" = "Brotli 書庫";
+
+/* No comment provided by engineer. */
+"Brotli compressed TAR Archive" = "Brotli 圧縮 TAR 書庫";
+
+/* No comment provided by engineer. */
+"BZip2 Archive" = "BZip2 書庫";
+
+/* No comment provided by engineer. */
+"BZip2 compressed TAR Archive" = "BZip2 圧縮 TAR 書庫";
+
+/* No comment provided by engineer. */
+"CAB Archive" = "CAB 書庫";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Bundle name */
+"CFBundleName" = "BetterZip";
+
+/* No comment provided by engineer. */
+"Chromium Extra" = "Chromium Extra";
+
+/* No comment provided by engineer. */
+"Comicbook RAR Archive" = "Comicbook RAR 書庫";
+
+/* No comment provided by engineer. */
+"Comicbook Zip Archive" = "Comicbook Zip 書庫";
+
+/* No comment provided by engineer. */
+"Compiled HTML Archive" = "結合済み HRML 書庫";
+
+/* No comment provided by engineer. */
+"Compressed CPIO Archive" = "圧縮 CPIO 書庫";
+
+/* No comment provided by engineer. */
+"CPIO Archive" = "CPIO 書庫";
+
+/* No comment provided by engineer. */
+"Debian Linux Package" = "Debian Linux パッケージ";
+
+/* No comment provided by engineer. */
+"Disk Image" = "ディスクイメージ";
+
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "DiskDoubler 書庫";
+
+/* No comment provided by engineer. */
+"Electronic Publication (ePub)" = "電子出版形式 (ePub)";
+
+/* No comment provided by engineer. */
+"GZip Archive" = "GZip 書庫";
+
+/* No comment provided by engineer. */
+"GZipped Tar Archive" = "GZip 圧縮 Tar 書庫";
+
+/* No comment provided by engineer. */
+"ISO Disk Image" = "ISO ディスクイメージ";
+
+/* No comment provided by engineer. */
+"Java ZIP Archive" = "Java ZIP 書庫";
+
+/* No comment provided by engineer. */
+"LHA Archive" = "LHA 書庫";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "Linux RPM 書庫";
+
+/* No comment provided by engineer. */
+"MacBinary Archive" = "MacBinary 書庫";
+
+/* No comment provided by engineer. */
+"Microsoft E-mail Attachment" = "Microsoft E-mail 添付ファイル";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "書庫の圧縮／展開後にユーザーが指定した AppleScript を実行";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "メールアドレスは、BetterZip のクラッシュレポーターの連絡先情報にしか使われません。";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+
+/* No comment provided by engineer. */
+"NSIS Archive" = "NSIS 書庫";
+
+/* No comment provided by engineer. */
+"Python Egg" = "Python Egg";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "RAR 書庫";
+
+/* No comment provided by engineer. */
+"Segmented Archive" = "分割書庫";
+
+/* No comment provided by engineer. */
+"Stuffit Archive" = "StuffIt 書庫";
+
+/* No comment provided by engineer. */
+"TAR Archive" = "TAR 書庫";
+
+/* No comment provided by engineer. */
+"User-Defined Archive" = "ユーザー定義書庫";
+
+/* No comment provided by engineer. */
+"XAR Archive" = "XAR 書庫";
+
+/* No comment provided by engineer. */
+"xz Archive" = "xz 書庫";
+
+/* No comment provided by engineer. */
+"xz compressed TAR Archive" = "xz 圧縮 TAR 書庫";
+
+/* No comment provided by engineer. */
+"Zip Archive" = "Zip 書庫";
+
+/* No comment provided by engineer. */
+"ZIP Archive" = "ZIP 書庫";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "Zstandard 書庫";
+
+/* No comment provided by engineer. */
+"Zstandard compressed TAR Archive" = "Zstandard 圧縮 TAR 書庫";
+

@@ -1,0 +1,27 @@
+/* Class = "NSTextFieldCell"; title = "Filename:"; ObjectID = "1sj-HV-xCC"; */
+"1sj-HV-xCC.title" = "Nazwa pliku:";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "4I6-D4-BfO"; */
+"4I6-D4-BfO.title" = "Czas:";
+
+/* Class = "NSTextFieldCell"; title = "Extension:"; ObjectID = "C3r-jo-XHQ"; */
+"C3r-jo-XHQ.title" = "Rozszerzenie:";
+
+/* Class = "NSTextFieldCell"; title = "Drag components into the text field and add your own text:"; ObjectID = "deF-jE-FnN"; */
+"deF-jE-FnN.title" = "Przeciągnij komponenty do pola tekstowego i dodaj własny tekst:";
+
+/* Class = "NSTokenFieldCell"; title = "date"; ObjectID = "H7m-LI-yTh"; Note = "don't translate"; */
+"H7m-LI-yTh.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "ILh-Pp-d9R"; */
+"ILh-Pp-d9R.title" = "Nazwa użytkownika:";
+
+/* Class = "NSTokenFieldCell"; title = "name"; ObjectID = "KC9-EY-Fep"; Note = "don't translate"; */
+"KC9-EY-Fep.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "Date:"; ObjectID = "pJo-u2-akO"; */
+"pJo-u2-akO.title" = "Data:";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "xeb-8F-pHd"; */
+"xeb-8F-pHd.title" = "Folder:";
+

@@ -1,0 +1,42 @@
+/* Class = "NSButtonCell"; title = "Install Alfred workflows"; ObjectID = "8Vg-HV-6iG"; */
+"8Vg-HV-6iG.title" = "Alfred ワークフローをインストール";
+
+/* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
+"AZv-gH-0JZ.title" = "さあ参りましょう!";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "戻る";
+
+/* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
+"bku-O5-RcK.title" = "BetterZip でアーカイブを開くよう macOS に登録する";
+
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "書庫の内容を表示";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "すぐに展開";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
+"ktm-z0-OrQ.title" = "BetterZip へようこそ!";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "次へ";
+
+/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+"or3-DA-ngV.title" = "BetterZIp は、様々な方法でカスタマイズ可能な、macOS 向けで最もパワフルなアーカイバです。すぐに使い始めるには、以下のオプションをいくつか選択して下さい。\n\nすべての設定は、いつでも環境設定から変更可能です。";
+
+/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
+"pAU-Gw-VpU.title" = "定期的にアップデートを確認";
+
+/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
+"qLc-Qu-est.title" = "書庫を開いた時にどういう動作をさせますか?";
+
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "BetterZip ボタンを Finder のツールバーに追加";
+
+/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
+"tI1-Pg-one.label" = "書庫を開いた際の挙動";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
+"tI2-Pg-two.label" = "オプション";
+

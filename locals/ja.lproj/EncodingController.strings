@@ -1,0 +1,18 @@
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "1TX-wT-gmQ"; Note = "don't translate"; */
+"1TX-wT-gmQ.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "aUZ-Is-DBp"; Note = "don't translate"; */
+"aUZ-Is-DBp.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "The filename encoding could not be determined automatically. Please choose one from the list:"; ObjectID = "C3J-ki-gMn"; */
+"C3J-ki-gMn.title" = "ファイル名に使用されている文字コードを自動で判別できません。以下のリストから選択して下さい:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "ウインドウ";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "L73-xf-j5T"; */
+"L73-xf-j5T.title" = "選択";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "M1Q-cT-oTC"; Note = "don't translate"; */
+"M1Q-cT-oTC.title" = "Item 1";
+

@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Extensão do BetterZip para o Finder";
+
+/* Bundle name */
+"CFBundleName" = "FinderSyncExtension";
+

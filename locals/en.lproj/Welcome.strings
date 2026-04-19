@@ -1,0 +1,6 @@
+/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+"or3-DA-ngV.title" = "BetterZip is the most powerful archiver for macOS which you can customize in many ways. To get started quickly use a few select options below. \n\nDive into all available settings in the preferences window when you are ready. \n\nChoose Help > BetterZip Help from the menu for more information.";
+
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "Add a BetterZip button to Finder's toolbar";
+

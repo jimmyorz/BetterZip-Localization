@@ -1,0 +1,33 @@
+/* Class = "NSButtonCell"; title = "Install Alfred workflows"; ObjectID = "8Vg-HV-6iG"; */
+"8Vg-HV-6iG.title" = "Installa Alfred workflows";
+
+/* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
+"AZv-gH-0JZ.title" = "Andiamo!";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "Indietro";
+
+/* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
+"bku-O5-RcK.title" = "Dì a macOS di aprire gli archivi in BetterZip";
+
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "Sfoglia il contenuto dell'archivio";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "Estrarlo subito";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
+"ktm-z0-OrQ.title" = "Benvenuto in BetterZip!";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "Avanti";
+
+/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
+"pAU-Gw-VpU.title" = "Controlla regolarmente gli aggiornamenti";
+
+/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
+"qLc-Qu-est.title" = "Cosa fare all'apertura di un archivio?";
+
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "Attiva l'estensione di BetterZip nel Finder";
+

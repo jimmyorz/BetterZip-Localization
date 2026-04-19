@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  BetterZip
+
+  Created by Robert Rezabek on 07.05.17.
+*/
+
+"Other Actions" = "Other Actions";
+"Add Items to New Archive in BetterZip" = "Add Items to New Archive in BetterZip";
+"Test Validity of Archives" = "Test Validity of Archives";
+"Open in BetterZip" = "Open in BetterZip";
+"Extract with Preset" = "Extract with Preset";
+"Compress with Preset" = "Compress with Preset";
+"Extract to" = "Extract to";
+"Next to Archives" = "Next to Archives";
+"Extract with BetterZip" = "Extract with BetterZip";
+"Compress with BetterZip" = "Compress with BetterZip";
+"Start collecting items in a new archive" = "Start collecting items in a new archive";

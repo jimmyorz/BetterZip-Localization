@@ -1,0 +1,51 @@
+/* (No Comment) */
+"7-Zip Archive" = "Archiwum 7-Zip";
+
+/* (No Comment) */
+"Android Application Package" = "Pakiet aplikacji na Androida";
+
+/* (No Comment) */
+"ARJ Archive" = "Archiwum ARJ";
+
+/* (No Comment) */
+"BinHex Archive" = "Archiwum BinHex";
+
+/* (No Comment) */
+"Brotli Archive" = "Archiwum Brotli";
+
+/* (No Comment) */
+"Brotli compressed TAR Archive" = "Skompresowane Brotli Archiwum TAR";
+
+/* (No Comment) */
+"BZip2 Archive" = "Archiwum BZip2";
+
+/* (No Comment) */
+"BZip2 compressed TAR Archive" = "Skompresowane BZip2 Archiwum TAR";
+
+/* (No Comment) */
+"CAB Archive" = "Archiwum CAB";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Bundle name */
+"CFBundleName" = "";
+
+/* (No Comment) */
+"CPIO Archive" = "Archiwum CPIO";
+
+/* (No Comment) */
+"ISO Disk Image" = "Obraz dysku ISO";
+
+/* (No Comment) */
+"Java ZIP Archive" = "Archiwum Java ZIP";
+
+/* (No Comment) */
+"LHA Archive" = "Archiwum LHA";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "Wykonaj zdefiniowane przez użytkownika skrypty AppleScript po kompresji i rozpakowaniu archiwów.";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "Twój adres e-mail będzie używany tylko do wypełnienia pola kontaktowego w raporcie awarii BetterZip.";
+

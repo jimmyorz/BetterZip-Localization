@@ -1,0 +1,828 @@
+/* Class = "NSTableColumn"; headerCell.title = "Move"; ObjectID = "0a9-5w-vkc"; */
+"0a9-5w-vkc.headerCell.title" = "Mover";
+
+/* Class = "NSTableColumn"; headerToolTip = "Show this folder in the Move menu"; ObjectID = "0a9-5w-vkc"; */
+"0a9-5w-vkc.headerToolTip" = "Mostrar esta carpeta en el menú Mover";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "0hd-Ta-ceh"; */
+"0hd-Ta-ceh.title" = "3";
+
+/* Class = "NSButtonCell"; title = "Modification date"; ObjectID = "1jH-DB-ebH"; */
+"1jH-DB-ebH.title" = "Fecha modificación";
+
+/* Class = "NSTextFieldCell"; title = "In the preview treat as:"; ObjectID = "1U1-Xc-cQc"; */
+"1U1-Xc-cQc.title" = "En la vista previa tratar como:";
+
+/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "2g1-aN-JSp"; */
+"2g1-aN-JSp.title" = "Archivos:";
+
+/* Class = "NSTextFieldCell"; title = "Set the default settings for the BetterZip Quick Look Generator here. "; ObjectID = "2O4-Ob-tkl"; */
+"2O4-Ob-tkl.title" = "Establezca aquí la configuración predeterminada para el generador de vista rápida de BetterZip.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2q5-nv-6VZ"; */
+"2q5-nv-6VZ.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Merge folders"; ObjectID = "2yf-yk-mxj"; */
+"2yf-yk-mxj.title" = "Fusionar carpetas";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected file types (⌫)"; ObjectID = "3B4-7C-4y7"; */
+"3B4-7C-4y7.ibShadowedToolTip" = "Eliminar los tipos de archivos seleccionados (⌫)";
+
+/* Class = "NSMenuItem"; title = "Extract"; ObjectID = "3cO-3P-oAU"; */
+"3cO-3P-oAU.title" = "Extraer";
+
+/* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "3Ho-Ga-Buh"; */
+"3Ho-Ga-Buh.title" = "Mover original a:";
+
+/* Class = "NSBox"; title = "Show Columns"; ObjectID = "4dg-oc-Zph"; */
+"4dg-oc-Zph.title" = "Mostrar columnas";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "4f3-gB-BBc"; */
+"4f3-gB-BBc.title" = "Imagen";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4GT-YN-OiO"; */
+"4GT-YN-OiO.title" = "Otras Vistas";
+
+/* Class = "NSButtonCell"; title = "Show Trash in the  \"Move Archive\" menu"; ObjectID = "4q5-eh-t7M"; */
+"4q5-eh-t7M.title" = "Mostrar papelera en el menú \"Mover archivo\"";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application or Path"; ObjectID = "4RA-gd-5xM"; */
+"4RA-gd-5xM.headerCell.title" = "Aplicación o ruta";
+
+/* Class = "NSMenuItem"; title = "Replace the existing file"; ObjectID = "5AC-OM-eH2"; */
+"5AC-OM-eH2.title" = "Reemplazar el archivo existente";
+
+/* Class = "NSTableColumn"; headerCell.title = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
+"5cV-Jv-OwU.headerCell.title" = "Acción de doble clic";
+
+/* Class = "NSTableColumn"; headerToolTip = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
+"5cV-Jv-OwU.headerToolTip" = "Acción de doble clic";
+
+/* Class = "NSBox"; title = "If an item with the same name already exists at the destination"; ObjectID = "5pQ-9l-dcl"; */
+"5pQ-9l-dcl.title" = "Si existe un artículo con el mismo nombre en el destino";
+
+/* Class = "NSButtonCell"; title = "Keep up-to-date"; ObjectID = "6c0-OW-DC8"; */
+"6c0-OW-DC8.title" = "Mantenerse al día";
+
+/* Class = "NSButtonCell"; title = "Start with the Drop Bar"; ObjectID = "6ro-jt-aTy"; */
+"6ro-jt-aTy.title" = "Iniciar mostrando barra de carga";
+
+/* Class = "NSButtonCell"; title = "Mac wakes up or restarts"; ObjectID = "7KM-yR-YBi"; */
+"7KM-yR-YBi.title" = "Despertar o reiniciar Mac";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "7Kq-OS-D9w"; */
+"7Kq-OS-D9w.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "7Md-Wv-TQw"; */
+"7Md-Wv-TQw.title" = "Item3";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "7Qu-Ib-mZN"; */
+"7Qu-Ib-mZN.ibShadowedToolTip" = "Ajustar como será mostrado este preset en la barra de carga";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "9jX-RG-TxZ"; */
+"9jX-RG-TxZ.ibExternalAccessibilityDescription" = "Botón Menú Acción";
+
+/* Class = "NSMenuItem"; title = "Errors"; ObjectID = "9ky-AG-PKY"; */
+"9ky-AG-PKY.title" = "Errores";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "9Ny-C6-bvu"; */
+"9Ny-C6-bvu.title" = "Siempre";
+
+/* Class = "NSMenuItem"; title = "Remove All Passwords"; ObjectID = "9s4-EZ-fNH"; */
+"9s4-EZ-fNH.title" = "Eliminar todo";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
+"17.title" = "Preferencias";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "78E-pE-9dL"; */
+"78E-pE-9dL.title" = "1";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "83K-Oo-tNH"; */
+"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<nuevo patrón>";
+
+/* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
+"95F-wH-1WN.title" = "Crear una carpeta extra:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
+"159.ibShadowedToolTip" = "Añadir patrón nuevo (⌘N)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "160"; */
+"160.ibShadowedToolTip" = "Eliminar el patrón seleccionado (⌫)";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "301"; */
+"301.headerCell.title" = "Formato de archivo";
+
+/* Class = "NSTableColumn"; headerCell.title = "Extensions"; ObjectID = "302"; */
+"302.headerCell.title" = "Extensiones";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "309"; */
+"309.headerCell.title" = "Aplicación";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected password (⌫)"; ObjectID = "937"; */
+"937.ibShadowedToolTip" = "Eliminar la contraseña seleccionada (⌫)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new password (⌘N)"; ObjectID = "938"; */
+"938.ibShadowedToolTip" = "Añadir una contraseña nueva (⌘N)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "944"; */
+"944.headerCell.title" = "Contraseña";
+
+/* Class = "NSButtonCell"; title = "Start with an empty document"; ObjectID = "1383"; */
+"1383.title" = "Comenzar con un documento vacío";
+
+/* Class = "NSButtonCell"; title = "Opening an archive from the Finder immediately extracts it"; ObjectID = "1393"; */
+"1393.title" = "Predeterminado para extracción directa";
+
+/* Class = "NSTextFieldCell"; title = "When double-clicking an archive in the Finder, extract it instead of displaying its contents with BetterZip. You can toggle the default action by holding down Ctrl+Cmd while opening an archive."; ObjectID = "1394"; */
+"1394.title" = "Cuando haga doble click en un archivo en el Finder, extraer en vez de mostrar su contenido con BetterZip. Puedes cambiar la acción predeterminada pulsando Ctrl+Cmd al abrir un archivo.";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "1405"; */
+"1405.title" = "Configuración adicional";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "1418"; */
+"1418.title" = "Examinar";
+
+/* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
+"1420.title" = "Eliminar archivos que coincidan con estos patrones";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
+"1423.title" = "Restaurar Predeterminados";
+
+/* Class = "NSButtonCell"; title = "Handle All"; ObjectID = "1425"; */
+"1425.title" = "Gestionar todo";
+
+/* Class = "NSTextFieldCell"; title = "Select which archive types BetterZip should handle:"; ObjectID = "1426"; */
+"1426.title" = "Selecciona los tipos de archivo que debe controlar BetterZip:";
+
+/* Class = "NSButtonCell"; title = "Handle None"; ObjectID = "1427"; */
+"1427.title" = "No gestionar nada";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip Password Manager"; ObjectID = "1432"; */
+"1432.title" = "Administrador de contraseñas BetterZip";
+
+/* Class = "NSButtonCell"; title = "Add all entered passwords to this list"; ObjectID = "1434"; */
+"1434.title" = "Añadir todas las contraseñas introducidas a esta lista";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1435"; */
+"1435.title" = "Texto celda";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1436"; */
+"1436.title" = "Texto celda";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1437"; */
+"1437.title" = "Texto celda";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1438"; */
+"1438.title" = "Texto celda";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1439"; */
+"1439.title" = "Texto celda";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "BetterZip_presets"; ObjectID = "1455"; */
+"1455.ibExternalAccessibilityHelp" = "Preajustes_BetterZip";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "1464"; */
+"1464.headerCell.title" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1465"; */
+"1465.title" = "Texto celda";
+
+/* Class = "NSTextFieldCell"; title = "Manage your presets for saving and extracting archives."; ObjectID = "1466"; */
+"1466.title" = "Administrar ajustes predeterminados para guardar y extraer los archivos.";
+
+/* Class = "NSTabViewItem"; label = "Extract"; ObjectID = "1480"; */
+"1480.label" = "Extraer";
+
+/* Class = "NSTabViewItem"; label = "Save"; ObjectID = "1481"; */
+"1481.label" = "Guardar";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "1549"; */
+"1549.title" = "Nombre:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1552"; */
+"1552.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "1553"; */
+"1553.title" = "Item2";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "1554"; */
+"1554.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "1555"; */
+"1555.title" = "Item3";
+
+/* Class = "NSTextFieldCell"; title = "Save archive to:"; ObjectID = "1556"; */
+"1556.title" = "Guardar archivo en:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "1563"; */
+"1563.headerCell.title" = "Nombre";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1564"; */
+"1564.title" = "Texto celda";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1624"; */
+"1624.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = ".zip"; ObjectID = "1625"; */
+"1625.title" = ".zip";
+
+/* Class = "NSMenuItem"; title = ".tar.gz"; ObjectID = "1626"; */
+"1626.title" = ".tar.gz";
+
+/* Class = "NSMenuItem"; title = "TAR format, BZip2 compressed (tbz)"; ObjectID = "1627"; */
+"1627.title" = "Formato TAR, BZip2 comprimido (tbz)";
+
+/* Class = "NSMenuItem"; title = ".tar"; ObjectID = "1628"; */
+"1628.title" = ".tar";
+
+/* Class = "NSTextFieldCell"; title = "Archive format:"; ObjectID = "1629"; */
+"1629.title" = "Formato archivo:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1631"; */
+"1631.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Best, but slower"; ObjectID = "1632"; */
+"1632.title" = "Mejor, pero más lento";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "1633"; */
+"1633.title" = "Sin compresión";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "1634"; */
+"1634.title" = "Normal";
+
+/* Class = "NSMenuItem"; title = "Fast, but larger archive size"; ObjectID = "1635"; */
+"1635.title" = "Rápido, pero tamaño de archivo más grande";
+
+/* Class = "NSTextFieldCell"; title = "Compression:"; ObjectID = "1636"; */
+"1636.title" = "Compresión:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1638"; */
+"1638.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "MB"; ObjectID = "1639"; */
+"1639.title" = "MB";
+
+/* Class = "NSMenuItem"; title = "GB"; ObjectID = "1640"; */
+"1640.title" = "GB";
+
+/* Class = "NSMenuItem"; title = "KB"; ObjectID = "1641"; */
+"1641.title" = "KB";
+
+/* Class = "NSTextFieldCell"; title = "Split into volumes of:"; ObjectID = "1642"; */
+"1642.title" = "Dividir en volúmenes de:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1645"; */
+"1645.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "No encryption"; ObjectID = "1646"; */
+"1646.title" = "Sin encriptación";
+
+/* Class = "NSMenuItem"; title = "Strong (AES-256, WinZip compatible)"; ObjectID = "1647"; */
+"1647.title" = "Fuerte (AES-256, compatible WinZip)";
+
+/* Class = "NSTextFieldCell"; title = "Encryption method:"; ObjectID = "1648"; */
+"1648.title" = "Método de cifrado:";
+
+/* Class = "NSTextFieldCell"; title = "Extract archives to:"; ObjectID = "1653"; */
+"1653.title" = "Extraer archivos en:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1655"; */
+"1655.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "1656"; */
+"1656.title" = "Item3";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "1657"; */
+"1657.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "1658"; */
+"1658.title" = "Item2";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "1659"; */
+"1659.title" = "Nombre:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected preset (⌫)"; ObjectID = "1662"; */
+"1662.ibShadowedToolTip" = "Eliminar el preajuste seleccionado (⌫)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new preset (⌘N)"; ObjectID = "1663"; */
+"1663.ibShadowedToolTip" = "Añadir un nuevo preajuste (⌘N)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected preset  (⌫)"; ObjectID = "1669"; */
+"1669.ibShadowedToolTip" = "Eliminar el preajuste seleccionado (⌫)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new preset (⌘N)"; ObjectID = "1670"; */
+"1670.ibShadowedToolTip" = "Añadir un nuevo preset (⌘N)";
+
+/* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "1748"; */
+"1748.title" = "Quitar archivos Mac específicos como .DS_Store";
+
+/* Class = "NSTextFieldCell"; title = "Additional parameters:"; ObjectID = "1771"; */
+"1771.title" = "Parámetros adicionales:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "leave empty to ask on save"; ObjectID = "1804"; */
+"1804.ibShadowedToolTip" = "Preguntar al guardar";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "1806"; */
+"1806.title" = "Contraseña:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "leave empty to ask on save"; ObjectID = "1807"; */
+"1807.placeholderString" = "Preguntar al guardar";
+
+/* Class = "NSButtonCell"; title = "Open the extracted items"; ObjectID = "1915"; */
+"1915.title" = "Abrir los elementos extraídos";
+
+/* Class = "NSButtonCell"; title = "Set"; ObjectID = "1935"; */
+"1935.title" = "Establecer";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "1942"; */
+"1942.ibExternalAccessibilityDescription" = "Botón Menú Acción";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Perform additional tasks"; ObjectID = "1942"; */
+"1942.ibShadowedToolTip" = "Realizar tareas adicionales";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "1943"; */
+"1943.ibExternalAccessibilityDescription" = "Botón Menú Acción";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1944"; */
+"1944.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Add Factory Presets "; ObjectID = "1947"; */
+"1947.title" = "Añadir ajustes predeterminados";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "1950"; */
+"1950.ibExternalAccessibilityDescription" = "Acción del botón menú";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Perform additional tasks"; ObjectID = "1950"; */
+"1950.ibShadowedToolTip" = "Realizar tareas adicionales";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "1951"; */
+"1951.ibExternalAccessibilityDescription" = "Acción del botón menú";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1952"; */
+"1952.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Add Factory Presets "; ObjectID = "1953"; */
+"1953.title" = "Añadir ajustes predeterminados";
+
+/* Class = "NSMenuItem"; title = "Duplicate Preset"; ObjectID = "1954"; */
+"1954.title" = "Duplicar preajuste";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1962"; */
+"1962.title" = "Otras Vistas";
+
+/* Class = "NSMenuItem"; title = "Don't automatically try passwords, but use in password panel"; ObjectID = "1963"; */
+"1963.title" = "No usar contraseñas automáticas, pero usarlas en el panel de contraseñas";
+
+/* Class = "NSMenuItem"; title = "Automatically try passwords, except for RAR archives"; ObjectID = "1964"; */
+"1964.title" = "Probar automáticamente contraseñas, excepto para archivos RAR";
+
+/* Class = "NSMenuItem"; title = "Always try passwords"; ObjectID = "1965"; */
+"1965.title" = "Probar siempre las contraseñas";
+
+/* Class = "NSButtonCell"; title = "Reset \"Don't Ask Me\" Warnings"; ObjectID = "2005"; */
+"2005.title" = "Restablecer Advertencias";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2008"; */
+"2008.ibShadowedIsNilPlaceholder" = "<nuevo preajuste>";
+
+/* Class = "NSTextFieldCell"; title = "Concurrent archive operations:"; ObjectID = "2032"; */
+"2032.title" = "Operaciones simultáneas de archivos";
+
+/* Class = "NSMenuItem"; title = "Disable the password cache completely"; ObjectID = "2047"; */
+"2047.title" = "Desactivar por completo la caché de contraseñas";
+
+/* Class = "NSButtonCell"; title = "Set the archive's date to the latest date in the archive"; ObjectID = "2073"; */
+"2073.title" = "Ajustar la fecha del archivo en la fecha más reciente del archivo";
+
+/* Class = "NSTextFieldCell"; title = "Temporary folder:"; ObjectID = "2083"; */
+"2083.title" = "Carpeta temporal:";
+
+/* Class = "NSButtonCell"; alternateTitle = "Click the lock to prevent further changes."; ObjectID = "2114"; */
+"2114.alternateTitle" = "Haz click en el candado para impedir cambios.";
+
+/* Class = "NSButtonCell"; title = "Click the lock to make changes."; ObjectID = "2114"; */
+"2114.title" = "Haz click en el candado para realizar cambios.";
+
+/* Class = "NSTextFieldCell"; title = "Before you can use the password manager, you need to set a master password!"; ObjectID = "2120"; */
+"2120.title" = "¡Para utilizar el administrador de contraseñas, es necesario establecer una contraseña maestra!";
+
+/* Class = "NSButtonCell"; alternateTitle = "Fewer options"; ObjectID = "2188"; */
+"2188.alternateTitle" = "Menos opciones";
+
+/* Class = "NSButtonCell"; title = "More options"; ObjectID = "2188"; */
+"2188.title" = "Más opciones";
+
+/* Class = "NSButtonCell"; title = "Show the extracted items in Finder"; ObjectID = "2199"; */
+"2199.title" = "Mostrar los elementos extraídos en el Finder";
+
+/* Class = "NSButtonCell"; title = "Quit when the last window is closed"; ObjectID = "2218"; */
+"2218.title" = "Salir cuando la última ventana se haya cerrado";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "leave empty to use default"; ObjectID = "2223"; */
+"2223.ibShadowedToolTip" = "en blanco para uso por defecto";
+
+/* Class = "NSTextFieldCell"; placeholderString = "leave empty to use default"; ObjectID = "2226"; */
+"2226.placeholderString" = "en blanco para uso por defecto";
+
+/* Class = "NSTextFieldCell"; title = "Filename:"; ObjectID = "2227"; */
+"2227.title" = "Extensión archivo:";
+
+/* Class = "NSButtonCell"; title = "Always open archives in Direct Mode"; ObjectID = "2241"; */
+"2241.title" = "Abrir siempre archivos con el modo directo";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2302"; */
+"2302.ibShadowedIsNilPlaceholder" = "<nuevo preajuste>";
+
+/* Class = "NSButtonCell"; title = "Kind"; ObjectID = "aD7-WM-1Lm"; */
+"aD7-WM-1Lm.title" = "Tipo";
+
+/* Class = "NSButtonCell"; title = "Include pre-release versions"; ObjectID = "ad9-eI-0WS"; */
+"ad9-eI-0WS.title" = "Incluir versiones preliminares";
+
+/* Class = "NSMenuItem"; title = "Keep the newer file"; ObjectID = "ajY-fG-YKc"; */
+"ajY-fG-YKc.title" = "Mantener archivo más reciente";
+
+/* Class = "NSButtonCell"; title = "Cut off extension from save names, e.g., zipping abc.jpg will result in abc.zip, not abc.jpg.zip"; ObjectID = "ALV-bv-Weu"; */
+"ALV-bv-Weu.title" = "Quitar la extensión al guardar nombres, por ejemplo comprimiendo; abc.jpg con resultado; abc.zip y no abc.jpg.zip";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "aQn-2j-vrM"; */
+"aQn-2j-vrM.title" = "Saltar";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "AWk-O6-HDA"; */
+"AWk-O6-HDA.title" = "2";
+
+/* Class = "NSButtonCell"; title = "Post status messages to the Notification Center"; ObjectID = "AX8-N6-Bbi"; */
+"AX8-N6-Bbi.title" = "Publicar mensajes de estado en el centro de notificaciones";
+
+/* Class = "NSTableColumn"; headerCell.title = "Extensions"; ObjectID = "axO-ae-PXQ"; */
+"axO-ae-PXQ.headerCell.title" = "Extensiones";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "aY0-4Y-0cq"; */
+"aY0-4Y-0cq.title" = "Item2";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "B6X-qu-uuB"; */
+"B6X-qu-uuB.ibShadowedToolTip" = "Eliminar el patrón seleccionado (⌫)";
+
+/* Class = "NSTextFieldCell"; title = "File Extensions:"; ObjectID = "BHG-1O-fZ4"; */
+"BHG-1O-fZ4.title" = "Extensiones de archivo:";
+
+/* Class = "NSTextFieldCell"; title = "Service Name"; ObjectID = "BlL-7B-agi"; */
+"BlL-7B-agi.title" = "Nombre servicio";
+
+/* Class = "NSBox"; title = "After Successful Extraction"; ObjectID = "bvC-wZ-ZKQ"; */
+"bvC-wZ-ZKQ.title" = "Tras extraer correctamente";
+
+/* Class = "NSMenuItem"; title = "Ask every time"; ObjectID = "BwG-WC-4Na"; */
+"BwG-WC-4Na.title" = "Comentario del archivo:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "CsX-Ht-bSg"; */
+"CsX-Ht-bSg.title" = "Texto celda";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "CX8-wk-7Tl"; */
+"CX8-wk-7Tl.title" = "Aceptar";
+
+/* Class = "NSTableColumn"; headerCell.title = "Sidebar"; ObjectID = "dih-3x-Twb"; */
+"dih-3x-Twb.headerCell.title" = "Barra lateral";
+
+/* Class = "NSTableColumn"; headerToolTip = "Show this folder in the Favorites sidebar"; ObjectID = "dih-3x-Twb"; */
+"dih-3x-Twb.headerToolTip" = "Mostrar esta carpeta en la barra lateral Favoritos";
+
+/* Class = "NSTextFieldCell"; title = "Double click action:"; ObjectID = "dlo-RP-d0n"; */
+"dlo-RP-d0n.title" = "Acción de doble clic:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit the filename"; ObjectID = "dnk-1a-NjF"; */
+"dnk-1a-NjF.ibShadowedToolTip" = "Editar nombre de archivo";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "DuI-uf-iUT"; */
+"DuI-uf-iUT.title" = "Aceptar";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "Dzn-mE-DEs"; */
+"Dzn-mE-DEs.title" = "Item3";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "e4s-K4-S9B"; */
+"e4s-K4-S9B.title" = "Saltar";
+
+/* Class = "NSMenuItem"; title = "Mark the archive changed"; ObjectID = "ERH-LF-D6M"; */
+"ERH-LF-D6M.title" = "Marcar el archivo cambiado";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "f2r-In-UqB"; */
+"f2r-In-UqB.title" = "Ventana";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "F8z-99-hdr"; */
+"F8z-99-hdr.title" = "Item1";
+
+/* Class = "NSTextFieldCell"; title = "Destination:"; ObjectID = "FMe-m1-42R"; */
+"FMe-m1-42R.title" = "Destino:";
+
+/* Class = "NSMenuItem"; title = "Keep the newer folder"; ObjectID = "ftC-pL-MUI"; */
+"ftC-pL-MUI.title" = "Mantener carpeta más reciente";
+
+/* Class = "NSButtonCell"; title = "System Default"; ObjectID = "FWp-oE-euU"; */
+"FWp-oE-euU.title" = "Sistema por defecto";
+
+/* Class = "NSTextFieldCell"; title = "Use this file to choose random words from instead of the built-in:"; ObjectID = "Fyk-K8-RnV"; */
+"Fyk-K8-RnV.title" = "Usar este archivo para elegir palabras aleatorias en lugar de las integradas:";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "gbO-wJ-uLW"; */
+"gbO-wJ-uLW.title" = "Texto";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "gCj-I9-Y4Z"; */
+"gCj-I9-Y4Z.title" = "2";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gqf-GX-7lQ"; */
+"gqf-GX-7lQ.title" = "Otras Vistas";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit the comment"; ObjectID = "gre-TT-Yj7"; */
+"gre-TT-Yj7.ibShadowedToolTip" = "Editar el comentario";
+
+/* Class = "NSTextFieldCell"; title = "This includes Finder settings (.DS_Store files), resource forks, and metadata which are all unwanted on other platforms. Keep them out to make users of PCs happy. Mac users will want to add these files."; ObjectID = "gRS-1U-oQP"; */
+"gRS-1U-oQP.title" = "Esto incluye la configuración del Finder (archivos .DS_Store), bifurcaciones de recursos y metadatos que no son deseados en otras plataformas. Manténgalos fuera para hacer a los usuarios de PCs felices. Los usuarios de Mac querrán añadir estos archivos.";
+
+/* Class = "NSButtonCell"; title = "Attributes"; ObjectID = "GXC-C9-sqS"; */
+"GXC-C9-sqS.title" = "Atributos";
+
+/* Class = "NSButtonCell"; title = "BetterZip quits"; ObjectID = "h50-2D-enT"; */
+"h50-2D-enT.title" = "Quitar BetterZip";
+
+/* Class = "NSTextFieldCell"; title = "Service Name"; ObjectID = "hBQ-Lk-s4E"; */
+"hBQ-Lk-s4E.title" = "Nombre Servicio";
+
+/* Class = "NSTextFieldCell"; title = "Files with these extensions will not be treated as archives (although they technically are):"; ObjectID = "HF5-KD-zr7"; */
+"HF5-KD-zr7.title" = "Los archivos con estas extensiones no se tratarán como archivos (aunque técnicamente lo sean):";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "HFB-rn-yOD"; */
+"HFB-rn-yOD.title" = "Item2";
+
+/* Class = "NSButtonCell"; title = "Show hidden files and folders in the save/open panels"; ObjectID = "HQy-Bv-6mp"; */
+"HQy-Bv-6mp.title" = "Mostrar archivos y carpetas ocultos en los paneles guardar/abrir";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hta-kj-9NN"; */
+"hta-kj-9NN.title" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Ibw-ho-JTf"; */
+"Ibw-ho-JTf.title" = "Texto";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "iqW-CW-z6b"; */
+"iqW-CW-z6b.title" = "minutos";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new file types (⌘N)"; ObjectID = "iVg-aJ-98K"; */
+"iVg-aJ-98K.ibShadowedToolTip" = "Añadir nuevos tipos de archivos (⌘N)";
+
+/* Class = "NSButtonCell"; title = "Cut off trailing numbers from save names"; ObjectID = "IwO-cb-gMl"; */
+"IwO-cb-gMl.title" = "Quitar los números finales de los nombres guardados";
+
+/* Class = "NSTextFieldCell"; title = "Folders:"; ObjectID = "j2R-FS-OL5"; */
+"j2R-FS-OL5.title" = "Carpetas:";
+
+/* Class = "NSTextFieldCell"; title = "Manage your Favorite folders"; ObjectID = "j2u-9I-NZd"; */
+"j2u-9I-NZd.title" = "Gestiona tus carpetas favoritas";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit the selected file types (↩︎)"; ObjectID = "j21-Zj-J06"; */
+"j21-Zj-J06.ibShadowedToolTip" = "Editar los tipos de archivos seleccionados (↩︎)";
+
+/* Class = "NSButtonCell"; title = "Show hidden files"; ObjectID = "jcF-J8-X4L"; */
+"jcF-J8-X4L.title" = "Mostrar archivos ocultos";
+
+/* Class = "NSTextFieldCell"; title = "Archive comment:"; ObjectID = "JGp-gZ-Zbp"; */
+"JGp-gZ-Zbp.title" = "Comentario Archivo:";
+
+/* Class = "NSMenuItem"; title = "Warnings"; ObjectID = "jn7-a5-OeQ"; */
+"jn7-a5-OeQ.title" = "Advertencias";
+
+/* Class = "NSMenuItem"; title = "Ask what to do"; ObjectID = "jsH-n0-78A"; */
+"jsH-n0-78A.title" = "Preguntar qué hacer";
+
+/* Class = "NSTextFieldCell"; title = "Amount of debug output written to the console:"; ObjectID = "Kd9-xL-lMY"; */
+"Kd9-xL-lMY.title" = "Cantidad salida escrita en consola de depuración:";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "keP-Bu-gCj"; */
+"keP-Bu-gCj.title" = "Patrón";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KNr-UM-9Oh"; */
+"KNr-UM-9Oh.title" = "Texto celda";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "Kw9-3A-wQZ"; */
+"Kw9-3A-wQZ.title" = "Item2";
+
+/* Class = "NSButtonCell"; title = "Show BetterZip button in Finder windows"; ObjectID = "KwD-Yj-85k"; */
+"KwD-Yj-85k.title" = "Activar la extensión del Finder";
+
+/* Class = "NSMenuItem"; title = "Add Mac stuff anyway"; ObjectID = "kZh-UP-sk3"; */
+"kZh-UP-sk3.title" = "Añadir cosas de Mac de todos modos";
+
+/* Class = "NSMenuItem"; title = "Ask what to do"; ObjectID = "l4f-XW-sFA"; */
+"l4f-XW-sFA.title" = "Preguntar qué hacer";
+
+/* Class = "NSButtonCell"; title = "Close the archive window"; ObjectID = "lOW-Yl-hSI"; */
+"lOW-Yl-hSI.title" = "Cerrar ventana tras finalizar correctamente";
+
+/* Class = "NSMenuItem"; title = "Keep both folders"; ObjectID = "LSX-4H-YOf"; */
+"LSX-4H-YOf.title" = "Guardar ambas carpetas";
+
+/* Class = "NSButtonCell"; alternateTitle = "⭐️"; ObjectID = "luz-oO-dAC"; */
+"luz-oO-dAC.alternateTitle" = "⭐️";
+
+/* Class = "NSButtonCell"; title = "☆"; ObjectID = "luz-oO-dAC"; */
+"luz-oO-dAC.title" = "☆";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "MAU-gM-JAs"; */
+"MAU-gM-JAs.title" = "8";
+
+/* Class = "NSButtonCell"; title = "Show the real password length in the preset configuration"; ObjectID = "mFV-Y1-dzN"; */
+"mFV-Y1-dzN.title" = "Mostrar la longitud real de la contraseña en la configuración predeterminada";
+
+/* Class = "NSButtonCell"; title = "Close the window after finishing successfully"; ObjectID = "MGE-Ba-ShH"; */
+"MGE-Ba-ShH.title" = "Cerrar ventana tras finalizar correctamente";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Mma-ag-4Uo"; */
+"Mma-ag-4Uo.title" = "Otras Vistas";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "mOB-1s-KZf"; */
+"mOB-1s-KZf.ibShadowedToolTip" = "Añadir un nuevo patrón (⌘N)";
+
+/* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */
+"MWZ-CN-jVv.title" = "Mostrar todos los tamaños en kibi-, mebi- y gibibyte";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "n0k-7I-0PH"; */
+"n0k-7I-0PH.label" = "Ver";
+
+/* Class = "NSTableColumn"; headerCell.title = "Extract"; ObjectID = "Nfe-N7-CWd"; */
+"Nfe-N7-CWd.headerCell.title" = "Extraer";
+
+/* Class = "NSTableColumn"; headerToolTip = "Show the folder in the Extract menu"; ObjectID = "Nfe-N7-CWd"; */
+"Nfe-N7-CWd.headerToolTip" = "Mostrar la carpeta en el menú Extraer";
+
+/* Class = "NSButtonCell"; alternateTitle = "⭐️"; ObjectID = "oqm-ff-uxe"; */
+"oqm-ff-uxe.alternateTitle" = "⭐️";
+
+/* Class = "NSButtonCell"; title = "☆"; ObjectID = "oqm-ff-uxe"; */
+"oqm-ff-uxe.title" = "☆";
+
+/* Class = "NSButtonCell"; title = "Use Safari like suggestions instead of the (nicer) BetterZip format."; ObjectID = "Ov2-21-Rdd"; */
+"Ov2-21-Rdd.title" = "Usar Safari como sugerencias, en vez de usar (Betterzip que es más bonito).";
+
+/* Class = "NSMenuItem"; title = "Ignore changes"; ObjectID = "owF-jy-3IB"; */
+"owF-jy-3IB.title" = "Ignorar cambios";
+
+/* Class = "NSMenuItem"; title = "Do Nothing"; ObjectID = "Oxe-Sk-fJA"; */
+"Oxe-Sk-fJA.title" = "No hacer nada";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "oYU-jM-qCU"; */
+"oYU-jM-qCU.title" = "Texto Celda";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "p4a-ez-xRZ"; */
+"p4a-ez-xRZ.title" = "Abrir";
+
+/* Class = "NSButtonCell"; title = "Size"; ObjectID = "P7y-Ug-YZb"; */
+"P7y-Ug-YZb.title" = "Tamaño";
+
+/* Class = "NSButtonCell"; title = "BetterZip isn't used for"; ObjectID = "pfb-CS-ZW0"; */
+"pfb-CS-ZW0.title" = "BetterZip no se utiliza para";
+
+/* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "PFP-ck-Ryj"; */
+"PFP-ck-Ryj.title" = "Mover archivo a:";
+
+/* Class = "NSTextFieldCell"; title = "When modifying a file inside an archive:"; ObjectID = "Q4f-Lp-uJt"; */
+"Q4f-Lp-uJt.title" = "Al modificar un archivo dentro de un archivo:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "leave empty to use default"; ObjectID = "QeO-wK-6lF"; */
+"QeO-wK-6lF.ibShadowedIsNilPlaceholder" = "dejar vacío para usar el valor predeterminado";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "qHZ-qV-aST"; */
+"qHZ-qV-aST.title" = "Examinar";
+
+/* Class = "NSMenuItem"; title = "Ask what to do"; ObjectID = "qS7-p9-AVY"; */
+"qS7-p9-AVY.title" = "Preguntar qué hacer";
+
+/* Class = "NSButtonCell"; title = "Packages are expandable"; ObjectID = "qwz-9A-8mF"; */
+"qwz-9A-8mF.title" = "Paquetes expandibles";
+
+/* Class = "NSTextFieldCell"; title = "The number of words to use for password suggestions:"; ObjectID = "Rcp-1b-og7"; */
+"Rcp-1b-og7.title" = "Número de palabras para utilizar en sugerencia de contraseña:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Finder"; ObjectID = "RCU-os-9Sh"; */
+"RCU-os-9Sh.headerCell.title" = "Finder";
+
+/* Class = "NSTableColumn"; headerToolTip = "Show the folder in the contextual menu and in the toolbar button menu in Finder"; ObjectID = "RCU-os-9Sh"; */
+"RCU-os-9Sh.headerToolTip" = "Mostrar la carpeta en el menú contextual y en el menú del botón de la barra de herramientas en el Finder";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "rog-PG-dl3"; */
+"rog-PG-dl3.title" = "Nunca";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "rWO-92-XTC"; */
+"rWO-92-XTC.ibExternalAccessibilityDescription" = "Acción del botón menú";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Perform additional tasks"; ObjectID = "rWO-92-XTC"; */
+"rWO-92-XTC.ibShadowedToolTip" = "Realizar tareas adicionales";
+
+/* Class = "NSMenuItem"; title = "PDF"; ObjectID = "RzC-2j-WtI"; */
+"RzC-2j-WtI.title" = "PDF";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "RZc-7J-y2q"; */
+"RZc-7J-y2q.title" = "5";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "sDU-aG-kZ5"; */
+"sDU-aG-kZ5.title" = "Extensiones";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "sho-QY-Bmi"; */
+"sho-QY-Bmi.title" = "Cancelar";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "sJG-d4-knk"; */
+"sJG-d4-knk.label" = "Pestaña";
+
+/* Class = "NSMenuItem"; title = "Keep both files"; ObjectID = "svc-OM-aep"; */
+"svc-OM-aep.title" = "Guardar ambos archivos";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "T9L-lr-ppG"; */
+"T9L-lr-ppG.title" = "4";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "TNi-oe-nAC"; */
+"TNi-oe-nAC.title" = "Aceptar";
+
+/* Class = "NSMenuItem"; title = "Replace the existing folder"; ObjectID = "u5x-UZ-89X"; */
+"u5x-UZ-89X.title" = "Reemplazar carpeta existente";
+
+/* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "uon-8c-xxO"; */
+"uon-8c-xxO.title" = "Restaurar predeterminados";
+
+/* Class = "NSMenuItem"; title = "Save the changes, even in Direct Mode"; ObjectID = "uQx-G2-Y41"; */
+"uQx-G2-Y41.title" = "Guardar cambios, incluso en modo directo";
+
+/* Class = "NSButtonCell"; title = "Do not quarantine extracted apps (less secure)"; ObjectID = "uSg-Fm-gvh"; */
+"uSg-Fm-gvh.title" = "No poner en cuarentena las aplicaciones extraídas (menos seguro)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "Uy5-5t-Meo"; */
+"Uy5-5t-Meo.headerCell.title" = "Carpeta";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "v3P-fn-nXA"; */
+"v3P-fn-nXA.title" = "Examinar";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "v8k-rL-jai"; */
+"v8k-rL-jai.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "v81-yc-Tg7"; */
+"v81-yc-Tg7.title" = "Item3";
+
+/* Class = "NSBox"; title = "Lock when"; ObjectID = "Vjd-Um-Fao"; */
+"Vjd-Um-Fao.title" = "Bloquear cuando";
+
+/* Class = "NSMenuItem"; title = "Debug (lots)"; ObjectID = "W3d-mq-7NK"; */
+"W3d-mq-7NK.title" = "Depurar (lotes)";
+
+/* Class = "NSTextFieldCell"; title = "Manage how files inside archives should be opened:"; ObjectID = "W91-k9-iep"; */
+"W91-k9-iep.title" = "Administre cómo se deben abrir los archivos internos:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "wCh-h2-CM1"; */
+"wCh-h2-CM1.title" = "Ventana";
+
+/* Class = "NSTextFieldCell"; title = "Application:"; ObjectID = "WMK-yD-Eak"; */
+"WMK-yD-Eak.title" = "Aplicación:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WuH-Dj-aQj"; */
+"WuH-Dj-aQj.title" = "Cancelar";
+
+/* Class = "NSButtonCell"; title = "Don't include the single root folder in the archive"; ObjectID = "xbb-7Q-9Ny"; */
+"xbb-7Q-9Ny.title" = "No incluir la carpeta raíz única en el archivo";
+
+/* Class = "NSButtonCell"; title = "Create individual archives when using the operations queue"; ObjectID = "xBT-eB-dW4"; */
+"xBT-eB-dW4.title" = "Crear archivos individuales al utilizar la cola de operaciones";
+
+/* Class = "NSButtonCell"; title = "Show BetterZip menu in Finder's contextual menus"; ObjectID = "yeM-JV-gI1"; */
+"yeM-JV-gI1.title" = "Mostrar menú BetterZip en los menús contextuales del Finder";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "YOd-V7-nGv"; */
+"YOd-V7-nGv.title" = "Auto";
+
+/* Class = "NSButtonCell"; title = "Packed size"; ObjectID = "z59-s7-ggP"; */
+"z59-s7-ggP.title" = "Tamaño Paquete";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "zbA-Mq-Wj5"; */
+"zbA-Mq-Wj5.ibShadowedToolTip" = "Ajustar como será mostrado este preajuste en la barra de carga";
+
+/* Class = "NSButtonCell"; title = "Show BetterZip icon in the menu bar"; ObjectID = "Ze2-1V-vRj"; */
+"Ze2-1V-vRj.title" = "Mostrar el ícono BetterZip en la barra de menú";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "zfZ-Sm-TQm"; */
+"zfZ-Sm-TQm.title" = "4";
+
+/* Class = "NSMenuItem"; title = "Reset Password Manager"; ObjectID = "zkf-Ja-imk"; */
+"zkf-Ja-imk.title" = "Restablecer administrador de contraseñas";
+
+/* Class = "NSMenuItem"; title = "Keep Mac stuff out"; ObjectID = "Zn3-bK-uI3"; */
+"Zn3-bK-uI3.title" = "Mantener cosas de Mac afuera";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "ZNn-tu-dFe"; */
+"ZNn-tu-dFe.title" = "Texto";
+
+/* Class = "NSTableColumn"; headerCell.title = "Preview"; ObjectID = "Zp9-oM-fWd"; */
+"Zp9-oM-fWd.headerCell.title" = "Vista previa";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zrT-yF-2Sz"; */
+"zrT-yF-2Sz.title" = "Aceptar";
+
+/* Class = "NSMenuItem"; title = "If archive has more than one root item"; ObjectID = "zuj-F4-9k3"; */
+"zuj-F4-9k3.title" = "Si el archivo tiene más de un elemento raíz";
+
+/* Class = "NSButton"; ibShadowedToolTip = "⌘↩︎"; ObjectID = "ZZJ-XX-fc8"; */
+"ZZJ-XX-fc8.ibShadowedToolTip" = "⌘↩︎";
+

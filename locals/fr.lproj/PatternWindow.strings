@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Matching items"; ObjectID = "1Ui-VO-ddL"; */
+"1Ui-VO-ddL.title" = "Objets sélectionnés";
+
+/* Class = "NSTextFieldCell"; title = "Specify Filter Patterns"; ObjectID = "DOK-5T-CvY"; */
+"DOK-5T-CvY.title" = "Définition des filtres";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Fenêtre";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
+"gKo-1f-fdy.title" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
+"jOl-a6-JOJ.title" = "OK";
+

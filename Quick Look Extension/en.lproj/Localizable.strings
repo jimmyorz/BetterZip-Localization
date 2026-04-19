@@ -1,0 +1,9 @@
+/* Today title string */
+"Today" = "Today";
+
+/* Yesterday title string */
+"Yesterday" = "Yesterday";
+
+"%d item, uncompressed size: %@ %@" = "%d item, uncompressed size: %@ %@";
+"%d items, uncompressed size: %@ %@" = "%d items, uncompressed size: %@ %@";
+"(incl. %d hidden)" = "(incl. %d hidden)";

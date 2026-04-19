@@ -1,0 +1,33 @@
+/* (No Comment) */
+"7-Zip Archive" = "";
+
+/* (No Comment) */
+"BZip2 Archive" = "";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Get Info string */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+
+/* Bundle name */
+"CFBundleName" = "BetterZip";
+
+/* (No Comment) */
+"Comicbook RAR Archive" = "";
+
+/* (No Comment) */
+"CPIO Archive" = "";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "Execute AppleScripts definidos pelo usuário depois de comprimir ou extrair arquivos comprimidos.";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "Seu endereço de e-mail será usado apenas para preencher o campo de contato no relatório de falhas do BetterZip.";
+
+/* (No Comment) */
+"NSIS Archive" = "";
+
+/* (No Comment) */
+"xz compressed TAR Archive" = "";
+

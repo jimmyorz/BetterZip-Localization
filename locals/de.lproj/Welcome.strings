@@ -1,0 +1,36 @@
+/* Class = "NSButtonCell"; title = "Install Alfred workflows"; ObjectID = "8Vg-HV-6iG"; */
+"8Vg-HV-6iG.title" = "Installiere Alfred-Workflows";
+
+/* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
+"AZv-gH-0JZ.title" = "Los geht's!";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "Zurück";
+
+/* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
+"bku-O5-RcK.title" = "macOS soll Archive in BetterZip öffnen";
+
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "Den Inhalt des Archivs anzeigen";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "Sofort entpacken";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
+"ktm-z0-OrQ.title" = "Willkommen bei BetterZip!";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "Weiter";
+
+/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+"or3-DA-ngV.title" = "BetterZip ist das wohl mächtigste Archivierungsprogramm für macOS und bietet viele Anpassungsmöglichkeiten. Damit Sie schnell loslegen können, ist hier eine kleine Auswahl wichtiger Einstellungen zusammengefasst.\n\nWenn Sie bereit für mehr sind, sehen Sie einmal in die Einstellungen (BetterZip-Menü). \nWählen Sie Hilfe > BetterZip Hilfe aus dem Menü für mehr Informationen.";
+
+/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
+"pAU-Gw-VpU.title" = "Regelmäßig nach Updates suchen";
+
+/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
+"qLc-Qu-est.title" = "Was soll geschehen, wenn Sie ein Archiv im Finder öffnen?";
+
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "In der Symbolleiste von Finder-Fenstern eine BetterZip-Schaltfläche anzeigen";
+

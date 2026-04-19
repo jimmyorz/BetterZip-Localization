@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "向 Finder 工具栏添加一个 BetterZip 菜单";
+
+/* Bundle name */
+"CFBundleName" = "Finder 同步扩展";
+

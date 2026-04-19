@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "Activer BetterZip avec un code revendeur";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "Enregistrer BetterZip";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Ouvrir la boutique d'achat en ligne dans votre navigateur Web.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "Ouvrir votre navigateur pour acheter.";
+
+/* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
+"138.title" = "Clef perdue ?";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip is not yet registered. Your trial period will end in 30 days. You will not be able to use BetterZip after this time."; ObjectID = "140"; */
+"140.title" = "BetterZip n'est pas encore enregistré. Votre période d'essai prendra fin dans 30 jours. Vous ne serez plus en mesure d'utiliser BetterZip après cette période.";
+
+/* Class = "NSButtonCell"; title = "Buy now"; ObjectID = "141"; */
+"141.title" = "Acheter en ligne";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Copy/paste the key from the e-mail you received."; ObjectID = "142"; */
+"142.placeholderString" = "Copiez la clef que vous avez reçue par e-mail.";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
+"143.title" = "Plus tard";
+
+/* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
+"144.title" = "Clef de licence :";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
+"EDz-qk-Feh.title" = "Précédent";
+
+/* Class = "NSTabViewItem"; label = "Register"; ObjectID = "G8e-Xx-KQQ"; */
+"G8e-Xx-KQQ.label" = "Enregistrer";
+
+/* Class = "NSTabViewItem"; label = "Claim Voucher"; ObjectID = "l3n-jx-lIq"; */
+"l3n-jx-lIq.label" = "Échanger un reçu";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "MpD-2n-QXa"; */
+"MpD-2n-QXa.title" = "S'enregister";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
+"t2U-Sw-lRl.title" = "BetterZip a besoin de rendre ce code personnel via votre adresse e-mail pour finir l'activation.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
+"VOR-xE-oVT.placeholderString" = "Votre adresse e-mail";
+

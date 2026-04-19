@@ -1,0 +1,138 @@
+/* (No Comment) */
+"7-Zip Archive" = "7-Zip 压缩";
+
+/* (No Comment) */
+"Android Application Package" = "安卓应用程序打包";
+
+/* (No Comment) */
+"ARJ Archive" = "ARJ  压缩";
+
+/* (No Comment) */
+"BinHex Archive" = "BinHex 压缩";
+
+/* (No Comment) */
+"Brotli Archive" = "Brotli 压缩";
+
+/* (No Comment) */
+"Brotli compressed TAR Archive" = "以 Brotli 方式压缩 TAR 存档";
+
+/* (No Comment) */
+"BZip2 Archive" = "BZip2 压缩";
+
+/* (No Comment) */
+"BZip2 compressed TAR Archive" = "以 BZip2 方式压缩 TAR 存档";
+
+/* (No Comment) */
+"CAB Archive" = "CAB 压缩";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Bundle name */
+"CFBundleName" = "BetterZip";
+
+/* (No Comment) */
+"Chromium Extra" = "创建额外的文件夹";
+
+/* (No Comment) */
+"Comicbook RAR Archive" = "漫画书 RAR 存档";
+
+/* (No Comment) */
+"Comicbook Zip Archive" = "漫画书 ZIP 存档";
+
+/* (No Comment) */
+"Compiled HTML Archive" = "压缩 HTML 存档";
+
+/* (No Comment) */
+"Compressed CPIO Archive" = "压缩 CPIO 存档";
+
+/* (No Comment) */
+"CPIO Archive" = "CPIO 压缩";
+
+/* (No Comment) */
+"Debian Linux Package" = "Debian Linux 包";
+
+/* (No Comment) */
+"Disk Image" = "磁盘映像";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "磁盘双精度存档";
+
+/* (No Comment) */
+"Electronic Publication (ePub)" = "Electronic Publication (ePub)";
+
+/* (No Comment) */
+"GZip Archive" = "GZip 压缩";
+
+/* (No Comment) */
+"GZipped Tar Archive" = "以 GZipped 方式压缩 TAR 存档";
+
+/* (No Comment) */
+"ISO Disk Image" = "ISO 磁盘映像";
+
+/* (No Comment) */
+"Java ZIP Archive" = "Java ZIP 存档";
+
+/* (No Comment) */
+"LHA Archive" = "LHA 存档";
+
+/* (No Comment) */
+"Linux RPM Archive" = "Linux RPM 存档";
+
+/* (No Comment) */
+"MacBinary Archive" = "MacBinary 存档";
+
+/* (No Comment) */
+"Microsoft E-mail Attachment" = "微软电子邮件附件";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "压缩或提取存档后执行用户定义的 AppleScipt。";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "您的电子邮件地址将仅用于预填 BetterZip 的崩溃报告器中的联系人字段。";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "版权© 2006-2025 MacItBetter， 罗伯特·礼萨贝克";
+
+/* (No Comment) */
+"NSIS Archive" = "NSIS 存档";
+
+/* (No Comment) */
+"Python Egg" = "Python Egg";
+
+/* (No Comment) */
+"RAR Archive" = "RAR 压缩";
+
+/* (No Comment) */
+"Segmented Archive" = "分段压缩";
+
+/* (No Comment) */
+"Stuffit Archive" = "Stuffit 压缩";
+
+/* (No Comment) */
+"TAR Archive" = "TAR 压缩";
+
+/* (No Comment) */
+"User-Defined Archive" = "用户定义的存档";
+
+/* (No Comment) */
+"XAR Archive" = "XAR 压缩";
+
+/* (No Comment) */
+"xz Archive" = "xz 压缩";
+
+/* (No Comment) */
+"xz compressed TAR Archive" = "以 xz 方式压缩 TAR 存档";
+
+/* (No Comment) */
+"Zip Archive" = "Zip 压缩";
+
+/* (No Comment) */
+"ZIP Archive" = "ZIP压缩";
+
+/* (No Comment) */
+"Zstandard Archive" = "Zstandard 压缩";
+
+/* (No Comment) */
+"Zstandard compressed TAR Archive" = "以 Zstandard 方式压缩 TAR 存档";
+

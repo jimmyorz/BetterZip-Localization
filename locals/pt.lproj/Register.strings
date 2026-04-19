@@ -1,3 +1,6 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "0FK-VE-wpk"; */
+"0FK-VE-wpk.ibShadowedToolTip" = "Abra a página de compra no navegador.";
+
 /* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
 "5qB-2K-8i7.title" = "Ativar BetterZip com Código de Revendedor";
 
@@ -19,7 +22,7 @@
 /* Class = "NSButtonCell"; title = "Buy now"; ObjectID = "141"; */
 "141.title" = "Comprar Agora";
 
-/* Class = "NSTextFieldCell"; placeholderString = "Copy/paste the key from the e-mail you received."; ObjectID = "142"; */
+/* Class = "NSTextFieldCell"; placeholderString = "Copy the key from the e-mail you received. It should be 4 lines of mostly letters and numbers."; ObjectID = "142"; */
 "142.placeholderString" = "Copie a licença do e-mail que você recebeu.";
 
 /* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
@@ -28,11 +31,23 @@
 /* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
 "144.title" = "Licença:";
 
+/* Class = "NSTabViewItem"; label = "MAS Convert"; ObjectID = "a9U-Bh-x3p"; */
+"a9U-Bh-x3p.label" = "MAS Convert";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "bmZ-yF-vW1"; */
+"bmZ-yF-vW1.title" = "Registrar";
+
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "Voltar";
 
 /* Class = "NSTabViewItem"; label = "Register"; ObjectID = "G8e-Xx-KQQ"; */
 "G8e-Xx-KQQ.label" = "Registrar";
+
+/* Class = "NSTextFieldCell"; title = "Mac App Store License Detected"; ObjectID = "g81-Nf-GOk"; */
+"g81-Nf-GOk.title" = "Licença da Mac App Store Detectada";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "kIb-kC-2Vk"; */
+"kIb-kC-2Vk.placeholderString" = "Seu endereço de e-mail";
 
 /* Class = "NSTabViewItem"; label = "Claim Voucher"; ObjectID = "l3n-jx-lIq"; */
 "l3n-jx-lIq.label" = "Resgatar Voucher";
@@ -43,6 +58,12 @@
 /* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
 "t2U-Sw-lRl.title" = "O BetterZip precisa personalizar esse código com o seu endereço de e‑mail para ser ativado.\n";
 
+/* Class = "NSTextFieldCell"; title = "BetterZip has detected a Mac App Store license. You can request a “direct license” registration code with your e-mail address. This registration code allows you to buy the discounted upgrade to BetterZip 5 for US$ 14.99."; ObjectID = "UrB-iH-aS2"; */
+"UrB-iH-aS2.title" = "O BetterZip detectou uma licença da Mac App Store. Você pode solicitar um código de registro para uma licença direta com o seu endereço de e-mail. Esse código permitirá que você compre a atualização para o BetterZip 5 por US$ 14,99.";
+
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "Seu endereço de e-mail";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "Xp6-Oz-aed"; */
+"Xp6-Oz-aed.title" = "Mais Tarde";
 

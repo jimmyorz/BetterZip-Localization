@@ -256,6 +256,12 @@
 /* Class = "NSMenuItem"; title = "Delete Mac Files"; ObjectID = "bE8-zU-bO4"; */
 "bE8-zU-bO4.title" = "Mac-Dateien löschen";
 
+/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; */
+"clt-mn-001.title" = "Kommandozeilenprogramm installieren…";
+
+/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; */
+"cZp-5v-C6Y.title" = "Dienste-Ordner im Finder öffnen";
+
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "BetterZip beenden";
 
@@ -265,14 +271,47 @@
 /* Class = "NSMenu"; title = "Filename Encoding"; ObjectID = "ICd-xV-ewG"; */
 "ICd-xV-ewG.title" = "Dateinamenkodierung";
 
+/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; */
+"IKk-eJ-D0S.title" = "Von der Zwischenablage einsammeln";
+
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "Quick Look";
+
+/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; */
+"k4R-bN-x7W.title" = "Einstellungsdatei im Finder zeigen";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Zurück";
 
 /* Class = "NSMenuItem"; title = "Show Folders"; ObjectID = "Mb7-qp-sLP"; */
 "Mb7-qp-sLP.title" = "Ordner anzeigen";
+
+/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; */
+"mib-col-view.title" = "Spaltenansicht";
+
+/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; */
+"MIB-fp-Next.title" = "Nächsten Bereich fokussieren";
+
+/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; */
+"MIB-fp-Prev.title" = "Vorigen Bereich fokussieren";
+
+/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; */
+"MIB-he-fld.title" = "Leere Ordner ausblenden";
+
+/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; */
+"MIB-hr-tgl.title" = "Zeige Prüfsummen";
+
+/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; */
+"mib-icon-view.title" = "Symbolansicht";
+
+/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; */
+"MIB-ss-Fw01.title" = "Diashow";
+
+/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; */
+"mib-toggle-pathbar.title" = "Pfadleiste ausblenden";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; */
+"Mk8-19-gqf.title" = "Objekt";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
 "n49-8l-XwF.title" = "Passwortmanager entsperren…";

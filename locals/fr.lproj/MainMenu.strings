@@ -35,7 +35,7 @@
 "58.title" = "À propos de BetterZip";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "Ouvrir...";
+"72.title" = "Ouvrir…";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "Fichier";
@@ -125,7 +125,7 @@
 "218.title" = "Afficher les fichiers cachés";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "220"; */
-"220.title" = "Personnaliser la barre d'outils...";
+"220.title" = "Personnaliser la barre d'outils…";
 
 /* Class = "NSMenuItem"; title = "Transcript"; ObjectID = "238"; */
 "238.title" = "Historique";
@@ -149,7 +149,7 @@
 "276.title" = "Éditer les éléments sélectionnés";
 
 /* Class = "NSMenuItem"; title = "Add to Archive…"; ObjectID = "283"; */
-"283.title" = "Ajouter à l'archive...";
+"283.title" = "Ajouter à l'archive…";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "304"; */
 "304.title" = "Fermer";
@@ -158,7 +158,7 @@
 "305.title" = "Enregistrer";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "306"; */
-"306.title" = "Enregistrer sous...";
+"306.title" = "Enregistrer sous…";
 
 /* Class = "NSMenuItem"; title = "Revert"; ObjectID = "307"; */
 "307.title" = "Rétablir";
@@ -272,7 +272,7 @@
 "Mb7-qp-sLP.title" = "Afficher les dossiers";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
-"n49-8l-XwF.title" = "Déverrouiller le gestionnaire de mots de passe...";
+"n49-8l-XwF.title" = "Déverrouiller le gestionnaire de mots de passe…";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "nJ3-ST-qnh"; */
 "nJ3-ST-qnh.title" = "Nouveau";

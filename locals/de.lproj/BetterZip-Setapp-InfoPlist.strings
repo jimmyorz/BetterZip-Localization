@@ -1,0 +1,15 @@
+/* (No Comment) */
+"CFBundleDisplayName" = "BetterZip";
+
+/* (No Comment) */
+"CFBundleGetInfoString" = "BetterZip 4.1, Copyright © 2006-2018 MacItBetter, Robert Rezabek";
+
+/* (No Comment) */
+"CFBundleName" = "BetterZip";
+
+/* (No Comment) */
+"NSContactsUsageDescription" = "Ihre E-Mail-Adresse wird nur zum Vorausfüllen des Kontaktfelds im BetterZip Crash-Reporter benützt.";
+
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2006-2018 MacItBetter, Robert Rezabek";
+

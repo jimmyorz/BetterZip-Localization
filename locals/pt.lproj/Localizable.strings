@@ -1,17 +1,17 @@
 /* (No Comment) */
 "(incl. %d hidden)" = "(incl. %d oculto(s))";
 
-/* (No Comment) */
+/* Marks the newer file */
 "(newer)" = "(mais recente)";
 
-/* (No Comment) */
+/* Marks the older file */
 "(older)" = "(mais antigo)";
 
 /* (No Comment) */
 "%@ (damaged)" = "%@ (danificado)";
 
 /* initial name of a duplicated extract preset, %@ being the original name
-initial name of a duplicated save preset, %@ being the original name */
+   initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "%@ (cópia)";
 
 /* (No Comment) */
@@ -44,8 +44,11 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "<new preset>" = "<novo pré-ajuste>";
 
-/* (No Comment) */
+/* Marks the older file */
 "⚠️ (older)" = "⚠️ (mais antigo)";
+
+/* Format name */
+"7-Zip Format" = "Formato 7-Zip";
 
 /* (No Comment) */
 "7-Zip Format (best compression)" = "Formato 7-Zip (melhor compressão)";
@@ -56,7 +59,7 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Activate" = "Ativar";
 
-/* Import presets button */
+/* (No Comment) */
 "Add" = "Adicionar";
 
 /* (No Comment) */
@@ -73,6 +76,9 @@ initial name of a duplicated save preset, %@ being the original name */
 
 /* (No Comment) */
 "Add the items to a new archive" = "Adicione os itens a um novo arquivo comprimido";
+
+/* (No Comment) */
+"Add to %@…" = "Adicionar ao %@…";
 
 /* (No Comment) */
 "Added" = "Adicionado";
@@ -113,19 +119,19 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "An unknown error occurred." = "Ocorreu um erro desconhecido.";
 
-/* (No Comment) */
+/* Format name */
 "Apple Disk Image" = "Imagem de Disco da Apple";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all" = "Aplicar a tudo";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all folders" = "Aplicar a todas as pastas";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all in queue" = "Aplicar a tudo na fila";
 
-/* column header */
+/* (No Comment) */
 "Archive" = "Arquivo Comprimido";
 
 /* (No Comment) */
@@ -161,11 +167,14 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Are you sure you want to overwrite the original archive?" = "Tem certeza de que deseja substituir o arquivo comprimido original?";
 
-/* Info table key */
+/* (No Comment) */
 "Author" = "Autor";
 
 /* (No Comment) */
 "Back" = "Voltar";
+
+/* The user needs to choose a master password. */
+"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "Antes de definir senhas em pré‑ajustes, configure o gerenciador de senhas e escolha uma senha mestra. ";
 
 /* (No Comment) */
 "Best (solid, slow extraction)" = "Melhor (sólido, extração lenta)";
@@ -212,11 +221,13 @@ initial name of a duplicated save preset, %@ being the original name */
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "O BetterZip só pode ser usado em sistemas com o macOS 10.13 (High Sierra) ou posteriores.";
 
+/* DMG subformat */
+"BZip2 compressed" = "Comprimido com BZip2";
+
 /* (No Comment) */
 "BZip2-compressed image" = "Imagem comprimida com BZip2";
 
-/* Import presets button
-button */
+/* (No Comment) */
 "Cancel" = "Cancelar";
 
 /* (No Comment) */
@@ -267,7 +278,7 @@ button */
 /* (No Comment) */
 "Columns" = "Colunas";
 
-/* Info table key */
+/* (No Comment) */
 "Comment" = "Comentários";
 
 /* (No Comment) */
@@ -291,10 +302,10 @@ button */
 /* (No Comment) */
 "Continue" = "Continuar";
 
-/* Info table key */
+/* (No Comment) */
 "Copyright" = "Copyright";
 
-/* (No Comment) */
+/* Format name */
 "CPIO Format, uncompressed (cpio)" = "Formato CPIO, não comprimido (cpio)";
 
 /* (No Comment) */
@@ -345,7 +356,7 @@ button */
 /* Menu item for character encoding detector */
 "Detect Automatically" = "Detectar Automaticamente";
 
-/* Info table key */
+/* (No Comment) */
 "Dimensions" = "Dimensões";
 
 /* Welcome text, line 2 */
@@ -393,10 +404,19 @@ button */
 /* (No Comment) */
 "Drop the files here to add them to a new archive" = "Solte os itens aqui para adicioná‑los a um novo arquivo comprimido";
 
-/* (No Comment) */
+/* DMG subformat */
 "DVD/CD-R master for export" = "DVD/CD-R matriz para exportação";
 
-/* Info table key */
+/* menu item */
+"Edit Patterns…" = "Editar Padrões…";
+
+/* menu item */
+"Edit Places…" = "Editar Locais…";
+
+/* menu item */
+"Edit Presets…" = "Editar Pré-Ajustes…";
+
+/* (No Comment) */
 "Encryption" = "Criptografia";
 
 /* (No Comment) */
@@ -405,8 +425,7 @@ button */
 /* (No Comment) */
 "External command returned: %d%c" = "Comando externo retornou: %d%c";
 
-/* Open panel title
-button */
+/* Open panel title */
 "Extract" = "Extrair";
 
 /* (No Comment) */
@@ -429,6 +448,9 @@ button */
 
 /* (No Comment) */
 "Extract the selected files or folders from the archive" = "Extraia os itens selecionados do arquivo comprimido";
+
+/* (No Comment) */
+"Extract to…" = "Extrair para…";
 
 /* default service name */
 "Extract with BetterZip" = "Extrair com BetterZip";
@@ -487,7 +509,7 @@ button */
 /* (No Comment) */
 "File Types" = "Tipos de Itens";
 
-/* Info table key */
+/* (No Comment) */
 "Filename encoding" = "Codificação do nome do arquivo";
 
 /* Preferences tab title */
@@ -496,7 +518,10 @@ button */
 /* Preferences window - name of the tab to manage filter patterns */
 "Filtering" = "Filtros";
 
-/* Info table key */
+/* (No Comment) */
+"Finishing…" = "Finalizando…";
+
+/* (No Comment) */
 "Format" = "Formato";
 
 /* Preferences tab title */
@@ -508,7 +533,7 @@ button */
 /* Preferences tab title */
 "Helpers" = "Auxiliares";
 
-/* Info table key */
+/* (No Comment) */
 "Hidden" = "Oculto(s)";
 
 /* (No Comment) */
@@ -547,25 +572,25 @@ button */
 /* (No Comment) */
 "It is either damaged or in an unsupported format." = "Ele está danificado ou em formato incompatível.";
 
-/* Info table key */
+/* (No Comment) */
 "Items" = "Itens";
 
-/* conflict action */
+/* Button label */
 "Keep Both" = "Manter Ambos";
 
 /* (No Comment) */
 "Keep Mac Stuff out" = "Não adicionar itens invisíveis";
 
-/* conflict action */
+/* Button label */
 "Keep Newer" = "Manter Mais Novo";
 
-/* Info table key */
+/* (No Comment) */
 "Kind" = "Tipo";
 
 /* PreferenceController */
 "Last checked: " = "Última verificação: ";
 
-/* (No Comment) */
+/* %c is replaced with newline character */
 "Last modified: %@ %@%cSize: %@" = "Última modificação: %@ %@%cTamanho: %@";
 
 /* helpers */
@@ -577,7 +602,7 @@ button */
 /* (No Comment) */
 "Lock Password Manager" = "Bloquear Gerenciador de Senhas";
 
-/* (No Comment) */
+/* DMG subformat */
 "LZMA compressed (macOS 10.15+)" = "Comprimido com LZMA (macOS 10.15 e posterior)";
 
 /* (No Comment) */
@@ -589,13 +614,13 @@ button */
 /* (No Comment) */
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "Talvez não haja espaço livre suficiente no disco de destino ou a senha esteja errada.";
 
-/* (No Comment) */
+/* Button label */
 "Merge Folders" = "Combinar Pastas";
 
 /* possible file status strings */
 "Modified" = "Modificado";
 
-/* Info table key */
+/* (No Comment) */
 "Modified at" = "Modificado em";
 
 /* (No Comment) */
@@ -658,7 +683,7 @@ button */
 /* (No Comment) */
 "Not encrypted" = "Sem criptografia";
 
-/* button */
+/* (No Comment) */
 "OK" = "OK";
 
 /* Descriptive title of the password editor window */
@@ -682,13 +707,22 @@ button */
 /* (No Comment) */
 "Opening archive with %d items" = "Abrindo arquivo comprimido com %d itens";
 
-/* Info table key */
+/* (No Comment) */
+"Other folder…" = "Outra pasta…";
+
+/* menu item */
+"Other Folder…" = "Outra Pasta…";
+
+/* open with other application */
+"Other…" = "Outro…";
+
+/* (No Comment) */
 "Pages" = "Páginas";
 
 /* Preferences tab title */
 "Passwords" = "Senhas";
 
-/* Info table key */
+/* (No Comment) */
 "Path" = "Caminho";
 
 /* (No Comment) */
@@ -712,6 +746,9 @@ button */
 /* (No Comment) */
 "Queued for testing" = "Na fila para teste";
 
+/* Preferences tab title */
+"Quick Look" = "Visualização Rápida";
+
 /* Button title */
 "Quit" = "Encerrar";
 
@@ -724,7 +761,7 @@ button */
 /* (No Comment) */
 "RAR Format" = "Formato RAR";
 
-/* (No Comment) */
+/* DMG subformat */
 "Read-only image" = "Imagem somente leitura";
 
 /* DMG Options */
@@ -748,8 +785,7 @@ button */
 /* (No Comment) */
 "Repair" = "Reparar";
 
-/* Import presets button
-conflict action */
+/* Button label */
 "Replace" = "Substituir";
 
 /* (No Comment) */
@@ -769,6 +805,9 @@ conflict action */
 
 /* (No Comment) */
 "Save" = "Salvar";
+
+/* (No Comment) */
+"Save As…" = "Salvar como…";
 
 /* (No Comment) */
 "Save the archive" = "Salve o arquivo comprimido";
@@ -815,10 +854,10 @@ conflict action */
 /* Pattern control */
 "Simple File Mask" = "Máscara de Arquivo Simples";
 
-/* Info table key */
+/* (No Comment) */
 "Size" = "Tamanho";
 
-/* Info table key */
+/* (No Comment) */
 "Solid" = "Sólido";
 
 /* (No Comment) */
@@ -839,25 +878,25 @@ conflict action */
 /* The system default app should handle this file type. */
 "System Default" = "Padrão do Sistema";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Brotli compressed (tbr)" = "Formato TAR, comprimido com Brotli (tbr)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, BZip2 compressed (tbz)" = "Formato TAR, comprimido com BZip2 (tbz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, GZip compressed (tgz)" = "Formato TAR, comprimido com GZip (tgz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, uncompressed (tar)" = "Formato TAR, não comprimido (tar)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, xz compressed (txz)" = "Formato TAR, comprimido com xz (txz)";
 
 /* New formats */
 "TAR Format, Z compressed (tz)" = "Formato TAR, comprimido com Z (tz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Zstandard compressed (tzst)" = "Formato TAR, comprimido com Zstandard (tzst)";
 
 /* (No Comment) */
@@ -874,6 +913,9 @@ conflict action */
 
 /* (No Comment) */
 "Testing archive %@" = "Testando %@";
+
+/* Output while testing archives */
+"Testing: %@…" = "Testando: %@…";
 
 /* (No Comment) */
 "The archive cannot be created." = "O arquivo comprimido não pode ser criado.";
@@ -944,7 +986,7 @@ conflict action */
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "Esta não é a senha correta.";
 
-/* Info table key */
+/* (No Comment) */
 "Title" = "Título";
 
 /* (No Comment) */
@@ -1001,7 +1043,7 @@ conflict action */
 /* (No Comment) */
 "Use this preset as service" = "Use esse pré-ajuste como serviço";
 
-/* Info table key */
+/* (No Comment) */
 "Version" = "Versão";
 
 /* (No Comment) */
@@ -1013,7 +1055,7 @@ conflict action */
 /* Logging volume changes during extraction and testing of multi-volume rar archives */
 "Volume: %@" = "Volume: %@";
 
-/* Info table key */
+/* (No Comment) */
 "Volumes" = "Volumes";
 
 /* (No Comment) */
@@ -1037,8 +1079,11 @@ conflict action */
 /* (No Comment) */
 "Wrong checksum" = "Soma de verificação errada";
 
-/* (No Comment) */
+/* Format name */
 "XAR Format" = "Formato XAR";
+
+/* Format name */
+"XIP Format" = "Formato XIP";
 
 /* (No Comment) */
 "Yes" = "Sim";
@@ -1064,9 +1109,12 @@ conflict action */
 /* ZipDocument */
 "Zip Format (recommended)" = "Formato Zip (recomendado)";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed" = "Comprimido com Zlib";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed (level 9)" = "Comprimido com Zlib (nível 9)";
 
+
+"Cancel Operation" = "Cancel Operation";
+"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";

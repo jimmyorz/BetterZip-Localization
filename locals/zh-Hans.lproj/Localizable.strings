@@ -1,17 +1,17 @@
 /* (No Comment) */
 "(incl. %d hidden)" = "（包含%d个隐藏项目）";
 
-/* (No Comment) */
+/* Marks the newer file */
 "(newer)" = "(更新的)";
 
-/* (No Comment) */
+/* Marks the older file */
 "(older)" = "(旧的)";
 
 /* (No Comment) */
 "%@ (damaged)" = "%@(损坏)";
 
 /* initial name of a duplicated extract preset, %@ being the original name
-initial name of a duplicated save preset, %@ being the original name */
+   initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "%@拷贝";
 
 /* (No Comment) */
@@ -44,8 +44,11 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "<new preset>" = "<新的预置>";
 
-/* (No Comment) */
+/* Marks the older file */
 "⚠️ (older)" = "⚠️ (旧的)";
+
+/* Format name */
+"7-Zip Format" = "7-Zip 格式";
 
 /* (No Comment) */
 "7-Zip Format (best compression)" = "7-Zip 格式（最高压缩率）";
@@ -56,7 +59,7 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Activate" = "启用";
 
-/* Import presets button */
+/* (No Comment) */
 "Add" = "添加";
 
 /* (No Comment) */
@@ -73,6 +76,9 @@ initial name of a duplicated save preset, %@ being the original name */
 
 /* (No Comment) */
 "Add the items to a new archive" = "将项目添加到新的压缩文件";
+
+/* (No Comment) */
+"Add to %@…" = "添加到 %@…";
 
 /* (No Comment) */
 "Added" = "添加";
@@ -113,19 +119,19 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "An unknown error occurred." = "发生了一个未知错误。";
 
-/* (No Comment) */
+/* Format name */
 "Apple Disk Image" = "苹果磁盘映像";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all" = "应用到所有";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all folders" = "应用到所有文件夹";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all in queue" = "向队列全部应用";
 
-/* column header */
+/* (No Comment) */
 "Archive" = "压缩文件";
 
 /* (No Comment) */
@@ -161,11 +167,14 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Are you sure you want to overwrite the original archive?" = "您确定要替换原压缩文件吗？";
 
-/* Info table key */
+/* (No Comment) */
 "Author" = "作者";
 
 /* (No Comment) */
 "Back" = "返回";
+
+/* The user needs to choose a master password. */
+"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "在预设中设置密码之前，请设置密码管理器并选择主密码。";
 
 /* (No Comment) */
 "Best (solid, slow extraction)" = "最高";
@@ -212,11 +221,13 @@ initial name of a duplicated save preset, %@ being the original name */
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip将只运行在macOS 10.13 (High Sierra) 或者更新的系统。";
 
+/* DMG subformat */
+"BZip2 compressed" = "BZip2 压缩";
+
 /* (No Comment) */
 "BZip2-compressed image" = "BZip2 压缩图像";
 
-/* Import presets button
-button */
+/* (No Comment) */
 "Cancel" = "取消";
 
 /* (No Comment) */
@@ -267,7 +278,7 @@ button */
 /* (No Comment) */
 "Columns" = "列";
 
-/* Info table key */
+/* (No Comment) */
 "Comment" = "注释";
 
 /* (No Comment) */
@@ -291,10 +302,10 @@ button */
 /* (No Comment) */
 "Continue" = "继续";
 
-/* Info table key */
+/* (No Comment) */
 "Copyright" = "版权";
 
-/* (No Comment) */
+/* Format name */
 "CPIO Format, uncompressed (cpio)" = "CPIO格式，压缩的(CPIO)";
 
 /* (No Comment) */
@@ -345,7 +356,7 @@ button */
 /* Menu item for character encoding detector */
 "Detect Automatically" = "自动检测";
 
-/* Info table key */
+/* (No Comment) */
 "Dimensions" = "尺寸";
 
 /* Welcome text, line 2 */
@@ -393,10 +404,19 @@ button */
 /* (No Comment) */
 "Drop the files here to add them to a new archive" = "放入文件以添加到压缩文件";
 
-/* (No Comment) */
+/* DMG subformat */
 "DVD/CD-R master for export" = "以 DVD/CD-R masger 导出";
 
-/* Info table key */
+/* menu item */
+"Edit Patterns…" = "编辑模式…";
+
+/* menu item */
+"Edit Places…" = "编辑位置…";
+
+/* menu item */
+"Edit Presets…" = "编辑预设…";
+
+/* (No Comment) */
 "Encryption" = "加密";
 
 /* (No Comment) */
@@ -405,8 +425,7 @@ button */
 /* (No Comment) */
 "External command returned: %d%c" = "外部命令返回：%d%c";
 
-/* Open panel title
-button */
+/* Open panel title */
 "Extract" = "解压缩";
 
 /* (No Comment) */
@@ -429,6 +448,9 @@ button */
 
 /* (No Comment) */
 "Extract the selected files or folders from the archive" = "从压缩文件中解压缩已选择的文件或文件夹";
+
+/* (No Comment) */
+"Extract to…" = "解压到…";
 
 /* default service name */
 "Extract with BetterZip" = "使用 BetterZip 解压";
@@ -487,7 +509,7 @@ button */
 /* (No Comment) */
 "File Types" = "文件类型";
 
-/* Info table key */
+/* (No Comment) */
 "Filename encoding" = "文件名编码";
 
 /* Preferences tab title */
@@ -496,7 +518,10 @@ button */
 /* Preferences window - name of the tab to manage filter patterns */
 "Filtering" = "筛选列表";
 
-/* Info table key */
+/* (No Comment) */
+"Finishing…" = "整理…";
+
+/* (No Comment) */
 "Format" = "格式";
 
 /* Preferences tab title */
@@ -508,7 +533,7 @@ button */
 /* Preferences tab title */
 "Helpers" = "程序助手";
 
-/* Info table key */
+/* (No Comment) */
 "Hidden" = "隐藏";
 
 /* (No Comment) */
@@ -547,25 +572,25 @@ button */
 /* (No Comment) */
 "It is either damaged or in an unsupported format." = "它可能已损坏，或者是一种不支持的格式。";
 
-/* Info table key */
+/* (No Comment) */
 "Items" = "项目";
 
-/* conflict action */
+/* Button label */
 "Keep Both" = "同时保持二者";
 
 /* (No Comment) */
 "Keep Mac Stuff out" = "移除 Mac Stuff";
 
-/* conflict action */
+/* Button label */
 "Keep Newer" = "保持更新";
 
-/* Info table key */
+/* (No Comment) */
 "Kind" = "类型";
 
 /* PreferenceController */
 "Last checked: " = "最后一次检查：";
 
-/* (No Comment) */
+/* %c is replaced with newline character */
 "Last modified: %@ %@%cSize: %@" = "最近的修改: %@ %@%cSize: %@";
 
 /* helpers */
@@ -577,7 +602,7 @@ button */
 /* (No Comment) */
 "Lock Password Manager" = "锁住密码管理器";
 
-/* (No Comment) */
+/* DMG subformat */
 "LZMA compressed (macOS 10.15+)" = "LZMA 压缩 （macOS 10.15+）";
 
 /* (No Comment) */
@@ -589,13 +614,13 @@ button */
 /* (No Comment) */
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "目标磁盘已满或密码不正确。";
 
-/* (No Comment) */
+/* Button label */
 "Merge Folders" = "合并文件夹";
 
 /* possible file status strings */
 "Modified" = "修改";
 
-/* Info table key */
+/* (No Comment) */
 "Modified at" = "修改时间";
 
 /* (No Comment) */
@@ -658,7 +683,7 @@ button */
 /* (No Comment) */
 "Not encrypted" = "未加密";
 
-/* button */
+/* (No Comment) */
 "OK" = "确定";
 
 /* Descriptive title of the password editor window */
@@ -682,13 +707,22 @@ button */
 /* (No Comment) */
 "Opening archive with %d items" = "正在打开包含%d个文件的压缩文件";
 
-/* Info table key */
+/* (No Comment) */
+"Other folder…" = "其他文件夹…";
+
+/* menu item */
+"Other Folder…" = "其他文件夹…";
+
+/* open with other application */
+"Other…" = "其他…";
+
+/* (No Comment) */
 "Pages" = "页面";
 
 /* Preferences tab title */
 "Passwords" = "密码";
 
-/* Info table key */
+/* (No Comment) */
 "Path" = "路径";
 
 /* (No Comment) */
@@ -712,6 +746,9 @@ button */
 /* (No Comment) */
 "Queued for testing" = "排队进行测试";
 
+/* Preferences tab title */
+"Quick Look" = "快速预览";
+
 /* Button title */
 "Quit" = "退出";
 
@@ -724,7 +761,7 @@ button */
 /* (No Comment) */
 "RAR Format" = "RAR 格式";
 
-/* (No Comment) */
+/* DMG subformat */
 "Read-only image" = "只读图像";
 
 /* DMG Options */
@@ -748,8 +785,7 @@ button */
 /* (No Comment) */
 "Repair" = "修复";
 
-/* Import presets button
-conflict action */
+/* Button label */
 "Replace" = "替换";
 
 /* (No Comment) */
@@ -769,6 +805,9 @@ conflict action */
 
 /* (No Comment) */
 "Save" = "存储";
+
+/* (No Comment) */
+"Save As…" = "另存为…";
 
 /* (No Comment) */
 "Save the archive" = "存储压缩文件";
@@ -815,10 +854,10 @@ conflict action */
 /* Pattern control */
 "Simple File Mask" = "简单文件掩码";
 
-/* Info table key */
+/* (No Comment) */
 "Size" = "大小";
 
-/* Info table key */
+/* (No Comment) */
 "Solid" = "实线";
 
 /* (No Comment) */
@@ -839,25 +878,25 @@ conflict action */
 /* The system default app should handle this file type. */
 "System Default" = "系统默认";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Brotli compressed (tbr)" = "TAR 格式，Brotil压缩 （tbr）";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, BZip2 compressed (tbz)" = "TAR 格式，BZip2 压缩（tbz）";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, GZip compressed (tgz)" = "TAR 格式，GZip 压缩（tgz）";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, uncompressed (tar)" = "TAR 格式，未压缩（tar）";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, xz compressed (txz)" = "TAR 格式，XZ压缩（txz）";
 
 /* New formats */
 "TAR Format, Z compressed (tz)" = "TAR 格式，Z 压缩 （tz）";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Zstandard compressed (tzst)" = "TAR 格式，Z 标准压缩 （tzst）";
 
 /* (No Comment) */
@@ -870,10 +909,13 @@ conflict action */
 "Test the archive integrity" = "测试压缩文件完整性";
 
 /* (No Comment) */
-"Testing %@" = "正在测试：%@...";
+"Testing %@" = "正在测试：%@…";
 
 /* (No Comment) */
 "Testing archive %@" = "正在测试压缩文件 %@";
+
+/* Output while testing archives */
+"Testing: %@…" = "正在测试：%@…";
 
 /* (No Comment) */
 "The archive cannot be created." = "无法创建压缩文件.";
@@ -944,7 +986,7 @@ conflict action */
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "这不是您正在寻找的密码。";
 
-/* Info table key */
+/* (No Comment) */
 "Title" = "标题";
 
 /* (No Comment) */
@@ -1001,7 +1043,7 @@ conflict action */
 /* (No Comment) */
 "Use this preset as service" = "将此预设应用为服务";
 
-/* Info table key */
+/* (No Comment) */
 "Version" = "版本";
 
 /* (No Comment) */
@@ -1013,7 +1055,7 @@ conflict action */
 /* Logging volume changes during extraction and testing of multi-volume rar archives */
 "Volume: %@" = "卷： %@";
 
-/* Info table key */
+/* (No Comment) */
 "Volumes" = "卷";
 
 /* (No Comment) */
@@ -1037,8 +1079,11 @@ conflict action */
 /* (No Comment) */
 "Wrong checksum" = "错误的校验和输入";
 
-/* (No Comment) */
+/* Format name */
 "XAR Format" = "XAR 格式";
+
+/* Format name */
+"XIP Format" = "XIP 格式";
 
 /* (No Comment) */
 "Yes" = "是";
@@ -1064,9 +1109,18 @@ conflict action */
 /* ZipDocument */
 "Zip Format (recommended)" = "Zip 格式（推荐）";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed" = "Zlib 压缩";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed (level 9)" = "Zlib 压缩（9级）";
 
+"name" = "名称";
+"date" = "日期";
+"time" = "时间";
+"folder" = "文件夹";
+"ext" = "文件扩展名";
+"user" = "用户";
+
+"Cancel Operation" = "Cancel Operation";
+"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";

@@ -26,6 +26,12 @@
 "Buy now" = "オンラインで購入";
 
 /* (No Comment) */
+"Buy Now…" = "今すぐ購入…";
+
+/* (No Comment) */
+"Check for Updates…" = "アップデートを確認…";
+
+/* (No Comment) */
 "Continue" = "続ける";
 
 /* (No Comment) */
@@ -65,6 +71,12 @@
 "Registration: %@ – %d licenses" = "登録: %1$@ – %2$d ライセンス";
 
 /* (No Comment) */
+"Registration: %@ for %d licenses" = "登録: %@ に %d  ライセンス購入";
+
+/* (No Comment) */
+"Registration…" = "登録…";
+
+/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "コードが正しくありません。正しいキーをテキスト欄にペーストしたか確認して下さい。";
 
 /* (No Comment) */
@@ -82,7 +94,7 @@
 /* (No Comment) */
 "This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "これは、BetterZip 2 を Mac App Store で購入したお客様に付与される一時ライセンスコードです。BetterZip 5 を US$ 14.99 のアップグレード価格でお買い求め頂けます。下にある「今すぐアップグレード」ボタンをクリックしてウェブショップを開いて下さい。";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Trial period, %d days left" = "使用期間: 残り %d 日。";
 
 /* (No Comment) */

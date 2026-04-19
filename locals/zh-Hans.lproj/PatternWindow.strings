@@ -13,11 +13,20 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
 "gKo-1f-fdy.title" = "取消";
 
+/* Class = "NSMenuItem"; title = "Include only files like"; ObjectID = "gS5-jE-uMJ"; */
+"gS5-jE-uMJ.title" = "仅包括文件，如";
+
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
 "jOl-a6-JOJ.title" = "好";
 
+/* Class = "NSMenuItem"; title = "Exclude all files like"; ObjectID = "KIi-cE-vGM"; */
+"KIi-cE-vGM.title" = "排除所有文件，如";
+
 /* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "ko5-m8-Ic0"; Note = "don't translate"; */
 "ko5-m8-Ic0.title" = "_placeholer";
+
+/* Class = "NSButtonCell"; title = "Pattern is a regular expression"; ObjectID = "RXv-40-jMg"; */
+"RXv-40-jMg.title" = "模式是正则表达式";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ygR-6F-K2W"; */
 "ygR-6F-K2W.title" = "Text Cell";

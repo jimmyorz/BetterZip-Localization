@@ -4,23 +4,14 @@
 /* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
 "AZv-gH-0JZ.title" = "Nu kör vi!";
 
-/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
-"bBc-Bk-pge.title" = "Tillbaka";
-
 /* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
 "bku-O5-RcK.title" = "Ställ in så att macOS öppnar arkiv i BetterZip";
 
-/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
-"bRc-Br-wse.title" = "Bläddra i arkivets innehåll";
-
-/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
-"eRc-Ex-trc.title" = "Extrahera det direkt";
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 5"; ObjectID = "Igc-GC-msG"; */
+"Igc-GC-msG.title" = "Här är nyheterna i BetterZip 5";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
 "ktm-z0-OrQ.title" = "Välkommen till BetterZip!";
-
-/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
-"nBc-Nx-pge.title" = "Nästa";
 
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
 "or3-DA-ngV.title" = "BetterZip är det kraftfullaste arkivverktyget för macOS som du kan skräddarsy på många vis. För att komma igång snabbt kan gör en del val nedan.\n\nDjupdyk i alla tillgängliga inställningar som finns i inställningspanelen när du är redo för det.\n\nVälj Hjälp > BetterZip-hjälp i menyn för mera information.";
@@ -28,9 +19,21 @@
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "Leta efter uppdateringar regelbundet";
 
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "Lägg till en BetterZip-knapp i Finders verktygsfält";
+
 /* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
 "qLc-Qu-est.title" = "Vad ska hända när du öppnar ett arkiv?";
 
-/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
-"t2Q-rY-XuF.title" = "Lägg till en BetterZip-knapp i Finders verktygsfält";
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "Bläddra i arkivets innehåll";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "Extrahera det direkt";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "Nästa";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "Tillbaka";
 

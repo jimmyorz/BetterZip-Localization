@@ -37,6 +37,9 @@
 /* Class = "NSBox"; title = "Show Columns"; ObjectID = "4dg-oc-Zph"; */
 "4dg-oc-Zph.title" = "显示列";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "4eQ-Gf-nKD"; */
+"4eQ-Gf-nKD.title" = "添加这个预设到 Dropzone 4…";
+
 /* Class = "NSMenuItem"; title = "Image"; ObjectID = "4f3-gB-BBc"; */
 "4f3-gB-BBc.title" = "镜像";
 
@@ -63,6 +66,9 @@
 
 /* Class = "NSButtonCell"; title = "Keep up-to-date"; ObjectID = "6c0-OW-DC8"; */
 "6c0-OW-DC8.title" = "保持更新";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "6M9-hc-0Tm"; */
+"6M9-hc-0Tm.title" = "选择…";
 
 /* Class = "NSButtonCell"; title = "Start with the Drop Bar"; ObjectID = "6ro-jt-aTy"; */
 "6ro-jt-aTy.title" = "从下拉菜单开始";
@@ -94,6 +100,9 @@
 /* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
 "17.title" = "偏好设置";
 
+/* Class = "NSMenuItem"; title = "Reveal Services Folder in Finder"; ObjectID = "53e-Ad-TLI"; */
+"53e-Ad-TLI.title" = "在 Finder 中显示服务文件夹";
+
 /* Class = "NSMenuItem"; title = "1"; ObjectID = "78E-pE-9dL"; */
 "78E-pE-9dL.title" = "1";
 
@@ -102,6 +111,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
 "95F-wH-1WN.title" = "创建额外的文件夹:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Pattern"; ObjectID = "156"; */
+"156.headerCell.title" = "模式";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
 "159.ibShadowedToolTip" = "添加一个新模式 (⌘N)";
@@ -136,11 +148,20 @@
 /* Class = "NSTextFieldCell"; title = "When double-clicking an archive in the Finder, extract it instead of displaying its contents with BetterZip. You can toggle the default action by holding down Ctrl+Cmd while opening an archive."; ObjectID = "1394"; */
 "1394.title" = "在 Finder 中双击压缩文件时直接解压缩，而不是在 BetterZip 中显示其内容。打开压缩文件时按下 Ctrl+Cmd 就可以切换默认设置。";
 
-/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "1405"; */
+/* Class = "NSButtonCell"; title = "Additional setting"; ObjectID = "1405"; */
 "1405.title" = "额外设置";
+
+/* Class = "NSButtonCell"; title = "Download & Install Rar"; ObjectID = "1415"; */
+"1415.title" = "下载并安装 Rar";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip can use the external rar program to create rar archives. Rar itself has to be purchased from win.rar GmbH separately. "; ObjectID = "1417"; */
+"1417.title" = "BetterZip可以通过外部的rar程序来创建rar压缩文件。Rar程序本身必须从win.rar GmbH处单独购买。 ";
 
 /* Class = "NSButtonCell"; title = "Browse"; ObjectID = "1418"; */
 "1418.title" = "查看";
+
+/* Class = "NSTextFieldCell"; title = "Path to the rar program:"; ObjectID = "1419"; */
+"1419.title" = "Rar程序的路径：";
 
 /* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
 "1420.title" = "管理筛选列表中的格式";
@@ -346,6 +367,9 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1944"; */
 "1944.title" = "其他视图";
 
+/* Class = "NSMenuItem"; title = "Duplicate Preset"; ObjectID = "1946"; */
+"1946.title" = "拷贝预置";
+
 /* Class = "NSMenuItem"; title = "Add Factory Presets "; ObjectID = "1947"; */
 "1947.title" = "添加出厂预置";
 
@@ -379,11 +403,23 @@
 /* Class = "NSMenuItem"; title = "Always try passwords"; ObjectID = "1965"; */
 "1965.title" = "总是尝试密码";
 
+/* Class = "NSTableColumn"; headerCell.title = "RegEx."; ObjectID = "1994"; */
+"1994.headerCell.title" = "正则表达式.";
+
+/* Class = "NSTableColumn"; headerToolTip = "Regular Expression"; ObjectID = "1994"; */
+"1994.headerToolTip" = "正则表达式";
+
 /* Class = "NSButtonCell"; title = "Reset \"Don't Ask Me\" Warnings"; ObjectID = "2005"; */
 "2005.title" = "重置“不再询问”的警告";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2008"; */
 "2008.ibShadowedIsNilPlaceholder" = "<新的预置>";
+
+/* Class = "NSTextFieldCell"; title = "Run script when done:"; ObjectID = "2011"; */
+"2011.title" = "在完成时运行脚本：";
+
+/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "2017"; */
+"2017.title" = "在完成时运行脚本：";
 
 /* Class = "NSTextFieldCell"; title = "Concurrent archive operations:"; ObjectID = "2032"; */
 "2032.title" = "可同时进行的压缩操作数目：";
@@ -397,11 +433,17 @@
 /* Class = "NSTextFieldCell"; title = "Temporary folder:"; ObjectID = "2083"; */
 "2083.title" = "临时文件夹：";
 
+/* Class = "NSTextFieldCell"; title = "Open unknown file types with:"; ObjectID = "2085"; */
+"2085.title" = "打开未知类型文件时使用：";
+
 /* Class = "NSButtonCell"; alternateTitle = "Click the lock to prevent further changes."; ObjectID = "2114"; */
 "2114.alternateTitle" = "点按锁按钮以防止再次更改。";
 
 /* Class = "NSButtonCell"; title = "Click the lock to make changes."; ObjectID = "2114"; */
 "2114.title" = "点按锁按钮以进行更改。";
+
+/* Class = "NSButtonCell"; title = "Master Password…"; ObjectID = "2116"; */
+"2116.title" = "主密码…";
 
 /* Class = "NSTextFieldCell"; title = "Before you can use the password manager, you need to set a master password!"; ObjectID = "2120"; */
 "2120.title" = "在使用密码管理器之前，您需要设置一个主密码！";
@@ -430,8 +472,38 @@
 /* Class = "NSButtonCell"; title = "Always open archives in Direct Mode"; ObjectID = "2241"; */
 "2241.title" = "总是用立即执行模式打开档案";
 
+/* Class = "NSTableColumn"; headerCell.title = "T"; ObjectID = "2278"; */
+"2278.headerCell.title" = "T";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset as default in the toolbar"; ObjectID = "2278"; */
+"2278.headerToolTip" = "在工具栏中使用此预设作为默认设置";
+
+/* Class = "NSTableColumn"; headerCell.title = "Q"; ObjectID = "2280"; */
+"2280.headerCell.title" = "Q";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset for queue operations"; ObjectID = "2280"; */
+"2280.headerToolTip" = "使用此预设进行队列操作 ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Q"; ObjectID = "2283"; */
+"2283.headerCell.title" = "Q";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset for queue operations"; ObjectID = "2283"; */
+"2283.headerToolTip" = "使用此预设进行队列操作 ";
+
+/* Class = "NSTableColumn"; headerCell.title = "T"; ObjectID = "2284"; */
+"2284.headerCell.title" = "T";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset as default in the toolbar"; ObjectID = "2284"; */
+"2284.headerToolTip" = "在工具栏中使用此预设作为默认设置";
+
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2302"; */
 "2302.ibShadowedIsNilPlaceholder" = "<新的预置>";
+
+/* Class = "NSMenuItem"; title = "Reset Service and Toolbar Presets"; ObjectID = "2338"; */
+"2338.title" = "重置服务和工具栏预置";
+
+/* Class = "NSMenuItem"; title = "Reset Service and Toolbar Presets"; ObjectID = "2341"; */
+"2341.title" = "重置服务和工具栏预置";
 
 /* Class = "NSButtonCell"; title = "Kind"; ObjectID = "aD7-WM-1Lm"; */
 "aD7-WM-1Lm.title" = "类型";
@@ -447,6 +519,9 @@
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "aQn-2j-vrM"; */
 "aQn-2j-vrM.title" = "跳过";
+
+/* Class = "NSButtonCell"; title = "Do not use relative dates in date cells"; ObjectID = "Aqy-fw-Vwd"; */
+"Aqy-fw-Vwd.title" = "不要在日期单元格中使用相对日期";
 
 /* Class = "NSMenuItem"; title = "2"; ObjectID = "AWk-O6-HDA"; */
 "AWk-O6-HDA.title" = "2";
@@ -496,11 +571,23 @@
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "DuI-uf-iUT"; */
 "DuI-uf-iUT.title" = "Ok";
 
+/* Class = "NSButtonCell"; title = "Keep the header fixed when scrolling"; ObjectID = "dvm-0K-wbo"; */
+"dvm-0K-wbo.title" = "滚动时保持标题固定";
+
+/* Class = "NSMenuItem"; title = "Edit Passwords as Text…"; ObjectID = "dxO-cb-aI4"; */
+"dxO-cb-aI4.title" = "以文本格式编辑密码…";
+
 /* Class = "NSMenuItem"; title = "Item3"; ObjectID = "Dzn-mE-DEs"; */
 "Dzn-mE-DEs.title" = "项目3";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "e4s-K4-S9B"; */
 "e4s-K4-S9B.title" = "跳过";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "E07-Oc-NEU"; */
+"E07-Oc-NEU.title" = "添加这个预设到LaunchBar 6…";
+
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "ENs-uN-ddX"; */
+"ENs-uN-ddX.title" = "排除模式:";
 
 /* Class = "NSMenuItem"; title = "Mark the archive changed"; ObjectID = "ERH-LF-D6M"; */
 "ERH-LF-D6M.title" = "标记存档已更改";
@@ -553,11 +640,17 @@
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "HFB-rn-yOD"; */
 "HFB-rn-yOD.title" = "项目2";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to the Services Menu…"; ObjectID = "hlf-gE-ZEC"; */
+"hlf-gE-ZEC.title" = "添加这个预设到服务菜单…";
+
 /* Class = "NSButtonCell"; title = "Show hidden files and folders in the save/open panels"; ObjectID = "HQy-Bv-6mp"; */
 "HQy-Bv-6mp.title" = "在保存/打开面板中显示隐藏的文件和文件夹";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hta-kj-9NN"; */
 "hta-kj-9NN.title" = "取消";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "HVe-jE-Q4x"; */
+"HVe-jE-Q4x.title" = "窗口";
 
 /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Ibw-ho-JTf"; */
 "Ibw-ho-JTf.title" = "Text";
@@ -598,6 +691,9 @@
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "keP-Bu-gCj"; */
 "keP-Bu-gCj.title" = "模式";
 
+/* Class = "NSButtonCell"; title = "Use as default"; ObjectID = "kmS-XG-bZs"; */
+"kmS-XG-bZs.title" = "使用默认设置";
+
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KNr-UM-9Oh"; */
 "KNr-UM-9Oh.title" = "Text Cell";
 
@@ -625,6 +721,9 @@
 /* Class = "NSButtonCell"; title = "☆"; ObjectID = "luz-oO-dAC"; */
 "luz-oO-dAC.title" = "☆";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to the Services Menu…"; ObjectID = "lyG-2t-7vp"; */
+"lyG-2t-7vp.title" = "添加这个预设到服务菜单…";
+
 /* Class = "NSMenuItem"; title = "8"; ObjectID = "MAU-gM-JAs"; */
 "MAU-gM-JAs.title" = "8";
 
@@ -646,11 +745,17 @@
 /* Class = "NSTabViewItem"; label = "View"; ObjectID = "n0k-7I-0PH"; */
 "n0k-7I-0PH.label" = "View";
 
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "n85-o5-vBH"; */
+"n85-o5-vBH.title" = "排除模式:";
+
 /* Class = "NSTableColumn"; headerCell.title = "Extract"; ObjectID = "Nfe-N7-CWd"; */
 "Nfe-N7-CWd.headerCell.title" = "解压";
 
 /* Class = "NSTableColumn"; headerToolTip = "Show the folder in the Extract menu"; ObjectID = "Nfe-N7-CWd"; */
 "Nfe-N7-CWd.headerToolTip" = "在解压菜单中显示文件夹";
+
+/* Class = "NSButtonCell"; title = "Always save with the toolbar preset when clicking the toolbar button, even if the archive is not new"; ObjectID = "nvs-ns-H0J"; */
+"nvs-ns-H0J.title" = "当点击工具栏按钮时，始终使用工具栏预设保存，即使压缩文件不是新的";
 
 /* Class = "NSButtonCell"; alternateTitle = "⭐️"; ObjectID = "oqm-ff-uxe"; */
 "oqm-ff-uxe.alternateTitle" = "⭐️";
@@ -660,6 +765,12 @@
 
 /* Class = "NSButtonCell"; title = "Use Safari like suggestions instead of the (nicer) BetterZip format."; ObjectID = "Ov2-21-Rdd"; */
 "Ov2-21-Rdd.title" = "使用类似 Safari 的建议，而不是（更好的）BetterZip格式。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "ovj-zb-Bbt"; */
+"ovj-zb-Bbt.ibShadowedIsNilPlaceholder" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Q: Choose the preset to use for queue operations when not explicitly specified.\n\nT: Choose the preset to use when you click the toolbar button."; ObjectID = "OVk-8q-1cd"; */
+"OVk-8q-1cd.title" = "Q：选择未明确指定时用于队列操作的预设。\n\nT：选择您单击工具栏按钮时要使用的预设。";
 
 /* Class = "NSMenuItem"; title = "Ignore changes"; ObjectID = "owF-jy-3IB"; */
 "owF-jy-3IB.title" = "忽略更改";
@@ -681,6 +792,12 @@
 
 /* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "PFP-ck-Ryj"; */
 "PFP-ck-Ryj.title" = "移动压缩文件到：";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "pkU-2P-DSz"; */
+"pkU-2P-DSz.title" = "查看";
+
+/* Class = "NSTextFieldCell"; title = "Q: Choose the preset to use for queue operations when not explicitly specified.\n\nT: Choose the preset to use when you click the toolbar button."; ObjectID = "q2A-Sk-Iks"; */
+"q2A-Sk-Iks.title" = "Q：如果未明确指定，请选择用于队列操作的预设。\n\nT：选择您单击工具栏按钮时要使用的预设。";
 
 /* Class = "NSTextFieldCell"; title = "When modifying a file inside an archive:"; ObjectID = "Q4f-Lp-uJt"; */
 "Q4f-Lp-uJt.title" = "修改存档中的文件时：";
@@ -706,8 +823,23 @@
 /* Class = "NSTableColumn"; headerToolTip = "Show the folder in the contextual menu and in the toolbar button menu in Finder"; ObjectID = "RCU-os-9Sh"; */
 "RCU-os-9Sh.headerToolTip" = "在右键菜单和 Finder 中的工具栏按钮菜单中显示文件夹";
 
+/* Class = "NSWindow"; title = "Window"; ObjectID = "rDP-51-viC"; */
+"rDP-51-viC.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "RJ9-6H-HiH"; */
+"RJ9-6H-HiH.title" = "添加这个预设到Dropzone 4…";
+
+/* Class = "NSButtonCell"; title = "Password Suggestion Settings…"; ObjectID = "rmB-JP-QRi"; */
+"rmB-JP-QRi.title" = "密码建议设置…";
+
+/* Class = "NSMenuItem"; title = "Reveal Services Folder in Finder"; ObjectID = "rmH-rL-hsC"; */
+"rmH-rL-hsC.title" = "在 Finder 中显示服务文件夹";
+
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "rog-PG-dl3"; */
 "rog-PG-dl3.title" = "从不";
+
+/* Class = "NSButtonCell"; title = "Do not open the queue window when starting a queue operation"; ObjectID = "RTg-RL-ei6"; */
+"RTg-RL-ei6.title" = "启动队列操作时不要打开队列窗口";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "rWO-92-XTC"; */
 "rWO-92-XTC.ibExternalAccessibilityDescription" = "活动菜单";
@@ -722,7 +854,7 @@
 "RZc-7J-y2q.title" = "5";
 
 /* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "sDU-aG-kZ5"; */
-"sDU-aG-kZ5.title" = "扩展";
+"sDU-aG-kZ5.title" = "快速预览";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "sho-QY-Bmi"; */
 "sho-QY-Bmi.title" = "取消";
@@ -736,11 +868,17 @@
 /* Class = "NSMenuItem"; title = "4"; ObjectID = "T9L-lr-ppG"; */
 "T9L-lr-ppG.title" = "4";
 
+/* Class = "NSButtonCell"; title = "Disable the single-click action for the drop-down buttons (Save, Extract, View) in the toolbar"; ObjectID = "TLC-EU-XfF"; */
+"TLC-EU-XfF.title" = "禁用工具栏中下拉按钮（保存、提取、查看）的单击操作。";
+
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "TNi-oe-nAC"; */
 "TNi-oe-nAC.title" = "好";
 
 /* Class = "NSMenuItem"; title = "Replace the existing folder"; ObjectID = "u5x-UZ-89X"; */
 "u5x-UZ-89X.title" = "替换现有文件夹";
+
+/* Class = "NSButtonCell"; title = "Don't automatically load the toolbar preset in the save panel when using the standard save command"; ObjectID = "ubn-wK-U3F"; */
+"ubn-wK-U3F.title" = "在使用标准保存命令时，不要自动加载保存面板中预设的工具栏。";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "uon-8c-xxO"; */
 "uon-8c-xxO.title" = "还原默认设置";
@@ -786,6 +924,12 @@
 
 /* Class = "NSButtonCell"; title = "Create individual archives when using the operations queue"; ObjectID = "xBT-eB-dW4"; */
 "xBT-eB-dW4.title" = "使用操作队列时创建单个归档";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "XXR-m9-U3V"; */
+"XXR-m9-U3V.title" = "添加这个预设到LaunchBar 6…";
+
+/* Class = "NSBox"; title = "Integrations"; ObjectID = "yCC-dp-gtX"; */
+"yCC-dp-gtX.title" = "集成";
 
 /* Class = "NSButtonCell"; title = "Show BetterZip menu in Finder's contextual menus"; ObjectID = "yeM-JV-gI1"; */
 "yeM-JV-gI1.title" = "在右键菜单和 Finder 中的工具栏按钮菜单中显示 BetterZip 菜单";

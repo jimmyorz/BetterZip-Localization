@@ -37,6 +37,9 @@
 /* Class = "NSBox"; title = "Show Columns"; ObjectID = "4dg-oc-Zph"; */
 "4dg-oc-Zph.title" = "Mostrar columnas";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "4eQ-Gf-nKD"; */
+"4eQ-Gf-nKD.title" = "Añadir este preset a Zona Arrastre 3…";
+
 /* Class = "NSMenuItem"; title = "Image"; ObjectID = "4f3-gB-BBc"; */
 "4f3-gB-BBc.title" = "Imagen";
 
@@ -63,6 +66,9 @@
 
 /* Class = "NSButtonCell"; title = "Keep up-to-date"; ObjectID = "6c0-OW-DC8"; */
 "6c0-OW-DC8.title" = "Mantenerse al día";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "6M9-hc-0Tm"; */
+"6M9-hc-0Tm.title" = "Elegir…";
 
 /* Class = "NSButtonCell"; title = "Start with the Drop Bar"; ObjectID = "6ro-jt-aTy"; */
 "6ro-jt-aTy.title" = "Iniciar mostrando barra de carga";
@@ -94,6 +100,9 @@
 /* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
 "17.title" = "Preferencias";
 
+/* Class = "NSMenuItem"; title = "Reveal Services Folder in Finder"; ObjectID = "53e-Ad-TLI"; */
+"53e-Ad-TLI.title" = "Mostrar carpeta servicios en el Finder";
+
 /* Class = "NSMenuItem"; title = "1"; ObjectID = "78E-pE-9dL"; */
 "78E-pE-9dL.title" = "1";
 
@@ -102,6 +111,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
 "95F-wH-1WN.title" = "Crear una carpeta extra:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Pattern"; ObjectID = "156"; */
+"156.headerCell.title" = "Patrón";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
 "159.ibShadowedToolTip" = "Añadir patrón nuevo (⌘N)";
@@ -136,11 +148,20 @@
 /* Class = "NSTextFieldCell"; title = "When double-clicking an archive in the Finder, extract it instead of displaying its contents with BetterZip. You can toggle the default action by holding down Ctrl+Cmd while opening an archive."; ObjectID = "1394"; */
 "1394.title" = "Cuando haga doble click en un archivo en el Finder, extraer en vez de mostrar su contenido con BetterZip. Puedes cambiar la acción predeterminada pulsando Ctrl+Cmd al abrir un archivo.";
 
-/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "1405"; */
+/* Class = "NSButtonCell"; title = "Additional setting"; ObjectID = "1405"; */
 "1405.title" = "Configuración adicional";
+
+/* Class = "NSButtonCell"; title = "Download & Install Rar"; ObjectID = "1415"; */
+"1415.title" = "Descargar e instalar Rar";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip can use the external rar program to create rar archives. Rar itself has to be purchased from win.rar GmbH separately. "; ObjectID = "1417"; */
+"1417.title" = "BetterZip puede utilizar un programa externo para crear archivos rar. Rar debe adquirirse por separado en win.rar GmbH. ";
 
 /* Class = "NSButtonCell"; title = "Browse"; ObjectID = "1418"; */
 "1418.title" = "Examinar";
+
+/* Class = "NSTextFieldCell"; title = "Path to the rar program:"; ObjectID = "1419"; */
+"1419.title" = "Ruta del programa rar:";
 
 /* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
 "1420.title" = "Eliminar archivos que coincidan con estos patrones";
@@ -346,6 +367,9 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1944"; */
 "1944.title" = "Otras Vistas";
 
+/* Class = "NSMenuItem"; title = "Duplicate Preset"; ObjectID = "1946"; */
+"1946.title" = "Duplicar preajuste";
+
 /* Class = "NSMenuItem"; title = "Add Factory Presets "; ObjectID = "1947"; */
 "1947.title" = "Añadir ajustes predeterminados";
 
@@ -379,11 +403,23 @@
 /* Class = "NSMenuItem"; title = "Always try passwords"; ObjectID = "1965"; */
 "1965.title" = "Probar siempre las contraseñas";
 
+/* Class = "NSTableColumn"; headerCell.title = "RegEx."; ObjectID = "1994"; */
+"1994.headerCell.title" = "Expresiones";
+
+/* Class = "NSTableColumn"; headerToolTip = "Regular Expression"; ObjectID = "1994"; */
+"1994.headerToolTip" = "Expresión regular";
+
 /* Class = "NSButtonCell"; title = "Reset \"Don't Ask Me\" Warnings"; ObjectID = "2005"; */
 "2005.title" = "Restablecer Advertencias";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2008"; */
 "2008.ibShadowedIsNilPlaceholder" = "<nuevo preajuste>";
+
+/* Class = "NSTextFieldCell"; title = "Run script when done:"; ObjectID = "2011"; */
+"2011.title" = "Ejecutar script al finalizar:";
+
+/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "2017"; */
+"2017.title" = "Ejecutar script al finalizar:";
 
 /* Class = "NSTextFieldCell"; title = "Concurrent archive operations:"; ObjectID = "2032"; */
 "2032.title" = "Operaciones simultáneas de archivos";
@@ -397,11 +433,17 @@
 /* Class = "NSTextFieldCell"; title = "Temporary folder:"; ObjectID = "2083"; */
 "2083.title" = "Carpeta temporal:";
 
+/* Class = "NSTextFieldCell"; title = "Open unknown file types with:"; ObjectID = "2085"; */
+"2085.title" = "Abrir archivos desconocidos con:";
+
 /* Class = "NSButtonCell"; alternateTitle = "Click the lock to prevent further changes."; ObjectID = "2114"; */
 "2114.alternateTitle" = "Haz click en el candado para impedir cambios.";
 
 /* Class = "NSButtonCell"; title = "Click the lock to make changes."; ObjectID = "2114"; */
 "2114.title" = "Haz click en el candado para realizar cambios.";
+
+/* Class = "NSButtonCell"; title = "Master Password…"; ObjectID = "2116"; */
+"2116.title" = "Contraseña maestra…";
 
 /* Class = "NSTextFieldCell"; title = "Before you can use the password manager, you need to set a master password!"; ObjectID = "2120"; */
 "2120.title" = "¡Para utilizar el administrador de contraseñas, es necesario establecer una contraseña maestra!";
@@ -430,8 +472,38 @@
 /* Class = "NSButtonCell"; title = "Always open archives in Direct Mode"; ObjectID = "2241"; */
 "2241.title" = "Abrir siempre archivos con el modo directo";
 
+/* Class = "NSTableColumn"; headerCell.title = "T"; ObjectID = "2278"; */
+"2278.headerCell.title" = "T";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset as default in the toolbar"; ObjectID = "2278"; */
+"2278.headerToolTip" = "Usar este preajuste por defecto en la barra de herramientas";
+
+/* Class = "NSTableColumn"; headerCell.title = "Q"; ObjectID = "2280"; */
+"2280.headerCell.title" = "Q";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset for queue operations"; ObjectID = "2280"; */
+"2280.headerToolTip" = "Usar este preajuste como servicio";
+
+/* Class = "NSTableColumn"; headerCell.title = "Q"; ObjectID = "2283"; */
+"2283.headerCell.title" = "Q";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset for queue operations"; ObjectID = "2283"; */
+"2283.headerToolTip" = "Usar este preajuste como servicio";
+
+/* Class = "NSTableColumn"; headerCell.title = "T"; ObjectID = "2284"; */
+"2284.headerCell.title" = "T";
+
+/* Class = "NSTableColumn"; headerToolTip = "Use this preset as default in the toolbar"; ObjectID = "2284"; */
+"2284.headerToolTip" = "Usar este preajuste por defecto en la barra de herramientas";
+
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2302"; */
 "2302.ibShadowedIsNilPlaceholder" = "<nuevo preajuste>";
+
+/* Class = "NSMenuItem"; title = "Reset Service and Toolbar Presets"; ObjectID = "2338"; */
+"2338.title" = "Restablecer ajustes predeterminados de servicios y barra de herramientas";
+
+/* Class = "NSMenuItem"; title = "Reset Service and Toolbar Presets"; ObjectID = "2341"; */
+"2341.title" = "Restablecer ajustes predeterminados de servicios y barra de herramientas";
 
 /* Class = "NSButtonCell"; title = "Kind"; ObjectID = "aD7-WM-1Lm"; */
 "aD7-WM-1Lm.title" = "Tipo";
@@ -447,6 +519,9 @@
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "aQn-2j-vrM"; */
 "aQn-2j-vrM.title" = "Saltar";
+
+/* Class = "NSButtonCell"; title = "Do not use relative dates in date cells"; ObjectID = "Aqy-fw-Vwd"; */
+"Aqy-fw-Vwd.title" = "No utilizar fechas relativas en celdas de fecha";
 
 /* Class = "NSMenuItem"; title = "2"; ObjectID = "AWk-O6-HDA"; */
 "AWk-O6-HDA.title" = "2";
@@ -496,11 +571,23 @@
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "DuI-uf-iUT"; */
 "DuI-uf-iUT.title" = "Aceptar";
 
+/* Class = "NSButtonCell"; title = "Keep the header fixed when scrolling"; ObjectID = "dvm-0K-wbo"; */
+"dvm-0K-wbo.title" = "Mantener el encabezado fijo al desplazar el ratón";
+
+/* Class = "NSMenuItem"; title = "Edit Passwords as Text…"; ObjectID = "dxO-cb-aI4"; */
+"dxO-cb-aI4.title" = "Editar contraseñas como texto …";
+
 /* Class = "NSMenuItem"; title = "Item3"; ObjectID = "Dzn-mE-DEs"; */
 "Dzn-mE-DEs.title" = "Item3";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "e4s-K4-S9B"; */
 "e4s-K4-S9B.title" = "Saltar";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "E07-Oc-NEU"; */
+"E07-Oc-NEU.title" = "Añadir este preajuste a LaunchBar 6…";
+
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "ENs-uN-ddX"; */
+"ENs-uN-ddX.title" = "Excluir los patrones:";
 
 /* Class = "NSMenuItem"; title = "Mark the archive changed"; ObjectID = "ERH-LF-D6M"; */
 "ERH-LF-D6M.title" = "Marcar el archivo cambiado";
@@ -553,11 +640,17 @@
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "HFB-rn-yOD"; */
 "HFB-rn-yOD.title" = "Item2";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to the Services Menu…"; ObjectID = "hlf-gE-ZEC"; */
+"hlf-gE-ZEC.title" = "Añadir este preajuste en menú servicios…";
+
 /* Class = "NSButtonCell"; title = "Show hidden files and folders in the save/open panels"; ObjectID = "HQy-Bv-6mp"; */
 "HQy-Bv-6mp.title" = "Mostrar archivos y carpetas ocultos en los paneles guardar/abrir";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hta-kj-9NN"; */
 "hta-kj-9NN.title" = "Cancelar";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "HVe-jE-Q4x"; */
+"HVe-jE-Q4x.title" = "Ventana";
 
 /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Ibw-ho-JTf"; */
 "Ibw-ho-JTf.title" = "Texto";
@@ -598,6 +691,9 @@
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "keP-Bu-gCj"; */
 "keP-Bu-gCj.title" = "Patrón";
 
+/* Class = "NSButtonCell"; title = "Use as default"; ObjectID = "kmS-XG-bZs"; */
+"kmS-XG-bZs.title" = "Usar por defecto";
+
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "KNr-UM-9Oh"; */
 "KNr-UM-9Oh.title" = "Texto celda";
 
@@ -625,6 +721,9 @@
 /* Class = "NSButtonCell"; title = "☆"; ObjectID = "luz-oO-dAC"; */
 "luz-oO-dAC.title" = "☆";
 
+/* Class = "NSMenuItem"; title = "Add this Preset to the Services Menu…"; ObjectID = "lyG-2t-7vp"; */
+"lyG-2t-7vp.title" = "Añadir este preajuste en menú servicios…";
+
 /* Class = "NSMenuItem"; title = "8"; ObjectID = "MAU-gM-JAs"; */
 "MAU-gM-JAs.title" = "8";
 
@@ -646,11 +745,17 @@
 /* Class = "NSTabViewItem"; label = "View"; ObjectID = "n0k-7I-0PH"; */
 "n0k-7I-0PH.label" = "Ver";
 
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "n85-o5-vBH"; */
+"n85-o5-vBH.title" = "Excluir los patrones:";
+
 /* Class = "NSTableColumn"; headerCell.title = "Extract"; ObjectID = "Nfe-N7-CWd"; */
 "Nfe-N7-CWd.headerCell.title" = "Extraer";
 
 /* Class = "NSTableColumn"; headerToolTip = "Show the folder in the Extract menu"; ObjectID = "Nfe-N7-CWd"; */
 "Nfe-N7-CWd.headerToolTip" = "Mostrar la carpeta en el menú Extraer";
+
+/* Class = "NSButtonCell"; title = "Always save with the toolbar preset when clicking the toolbar button, even if the archive is not new"; ObjectID = "nvs-ns-H0J"; */
+"nvs-ns-H0J.title" = "Guardar con el ajuste predeterminado de la barra de herramientas al hacer clic en el botón de la barra de herramientas, incluso si el archivo no es nuevo";
 
 /* Class = "NSButtonCell"; alternateTitle = "⭐️"; ObjectID = "oqm-ff-uxe"; */
 "oqm-ff-uxe.alternateTitle" = "⭐️";
@@ -660,6 +765,12 @@
 
 /* Class = "NSButtonCell"; title = "Use Safari like suggestions instead of the (nicer) BetterZip format."; ObjectID = "Ov2-21-Rdd"; */
 "Ov2-21-Rdd.title" = "Usar Safari como sugerencias, en vez de usar (Betterzip que es más bonito).";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "ovj-zb-Bbt"; */
+"ovj-zb-Bbt.ibShadowedIsNilPlaceholder" = "<nuevo patrón>";
+
+/* Class = "NSTextFieldCell"; title = "Q: Choose the preset to use for queue operations when not explicitly specified.\n\nT: Choose the preset to use when you click the toolbar button."; ObjectID = "OVk-8q-1cd"; */
+"OVk-8q-1cd.title" = "P: Selecciona el ajuste que se usará para las operaciones de cola cuando no se especifique explícitamente.\n\nR: Selecciona el ajuste que se usará al hacer clic en el botón de la barra de herramientas.";
 
 /* Class = "NSMenuItem"; title = "Ignore changes"; ObjectID = "owF-jy-3IB"; */
 "owF-jy-3IB.title" = "Ignorar cambios";
@@ -681,6 +792,12 @@
 
 /* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "PFP-ck-Ryj"; */
 "PFP-ck-Ryj.title" = "Mover archivo a:";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "pkU-2P-DSz"; */
+"pkU-2P-DSz.title" = "Examinar";
+
+/* Class = "NSTextFieldCell"; title = "Q: Choose the preset to use for queue operations when not explicitly specified.\n\nT: Choose the preset to use when you click the toolbar button."; ObjectID = "q2A-Sk-Iks"; */
+"q2A-Sk-Iks.title" = "P: Selecciona el ajuste que se usará para las operaciones de cola cuando no se especifique explícitamente. \n\nR: Selecciona el ajuste que se usará al hacer clic en el botón de la barra de herramientas.";
 
 /* Class = "NSTextFieldCell"; title = "When modifying a file inside an archive:"; ObjectID = "Q4f-Lp-uJt"; */
 "Q4f-Lp-uJt.title" = "Al modificar un archivo dentro de un archivo:";
@@ -706,8 +823,23 @@
 /* Class = "NSTableColumn"; headerToolTip = "Show the folder in the contextual menu and in the toolbar button menu in Finder"; ObjectID = "RCU-os-9Sh"; */
 "RCU-os-9Sh.headerToolTip" = "Mostrar la carpeta en el menú contextual y en el menú del botón de la barra de herramientas en el Finder";
 
+/* Class = "NSWindow"; title = "Window"; ObjectID = "rDP-51-viC"; */
+"rDP-51-viC.title" = "Ventana";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "RJ9-6H-HiH"; */
+"RJ9-6H-HiH.title" = "Añadir este preajuste a Zona Arrastre 3…";
+
+/* Class = "NSButtonCell"; title = "Password Suggestion Settings…"; ObjectID = "rmB-JP-QRi"; */
+"rmB-JP-QRi.title" = "Configurar sugerencia de contraseña…";
+
+/* Class = "NSMenuItem"; title = "Reveal Services Folder in Finder"; ObjectID = "rmH-rL-hsC"; */
+"rmH-rL-hsC.title" = "Mostrar carpeta servicios en el Finder";
+
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "rog-PG-dl3"; */
 "rog-PG-dl3.title" = "Nunca";
+
+/* Class = "NSButtonCell"; title = "Do not open the queue window when starting a queue operation"; ObjectID = "RTg-RL-ei6"; */
+"RTg-RL-ei6.title" = "No mostrar ventana de cola al iniciar una operación";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "rWO-92-XTC"; */
 "rWO-92-XTC.ibExternalAccessibilityDescription" = "Acción del botón menú";
@@ -722,7 +854,7 @@
 "RZc-7J-y2q.title" = "5";
 
 /* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "sDU-aG-kZ5"; */
-"sDU-aG-kZ5.title" = "Extensiones";
+"sDU-aG-kZ5.title" = "Vista rápida";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "sho-QY-Bmi"; */
 "sho-QY-Bmi.title" = "Cancelar";
@@ -736,11 +868,17 @@
 /* Class = "NSMenuItem"; title = "4"; ObjectID = "T9L-lr-ppG"; */
 "T9L-lr-ppG.title" = "4";
 
+/* Class = "NSButtonCell"; title = "Disable the single-click action for the drop-down buttons (Save, Extract, View) in the toolbar"; ObjectID = "TLC-EU-XfF"; */
+"TLC-EU-XfF.title" = "Deshabilitar la acción de un solo clic para los botones desplegables de la barra de herramientas (Guardar, Extraer, Ver)";
+
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "TNi-oe-nAC"; */
 "TNi-oe-nAC.title" = "Aceptar";
 
 /* Class = "NSMenuItem"; title = "Replace the existing folder"; ObjectID = "u5x-UZ-89X"; */
 "u5x-UZ-89X.title" = "Reemplazar carpeta existente";
+
+/* Class = "NSButtonCell"; title = "Don't automatically load the toolbar preset in the save panel when using the standard save command"; ObjectID = "ubn-wK-U3F"; */
+"ubn-wK-U3F.title" = "No cargar el ajuste predeterminado automático de la barra de herramientas cuando utilice el comando de guardardo estándar";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "uon-8c-xxO"; */
 "uon-8c-xxO.title" = "Restaurar predeterminados";
@@ -786,6 +924,12 @@
 
 /* Class = "NSButtonCell"; title = "Create individual archives when using the operations queue"; ObjectID = "xBT-eB-dW4"; */
 "xBT-eB-dW4.title" = "Crear archivos individuales al utilizar la cola de operaciones";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "XXR-m9-U3V"; */
+"XXR-m9-U3V.title" = "Añadir este preset a LaunchBar 6…";
+
+/* Class = "NSBox"; title = "Integrations"; ObjectID = "yCC-dp-gtX"; */
+"yCC-dp-gtX.title" = "Integraciones";
 
 /* Class = "NSButtonCell"; title = "Show BetterZip menu in Finder's contextual menus"; ObjectID = "yeM-JV-gI1"; */
 "yeM-JV-gI1.title" = "Mostrar menú BetterZip en los menús contextuales del Finder";

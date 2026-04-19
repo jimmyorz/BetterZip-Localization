@@ -1,6 +1,36 @@
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+
+/* Class = "NSButtonCell"; title = "Install Alfred workflows"; ObjectID = "8Vg-HV-6iG"; */
+"8Vg-HV-6iG.title" = "Install Alfred workflows";
+
+/* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
+"AZv-gH-0JZ.title" = "Let's Go!";
+
+/* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
+"bku-O5-RcK.title" = "Tell macOS to open archives in BetterZip";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
+"ktm-z0-OrQ.title" = "Welcome to BetterZip!";
+
+/* Class = "NSTextFieldCell"; title = "BetterZip is the most powerful archiver for macOS which you can customize in many ways. To get started quickly use a few select options below. \n\nDive into all available settings in the preferences window when you are ready. \n\nChoose Help > BetterZip Help from the menu for more information."; ObjectID = "or3-DA-ngV"; */
 "or3-DA-ngV.title" = "BetterZip is the most powerful archiver for macOS which you can customize in many ways. To get started quickly use a few select options below. \n\nDive into all available settings in the preferences window when you are ready. \n\nChoose Help > BetterZip Help from the menu for more information.";
 
-/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
+"pAU-Gw-VpU.title" = "Regularly check for updates";
+
+/* Class = "NSButtonCell"; title = "Add a BetterZip button to Finder's toolbar"; ObjectID = "t2Q-rY-XuF"; */
 "t2Q-rY-XuF.title" = "Add a BetterZip button to Finder's toolbar";
 
+/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
+"qLc-Qu-est.title" = "What should happen when you open an archive?";
+
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "Browse the archive contents";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "Extract it right away";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "Next";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "Back";

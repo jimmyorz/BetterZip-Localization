@@ -10,6 +10,15 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
 "gKo-1f-fdy.title" = "Annuler";
 
+/* Class = "NSMenuItem"; title = "Include only files like"; ObjectID = "gS5-jE-uMJ"; */
+"gS5-jE-uMJ.title" = "Inclure uniquement les fichiers semblables à";
+
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
 "jOl-a6-JOJ.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Exclude all files like"; ObjectID = "KIi-cE-vGM"; */
+"KIi-cE-vGM.title" = "Exclure les fichiers semblables à ";
+
+/* Class = "NSButtonCell"; title = "Pattern is a regular expression"; ObjectID = "RXv-40-jMg"; */
+"RXv-40-jMg.title" = "Le modèle est une expression régulière";
 

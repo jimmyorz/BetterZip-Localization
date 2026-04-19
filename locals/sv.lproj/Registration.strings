@@ -26,6 +26,12 @@
 "Buy now" = "Köp nu";
 
 /* (No Comment) */
+"Buy Now…" = "Köp nu…";
+
+/* (No Comment) */
+"Check for Updates…" = "Leta efter uppdateringar…";
+
+/* (No Comment) */
 "Continue" = "Fortsätt";
 
 /* (No Comment) */
@@ -65,6 +71,12 @@
 "Registration: %@ – %d licenses" = "Registrerat:";
 
 /* (No Comment) */
+"Registration: %@ for %d licenses" = "Registrering: %@ för %d licenser";
+
+/* (No Comment) */
+"Registration…" = "Registrering…";
+
+/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "Koden är inte giltig. Dubbelkolla att du klistrat in den fullständiga licensnyckeln i textfältet.";
 
 /* (No Comment) */
@@ -82,7 +94,7 @@
 /* (No Comment) */
 "This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "Detta är en temporär licensnyckel för kunder som köpte BetterZip 2 i mac App Store. Du kan använda den för att köpa en rabatterad uppgradering till BetterZip 5 för US$ 14.99. Klicka på ”Uppgradera nu” nedan för att komma till vår webbshop.";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Trial period, %d days left" = "Testperiod, %d dagar kvar";
 
 /* (No Comment) */

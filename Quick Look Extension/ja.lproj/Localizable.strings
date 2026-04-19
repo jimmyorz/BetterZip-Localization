@@ -1,6 +1,81 @@
+/* Format name */
+"7-Zip Format" = "7-Zip 形式";
+
+/* Format name */
+"Apple Disk Image" = "Apple ディスクイメージ";
+
+/* DMG subformat */
+"BZip2 compressed" = "BZip 2 圧縮";
+
+/* Format name */
+"CPIO Format, uncompressed (cpio)" = "非圧縮の CPIO 形式 (cpio)";
+
+/* DMG subformat */
+"DVD/CD-R master for export" = "エクスポート用の DVD/CD-R マスター";
+
+/* DMG subformat */
+"HFS" = "HFS";
+
+/* Format name */
+"ISO Image" = "ISO イメージ";
+
+/* DMG subformat */
+"ISO9660 Level 2" = "ISO9660 レベル 2";
+
+/* DMG subformat */
+"ISO9660 with Joliet ext." = "ISO9660 Juliet 拡張";
+
+/* DMG subformat */
+"LZMA compressed (macOS 10.15+)" = "LZMA 圧縮 (macOS 10.15+)";
+
+/* DMG subformat */
+"Read-only image" = "読み込み専用イメージ";
+
+/* DMG subformat */
+"Read/write image" = "読み書き可能イメージ";
+
+/* Format name */
+"TAR Format, Brotli compressed (tbr)" = "TAR 形式、Brotli 圧縮 (tbr)";
+
+/* Format name */
+"TAR Format, BZip2 compressed (tbz)" = "TAR 形式、BZip 2 圧縮 (tbz)";
+
+/* Format name */
+"TAR Format, GZip compressed (tgz)" = "TAR 形式、GZip 圧縮 (tgz)";
+
+/* Format name */
+"TAR Format, uncompressed (tar)" = "TAR 形式、非圧縮 (tar)";
+
+/* Format name */
+"TAR Format, xz compressed (txz)" = "TAR 形式、xz 圧縮 (txz)";
+
+/* Format name */
+"TAR Format, Z compressed (tz)" = "TAR 形式、Z 圧縮 (tz)";
+
+/* Format name */
+"TAR Format, Zstandard compressed (tzst)" = "TAR 形式、Zstandard 圧縮 (tzst)";
+
 /* Today title string */
 "Today" = "今日";
 
+/* DMG subformat */
+"UDF" = "UDF";
+
+/* Format name */
+"XAR Format" = "XAR 形式";
+
+/* Format name */
+"XIP Format" = "XIP 形式";
+
 /* Yesterday title string */
 "Yesterday" = "昨日";
+
+/* Format name */
+"Zip Format (recommended)" = "Zip 形式 (推奨)";
+
+/* DMG subformat */
+"Zlib compressed" = "Zlib 圧縮";
+
+/* DMG subformat */
+"Zlib compressed (level 9)" = "Zlib 圧縮 (レベル9)";
 

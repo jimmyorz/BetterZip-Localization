@@ -13,11 +13,20 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
 "gKo-1f-fdy.title" = "Abryt";
 
+/* Class = "NSMenuItem"; title = "Include only files like"; ObjectID = "gS5-jE-uMJ"; */
+"gS5-jE-uMJ.title" = "Inkludera bara filer som liknar";
+
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
 "jOl-a6-JOJ.title" = "Okay";
 
+/* Class = "NSMenuItem"; title = "Exclude all files like"; ObjectID = "KIi-cE-vGM"; */
+"KIi-cE-vGM.title" = "Exkludera alla filer som liknar";
+
 /* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "ko5-m8-Ic0"; Note = "don't translate"; */
 "ko5-m8-Ic0.title" = "_placeholer";
+
+/* Class = "NSButtonCell"; title = "Pattern is a regular expression"; ObjectID = "RXv-40-jMg"; */
+"RXv-40-jMg.title" = "Mönstret är ett Regular Expression";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ygR-6F-K2W"; */
 "ygR-6F-K2W.title" = "Text Cell";

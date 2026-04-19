@@ -16,6 +16,9 @@
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "Sofort entpacken";
 
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; */
+"Igc-GC-msG.title" = "Neues in BetterZip 6";
+
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
 "ktm-z0-OrQ.title" = "Willkommen bei BetterZip!";
 
@@ -23,7 +26,7 @@
 "nBc-Nx-pge.title" = "Weiter";
 
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "BetterZip ist das wohl mächtigste Archivierungsprogramm für macOS und bietet viele Anpassungsmöglichkeiten. Damit Sie schnell loslegen können, ist hier eine kleine Auswahl wichtiger Einstellungen zusammengefasst.\n\nWenn Sie bereit für mehr sind, sehen Sie einmal in die Einstellungen (BetterZip-Menü). \nWählen Sie Hilfe > BetterZip Hilfe aus dem Menü für mehr Informationen.";
+"or3-DA-ngV.title" = "_placeholder";
 
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "Regelmäßig nach Updates suchen";
@@ -32,5 +35,11 @@
 "qLc-Qu-est.title" = "Was soll geschehen, wenn Sie ein Archiv im Finder öffnen?";
 
 /* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
-"t2Q-rY-XuF.title" = "In der Symbolleiste von Finder-Fenstern eine BetterZip-Schaltfläche anzeigen";
+"t2Q-rY-XuF.title" = "BetterZips Finder-Erweiterung aktivieren";
+
+/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
+"tI1-Pg-one.label" = "Verhalten beim Öffnen";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
+"tI2-Pg-two.label" = "Optionen";
 

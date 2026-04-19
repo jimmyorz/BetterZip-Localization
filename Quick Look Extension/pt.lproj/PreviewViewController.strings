@@ -1,3 +1,4 @@
+
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1X0-Dx-oTi"; */
 "1X0-Dx-oTi.title" = "Text Cell";
 
@@ -7,11 +8,11 @@
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3Ye-pm-JXL"; */
 "3Ye-pm-JXL.title" = "Text Cell";
 
+/* Class = "NSTextFieldCell"; title = "Set the default view options in BetterZip > Preferences > Quick Look."; ObjectID = "5oG-a8-pGB"; */
+"5oG-a8-pGB.title" = "Set the default view options in BetterZip > Preferences > Quick Look.";
+
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "D9n-CY-dye"; */
 "D9n-CY-dye.headerCell.title" = "Nome";
-
-/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "ibb-eH-X1e"; */
-"ibb-eH-X1e.headerCell.title" = "Tamanho";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IMo-dV-byZ"; */
 "IMo-dV-byZ.title" = "Text Cell";
@@ -22,14 +23,23 @@
 /* Class = "NSTableColumn"; headerCell.title = "Ratio"; ObjectID = "Kwa-Qb-JpQ"; */
 "Kwa-Qb-JpQ.headerCell.title" = "Proporção";
 
+/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "QUh-KA-qlu"; */
+"QUh-KA-qlu.title" = "Auto Size Columns";
+
+/* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "TB1-H2-ikb"; */
+"TB1-H2-ikb.title" = "Mostrar arquivos ocultos";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xnb-J4-9Bf"; */
+"Xnb-J4-9Bf.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "ibb-eH-X1e"; */
+"ibb-eH-X1e.headerCell.title" = "Tamanho";
+
 /* Class = "NSTableColumn"; headerCell.title = "Packed"; ObjectID = "lB5-9B-eif"; */
 "lB5-9B-eif.headerCell.title" = "Empacotado";
 
 /* Class = "NSTextFieldCell"; title = "BetterZip Preview"; ObjectID = "nEY-aP-CkJ"; */
 "nEY-aP-CkJ.title" = "BetterZip Preview";
-
-/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "QUh-KA-qlu"; */
-"QUh-KA-qlu.title" = "Auto Size Columns";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r10-Bv-Lfw"; */
 "r10-Bv-Lfw.title" = "Text Cell";
@@ -37,15 +47,9 @@
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "t24-BS-p3d"; */
 "t24-BS-p3d.title" = "Text Cell";
 
-/* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "TB1-H2-ikb"; */
-"TB1-H2-ikb.title" = "Mostrar arquivos ocultos";
-
 /* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "tfT-ax-tXZ"; */
 "tfT-ax-tXZ.headerCell.title" = "Tipo";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "w5r-tG-oSU"; */
 "w5r-tG-oSU.title" = "Text Cell";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xnb-J4-9Bf"; */
-"Xnb-J4-9Bf.title" = "Text Cell";
 

@@ -1,10 +1,10 @@
 /* (No Comment) */
 "(incl. %d hidden)" = "(隠しファイルを %d 個含む)";
 
-/* (No Comment) */
+/* Marks the newer file */
 "(newer)" = "(新しい)";
 
-/* (No Comment) */
+/* Marks the older file */
 "(older)" = "(古い)";
 
 /* (No Comment) */
@@ -44,8 +44,11 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "<new preset>" = "<新規プリセット>";
 
-/* (No Comment) */
+/* Marks the older file */
 "⚠️ (older)" = "⚠️ (古い)";
+
+/* Format name */
+"7-Zip Format" = "7-Zip 形式";
 
 /* (No Comment) */
 "7-Zip Format (best compression)" = "7-Zip 形式 (圧縮率最高)";
@@ -56,7 +59,7 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Activate" = "アクティベート";
 
-/* Import presets button */
+/* (No Comment) */
 "Add" = "追加";
 
 /* (No Comment) */
@@ -73,6 +76,9 @@ initial name of a duplicated save preset, %@ being the original name */
 
 /* (No Comment) */
 "Add the items to a new archive" = "新規アーカイブに項目を追加";
+
+/* (No Comment) */
+"Add to %@…" = "%@ に追加…";
 
 /* (No Comment) */
 "Added" = "追加";
@@ -113,19 +119,19 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "An unknown error occurred." = "道のエラーが発生しました。";
 
-/* (No Comment) */
+/* Format name */
 "Apple Disk Image" = "Apple ディスクイメージ";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all" = "すべてに適用";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all folders" = "すべてのフォルダに適用";
 
-/* (No Comment) */
+/* Checkbox label */
 "Apply to all in queue" = "キュー全体に適用";
 
-/* column header */
+/* (No Comment) */
 "Archive" = "アーカイブ";
 
 /* (No Comment) */
@@ -161,11 +167,14 @@ initial name of a duplicated save preset, %@ being the original name */
 /* (No Comment) */
 "Are you sure you want to overwrite the original archive?" = "本当に元のアーカイブを置き換えますか?";
 
-/* Info table key */
+/* (No Comment) */
 "Author" = "作者";
 
 /* (No Comment) */
 "Back" = "戻る";
+
+/* The user needs to choose a master password. */
+"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "プリセットにパスワードを設定する前に、パスワードマネージャーを設定してマスターパスワードを指定してください。";
 
 /* (No Comment) */
 "Best (solid, slow extraction)" = "最適 (確実ですが展開は遅くなります)";
@@ -212,11 +221,13 @@ initial name of a duplicated save preset, %@ being the original name */
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip は、macOS 10.13 (High Sierra) もしくはそれ以降でしか動作しません。";
 
+/* DMG subformat */
+"BZip2 compressed" = "BZip 2 圧縮";
+
 /* (No Comment) */
 "BZip2-compressed image" = "BZip 2 圧縮イメージ";
 
-/* Import presets button
-button */
+/* (No Comment) */
 "Cancel" = "キャンセル";
 
 /* (No Comment) */
@@ -267,7 +278,7 @@ button */
 /* (No Comment) */
 "Columns" = "表示項目";
 
-/* Info table key */
+/* (No Comment) */
 "Comment" = "コメント";
 
 /* (No Comment) */
@@ -291,10 +302,10 @@ button */
 /* (No Comment) */
 "Continue" = "続ける";
 
-/* Info table key */
+/* (No Comment) */
 "Copyright" = "著作権";
 
-/* (No Comment) */
+/* Format name */
 "CPIO Format, uncompressed (cpio)" = "CPIO 形式、無圧縮 (cpio)";
 
 /* (No Comment) */
@@ -345,7 +356,7 @@ button */
 /* Menu item for character encoding detector */
 "Detect Automatically" = "自動検出";
 
-/* Info table key */
+/* (No Comment) */
 "Dimensions" = "サイズ";
 
 /* Welcome text, line 2 */
@@ -393,10 +404,19 @@ button */
 /* (No Comment) */
 "Drop the files here to add them to a new archive" = "新規アーカイブに追加する項目をここにドロップ";
 
-/* (No Comment) */
+/* DMG subformat */
 "DVD/CD-R master for export" = "書きさし元の DVD/CD-R マスター";
 
-/* Info table key */
+/* menu item */
+"Edit Patterns…" = "プリセットを編集…";
+
+/* menu item */
+"Edit Places…" = "場所を編集…";
+
+/* menu item */
+"Edit Presets…" = "プリセットを編集…";
+
+/* (No Comment) */
 "Encryption" = "暗号化";
 
 /* (No Comment) */
@@ -408,8 +428,7 @@ button */
 /* (No Comment) */
 "External command returned: %d%c" = "外部コマンドの戻り値: %d%c";
 
-/* Open panel title
-button */
+/* Open panel title */
 "Extract" = "展開";
 
 /* (No Comment) */
@@ -432,6 +451,9 @@ button */
 
 /* (No Comment) */
 "Extract the selected files or folders from the archive" = "アーカイブから選択したファイルとフォルダを展開します";
+
+/* (No Comment) */
+"Extract to…" = "展開先…";
 
 /* default service name */
 "Extract with BetterZip" = "BetterZip で展開";
@@ -490,7 +512,7 @@ button */
 /* (No Comment) */
 "File Types" = "ファイルタイプ";
 
-/* Info table key */
+/* (No Comment) */
 "Filename encoding" = "ファイル名文字コード";
 
 /* Preferences tab title */
@@ -499,7 +521,10 @@ button */
 /* Preferences window - name of the tab to manage filter patterns */
 "Filtering" = "フィルタリング";
 
-/* Info table key */
+/* (No Comment) */
+"Finishing…" = "終了…";
+
+/* (No Comment) */
 "Format" = "形式";
 
 /* Preferences tab title */
@@ -511,7 +536,10 @@ button */
 /* Preferences tab title */
 "Helpers" = "ヘルパー";
 
-/* Info table key */
+/* DMG subformat */
+"HFS" = "HFS";
+
+/* (No Comment) */
 "Hidden" = "非表示項目";
 
 /* (No Comment) */
@@ -547,28 +575,37 @@ button */
 /* (No Comment) */
 "Ignore This Time" = "今回だけ破棄";
 
+/* Format name */
+"ISO Image" = "ISO イメージ";
+
+/* DMG subformat */
+"ISO9660 Level 2" = "ISO9660 レベル 2";
+
+/* DMG subformat */
+"ISO9660 with Joliet ext." = "ISO9660";
+
 /* (No Comment) */
 "It is either damaged or in an unsupported format." = "壊れているか、未知の形式が使われています。";
 
-/* Info table key */
+/* (No Comment) */
 "Items" = "項目";
 
-/* conflict action */
+/* Button label */
 "Keep Both" = "両方とも残す";
 
 /* (No Comment) */
 "Keep Mac Stuff out" = "Mac 固有ファイルを維持";
 
-/* conflict action */
+/* Button label */
 "Keep Newer" = "新しい方を残す";
 
-/* Info table key */
+/* (No Comment) */
 "Kind" = "種類";
 
 /* PreferenceController */
 "Last checked: " = "最終確認日時:";
 
-/* (No Comment) */
+/* %c is replaced with newline character */
 "Last modified: %@ %@%cSize: %@" = "最終更新日時: %@ %@%cサイズ: %@";
 
 /* helpers */
@@ -580,7 +617,7 @@ button */
 /* (No Comment) */
 "Lock Password Manager" = "パスワードマネージャーをロック";
 
-/* (No Comment) */
+/* DMG subformat */
 "LZMA compressed (macOS 10.15+)" = "LZMA 圧縮 (macOS 10.15+)";
 
 /* (No Comment) */
@@ -592,13 +629,13 @@ button */
 /* (No Comment) */
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "おそらく、対象のドライブに充分な空き容量がないか、パスワードが間違っていると思われます。";
 
-/* (No Comment) */
+/* Button label */
 "Merge Folders" = "フォルダをマージ";
 
 /* possible file status strings */
 "Modified" = "修正";
 
-/* Info table key */
+/* (No Comment) */
 "Modified at" = "最終更新日時";
 
 /* (No Comment) */
@@ -673,7 +710,7 @@ button */
 /* (No Comment) */
 "Not encrypted" = "暗号化しない";
 
-/* button */
+/* (No Comment) */
 "OK" = "OK";
 
 /* Descriptive title of the password editor window */
@@ -697,13 +734,22 @@ button */
 /* (No Comment) */
 "Opening archive with %d items" = "％d 項目を含むアーカイブを展開しています";
 
-/* Info table key */
+/* (No Comment) */
+"Other folder…" = "その他のフォルダ…";
+
+/* menu item */
+"Other Folder…" = "他のフォルダ…";
+
+/* open with other application */
+"Other…" = "その他";
+
+/* (No Comment) */
 "Pages" = "ページ";
 
 /* Preferences tab title */
 "Passwords" = "パスワード";
 
-/* Info table key */
+/* (No Comment) */
 "Path" = "パス";
 
 /* (No Comment) */
@@ -739,7 +785,7 @@ button */
 /* (No Comment) */
 "RAR Format" = "RAR 形式";
 
-/* (No Comment) */
+/* DMG subformat */
 "Read-only image" = "読み取り専用イメージ";
 
 /* DMG Options */
@@ -763,8 +809,7 @@ button */
 /* (No Comment) */
 "Repair" = "修復";
 
-/* Import presets button
-conflict action */
+/* Button label */
 "Replace" = "置換";
 
 /* (No Comment) */
@@ -784,6 +829,9 @@ conflict action */
 
 /* (No Comment) */
 "Save" = "保存";
+
+/* (No Comment) */
+"Save As…" = "別名で保存…";
 
 /* (No Comment) */
 "Save the archive" = "アーカイブを保存";
@@ -830,10 +878,10 @@ conflict action */
 /* Pattern control */
 "Simple File Mask" = "シンプルなファイルマスク";
 
-/* Info table key */
+/* (No Comment) */
 "Size" = "サイズ";
 
-/* Info table key */
+/* (No Comment) */
 "Solid" = "一体";
 
 /* (No Comment) */
@@ -854,25 +902,25 @@ conflict action */
 /* The system default app should handle this file type. */
 "System Default" = "システムデフォルト";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Brotli compressed (tbr)" = "TAR 形式、Brotli 圧縮 (tbr)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, BZip2 compressed (tbz)" = "TAR 形式、BZip2 圧縮 (tbz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, GZip compressed (tgz)" = "TAR 形式、圧縮 (tgz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, uncompressed (tar)" = "TAR 形式、無圧縮 (tar)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, xz compressed (txz)" = "TAR 形式、xz 圧縮 (txz)";
 
 /* New formats */
 "TAR Format, Z compressed (tz)" = "TAR 形式、Z圧縮 (tz)";
 
-/* (No Comment) */
+/* Format name */
 "TAR Format, Zstandard compressed (tzst)" = "TAR 形式、Zstandard 圧縮 (tzst)";
 
 /* (No Comment) */
@@ -889,6 +937,9 @@ conflict action */
 
 /* (No Comment) */
 "Testing archive %@" = "アーカイブ %@ を検査中";
+
+/* Output while testing archives */
+"Testing: %@…" = "検査中: %@…";
 
 /* (No Comment) */
 "The archive cannot be created." = "アーカイブを作成できませんでした。";
@@ -962,7 +1013,7 @@ conflict action */
 /* (No Comment) */
 "This name is invalid." = "不正な名前です。";
 
-/* Info table key */
+/* (No Comment) */
 "Title" = "タイトル";
 
 /* (No Comment) */
@@ -973,6 +1024,9 @@ conflict action */
 
 /* menu item */
 "Trash" = "ゴミ箱";
+
+/* DMG subformat */
+"UDF" = "UDF";
 
 /* (No Comment) */
 "Unknown" = "不明";
@@ -1019,7 +1073,7 @@ conflict action */
 /* (No Comment) */
 "Use this preset as service" = "このプリセットをサービスで使う";
 
-/* Info table key */
+/* (No Comment) */
 "Version" = "バージョン";
 
 /* (No Comment) */
@@ -1031,7 +1085,7 @@ conflict action */
 /* Logging volume changes during extraction and testing of multi-volume rar archives */
 "Volume: %@" = "ボリューム: %@";
 
-/* Info table key */
+/* (No Comment) */
 "Volumes" = "ボリューム";
 
 /* (No Comment) */
@@ -1055,8 +1109,11 @@ conflict action */
 /* (No Comment) */
 "Wrong checksum" = "チェックサム異常";
 
-/* (No Comment) */
+/* Format name */
 "XAR Format" = "XAR 形式";
+
+/* Format name */
+"XIP Format" = "XIP 形式";
 
 /* (No Comment) */
 "Yes" = "はい";
@@ -1082,9 +1139,12 @@ conflict action */
 /* ZipDocument */
 "Zip Format (recommended)" = "Zip 形式 (推奨)";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed" = "Zlib 圧縮";
 
-/* (No Comment) */
+/* DMG subformat */
 "Zlib compressed (level 9)" = "Zlib 圧縮 (レベル 9)";
 
+
+"Cancel Operation" = "Cancel Operation";
+"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";

@@ -38,7 +38,7 @@
 "58.title" = "BetterZip について";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "開く...";
+"72.title" = "開く…";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "ファイル";
@@ -161,7 +161,7 @@
 "305.title" = "保存";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "306"; */
-"306.title" = "別名で保存...";
+"306.title" = "別名で保存…";
 
 /* Class = "NSMenuItem"; title = "Revert"; ObjectID = "307"; */
 "307.title" = "元に戻す";

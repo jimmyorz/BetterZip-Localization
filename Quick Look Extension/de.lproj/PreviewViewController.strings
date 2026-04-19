@@ -7,6 +7,9 @@
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "D9n-CY-dye"; */
 "D9n-CY-dye.headerCell.title" = "Name";
 
+/* Class = "NSButton"; ibShadowedToolTip = "Set the default view options in BetterZip > Preferences > Quick Look."; ObjectID = "i1f-WX-Nei"; */
+"i1f-WX-Nei.ibShadowedToolTip" = "Ändern Sie die Standardeinstellungen in BetterZip > Einstellungen > Quick Look.";
+
 /* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "ibb-eH-X1e"; */
 "ibb-eH-X1e.headerCell.title" = "Größe";
 
@@ -23,10 +26,10 @@
 "lB5-9B-eif.headerCell.title" = "Komprimiert";
 
 /* Class = "NSTextFieldCell"; title = "BetterZip Preview"; ObjectID = "nEY-aP-CkJ"; */
-"nEY-aP-CkJ.title" = "BetterZip Preview";
+"nEY-aP-CkJ.title" = "BetterZip Vorschau";
 
 /* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "QUh-KA-qlu"; */
-"QUh-KA-qlu.title" = "Auto Size Columns";
+"QUh-KA-qlu.title" = "Automatische Spaltengröße";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r10-Bv-Lfw"; */
 "r10-Bv-Lfw.title" = "Text Cell";
@@ -35,7 +38,7 @@
 "t24-BS-p3d.title" = "Text Cell";
 
 /* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "TB1-H2-ikb"; */
-"TB1-H2-ikb.title" = "Versteckte Dateien anzeigen (setze die Standardeinstellungen in BetterZip > Einstellungen > Quick Look.)";
+"TB1-H2-ikb.title" = "Versteckte Dateien anzeigen (ändern Sie die Standardeinstellungen in BetterZip > Einstellungen > Quick Look)";
 
 /* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "tfT-ax-tXZ"; */
 "tfT-ax-tXZ.headerCell.title" = "Art";

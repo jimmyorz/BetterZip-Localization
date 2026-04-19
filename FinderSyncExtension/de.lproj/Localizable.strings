@@ -2,10 +2,16 @@
 "Add Items to New Archive in BetterZip" = "Objekte einem neuen Archiv in BetterZip hinzufügen";
 
 /* (No Comment) */
+"Compress with BetterZip" = "Packen mit BetterZip";
+
+/* (No Comment) */
 "Compress with Preset" = "Packen mit Preset";
 
 /* (No Comment) */
 "Extract to" = "Entpacken nach";
+
+/* (No Comment) */
+"Extract with BetterZip" = "Entpacken mit BetterZip";
 
 /* (No Comment) */
 "Extract with Preset" = "Entpacken mit Preset";
@@ -21,6 +27,9 @@
 
   Created by Robert Rezabek on 07.05.17. */
 "Other Actions" = "Weitere Aktionen";
+
+/* (No Comment) */
+"Start collecting items in a new archive" = "Starte Sammeln in neuem Archiv";
 
 /* (No Comment) */
 "Test Validity of Archives" = "Archive testen";

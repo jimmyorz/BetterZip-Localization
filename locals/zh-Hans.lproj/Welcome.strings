@@ -4,23 +4,14 @@
 /* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
 "AZv-gH-0JZ.title" = "开始吧!";
 
-/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
-"bBc-Bk-pge.title" = "返回";
-
 /* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
 "bku-O5-RcK.title" = "告诉macOS用BetterZip打开压缩文件";
 
-/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
-"bRc-Br-wse.title" = "浏览压缩文件内容";
-
-/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
-"eRc-Ex-trc.title" = "立即解压";
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 5"; ObjectID = "Igc-GC-msG"; */
+"Igc-GC-msG.title" = "BetterZip 5 中的新增功能";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
 "ktm-z0-OrQ.title" = "欢迎来到BetterZip！";
-
-/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
-"nBc-Nx-pge.title" = "下一步";
 
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
 "or3-DA-ngV.title" = "_placeholder";
@@ -28,9 +19,21 @@
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "定期检查更新";
 
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "向 Finder 工具栏添加一个 BetterZip 按钮";
+
 /* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
 "qLc-Qu-est.title" = "打开压缩文件时应该怎么做？";
 
-/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
-"t2Q-rY-XuF.title" = "向 Finder 工具栏添加一个 BetterZip 按钮";
+/* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
+"bRc-Br-wse.title" = "浏览压缩文件内容";
+
+/* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
+"eRc-Ex-trc.title" = "立即解压";
+
+/* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
+"nBc-Nx-pge.title" = "下一步";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "返回";
 

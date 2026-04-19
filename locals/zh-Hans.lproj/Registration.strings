@@ -26,6 +26,12 @@
 "Buy now" = "在线购买";
 
 /* (No Comment) */
+"Buy Now…" = "即刻购买…";
+
+/* (No Comment) */
+"Check for Updates…" = "检查更新…";
+
+/* (No Comment) */
 "Continue" = "继续";
 
 /* (No Comment) */
@@ -65,6 +71,12 @@
 "Registration: %@ – %d licenses" = "注册： %1$* = %2$d 许可证";
 
 /* (No Comment) */
+"Registration: %@ for %d licenses" = "注册信息：个用于%@，为%d人所准备的许可证";
+
+/* (No Comment) */
+"Registration…" = "注册…";
+
+/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "注册码无效，请确保您将完整的注册码都粘贴进入了文本框。";
 
 /* (No Comment) */
@@ -82,7 +94,7 @@
 /* (No Comment) */
 "This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "这是给在Mac App商店中购买BetterZip 2的用户的一个临时的许可证代码。您可以用它以14.99美元的优惠升级价格来购买BetterZip 5许可证。点击“现在升级”前往我们的网上商店。";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Trial period, %d days left" = "试用期，剩余 %d 天";
 
 /* (No Comment) */

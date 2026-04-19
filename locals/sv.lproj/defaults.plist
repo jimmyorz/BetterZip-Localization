@@ -15,6 +15,134 @@
 			<string>*.o</string>
 		</dict>
 	</array>
+	<key>MIBCleanPredicates</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Version control folders</string>
+			<key>tag</key>
+			<integer>1</integer>
+			<key>predicateData</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0
+			b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRy
+			b290gAGvEB4LDBMaIiwtMDc7QEFESExRUlVbYmZrbm9xdnl6fH5V
+			JG51bGzTDQ4PEBESXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVf
+			EA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAd0hQPFRlaTlMu
+			b2JqZWN0c6MWFxiAA4AUgBiAHNQPGxwdHh8gIV8QEU5TUmlnaHRF
+			eHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGlj
+			YXRlT3BlcmF0b3KAE4AOgASAEdUjJCUmDycoKSorWU5TT3BlcmFu
+			ZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNB
+			cmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIlDy4vEAGA
+			B9IxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHBy
+			ZXNzaW9uozM1NlxOU0V4cHJlc3Npb25YTlNPYmplY3TSFA84OqE5
+			gAmADNMPJTw9Pj9ZTlNLZXlQYXRogAsQCoAKVHBhdGjSMTJCQ18Q
+			HE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jQjU20jEyRUZe
+			TlNNdXRhYmxlQXJyYXmjRUc2V05TQXJyYXnSMTJJSl8QE05TS2V5
+			UGF0aEV4cHJlc3Npb26kSUs1Nl8QFE5TRnVuY3Rpb25FeHByZXNz
+			aW9u000lD05PUF8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEFQuc3Zu
+			0jEyU1RfEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo1M1NtQP
+			VldYWU8pWlpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5
+			cGWAEhAH0jEyXF1fEBdOU0xpa2VQcmVkaWNhdGVPcGVyYXRvcqVe
+			X2BhNl8QF05TTGlrZVByZWRpY2F0ZU9wZXJhdG9yXxAbTlNNYXRj
+			aGluZ1ByZWRpY2F0ZU9wZXJhdG9yXxAZTlNTdHJpbmdQcmVkaWNh
+			dGVPcGVyYXRvcl8QE05TUHJlZGljYXRlT3BlcmF0b3LSMTJjZF8Q
+			FU5TQ29tcGFyaXNvblByZWRpY2F0ZaNjZTZbTlNQcmVkaWNhdGXU
+			DxscHR5oIGqAE4AVgASAF9NNJQ9sT1CAFoAQU0NWU9QPVldYWU8p
+			WoAS1A8bHB0ecyB1gBOAGYAEgBvTTSUPd09QgBqAEFQuZ2l01A9W
+			V1hZTylagBLSMTJHfaJHNtIxMn+AXxATTlNDb21wb3VuZFByZWRp
+			Y2F0ZaN/ZTYACAARABoAJAApADIANwBJAEwAUQBTAHQAegCBAJsA
+			rQC0ALYAuAC6AL8AygDOANAA0gDUANYA3wDzAQYBHAEeASABIgEk
+			AS8BOQFIAVsBZwFpAWsBbQFvAXEBfgGDAYUBhwGMAZcBoAGzAbcB
+			xAHNAdIB1AHWAdgB3wHpAesB7QHvAfQB+QIYAhwCIQIwAjQCPAJB
+			AlcCXAJzAnoCjAKOApACkgKXApwCuAK8AsUC0ALYAucC6QLrAvAD
+			CgMQAyoDSANkA3oDfwOXA5sDpwOwA7IDtAO2A7gDvwPBA8MDxwPQ
+			A9ID2wPdA98D4QPjA+oD7APuA/MD/AP+BAMEBgQLBCEAAAAAAAAC
+			AQAAAAAAAACBAAAAAAAAAAAAAAAAAAAEJQ==
+			</data>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Build artefacts</string>
+			<key>tag</key>
+			<integer>2</integer>
+			<key>predicateData</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0
+			b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRy
+			b290gAGvEBoLDBMZISssLjU5Pj9CRkpPUFNZYGRpbG1vcVUkbnVs
+			bNMNDg8QERJfEBdOU0NvbXBvdW5kUHJlZGljYXRlVHlwZV8QD05T
+			U3VicHJlZGljYXRlc1YkY2xhc3MQAYACgBnSFA8VGFpOUy5vYmpl
+			Y3RzohYXgAOAFIAY1A8aGxwdHh8gXxARTlNSaWdodEV4cHJlc3Np
+			b25fEBBOU0xlZnRFeHByZXNzaW9uXxATTlNQcmVkaWNhdGVPcGVy
+			YXRvcoATgA6ABIAR1SIjJCUPJicoKSpZTlNPcGVyYW5kXk5TU2Vs
+			ZWN0b3JOYW1lXxAQTlNFeHByZXNzaW9uVHlwZVtOU0FyZ3VtZW50
+			c4AGgAUQA4AIgA1cdmFsdWVGb3JLZXk60iQPEC2AB9IvMDEyWiRj
+			bGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uozEz
+			NFxOU0V4cHJlc3Npb25YTlNPYmplY3TSFA82OKE3gAmADNMPJDo7
+			PD1ZTlNLZXlQYXRogAsQCoAKVHBhdGjSLzBAQV8QHE5TS2V5UGF0
+			aFNwZWNpZmllckV4cHJlc3Npb26jQDM00i8wQ0ReTlNNdXRhYmxl
+			QXJyYXmjQ0U0V05TQXJyYXnSLzBHSF8QE05TS2V5UGF0aEV4cHJl
+			c3Npb26kR0kzNF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00skD0xN
+			Tl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEFcqL2J1aWxk0i8wUVJf
+			EBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo1EzNNQPVFVWV00o
+			WFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhAH
+			0i8wWltfEBdOU0xpa2VQcmVkaWNhdGVPcGVyYXRvcqVcXV5fNF8Q
+			F05TTGlrZVByZWRpY2F0ZU9wZXJhdG9yXxAbTlNNYXRjaGluZ1By
+			ZWRpY2F0ZU9wZXJhdG9yXxAZTlNTdHJpbmdQcmVkaWNhdGVPcGVy
+			YXRvcl8QE05TUHJlZGljYXRlT3BlcmF0b3LSLzBhYl8QFU5TQ29t
+			cGFyaXNvblByZWRpY2F0ZaNhYzRbTlNQcmVkaWNhdGXUDxobHB1m
+			H2iAE4AVgASAF9NLJA9qTU6AFoAQUyoub9QPVFVWV00oWIAS0i8w
+			RXCiRTTSLzByc18QE05TQ29tcG91bmRQcmVkaWNhdGWjcmM0AAgA
+			EQAaACQAKQAyADcASQBMAFEAUwBwAHYAfQCXAKkAsACyALQAtgC7
+			AMYAyQDLAM0AzwDYAOwA/wEVARcBGQEbAR0BKAEyAUEBVAFgAWIB
+			ZAFmAWgBagF3AXwBfgGDAY4BlwGqAa4BuwHEAckBywHNAc8B1gHg
+			AeIB5AHmAesB8AIPAhMCGAInAisCMwI4Ak4CUwJqAnECgwKFAocC
+			iQKRApYCsgK2Ar8CygLSAuEC4wLlAuoDBAMKAyQDQgNeA3QDeQOR
+			A5UDoQOqA6wDrgOwA7IDuQO7A70DwQPKA8wD0QPUA9kD7wAAAAAA
+			AAIBAAAAAAAAAHQAAAAAAAAAAAAAAAAAAAPz
+			</data>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Regular expressions example</string>
+			<key>tag</key>
+			<integer>3</integer>
+			<key>predicateData</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0
+			b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRy
+			b290gAGvEBYLDBMYICorLTQ4PT5BRUlOT1JYXWFjVSRudWxs0w0O
+			DxAREl8QF05TQ29tcG91bmRQcmVkaWNhdGVUeXBlXxAPTlNTdWJw
+			cmVkaWNhdGVzViRjbGFzcxABgAKAFdIUDxUXWk5TLm9iamVjdHOh
+			FoADgBTUDxkaGxwdHh9fEBFOU1JpZ2h0RXhwcmVzc2lvbl8QEE5T
+			TGVmdEV4cHJlc3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJhdG9ygBOA
+			DoAEgBHVISIjJA8lJicoKVlOU09wZXJhbmReTlNTZWxlY3Rvck5h
+			bWVfEBBOU0V4cHJlc3Npb25UeXBlW05TQXJndW1lbnRzgAaABRAD
+			gAiADVx2YWx1ZUZvcktleTrSIw8QLIAH0i4vMDFaJGNsYXNzbmFt
+			ZVgkY2xhc3Nlc18QEE5TU2VsZkV4cHJlc3Npb26jMDIzXE5TRXhw
+			cmVzc2lvblhOU09iamVjdNIUDzU3oTaACYAM0w8jOTo7PFlOU0tl
+			eVBhdGiACxAKgApUcGF0aNIuLz9AXxAcTlNLZXlQYXRoU3BlY2lm
+			aWVyRXhwcmVzc2lvbqM/MjPSLi9CQ15OU011dGFibGVBcnJheaNC
+			RDNXTlNBcnJhedIuL0ZHXxATTlNLZXlQYXRoRXhwcmVzc2lvbqRG
+			SDIzXxAUTlNGdW5jdGlvbkV4cHJlc3Npb27TSiMPS0xNXxAPTlND
+			b25zdGFudFZhbHVlgA8QAIAQXS4qXC5qcGd8anBlZyTSLi9QUV8Q
+			GU5TQ29uc3RhbnRWYWx1ZUV4cHJlc3Npb26jUDIz1A9TVFVWTCdX
+			Wk5TTW9kaWZpZXJXTlNGbGFnc15OU09wZXJhdG9yVHlwZYASEAbS
+			Li9ZWl8QG05TTWF0Y2hpbmdQcmVkaWNhdGVPcGVyYXRvcqRZW1wz
+			XxAZTlNTdHJpbmdQcmVkaWNhdGVPcGVyYXRvcl8QE05TUHJlZGlj
+			YXRlT3BlcmF0b3LSLi9eX18QFU5TQ29tcGFyaXNvblByZWRpY2F0
+			ZaNeYDNbTlNQcmVkaWNhdGXSLi9EYqJEM9IuL2RlXxATTlNDb21w
+			b3VuZFByZWRpY2F0ZaNkYDMACAARABoAJAApADIANwBJAEwAUQBT
+			AGwAcgB5AJMApQCsAK4AsACyALcAwgDEAMYAyADRAOUA+AEOARAB
+			EgEUARYBIQErAToBTQFZAVsBXQFfAWEBYwFwAXUBdwF8AYcBkAGj
+			AacBtAG9AcIBxAHGAcgBzwHZAdsB3QHfAeQB6QIIAgwCEQIgAiQC
+			LAIxAkcCTAJjAmoCfAJ+AoACggKQApUCsQK1Ar4CyQLRAuAC4gLk
+			AukDBwMMAygDPgNDA1sDXwNrA3ADcwN4A44AAAAAAAACAQAAAAAA
+			AABmAAAAAAAAAAAAAAAAAAADkg==
+			</data>
+		</dict>
+	</array>
 	<key>MIBConcurrentOperations</key>
 	<integer>4</integer>
 	<key>MIBCutOffExtensionFromSaveNames</key>
@@ -23,8 +151,14 @@
 	<false/>
 	<key>MIBDebugLevel</key>
 	<integer>2</integer>
+	<key>MIBLogPurgeDays</key>
+	<integer>7</integer>
+	<key>nextTag</key>
+	<integer>4</integer>
 	<key>MIBDirectExtractByDefault</key>
 	<false/>
+	<key>MIBDropDownButtonAction</key>
+	<true/>
 	<key>MIBExtractPresets</key>
 	<array>
 		<dict>
@@ -33,7 +167,10 @@
 			<key>folder</key>
 			<string>1</string>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAIMivxc/g5JvDT0Bhg==</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmAIMivxc/g5JvDT0Bhg==
+			</data>
 			<key>isService</key>
 			<true/>
 			<key>isToolbar</key>
@@ -50,25 +187,23 @@
 			<string>Ex&amp;kasta</string>
 		</dict>
 		<dict>
-			<key>excludePattern</key>
-			<dict>
-				<key>pattern</key>
-				<string>*/.svn;*/CVS;*/.git</string>
-				<key>regex</key>
-				<false/>
-			</dict>
 			<key>favorite</key>
 			<true/>
 			<key>folder</key>
 			<string>1</string>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAQCDgP9APQGG</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmAQCDgP9APQGG
+			</data>
 			<key>moveArchiveTo</key>
 			<string>1</string>
 			<key>name</key>
 			<string>Extrahera med rensning</string>
 			<key>openExtracted</key>
 			<false/>
+			<key>predicateTag</key>
+			<integer>1</integer>
 			<key>shortName</key>
 			<string>Ex/Rensa</string>
 		</dict>
@@ -89,6 +224,45 @@
 	</array>
 	<key>MIBPackagesExpandable</key>
 	<false/>
+	<key>MIBPlaces</key>
+	<array>
+		<dict>
+			<key>extract</key>
+			<true/>
+			<key>finder</key>
+			<true/>
+			<key>folder</key>
+			<string>~/Documents</string>
+			<key>move</key>
+			<true/>
+			<key>sidebar</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>extract</key>
+			<true/>
+			<key>finder</key>
+			<true/>
+			<key>folder</key>
+			<string>~/Desktop</string>
+			<key>move</key>
+			<true/>
+			<key>sidebar</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>extract</key>
+			<true/>
+			<key>finder</key>
+			<true/>
+			<key>folder</key>
+			<string>~/Downloads</string>
+			<key>move</key>
+			<true/>
+			<key>sidebar</key>
+			<true/>
+		</dict>
+	</array>
 	<key>MIBPostNotifications</key>
 	<true/>
 	<key>MIBRar</key>
@@ -100,8 +274,6 @@
 		<dict>
 			<key>additionalParams</key>
 			<string></string>
-			<key>cleanPattern</key>
-			<string>*/.svn;*/CVS;*/.git</string>
 			<key>compression</key>
 			<integer>2</integer>
 			<key>encryption</key>
@@ -113,13 +285,18 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAIMivxc/g5JvDT0Bhg==</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmAIMivxc/g5JvDT0Bhg==
+			</data>
 			<key>isService</key>
 			<true/>
 			<key>isToolbar</key>
 			<true/>
 			<key>name</key>
 			<string>Rensa upp och Zippa</string>
+			<key>predicateTag</key>
+			<integer>1</integer>
 			<key>shortName</key>
 			<string>Zip/Rensa</string>
 		</dict>
@@ -133,11 +310,16 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmgztnMD2DeggmPoP62X0/AYY=</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmgztnMD2DeggmPoP62X0/AYY=
+			</data>
 			<key>mode</key>
 			<true/>
 			<key>name</key>
 			<string>Spara för Windows</string>
+			<key>renameMode</key>
+			<integer>1</integer>
 			<key>shortName</key>
 			<string>Spara för Windows</string>
 		</dict>
@@ -155,7 +337,10 @@
 			<key>format</key>
 			<integer>4</integer>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAIMy5g4/g9r4OT8Bhg==</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmAIMy5g4/g9r4OT8Bhg==
+			</data>
 			<key>name</key>
 			<string>Spara som Solid 7z, fråga efter lösenord</string>
 			<key>password</key>
@@ -179,7 +364,10 @@
 			<key>format</key>
 			<integer>4</integer>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmAQCDgP9APQGG</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmAQCDgP9APQGG
+			</data>
 			<key>name</key>
 			<string>Komprimera och dela upp DVDn (7z)</string>
 			<key>password</key>
@@ -205,7 +393,10 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>imageTint</key>
-			<data>BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARmZmZmg+w9/j6DIgEkPoNEoz0/AYY=</data>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2Jq
+			ZWN0AIWEAWMBhARmZmZmg+w9/j6DIgEkPoNEoz0/AYY=
+			</data>
 			<key>individual</key>
 			<true/>
 			<key>name</key>
@@ -246,44 +437,9 @@
 	<integer>0</integer>
 	<key>cutoffCount</key>
 	<integer>10000</integer>
-	<key>MIBPlaces</key>
-	<array>
-		<dict>
-			<key>sidebar</key>
-			<true/>
-			<key>move</key>
-			<true/>
-			<key>extract</key>
-			<true/>
-			<key>finder</key>
-			<true/>
-			<key>folder</key>
-			<string>~/Documents</string>
-		</dict>
-		<dict>
-			<key>sidebar</key>
-			<true/>
-			<key>move</key>
-			<true/>
-			<key>extract</key>
-			<true/>
-			<key>finder</key>
-			<true/>
-			<key>folder</key>
-			<string>~/Desktop</string>
-		</dict>
-		<dict>
-			<key>sidebar</key>
-			<true/>
-			<key>move</key>
-			<true/>
-			<key>extract</key>
-			<true/>
-			<key>finder</key>
-			<true/>
-			<key>folder</key>
-			<string>~/Downloads</string>
-		</dict>
-	</array>
+	<key>addResolutionFiles</key>
+	<integer>0</integer>
+	<key>addResolutionFolders</key>
+	<integer>0</integer>
 </dict>
 </plist>

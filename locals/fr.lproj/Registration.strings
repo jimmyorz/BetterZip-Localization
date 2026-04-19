@@ -26,6 +26,12 @@
 "Buy now" = "Acheter maintenant";
 
 /* (No Comment) */
+"Buy Now…" = "Acheter maintenant…";
+
+/* (No Comment) */
+"Check for Updates…" = "Vérifier les mises à jour…";
+
+/* (No Comment) */
 "Continue" = "Continuer";
 
 /* (No Comment) */
@@ -65,6 +71,12 @@
 "Registration: %@ – %d licenses" = "Enregistrement : %1$@ - %2$d licences";
 
 /* (No Comment) */
+"Registration: %@ for %d licenses" = "Enregistrement : %@ pour %d licences";
+
+/* (No Comment) */
+"Registration…" = "Enregistrement…";
+
+/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "La clef de licence fournie est invalide. Assurez-vous d'avoir bien copié/collé l'intégralité de la clef dans le champ.";
 
 /* (No Comment) */
@@ -82,7 +94,7 @@
 /* (No Comment) */
 "This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "Ceci est un code temporaire pour les clients ayant achetés BetterZip 2 dans le Mac App Store. Vous pouvez l'utiliser pour acheter BetterZip 5 au tarif préférentiel de 9,99 $. Cliquez sur “Mettre à jour maintenant” ci-dessous pour vous rendre sur notre magasin en ligne.";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Trial period, %d days left" = "Période d'essai, %d jours restants.";
 
 /* (No Comment) */

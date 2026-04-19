@@ -1,0 +1,34 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Cannot enumerate directory: %@" : {
+
+    },
+    "Cannot open file: %@" : {
+
+    },
+    "Today" : {
+      "comment" : "Today title string",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
+        }
+      }
+    },
+    "Yesterday" : {
+      "comment" : "Yesterday title string",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestern"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

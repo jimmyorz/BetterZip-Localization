@@ -215,7 +215,7 @@
 "397.title" = "Apri ed Estrai con Coda…";
 
 /* Class = "NSMenuItem"; title = "Open and Compress with Queue…"; ObjectID = "400"; */
-"400.title" = "Apri e Comprimi con Coda...";
+"400.title" = "Apri e Comprimi con Coda…";
 
 /* Class = "NSMenuItem"; title = "Wrap Lines in Preview"; ObjectID = "409"; */
 "409.title" = "A capo in Anteprima";

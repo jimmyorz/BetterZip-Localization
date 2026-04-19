@@ -26,6 +26,12 @@
 "Buy now" = "Jetzt kaufen";
 
 /* (No Comment) */
+"Buy Now…" = "Jetzt kaufen…";
+
+/* (No Comment) */
+"Check for Updates…" = "Updates suchen…";
+
+/* (No Comment) */
 "Continue" = "Weiter";
 
 /* (No Comment) */
@@ -63,6 +69,9 @@
 
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Registrierung: %1$@ – %2$d Lizenzen";
+
+/* (No Comment) */
+"Registration…" = "Registrierung…";
 
 /* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "Der Code ist ungültig. Stellen Sie sicher, dass Sie ihn vollständig kopiert haben";

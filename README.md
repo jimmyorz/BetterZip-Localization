@@ -87,7 +87,7 @@ plain-text editor) to preserve the formatting.
 
 ## Contribution workflow
 
-### If you're a collaborator (invited by @robert)
+### If you're a collaborator (invited by me)
 
 1. `git clone git@github.com:<owner>/BetterZip-Localization.git`
 2. Edit files in your language's folders

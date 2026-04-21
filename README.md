@@ -20,8 +20,6 @@ Thank you for helping!
 | pt   | Portuguese | ● | ● | ● | ● |   |
 | sv   | Swedish  | ● | ● | ● | ● | ● |
 | zh-Hans | Simplified Chinese | ● | ● | ● | ● |   |
-| cs   | Czech    |   | ● |   |   |   |
-| ru   | Russian  |   | ● |   |   | ● |
 
 English (`en.lproj`) is the source of truth. Please don't edit it.
 
@@ -144,6 +142,3 @@ of the user-visible text is covered.
 Content in this repository is available under the [CC-BY-4.0](LICENSE) license
 so contributors retain attribution and the text remains freely reusable.
 
-## Contact
-
-Maintainer: Robert ([your email]).

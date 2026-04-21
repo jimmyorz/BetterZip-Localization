@@ -55,9 +55,6 @@
 /* Class = "NSButtonCell"; title = "Register"; ObjectID = "MpD-2n-QXa"; */
 "MpD-2n-QXa.title" = "Registrera";
 
-/* Class = "NSTextFieldCell"; title = "BetterZip has detected a Mac App Store license. You can request a “direct license” registration code with your e-mail address. This registration code allows you to buy the discounted upgrade to BetterZip 5 for US$ 14.99."; ObjectID = "UrB-iH-aS2"; */
-"UrB-iH-aS2.title" = "BetterZip har upptäckt en Mac App Store licens. Du kan begära en ”direkt licens”-registreringskod med hjälp av din e-postadress. Registreringskoden gör att du kan köpa en rabatterad uppgradering till BetterZip 5 för US$ 14.99.";
-
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "Din E-post adress";
 

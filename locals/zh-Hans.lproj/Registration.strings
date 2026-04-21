@@ -89,10 +89,7 @@
 "This function is available to registered users only." = "此功能只提供给注册了的用户。";
 
 /* (No Comment) */
-"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "此许可是以前版本的。现在你可使用 US$ %@ 来升级到 BetterZip 5。点击\"现在升级\"按钮前往网上商店购买。";
-
-/* (No Comment) */
-"This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "这是给在Mac App商店中购买BetterZip 2的用户的一个临时的许可证代码。您可以用它以14.99美元的优惠升级价格来购买BetterZip 5许可证。点击“现在升级”前往我们的网上商店。";
+"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "此许可是以前版本的。现在你可使用 US$ %@ 来升级到 BetterZip 6。点击\"现在升级\"按钮前往网上商店购买。";
 
 /* No comment provided by engineer. */
 "Trial period, %d days left" = "试用期，剩余 %d 天";

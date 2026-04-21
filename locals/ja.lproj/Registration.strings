@@ -89,10 +89,7 @@
 "This function is available to registered users only." = "この機能は登録ユーザーだけが使用できます。";
 
 /* (No Comment) */
-"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "これは、BetterZip の古いバージョンのライセンスコードです。このコードは割引アップグレード価格、US$ %@ での BetterZip 5 ライセンス購入にお使いいただけます。以下の \"今すぐアップグレード\" をクリックしてウェブショップを開いて下さい。";
-
-/* (No Comment) */
-"This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "これは、BetterZip 2 を Mac App Store で購入したお客様に付与される一時ライセンスコードです。BetterZip 5 を US$ 14.99 のアップグレード価格でお買い求め頂けます。下にある「今すぐアップグレード」ボタンをクリックしてウェブショップを開いて下さい。";
+"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "これは、BetterZip の古いバージョンのライセンスコードです。このコードは割引アップグレード価格、US$ %@ での BetterZip 6 ライセンス購入にお使いいただけます。以下の \"今すぐアップグレード\" をクリックしてウェブショップを開いて下さい。";
 
 /* No comment provided by engineer. */
 "Trial period, %d days left" = "使用期間: 残り %d 日。";

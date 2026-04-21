@@ -1046,7 +1046,7 @@
 "Uao-N9-NtB.title" = "Nicht in Dateien loggen";
 
 /* Class = "NSButtonCell"; title = "Load the default preset in the save panel"; ObjectID = "ubn-wK-U3F"; */
-"ubn-wK-U3F.title" = "Bei normalen Sichern-Befehlen das S-Preset nicht automatisch im Sichernfenster laden";
+"ubn-wK-U3F.title" = "Das Standard-Preset im Sichernfenster laden";
 
 /* Class = "NSButtonCell"; title = "Use as Default"; ObjectID = "uDf-cb-Ex2"; */
 "uDf-cb-Ex2.title" = "Als Standard verwenden";

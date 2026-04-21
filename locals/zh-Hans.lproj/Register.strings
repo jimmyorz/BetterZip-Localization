@@ -58,9 +58,6 @@
 /* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
 "t2U-Sw-lRl.title" = "BetterZip 需要使用您的电子邮件地址来激活此码。\n";
 
-/* Class = "NSTextFieldCell"; title = "BetterZip has detected a Mac App Store license. You can request a “direct license” registration code with your e-mail address. This registration code allows you to buy the discounted upgrade to BetterZip 5 for US$ 14.99."; ObjectID = "UrB-iH-aS2"; */
-"UrB-iH-aS2.title" = "BetterZip已检测到Mac App Store的许可证。您可以要求用你的E- mail地址申请一个“升级证书”的注册码。 此注册码让您以优惠价格14.99美元升级到BetterZip 5。";
-
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "您的电子邮件";
 

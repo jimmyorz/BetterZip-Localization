@@ -7,8 +7,8 @@
 /* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
 "bku-O5-RcK.title" = "告诉macOS用BetterZip打开压缩文件";
 
-/* Class = "NSButtonCell"; title = "What's New in BetterZip 5"; ObjectID = "Igc-GC-msG"; */
-"Igc-GC-msG.title" = "BetterZip 5 中的新增功能";
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; */
+"Igc-GC-msG.title" = "BetterZip 6 中的新增功能";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
 "ktm-z0-OrQ.title" = "欢迎来到BetterZip！";

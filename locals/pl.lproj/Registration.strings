@@ -89,10 +89,7 @@
 "This function is available to registered users only." = "Ta funkcja jest dostępna tylko dla zarejestrowanych użytkowników.";
 
 /* (No Comment) */
-"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "To jest kod licencyjny dla starszej wersji programu BetterZip. Możesz go użyć do zakupu licencji BetterZip 5 po obniżonej cenie aktualizacji %.2f USD. Kliknij \"Uaktualnij teraz\" poniżej, aby przejść do naszego sklepu internetowego.";
-
-/* (No Comment) */
-"This is a temporary license code for customers who bought BetterZip 2 in the Mac App Store. You can use it to purchase a BetterZip 5 license for the discounted upgrade price of US$ 14.99. Click “Upgrade now” below to go to our web shop." = "Jest to tymczasowy kod licencji dla klientów, którzy kupili BetterZip 2 w Mac App Store. Można go używać do zakupu licencji BetterZip 5 po obniżonej cenie za uaktualnienie 14,99 dolarów. Kliknij przycisk.";
+"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "To jest kod licencyjny dla starszej wersji programu BetterZip. Możesz go użyć do zakupu licencji BetterZip 6 po obniżonej cenie aktualizacji %.2f USD. Kliknij \"Uaktualnij teraz\" poniżej, aby przejść do naszego sklepu internetowego.";
 
 /* No comment provided by engineer. */
 "Trial period, %d days left" = "Okres próbny, pozostało %d dni";

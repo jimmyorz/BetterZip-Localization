@@ -29,7 +29,7 @@
 "CFBundleDisplayName" = "BetterZip";
 
 /* Get Info string */
-"CFBundleGetInfoString" = "BetterZip 5.4.1, Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+"CFBundleGetInfoString" = "BetterZip 6, Copyright © 2006-2026 MacItBetter, Robert Rezabek";
 
 /* Bundle name */
 "CFBundleName" = "BetterZip";

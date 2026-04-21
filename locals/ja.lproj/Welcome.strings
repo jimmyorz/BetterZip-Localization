@@ -16,8 +16,8 @@
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "すぐに展開";
 
-/* Class = "NSButtonCell"; title = "What's New in BetterZip 5"; ObjectID = "Igc-GC-msG"; */
-"Igc-GC-msG.title" = "BetterZip 5 の新機能";
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; */
+"Igc-GC-msG.title" = "BetterZip 6 の新機能";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
 "ktm-z0-OrQ.title" = "BetterZip へようこそ!";

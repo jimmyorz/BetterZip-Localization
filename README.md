@@ -87,21 +87,63 @@ plain-text editor) to preserve the formatting.
 
 ## Contribution workflow
 
-### If you're a collaborator (invited by me)
+Most translators are invited as **collaborators**, which means you can edit and
+push changes directly without forking. If you'd like to be added, email
+me with your GitHub username.
 
-1. `git clone git@github.com:<owner>/BetterZip-Localization.git`
-2. Edit files in your language's folders
-3. `git commit -am "Update <lang>: <brief description>"`
-4. `git push`
+### The easy way – GitHub Desktop (recommended)
 
-### If you're contributing from outside
+No command line needed.
 
-1. Fork this repo on GitHub
-2. Clone your fork, create a branch:
-   `git checkout -b improve-de-translations`
-3. Make your edits and commit
-4. Push your branch and open a pull request
-5. Someone will review and merge
+1. Install [GitHub Desktop](https://desktop.github.com) and sign in with your
+   GitHub account.
+2. Choose **File → Clone Repository…**, switch to the **URL** tab, and paste:
+   `https://github.com/macitbetter/BetterZip-Localization.git`
+3. Pick a folder on your Mac and click **Clone**.
+4. Edit files in your language's folders (Xcode is best for `.strings` files).
+5. Back in GitHub Desktop you'll see your changes listed. Type a short summary
+   (e.g. *"Update German: preferences pane"*), click **Commit to main**, then
+   **Push origin**.
+
+That's it – your changes are live on GitHub.
+
+### Using Xcode
+
+Xcode can also clone and push without the command line:
+
+1. **Source Control → Clone…**
+2. Paste `https://github.com/macitbetter/BetterZip-Localization.git` and choose
+   a folder.
+3. After editing, use **Source Control → Commit…** then **Source Control →
+   Push…**.
+
+### Using the command line
+
+If you're comfortable with a terminal:
+
+```bash
+git clone https://github.com/macitbetter/BetterZip-Localization.git
+cd BetterZip-Localization
+# …edit files…
+git commit -am "Update <lang>: <brief description>"
+git push
+```
+
+The SSH URL `git@github.com:macitbetter/BetterZip-Localization.git` also works
+if you've set up an SSH key on your GitHub account.
+
+### Contributing from outside (no collaborator access)
+
+If you haven't been added as a collaborator, you can still contribute via a
+pull request:
+
+1. Click **Fork** in the top-right of the
+   [GitHub page](https://github.com/macitbetter/BetterZip-Localization) to
+   create your own copy.
+2. Clone *your fork* using any of the methods above.
+3. Edit, commit, and push to your fork.
+4. On GitHub, click **Contribute → Open pull request** to send your changes
+   back.
 
 Please keep each pull request focused on a single language when possible – it
 makes review much faster.

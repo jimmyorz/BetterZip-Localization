@@ -1116,5 +1116,5 @@
 "Zlib compressed (level 9)" = "Compressée avec Zlib (level 9)";
 
 
-"Cancel Operation" = "Cancel Operation";
-"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
+"Cancel Operation" = "Annuler l'opération";
+"This operation has been running for a while. Are you sure you want to cancel it?" = "Cette opération tourne depuis un moment. Êtes-vous sûr de vouloir l'annuler ?";

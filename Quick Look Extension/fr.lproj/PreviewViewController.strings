@@ -9,7 +9,7 @@
 "3Ye-pm-JXL.title" = "Text Cell";
 
 /* Class = "NSTextFieldCell"; title = "Set the default view options in BetterZip > Preferences > Quick Look."; ObjectID = "5oG-a8-pGB"; */
-"5oG-a8-pGB.title" = "Set the default view options in BetterZip > Preferences > Quick Look.";
+"5oG-a8-pGB.title" = "Définissez les options d'affichage par défaut dans BetterZip > Préférences > Coup d'Œil.";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "D9n-CY-dye"; */
 "D9n-CY-dye.headerCell.title" = "Nom";
@@ -24,7 +24,7 @@
 "Kwa-Qb-JpQ.headerCell.title" = "Ratio";
 
 /* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "QUh-KA-qlu"; */
-"QUh-KA-qlu.title" = "Auto Size Columns";
+"QUh-KA-qlu.title" = "Ajuster la taille des colonnes automatiquement";
 
 /* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "TB1-H2-ikb"; */
 "TB1-H2-ikb.title" = "Montrer les fichiers cachés";

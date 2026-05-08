@@ -23,7 +23,7 @@
 "141.title" = "Acheter en ligne";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Copy the key from the e-mail you received. It should be 4 lines of mostly letters and numbers."; ObjectID = "142"; */
-"142.placeholderString" = "Copiez la clef que vous avez reçue par e-mail.";
+"142.placeholderString" = "Copiez la clef que vous avez reçue par e-mail. Elle comporte 4 lignes, composées principalement de chiffres et de lettres.";
 
 /* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
 "143.title" = "Plus tard";

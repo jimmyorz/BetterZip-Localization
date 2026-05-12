@@ -7,7 +7,7 @@
 /* Class = "NSTextFieldCell"; title = "The filename encoding could not be determined automatically. Please choose one from the list:"; ObjectID = "C3J-ki-gMn"; */
 "C3J-ki-gMn.title" = "ファイル名に使用されている文字コードを自動で判別できません。以下のリストから選択して下さい:";
 
-/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */
 "F0z-JX-Cv5.title" = "ウインドウ";
 
 /* Class = "NSButtonCell"; title = "Choose"; ObjectID = "L73-xf-j5T"; */
@@ -15,4 +15,3 @@
 
 /* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "M1Q-cT-oTC"; Note = "don't translate"; */
 "M1Q-cT-oTC.title" = "Item 1";
-

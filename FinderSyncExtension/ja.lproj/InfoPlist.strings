@@ -2,5 +2,4 @@
 "CFBundleDisplayName" = "BetterZip Finder 機能拡張";
 
 /* Bundle name */
-"CFBundleName" = "FinderSyncExtension";
-
+"CFBundleName" = "Finder 同期機能拡張";

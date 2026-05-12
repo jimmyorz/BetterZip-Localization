@@ -1,88 +1,82 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7-Zip Archive" = "7-Zip 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "安卓应用程序打包";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "ARJ  压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BinHex Archive" = "BinHex 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli Archive" = "Brotli 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "以 Brotli 方式压缩 TAR 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 Archive" = "BZip2 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 compressed TAR Archive" = "以 BZip2 方式压缩 TAR 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "CAB 压缩";
 
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
+/* Get Info string */
+"CFBundleGetInfoString" = "";
+
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Chromium Extra" = "创建额外的文件夹";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook RAR Archive" = "漫画书 RAR 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook Zip Archive" = "漫画书 ZIP 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compiled HTML Archive" = "压缩 HTML 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed CPIO Archive" = "压缩 CPIO 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CPIO Archive" = "CPIO 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Debian Linux Package" = "Debian Linux 包";
 
-/* (No Comment) */
-"Disk Image" = "磁盘映像";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "磁盘双精度存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Electronic Publication (ePub)" = "Electronic Publication (ePub)";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZip Archive" = "GZip 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZipped Tar Archive" = "以 GZipped 方式压缩 TAR 存档";
 
-/* (No Comment) */
-"ISO Disk Image" = "ISO 磁盘映像";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Java ZIP Archive" = "Java ZIP 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LHA Archive" = "LHA 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Linux RPM 存档";
 
-/* (No Comment) */
-"MacBinary Archive" = "MacBinary 存档";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "微软电子邮件附件";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -94,45 +88,41 @@
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "版权© 2006-2025 MacItBetter， 罗伯特·礼萨贝克";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NSIS Archive" = "NSIS 存档";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Python Egg" = "Python Egg";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "RAR 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Segmented Archive" = "分段压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Stuffit Archive" = "Stuffit 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "TAR Archive" = "TAR 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "User-Defined Archive" = "用户定义的存档";
 
-/* (No Comment) */
-"XAR Archive" = "XAR 压缩";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz Archive" = "xz 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "以 xz 方式压缩 TAR 存档";
 
-/* (No Comment) */
-"Zip Archive" = "Zip 压缩";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "ZIP压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Zip Archive" = "Zip 压缩";
+
+/* No comment provided by engineer. */
 "Zstandard Archive" = "Zstandard 压缩";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "以 Zstandard 方式压缩 TAR 存档";
-

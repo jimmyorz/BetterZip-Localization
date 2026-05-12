@@ -1,254 +1,227 @@
-/* (No Comment) */
-"(incl. %d hidden)" = "(隠しファイルを %d 個含む)";
-
-/* Marks the newer file */
-"(newer)" = "(新しい)";
-
-/* Marks the older file */
-"(older)" = "(古い)";
-
-/* (No Comment) */
-"%@ (damaged)" = "%@ (壊れている)";
+"%@ (damaged)" = "%@ (破損)";
 
 /* initial name of a duplicated extract preset, %@ being the original name
 initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "%@ のコピー";
 
-/* (No Comment) */
+/* Error messages */
+"%@ could not be extracted. Error code: %ld" = "%@ を展開できませんでした。エラーコード:%ld";
+
 "%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ をあつかうアプリケーションがありません。ファイルを展開して Finder で開いて下さい。";
 
-/* (No Comment) */
 "%@ of %@" = "%@ / %@";
 
-/* (No Comment) */
+"%@ was unable to send the crashlog." = "%@ はクラッシュログを送信できませんでした。";
+
 "%d item, uncompressed size: %@ %@" = "%d 項目、圧縮前のサイズ: %@ %@";
 
-/* (No Comment) */
+/* UI elements */
+"%d Items" = "%d 項目";
+
 "%d items, uncompressed size: %@ %@" = "%d 項目、圧縮前のサイズ: %@ %@";
 
-/* (No Comment) */
 "%d selected, uncompressed size: %@ %@" = "選択中 %d、圧縮前のサイズ: %@ %@";
 
-/* (No Comment) */
+/* merge conflicts message files only
+merge conflicts message folders only */
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "%1$ld %2$@ が展開先に既に存在しています。\n重複している項目をどうしますか:";
+
+/* merge conflicts message */
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "%1$ld %2$@ と %3$ld %4$@ は展開先に既に存在しています。\n重複している項目をどうしますか:";
+
+/* pattern window label */
+"%lu matching items" = "%lu 項目が一致";
+
+"(incl. %d hidden)" = "(%d 個の隠しファイルを含む)";
+
+"(newer)" = "(より新しい)";
+
+"(older)" = "(より古い)";
+
+/* unnamed filter predicate */
+"(untitled)" = "(名称未設定)";
+
 "+pwd" = "+pwd";
 
+"7-Zip Format (best compression)" = "7-Zip 形式 (圧縮率最高)";
+
 /* displayed in the file types table for user defined extensions */
-"<Click to add your own>" = "<自分で追加>";
+"<Click to add your own>" = "<クリックして自分で追加>";
 
 /* initial name of a new password */
 "<new password>" = "<新しいパスワード>";
 
-/* (No Comment) */
-"<new pattern>" = "新規パターン";
+"<new pattern>" = "<新規パターン>";
 
-/* (No Comment) */
 "<new preset>" = "<新規プリセット>";
 
-/* Marks the older file */
-"⚠️ (older)" = "⚠️ (古い)";
-
-/* Format name */
-"7-Zip Format" = "7-Zip 形式";
-
-/* (No Comment) */
-"7-Zip Format (best compression)" = "7-Zip 形式 (圧縮率最高)";
-
-/* (No Comment) */
 "A volume is missing: %@." = "ボリュームが見つかりません: %@。";
 
-/* (No Comment) */
+/* column header */
+"Action" = "アクション";
+
 "Activate" = "アクティベート";
 
-/* (No Comment) */
+/* Import presets button */
 "Add" = "追加";
 
-/* (No Comment) */
-"Add a new file or folder to the archive" = "新しいファイルやフォルダをアーカイブに追加します。";
+"Add a new file or folder to the archive" = "新しいファイルやフォルダを書庫に追加";
 
-/* (No Comment) */
-"Add Files to Archive" = "ファイルをアーカイブに追加";
+"Add Files to Archive" = "ファイルを書庫に追加";
 
-/* (No Comment) */
 "Add Items" = "項目を追加";
 
-/* (No Comment) */
-"Add Mac Stuff" = "Mac 固有ファイルを追加";
+"Add Mac Stuff" = "Mac 固有のファイルを追加";
 
-/* (No Comment) */
-"Add the items to a new archive" = "新規アーカイブに項目を追加";
+"Add the items to a new archive" = "新しい書庫に項目を追加";
 
-/* (No Comment) */
 "Add to %@…" = "%@ に追加…";
 
-/* (No Comment) */
 "Added" = "追加";
 
 /* added in BetterZip 3 */
-"Adding files to archive %@" = "アーカイブ %@ にファイルを追加";
+"Adding files to archive %@" = "書庫 %@ にファイルを追加";
 
 /* Preferences tab title */
 "Advanced" = "高度な設定";
 
-/* (No Comment) */
-"After filtering, there are no files left to archive." = "フィルターを適用するとアーカイブにファイルが残りません。";
+"After filtering, there are no files left to archive." = "フィルターを適用すると書庫にファイルが残りません。";
 
-/* (No Comment) */
-"All Queued Archive Operations Complete" = "キューにあったアーカイブ操作はすべて完了";
+/* No comment provided by engineer. */
+"All" = "すべて";
 
-/* (No Comment) */
+"All Queued Archive Operations Complete" = "キューにあった書庫の処理はすべて完了";
+
 "An error occurred" = "エラーが発生しました";
 
-/* (No Comment) */
-"An error occurred opening %@. Do you want to try to open the archive anyway?" = "%@ を開く際にエラーが発生しました。アーカイブを強制的に開きますか?";
+"An error occurred opening %@. Do you want to try to open the archive anyway?" = "%@ を開く際にエラーが発生しました。書庫を強制的に開きますか?";
 
-/* (No Comment) */
-"An error occurred opening %@. Do you want to try to repair the archive?" = "%@ を開く際にエラーが発生しました。アーカイブを修復しますか?";
+"An error occurred opening %@. Do you want to try to repair the archive?" = "%@ を開く際にエラーが発生しました。書御を修復しますか?";
 
-/* (No Comment) */
 "An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?" = "%@ という名前の項目は既に存在します。現在追加中のもので置き換えますか?";
 
-/* (No Comment) */
-"An item named %@ already exists in this location inside the archive. Do you want to update it?" = "%@ という名前の項目がアーカイブ内のこの場所に既に存在します。更新しますか?";
+"An item named %@ already exists in this location inside the archive. Do you want to update it?" = "%@ という名前の項目が書庫内のこの場所に既に存在します。更新しますか?";
 
 /* ReplaceExistingFiles */
 "An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?" = "%@ という名前の項目がこの場所に既に存在します。現在展開中のもので置き換えますか?";
 
-/* (No Comment) */
 "An item with this name already exists in this folder!" = "この名前の項目が既にこのフォルダに存在します!";
 
-/* (No Comment) */
-"An unknown error occurred." = "道のエラーが発生しました。";
+"An unknown error occurred." = "未知のエラーが発生しました。";
 
-/* Format name */
+"Another helper (%@) already uses tag %d." = "別のヘルパー (%@) がタグ %d をもう使用しています。";
+
 "Apple Disk Image" = "Apple ディスクイメージ";
 
-/* Checkbox label */
 "Apply to all" = "すべてに適用";
 
-/* Checkbox label */
 "Apply to all folders" = "すべてのフォルダに適用";
 
-/* Checkbox label */
 "Apply to all in queue" = "キュー全体に適用";
 
-/* (No Comment) */
-"Archive" = "アーカイブ";
+/* column header */
+"Archive" = "書庫";
 
-/* (No Comment) */
-"Archive Creation Complete" = "アーカイブの作成を完了";
+"Archive Creation Complete" = "書庫の作成を完了";
 
-/* (No Comment) */
-"Archive Creation Failed" = "アーカイブの作成に失敗";
+"Archive Creation Failed" = "書庫の作成に失敗";
 
-/* (No Comment) */
-"Archive Extraction Complete" = "アーカイブの展開完了";
+"Archive Extraction Complete" = "書庫の展開を完了";
 
-/* (No Comment) */
-"Archive Extraction Failed" = "アーカイブの展開に失敗";
+"Archive Extraction Failed" = "書庫の展開に失敗";
 
-/* (No Comment) */
-"Archive Test Failed" = "アーカイブの検査に失敗";
+"Archive seems to be damaged" = "書庫が壊れているようです";
 
-/* (No Comment) */
-"Archive test successful" = "アーカイブは正常です";
+"Archive Test Failed" = "書庫の検証に失敗";
 
-/* (No Comment) */
-"Archive Test Successful" = "アーカイブのテストが成功";
+"Archive Test Successful" = "書庫の検証が成功";
+
+"Archive test successful" = "書庫は正常です";
 
 /* No comment provided by engineer. */
 "Archive test successful. No errors were found." = "書庫の検査が正常終了。エラーはありません。";
 
 /* Preferences tab title */
-"Archive Types" = "アーカイブタイプ";
+"Archive Types" = "書庫の種別";
 
-/* (No Comment) */
-"Archives" = "アーカイブ";
+"Archives" = "書庫";
 
-/* (No Comment) */
-"Are you sure you want to overwrite the original archive?" = "本当に元のアーカイブを置き換えますか?";
+"Are you sure you want to overwrite the original archive?" = "本当に元の書庫を置き換えますか?";
 
-/* (No Comment) */
+/* Info table key */
+"Attributes" = "属性";
+
+/* Info table key */
 "Author" = "作者";
 
-/* (No Comment) */
 "Back" = "戻る";
 
-/* The user needs to choose a master password. */
-"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "プリセットにパスワードを設定する前に、パスワードマネージャーを設定してマスターパスワードを指定してください。";
-
-/* (No Comment) */
 "Best (solid, slow extraction)" = "最適 (確実ですが展開は遅くなります)";
 
-/* (No Comment) */
 "Best, but slower operation" = "圧縮率優先。処理速度は遅くなります";
 
-/* (No Comment) */
 "BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip はこのフォルダに展開できません。おそらくアクセス権限がないものと思われます。";
 
 /* Welcome text, line 1 */
 "BetterZip is the most powerful archiver for macOS, and you can customize it in many ways. To get started quickly use a few select options below. " = "BetterZip はmacOS で最も強力な圧縮／展開ツールであり、様々にカスタマイズできます。以下のオプションをいくつか選択してすぐに使い始めましょう。";
 
-/* (No Comment) */
 "BetterZip Recovered Files" = "BetterZip はファイルをリカバリしました";
 
-/* (No Comment) */
 "BetterZip Temporary Folder" = "BetterZip 一時フォルダ";
 
 /* added in V 5.0 */
 "BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip は %@ へのアクセスが拒否されました。システム設定でアクセスを許可できます。";
 
-/* (No Comment) */
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZIp は、環境設定で設定したパターンに合致するファイルを %d 個アーカイブから取り除きます。";
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip は、この Mac での圧縮や展開、関連する操作で集めたタイミングサンプルを破棄します。新しいサンプルを収集するまで一時的に進捗状況バーと残り時間の正確さは減少します。";
 
-/* (No Comment) */
-"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip は、パターンに合致するファイルを %d 個アーカイブから取り除きます。";
+"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZIp は、環境設定で設定したパターンに合致するファイルを %d 個書庫から取り除きます。";
 
-/* (No Comment) */
-"BetterZip will now remove %d Mac specific files from the archive." = "BetterZIp は、Mac 固有のファイルを %d 個、アーカイブから取り除きます。";
+"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip は、パターンに合致するファイルを %d 個書庫から取り除きます。";
 
-/* (No Comment) */
-"BetterZip will now remove Mac specific files from the archive." = "BetterZIp が Mac 固有ファイルをアーカイブに含めなくなります。";
+"BetterZip will now remove %d Mac specific files from the archive." = "BetterZIp は、Mac 固有のファイルを %d 個、書庫から取り除きます。";
 
-/* (No Comment) */
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZIp は、環境設定で設定したパターンに合致するファイルをひとつ、アーカイブから取り除きます。";
+"BetterZip will now remove Mac specific files from the archive." = "BetterZIp が Mac 固有ファイルを書庫に含めなくなります。";
 
-/* (No Comment) */
-"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip は、パターンに合致するファイルを 1 個アーカイブから取り除きます。";
+"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZIp は、環境設定で設定したパターンに合致するファイルをひとつ、書庫から取り除きます。";
 
-/* (No Comment) */
-"BetterZip will now remove one Mac specific file from the archive." = "BetterZIp は、Mac 固有のファイルをひとつ、アーカイブから取り除きます。";
+"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip は、パターンに合致するファイルをひとつ書庫から取り除きます。";
+
+"BetterZip will now remove one Mac specific file from the archive." = "BetterZIp は、Mac 固有のファイルをひとつ、書庫から取り除きます。";
 
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip は、macOS 10.13 (High Sierra) もしくはそれ以降でしか動作しません。";
 
-/* DMG subformat */
-"BZip2 compressed" = "BZip 2 圧縮";
+/* No comment provided by engineer. */
+"Buy Now" = "今すぐ購入";
 
-/* (No Comment) */
 "BZip2-compressed image" = "BZip 2 圧縮イメージ";
 
-/* (No Comment) */
+/* Import presets button
+button */
 "Cancel" = "キャンセル";
 
-/* (No Comment) */
-"Cancel Opening" = "中止する";
+/* Extraction error suppression */
+"Cancel extraction" = "展開を中止";
+
+"Cancel Opening" = "書庫を開くことを中止";
+
+"Cancel Operation" = "処理を中止";
 
 /* V 2.0 */
-"Cancel the operation" = "処理をキャンセル";
+"Cancel the operation" = "処理を中止";
 
-/* (No Comment) */
 "cancelled" = "キャンセルしました";
 
-/* (No Comment) */
+"Cannot enumerate directory: %@" = "ディレクトリの数が不明です: %@";
+
+"Cannot open file: %@" = "ファイルが開けません: %@";
+
 "Caution" = "注意";
 
-/* (No Comment) */
-"Change Archive Mode" = "アーカイブモードを変更";
+"Change Archive Mode" = "書庫モードを変更";
 
-/* (No Comment) */
-"Check for updates on startup?" = "起動時にアップデートを確認しますか";
+"Check for updates on startup?" = "起動時にアップデートを確認しますか?";
 
-/* (No Comment) */
 "Choose from your favorite presets" = "お気に入りのプリセットから選択";
 
 /* Welcome text, line 3 */
@@ -257,31 +230,26 @@ initial name of a duplicated save preset, %@ being the original name */
 /* The window title. */
 "Choose Master Password" = "マスターパスワードを選択";
 
-/* (No Comment) */
 "Clean" = "クリーニング";
 
-/* (No Comment) */
-"Clean Archive" = "アーカイブをクリーニング";
+"Clean Archive" = "書庫をクリーニング";
 
-/* (No Comment) */
 "Clean now" = "今すぐクリーニング";
 
-/* (No Comment) */
 "Cleaning" = "クリーニング";
 
-/* (No Comment) */
 "Clear" = "消去";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Clear Logs" = "ログを消去";
+
 "Close" = "閉じる";
 
-/* (No Comment) */
 "Columns" = "表示項目";
 
-/* (No Comment) */
+/* Info table key */
 "Comment" = "コメント";
 
-/* (No Comment) */
 "Comment Text" = "コメントテキスト";
 
 /* Open panel title */
@@ -293,43 +261,64 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Default title for dynamic preset services */
 "Compress with Preset %@" = "プリセット %@ で圧縮";
 
-/* (No Comment) */
+/* Info table key */
+"Compressed" = "圧縮済み";
+
 "Compressed %@" = "%@ を圧縮しました";
 
-/* (No Comment) */
 "Compressing %@" = "%@ を圧縮中";
 
-/* (No Comment) */
+"Compression:" = "圧縮モード:";
+
+/* Hash helper */
+"Computing…" = "計算中…";
+
 "Continue" = "続ける";
 
-/* (No Comment) */
+/* Info table key */
 "Copyright" = "著作権";
 
-/* Format name */
+"Corrupted" = "破損";
+
 "CPIO Format, uncompressed (cpio)" = "CPIO 形式、無圧縮 (cpio)";
 
-/* (No Comment) */
-"Create a new folder in the selected place inside the archive." = "アーカイブ内の選択した場所に新しくフォルダを作成します";
+/* Crash reporter */
+"CrashReport" = "クラッシュレポート";
 
-/* (No Comment) */
-"Create New Folder" = "新しいフォルダを作成します";
+"Create a new folder in the selected place inside the archive." = "書庫で選択中の場所に新しくフォルダを作成。";
+
+/* Filter / pattern UI */
+"Create Filter" = "フィルターを作成";
+
+"Create New Folder" = "新しいフォルダを作成";
 
 /* File infos in preview sidebar */
-"Date" = "日時";
+"Date" = "日付";
+
+/* No comment provided by engineer. */
+"date" = "日付";
+
+/* relative date unit */
+"days" = "日";
+
+/* No comment provided by engineer. */
+"Debug" = "デバッグ";
 
 /* Option in the password encoding pop-up to use the default encoding */
 "Default encoding" = "デフォルトの文字コード";
 
-/* (No Comment) */
+"Define the filter criteria:" = "フィルターの適用基準を定義:";
+
 "Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Delete %lu log files?" = "%ld 個のログファイルを削除しますか?";
 
 /* menu item */
 "Delete Empty Folders" = "空のフォルダを削除";
 
-/* (No Comment) */
-"Delete Files From Archive" = "アーカイブからファイルを削除";
+"Delete Files From Archive" = "書庫からファイルを削除";
 
-/* (No Comment) */
 "Delete Items" = "項目を削除します";
 
 /* menu item */
@@ -338,74 +327,77 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Menu items for delete menu */
 "Delete Selected" = "選択した項目を削除";
 
-/* (No Comment) */
-"Delete the selected files or folders from the archive" = "選択したファイルやフォルダをアーカイブから削除します";
-
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "パターンを使って削除";
+"Delete the selected files or folders from the archive" = "選択したファイルやフォルダを書庫から削除します";
 
 /* menu item */
 "Delete with Pattern" = "パターンを使って削除";
 
-/* (No Comment) */
-"Deleting items" = "項目を削除";
+/* Tooltip for the delete with pattern toolbar button */
+"Delete with pattern" = "パターンを使って削除";
 
-/* Option in the encoding pop-up to detect the encoding automatically */
-"Detect automatically" = "自動検出";
+"Deleting items" = "項目を削除";
 
 /* Menu item for character encoding detector */
 "Detect Automatically" = "自動検出";
 
-/* (No Comment) */
+/* Option in the encoding pop-up to detect the encoding automatically */
+"Detect automatically" = "自動検出";
+
+/* Info table key */
 "Dimensions" = "サイズ";
+
+/* column header */
+"Disk" = "ディスク";
 
 /* Welcome text, line 2 */
 "Dive into all available settings in the preferences window when you are ready." = "よろしければ設定ウインドウですべての設定を確認して下さい。";
 
-/* (No Comment) */
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "データのバックアップを定期的にとる習慣がなければ、このオプションを使用しないで下さい。ファイルの上書きスイッチを有効にしたプリセットを使用した場合、BetterZip はファイルを上書きする前に警告を出力しません。ファイルが失われる場合があります。自己責任でご使用下さい。";
 
 /* Warning when quitting BetterZip while operations are running */
 "Do you really want to quit BetterZip?" = "本当に BetterZip を終了しますか?";
 
-/* (No Comment) */
-"Do you want to extract the %d archives that were found inside the selected folders?" = "選択されているフォルダ内部にある %d 個のアーカイブを展開しますか?";
+"Do you want to extract the %d archives that were found inside the selected folders?" = "選択されているフォルダ内部にある %d 個の書庫を展開しますか?";
 
-/* (No Comment) */
-"Do you want to keep it that way or add metadata to your archive?" = "そのままにしておきますか、それとも、アーカイブにメタデータを追加しますか?";
+"Do you want to keep it that way or add metadata to your archive?" = "そのままにしておきますか、それとも、書庫にメタデータを追加しますか?";
 
-/* (No Comment) */
-"Do you want to save the changes back to the archive?" = "アーカイブに変更を書き戻しますか?";
+/* Import presets alert message */
+"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "既存のプリセットをすべて読み込んだプリセットで置換しますか? それとも既存のリストに新しく追加しますか?";
 
-/* (No Comment) */
+"Do you want to save the changes back to the archive?" = "書庫に変更を書き戻しますか?";
+
 "Do you want to save the changes you made in the document %@?" = "書類 %@ に加えた変更を保存しますか?";
 
-/* (No Comment) */
 "Don't move" = "移動しない";
 
 /* Button title */
 "Don't Quit" = "終了しない";
 
-/* (No Comment) */
 "Don't Save" = "保存しない";
 
-/* (No Comment) */
+"Don't show again for this archive" = "この書庫について今後は表示しない";
+
 "Drag items here to compress or extract" = "圧縮もしくは展開する項目をここにドラッグ";
 
-/* (No Comment) */
-"Drop archives here to extract" = "展開するアーカイブをここにドロップ";
+"Drop archives here to extract" = "展開する書庫をここにドロップ";
 
-/* (No Comment) */
 "Drop items here to compress" = "圧縮する項目をここにドロップ";
 
-/* (No Comment) */
-"Drop the archives here to open them" = "開きたいアーカイブをここにドロップ";
+"Drop the archives here to open them" = "開きたい書庫をここにドロップ";
 
-/* (No Comment) */
-"Drop the files here to add them to a new archive" = "新規アーカイブに追加する項目をここにドロップ";
+/* No comment provided by engineer. */
+"Drop the file here to add it to a new archive." = "ここにファイルをドロップして、新しい書庫に追加。";
 
-/* DMG subformat */
+"Drop the files here to add them to a new archive" = "新規書庫に追加する項目をここにドロップ";
+
+/* No comment provided by engineer. */
+"Drop the files here to filter and add them to a new archive" = "ここにファイルをドロップして新しい書庫に追加";
+
+"Duplicate Tag" = "タグを複製";
+
 "DVD/CD-R master for export" = "書きさし元の DVD/CD-R マスター";
+
+"Edit Filter" = "フィルターを編集";
 
 /* menu item */
 "Edit Patterns…" = "プリセットを編集…";
@@ -416,43 +408,43 @@ initial name of a duplicated save preset, %@ being the original name */
 /* menu item */
 "Edit Presets…" = "プリセットを編集…";
 
-/* (No Comment) */
+/* Info table key */
 "Encryption" = "暗号化";
 
-/* (No Comment) */
+/* save predicate alert message */
+"Enter a name for this predicate:" = "この判定条件の名前を入力してください:";
+
 "Error" = "エラー";
+
+/* No comment provided by engineer. */
+"ext" = "拡張子";
 
 /* Preferences tab title */
 "Extensions" = "拡張子";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"External command returned: %d\n" = "外部コマンドの戻り値: %d\n";
+
 "External command returned: %d%c" = "外部コマンドの戻り値: %d%c";
 
-/* Open panel title */
+/* Open panel title
+button */
 "Extract" = "展開";
 
-/* (No Comment) */
 "Extract All" = "すべて展開";
 
-/* (No Comment) */
-"Extract all files and folders from the archive" = "アーカイブからすべてのファイルやフォルダを展開します";
+"Extract all files and folders from the archive" = "書庫からすべてのファイルやフォルダを展開します";
 
-/* (No Comment) */
-"Extract files or folders from the archive" = "アーカイブからファイルやフォルダを展開します";
+"Extract files or folders from the archive" = "書庫からファイルやフォルダを展開";
 
-/* (No Comment) */
 "Extract Here" = "ここに展開";
 
-/* (No Comment) */
 "Extract Selected" = "選択した項目を展開";
 
-/* (No Comment) */
 "Extract Selected Only" = "選択した項目のみ展開";
 
-/* (No Comment) */
-"Extract the selected files or folders from the archive" = "アーカイブから選択したファイルとフォルダを展開します";
+"Extract the selected files or folders from the archive" = "書庫から選択したファイルとフォルダを展開します";
 
-/* (No Comment) */
 "Extract to…" = "展開先…";
 
 /* default service name */
@@ -461,70 +453,76 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Menu items for extract menu */
 "Extract with Preset" = "プリセットを使って展開";
 
-/* (No Comment) */
 "Extract with Preset %@" = "プリセット %@ で展開";
 
-/* (No Comment) */
 "Extracted %@" = "%@ を展開しました";
 
-/* (No Comment) */
 "Extracting %@" = "%@ を展開中";
 
-/* (No Comment) */
-"Extracting archive: %@" = "アーカイブを展開中: %@";
+"Extracting archive: %@" = "書庫を展開中: %@";
 
-/* (No Comment) */
 "Extracting items from %@" = "%@ から項目を展開中";
 
-/* (No Comment) */
-"Extracting items from archive: %@ of %@" = "アーカイブを展開中: %$2@ 項目中 %$1@";
+"Extracting items from archive: %@ of %@" = "書庫を展開中: %$2@ 項目中 %$1@";
 
-/* (No Comment) */
 "Extracting items temporarily" = "一時的に項目を展開中";
 
-/* (No Comment) */
 "Failed" = "失敗しました";
 
-/* (No Comment) */
-"Failed (unpacking failed)" = "失敗しました (展開に失敗)";
+"Failed (unpacking failed)" = "失敗 (展開できませんでした)";
 
-/* (No Comment) */
-"Failed (unsupported)" = "失敗しました (サポートしていない形式)";
+"Failed (unsupported)" = "失敗 (サポートしていない形式)";
 
-/* (No Comment) */
-"Failed (wrong checksum)" = "失敗しました (チェックサム異常)";
+"Failed (wrong checksum)" = "失敗 (チェックサム異常)";
 
-/* (No Comment) */
-"Failed (wrong password)" = "失敗しました (パスワードが違います)";
+"Failed (wrong password)" = "失敗 (パスワードが違います)";
 
-/* (No Comment) */
-"Failed (Wrong size)" = "失敗しました (サイズが異常)";
+"Failed (Wrong size)" = "失敗 (サイズ異常)";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Failed (wrong size)" = "失敗 (サイズ異常)";
+
 "Fast, but larger archives" = "速度優先。圧縮率は低くなります";
 
-/* (No Comment) */
-"File in archive:" = "アーカイブ内のファイル:";
+/* singular */
+"file" = "ファイル";
 
-/* (No Comment) */
-"File on disc:" = "ディスク上のファイル";
+"File in archive:" = "書庫内のファイル:";
 
-/* (No Comment) */
+"File on disc:" = "ディスク上のファイル:";
+
 "File Types" = "ファイルタイプ";
 
-/* (No Comment) */
+/* Info table key */
 "Filename encoding" = "ファイル名文字コード";
 
 /* Preferences tab title */
 "Files" = "ファイル";
 
+/* plural */
+"files" = "ファイル";
+
+/* popup label */
+"Files:" = "ファイル:";
+
+/* name field placeholder */
+"Filter name" = "フィルター名";
+
 /* Preferences window - name of the tab to manage filter patterns */
 "Filtering" = "フィルタリング";
 
-/* (No Comment) */
-"Finishing…" = "終了…";
+"Finishing…" = "終了中…";
 
-/* (No Comment) */
+/* singular */
+"folder" = "フォルダ";
+
+/* plural */
+"folders" = "フォルダ";
+
+/* popup label */
+"Folders:" = "フォルダ:";
+
+/* Info table key */
 "Format" = "形式";
 
 /* Preferences tab title */
@@ -536,182 +534,202 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Preferences tab title */
 "Helpers" = "ヘルパー";
 
-/* DMG subformat */
-"HFS" = "HFS";
-
-/* (No Comment) */
+/* Info table key */
 "Hidden" = "非表示項目";
 
-/* (No Comment) */
+/* disclosure label */
+"Hide Details" = "詳細を隠す";
+
 "Hide Favorites" = "よく使う項目を隠す";
 
-/* (No Comment) */
+"Hide password" = "パスワードを隠す";
+
+/* View menu */
+"Hide Path Bar" = "パスバーを隠す";
+
 "Hide Preview" = "プレビューを隠す";
 
 /* new compression levels */
 "High, but slower operation" = "高, ただし処理が遅くなります";
 
-/* (No Comment) */
 "Hold cmd ⌘ to add them to a new archive" = "cmd ⌘ を押したままにすると、新しい書庫に項目を追加します";
 
-/* (No Comment) */
-"http://www.win-rar.com/" = "http://www.win-rar.com/";
+/* No comment provided by engineer. */
+"Hold option ⌥ to apply a filter first" = "オプション (⌥) キーを押下し続けると最初にフィルタを適用";
 
-/* (No Comment) */
-"https://macitbetter.com/" = "https://macitbetter.com/";
-
-/* (No Comment) */
-"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
-
-/* (No Comment) */
 "Ignore" = "無視";
 
-/* (No Comment) */
+"Ignore all remaining errors" = "残りのエラーをすべて無視";
+
 "Ignore and go on" = "無視して続ける";
 
-/* (No Comment) */
 "Ignore Changes" = "変更を破棄";
 
-/* (No Comment) */
-"Ignore This Time" = "今回だけ破棄";
+"Ignore errors" = "エラーを無視";
 
-/* Format name */
-"ISO Image" = "ISO イメージ";
+"Ignore This Time" = "今回は破棄";
 
-/* DMG subformat */
-"ISO9660 Level 2" = "ISO9660 レベル 2";
+/* No comment provided by engineer. */
+"Install Command-Line Tool…" = "コマンドラインツールをインストール…";
 
-/* DMG subformat */
-"ISO9660 with Joliet ext." = "ISO9660";
+/* Error messages when saving Helpers configuration JSON */
+"Invalid Install Path" = "不正なインストールパス";
 
-/* (No Comment) */
+"Invalid JSON" = "不正な JSON";
+
+"Invalid Tag" = "不正なタグ";
+
 "It is either damaged or in an unsupported format." = "壊れているか、未知の形式が使われています。";
 
-/* (No Comment) */
+/* Info table key */
 "Items" = "項目";
 
-/* Button label */
+/* conflict action */
 "Keep Both" = "両方とも残す";
 
-/* (No Comment) */
 "Keep Mac Stuff out" = "Mac 固有ファイルを維持";
 
-/* Button label */
+/* conflict action */
 "Keep Newer" = "新しい方を残す";
 
-/* (No Comment) */
-"Kind" = "種類";
+/* Info table key */
+"Kind" = "種別";
+
+"Known file types" = "既知のファイルタイプ";
 
 /* PreferenceController */
 "Last checked: " = "最終確認日時:";
 
-/* %c is replaced with newline character */
 "Last modified: %@ %@%cSize: %@" = "最終更新日時: %@ %@%cサイズ: %@";
 
 /* helpers */
 "Last modified: %@%cSize: %@" = "最終更新日時: %@%cサイズ: %@";
 
-/* (No Comment) */
-"Loading archive: %@" = "アーカイブ %@ を読み込み中";
+"Let me add a filter" = "フィルタを追加しましょう";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Load or save a preset" = "プリセットを読み込み／保存";
+
+/* tasks button tooltip */
+"Load or save predicates" = "判定条件を読み込む／保存";
+
+"Loading archive: %@" = "書庫 %@ を読み込み中";
+
 "Lock Password Manager" = "パスワードマネージャーをロック";
 
-/* DMG subformat */
 "LZMA compressed (macOS 10.15+)" = "LZMA 圧縮 (macOS 10.15+)";
 
-/* (No Comment) */
 "macOS default (AES-128)" = "macOS 標準 (AES-128)";
 
-/* (No Comment) */
 "macOS returned this error:" = "macOS がこのエラーを返しました:";
 
-/* (No Comment) */
+/* menu item */
+"Manage Filters…" = "フィルタを管理…";
+
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "おそらく、対象のドライブに充分な空き容量がないか、パスワードが間違っていると思われます。";
 
-/* Button label */
-"Merge Folders" = "フォルダをマージ";
+/* conflict action */
+"Merge" = "統合";
+
+/* merge conflicts window title */
+"Merge Conflicts" = "重複を統合";
+
+"Merge Folders" = "フォルダを統合";
+
+/* Info table key */
+"Method" = "メソッド";
+
+/* Multi-volume RAR */
+"Missing Volumes" = "ボリュームが不足";
+
+/* Info table key */
+"Missing volumes" = "ボリュームが不足";
 
 /* possible file status strings */
-"Modified" = "修正";
+"Modified" = "更新日時";
 
-/* (No Comment) */
+/* Info table key */
 "Modified at" = "最終更新日時";
 
-/* (No Comment) */
+/* relative date unit */
+"months" = "ヶ月";
+
 "Move Archive" = "書庫を移動";
 
 /* Show file panel to ask for destination when moving archive/originals after operations */
 "Move archive here" = "書庫をここに移動";
 
-/* (No Comment) */
-"Move Items" = "項目を移動します";
+"Move Items" = "項目を移動";
 
-/* (No Comment) */
 "Move Originals" = "元のファイル／フォルダを移動";
 
-/* (No Comment) */
 "Move originals here" = "元のファイル／フォルダをここに移動";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Move to Trash" = "ゴミ箱に入れる";
+
 "Moved" = "移動";
 
-/* (No Comment) */
 "Multi-volume" = "複数のボリューム";
 
-/* (No Comment) */
 "Multiple Copies Installed" = "複数の Squirrel がインストールされています";
 
-/* (No Comment) */
 "Multiple files" = "複数のファイル";
 
-/* (No Comment) */
 "N/A" = "—";
 
-/* (No Comment) */
-"never" = "しない";
+/* column header */
+"Name" = "名前";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"name" = "名前";
+
+/* name label */
+"Name:" = "名前:";
+
 "Never" = "なし";
 
-/* (No Comment) */
+"never" = "しない";
+
 "New Folder" = "新規フォルダ";
 
-/* (No Comment) */
 "New Preset" = "新規プリセット";
 
-/* (No Comment) */
 "New Preset (%@)" = "新規プリセット (%@)";
 
-/* (No Comment) */
-"Next to archive" = "アーカイブのある場所";
+"Next to archive" = "書庫のある場所";
 
-/* (No Comment) */
 "Next to original" = "元の項目と同じ場所";
 
-/* (No Comment) */
 "No" = "いいえ";
 
-/* (No Comment) */
 "No checksum" = "チェックサムなし";
 
-/* (No Comment) */
-"No compression" = "圧縮しない";
+"No compression" = "無圧縮";
 
-/* (No Comment) */
 "no errors" = "エラーはありません";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"No errors found" = "エラーはありません";
+
 "No files selected" = "ファイルが選択されていません";
 
-/* (No Comment) */
+/* no filter predicate
+no rename */
+"None" = "何もしない";
+
 "Normal" = "通常";
 
-/* (No Comment) */
-"Not encrypted" = "暗号化しない";
+"Not encrypted" = "暗号化なし";
 
-/* (No Comment) */
+/* button */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"Older than a month" = "1ヶ月以前";
+
+/* No comment provided by engineer. */
+"Older than a week" = "1週間以前";
 
 /* Descriptive title of the password editor window */
 "One password per line:" = "一行あたりパスワードをひとつ:";
@@ -719,432 +737,470 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Open panel title */
 "Open" = "開く";
 
-/* (No Comment) */
-"Open and browse the archive" = "アーカイブを開いて内容を表示";
+"Open and browse the archive" = "書庫を開いて内容を表示";
 
-/* (No Comment) */
 "Open Anyway" = "強行する";
 
-/* (No Comment) */
 "Open System Preferences" = "システム設定を開く";
 
-/* (No Comment) */
-"Opening archive failed" = "アーカイブを開けませんでした";
+"Open With" = "このアプリケーションで開く";
 
-/* (No Comment) */
-"Opening archive with %d items" = "％d 項目を含むアーカイブを展開しています";
+"Opening archive failed" = "書庫を開けませんでした";
 
-/* (No Comment) */
-"Other folder…" = "その他のフォルダ…";
+"Opening archive with %d items" = "％d 項目を含む書庫を展開中";
+
+"Operation time: %.1lf s" = "処理時間: %.1lf s";
+
+/* Operations queue */
+"Operations Completed" = "処理完了";
 
 /* menu item */
 "Other Folder…" = "他のフォルダ…";
 
-/* open with other application */
-"Other…" = "その他";
+"Other folder…" = "その他のフォルダ…";
 
-/* (No Comment) */
+/* open with other application */
+"Other…" = "その他…";
+
+/* Info table key */
 "Pages" = "ページ";
+
+/* No comment provided by engineer. */
+"Panel Settings" = "パネル設定";
 
 /* Preferences tab title */
 "Passwords" = "パスワード";
 
-/* (No Comment) */
+/* Info table key */
 "Path" = "パス";
 
-/* (No Comment) */
 "Permission denied" = "アクセスできません";
 
 /* Preferences tab title */
 "Places" = "場所";
 
-/* (No Comment) */
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "環境設定 > ヘルパー に正しいパスを設定するか、アーカイブの形式を変更して下さい。";
+"Please confirm" = "確認してください";
+
+"Please download a fresh copy from our website." = "弊社のウェブサイトから最新版をダウンロードしてください。";
+
+"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "「設定」>「ヘルパー」に正しいパスを設定するか、書庫の形式を変更して下さい。";
+
+/* placeholder */
+"Predicate name" = "判定条件名";
 
 /* Preferences tab title */
 "Presets" = "プリセット";
 
-/* (No Comment) */
 "Queued for compression" = "圧縮キュー";
 
-/* (No Comment) */
 "Queued for extraction" = "展開キュー";
 
-/* (No Comment) */
 "Queued for testing" = "テストキュー";
 
 /* Button title */
 "Quit" = "終了";
 
-/* (No Comment) */
-"Quit and Reveal in Finder" = "終了して Finder で表示";
+"Quit and Reveal in Finder" = "終了して Finder に表示";
 
-/* (No Comment) */
 "Quit!" = "終了!";
 
-/* (No Comment) */
 "RAR Format" = "RAR 形式";
 
-/* DMG subformat */
+/* Info table key */
+"Ratio" = "圧縮率";
+
 "Read-only image" = "読み取り専用イメージ";
 
 /* DMG Options */
 "Read/write image" = "読み書き可能イメージ";
 
-/* (No Comment) */
+"Reconstruct" = "再構築";
+
 "Regular Expression" = "正規表現";
 
-/* (No Comment) */
 "Reload Drop Bar" = "ドロップバーを再読み込み";
 
-/* (No Comment) */
 "Remove" = "削除";
 
-/* (No Comment) */
-"Remove files matching the patterns configured in the preferences window from the archive." = "環境設定で設定されたパターンに合致するファイルをアーカイブから取り除きます。";
+"Remove files matching the patterns configured in the preferences window from the archive." = "環境設定で設定されたパターンに合致するファイルを書庫から取り除く。";
 
-/* (No Comment) */
 "Rename Item" = "項目の名前を変更します";
 
-/* (No Comment) */
 "Repair" = "修復";
 
-/* Button label */
+/* Import presets button
+conflict action */
 "Replace" = "置換";
 
-/* (No Comment) */
+/* rename mode */
+"Replace _ and . with space" = "_ と . を空白で置換";
+
+/* rename mode */
+"Replace _ with space" = "_ を空白で置換";
+
+/* Import presets alert title */
+"Replace or Add?" = "置換あるいは追加しますか?";
+
+/* rename mode */
+"Replace space with _" = "空白を _ で置換";
+
+"Reset" = "リセット";
+
+/* Advanced prefs – reset learned progress weights */
+"Reset Learned Progress Weights?" = "これまでの学習結果を初期化しますか?";
+
 "Reset Password Manager" = "パスワードマネージャーをリセット";
 
-/* (No Comment) */
 "Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "パスワードマネージャーをリセットすると、既存のパスワードすべてとマスターパスワードはすべて消去されます。実行すると取り消しはできません。";
 
-/* (No Comment) */
+"Reveal" = "表示";
+
 "Reveal in Finder" = "Finder に表示";
 
-/* (No Comment) */
 "Running script" = "スクリプト実行中";
+
+"Running shortcut" = "ショートカットを実行中";
+
+"Running shortcut %@" = "ショートカット %@ を実行中";
 
 /* Progress messages */
 "Running user script %@" = "ユーザースクリプト %@ を実行中";
 
-/* (No Comment) */
+/* rename mode */
+"Sanitize filenames for Windows" = "Windows 用にファイル名を修正";
+
 "Save" = "保存";
 
-/* (No Comment) */
 "Save As…" = "別名で保存…";
 
-/* (No Comment) */
-"Save the archive" = "アーカイブを保存";
+/* save predicate alert title */
+"Save Predicate" = "判定条件を保存";
+
+"Save the archive" = "書庫を保存";
 
 /* menu item in sharing menu */
 "Save the archive before sharing" = "書庫を保存してから共有";
 
-/* (No Comment) */
-"Save the archive with another name." = "別の名前でアーカイブを保存";
+"Save the archive with another name." = "別の名前で書庫を保存。";
 
-/* (No Comment) */
 "Save the current settings as preset" = "プリセットとして現在の設定を保存";
 
-/* (No Comment) */
-"Saving archive %@" = "アーカイブ %@ を保存中";
+"Saving archive %@" = "書庫%@ を保存中";
 
-/* (No Comment) */
-"Saving archive failed" = "アーカイブを保存できませんでした";
+"Saving archive failed" = "書庫を保存できませんでした";
 
-/* (No Comment) */
-"Saving archive: %@ of %@" = "アーカイブを保存中: %2$@. 項目中 %1$@";
+"Saving archive: %@ of %@" = "書庫を保存中: %2$@ 項目中 %1$@";
 
-/* (No Comment) */
+"Scripts" = "スクリプト";
+
 "Search" = "検索";
 
-/* (No Comment) */
-"Search the archive file" = "アーカイブファイルを検索します";
+"Search the archive file" = "書庫ファイルを検索します";
 
-/* (No Comment) */
 "Service Name" = "サービス名";
 
 /* possible button labels for setting and clearing passwords in the save presets configuration */
 "Set" = "設定";
 
-/* (No Comment) */
+"Set Master Password…" = "マスターパスワードを設定…";
+
+"Shortcuts" = "ショートカット";
+
+/* No comment provided by engineer. */
+"Show Archive in Finder" = "Finder に書庫を表示";
+
+/* disclosure label */
+"Show Details" = "詳細を表示";
+
 "Show Favorites" = "よく使う項目を表示";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Show in Finder" = "Finder に表示";
+
+/* Password */
+"Show password" = "パスワードを表示";
+
+/* View menu */
+"Show Path Bar" = "パスバーを表示";
+
 "Show Preview" = "プレビューを表示";
 
-/* (No Comment) */
 "Show save panel" = "保存パネルを表示";
 
 /* Pattern control */
 "Simple File Mask" = "シンプルなファイルマスク";
 
-/* (No Comment) */
+/* Info table key */
 "Size" = "サイズ";
 
-/* (No Comment) */
+/* conflict action */
+"Skip" = "スキップ";
+
+/* Info table key */
 "Solid" = "一体";
 
-/* (No Comment) */
 "Sorry!" = "申し訳ない!";
 
-/* (No Comment) */
+"Sort By" = "並べ替え順";
+
 "Stop" = "中止";
 
-/* (No Comment) */
 "Strong (AES-256)" = "強力な暗号 (AES-256)";
 
-/* (No Comment) */
 "Strong (AES-256) with header encryption" = "強力な暗号 (AES-256) ヘッダ暗号化付き";
 
-/* (No Comment) */
 "Symbolic Link (no preview possible)" = "シンボリックリンク (プレビューできません)";
 
 /* The system default app should handle this file type. */
 "System Default" = "システムデフォルト";
 
-/* Format name */
+"Tags for user-defined formats must be 1000 or greater." = "ユーザー定義形式のタグは 1000 以上でなくてはなりません。";
+
 "TAR Format, Brotli compressed (tbr)" = "TAR 形式、Brotli 圧縮 (tbr)";
 
-/* Format name */
 "TAR Format, BZip2 compressed (tbz)" = "TAR 形式、BZip2 圧縮 (tbz)";
 
-/* Format name */
 "TAR Format, GZip compressed (tgz)" = "TAR 形式、圧縮 (tgz)";
 
-/* Format name */
 "TAR Format, uncompressed (tar)" = "TAR 形式、無圧縮 (tar)";
 
-/* Format name */
 "TAR Format, xz compressed (txz)" = "TAR 形式、xz 圧縮 (txz)";
 
 /* New formats */
 "TAR Format, Z compressed (tz)" = "TAR 形式、Z圧縮 (tz)";
 
-/* Format name */
 "TAR Format, Zstandard compressed (tzst)" = "TAR 形式、Zstandard 圧縮 (tzst)";
 
-/* (No Comment) */
-"Test" = "検査";
+"tar options,compressor options" = "tar オプション、圧縮オプション";
 
-/* (No Comment) */
-"Test the archive" = "アーカイブをテスト";
+"Test" = "検証";
 
-/* (No Comment) */
-"Test the archive integrity" = "アーカイブに損傷がないことを検査";
+"Test Archive" = "書庫を検証";
 
-/* (No Comment) */
+"Test the archive" = "書庫を検証";
+
+"Test the archive integrity" = "書庫に損傷がないことを検証";
+
 "Testing %@" = "%@ を検証中";
 
-/* (No Comment) */
-"Testing archive %@" = "アーカイブ %@ を検査中";
+"Testing archive %@" = "%@ 書庫を検証中";
 
 /* Output while testing archives */
-"Testing: %@…" = "検査中: %@…";
+"Testing: %@…" = "検証中: %@…";
 
-/* (No Comment) */
-"The archive cannot be created." = "アーカイブを作成できませんでした。";
+"Thanks for helping us improve %@" = "弊社の %@ に関する改善にご協力いただきありがとうございます";
 
-/* (No Comment) */
-"The archive could not be extracted completely. It may be damaged." = "アーカイブをすべて展開することはできませんえした。壊れている可能性があります。";
+/* Application integrity */
+"The application is damaged." = "アプリケーションは壊れています。";
 
-/* (No Comment) */
-"The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "アーカイブを完全に展開することができませんでした。アーカイブが壊れている可能性があります。修復しますか?";
+"The archive cannot be created." = "書庫を作成できませんでした。";
 
-/* (No Comment) */
-"The archive could not be extracted." = "アーカイブを展開できませんでした。";
+"The archive could not be extracted completely. It may be damaged." = "書庫をすべて展開することはできませんえした。壊れている可能性があります。";
 
-/* (No Comment) */
-"The archive disappeared" = "アーカイブが見当たりません";
+"The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "書庫を完全に展開することができませんでした。壊れている可能性があります。修復しますか?";
 
-/* (No Comment) */
-"The archive extraction failed." = "アーカイブを展開できませんでした。";
+"The archive could not be extracted." = "書庫を展開できませんでした。";
 
-/* (No Comment) */
-"The archive is either damaged or in an unsupported format." = "アーカイブが壊れているか、未知の形式が使われています。";
+"The archive disappeared" = "書庫が見当たりません";
 
-/* (No Comment) */
+"The archive extraction encountered errors." = "書庫の展開中にエラーが発生しました。";
+
+"The archive extraction failed." = "書庫を展開できませんでした。";
+
+"The archive is either damaged or in an unsupported format." = "書庫が壊れているか、未知の形式が使われています。";
+
 "The archive test failed. Do you want to try to repair the archive?" = "書庫の検査に失敗しました。書庫の修復を試みますか?";
 
-/* (No Comment) */
-"The archive test was completed successfully." = "アーカイブの検査は正常に終了しました。";
+"The archive test was completed successfully." = "書庫の検査は正常に終了しました。";
 
-/* (No Comment) */
-"The archive tests failed." = "アーカイブの検査に失敗しました。";
+"The archive tests failed." = "書庫の検査に失敗しました。";
 
 /* No comment provided by engineer. */
 "The archive tests failed. The archive is either damaged or in an unsupported format. The transcript window may contain further details." = "書庫の健勝に失敗しました。書庫が壊れているか、サポートされていない形式です。変換ウインドウに詳細な情報が表示されているかもしれません。";
 
-/* (No Comment) */
-"The file %@ could not be added to the archive. Maybe the system disc is full?" = "ファイル %@ をアーカイブに追加できませんでした。システムディスクがいっぱいなのかも。";
+"The file %@ could not be added to the archive. Maybe the system disc is full?" = "ファイル %@ を書庫に追加できませんでした。システムディスクがいっぱいなのかも?";
 
-/* (No Comment) */
 "The file %@ could not be extracted." = "ファイル %@ を展開できませんでした。";
 
-/* (No Comment) */
 "The file %@ has been modified." = "ファイル %@ は変更されています。";
 
-/* (No Comment) */
+"The file at '%@' does not exist." = "\"%@\" にファイルがありません。";
+
+/* No comment provided by engineer. */
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "\"%@\" の最初のボリュームがありません。復旧用ボリューム (.rev) はありますが、欠落しているボリュームを再構築するには、rart のコマンドラインツールが必要です。rar のパスを「BetterZip」>「設定」>「ヘルパー」で設定してください。";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "\"%@\" の最初のボリュームがありません。復旧用ボリューム (.rev) はありますが、欠落しているボリュームを再構築するには、rart のコマンドラインツールが必要です。rar のパスを「設定」>「ヘルパー」で設定してください。";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "\"%@\" の最初のボリュームはありませんが復旧用ボリューム (.rev) が見つかりました。欠落しているボリュームを再構築しますか?";
+
+"The helper tool %@ could not be found or is not executable." = "ヘルパーツール %@ が見つからないか、実行ができません。";
+
+"The JSON must be a dictionary (top-level object)." = "JSON はディレクトリ (トップレベルのオブジェクト) でなくてはなりません。";
+
 "The last error macOS reported was:" = "macOS が検出した最新のエラー:";
 
-/* (No Comment) */
-"The password may be incorrect." = "パスワードが正しくありません。";
+/* No comment provided by engineer. */
+"The log files will be moved to the Trash." = "ログファイルはゴミ箱に入れられます。";
 
-/* (No Comment) */
+"The password may be incorrect." = "パスワードが間違っています。";
+
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "rar ファイルの展開はメモリを大量に消費 (%@) します。続けてもよろしいですか?";
+
 "The rar helper could not be found." = "rar ヘルパーが見つかりませんでした。";
 
-/* (No Comment) */
-"The transcript window may contain further details." = "トランスクリプトウインドウにはより詳細な情報が表示されています。";
+"The transcript window may contain further details." = "トランスクリプトウインドウにはより詳細な情報が表示されます。";
 
-/* (No Comment) */
 "There are operations in progress." = "実行中の操作があります。";
 
-/* (No Comment) */
 "There is not enough free space on the destination drive." = "対象のドライブに充分な空き容量がありません。";
 
-/* (No Comment) */
-"This archive appears to be damaged." = "このアーカイブは壊れているようです。";
+"This archive appears to be damaged." = "この書庫は壊れているようです。";
 
-/* (No Comment) */
-"This archive doesn't contain any Mac specific files yet" = "このアーカイブには、Mac 固有のファイルがありません";
+"This archive doesn't contain any Mac specific files yet" = "この書庫には、Mac 固有のファイルがありません";
+
+/* Import presets wrong type alert message */
+"This file contains extract presets, but you are importing into save presets." = "このファイルには展開用プリセットが含まれていますが圧縮用プリセットへ読み込もうとしています。";
+
+/* Import presets wrong type alert message */
+"This file contains save presets, but you are importing into extract presets." = "このファイルには圧縮用プリセットが含まれていますが展開用プリセットへ読み込もうとしています。";
+
+/* No comment provided by engineer. */
+"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "これはブラックリスト入りしている書庫です。オプション (⌥) キーを押下しながら開いて内容を確認してください。";
 
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "これはあなたがお探しのパスワードではありません。";
 
-/* (No Comment) */
 "This name is invalid." = "不正な名前です。";
 
-/* (No Comment) */
+"This operation has been running for a while. Are you sure you want to cancel it?" = "この処理にはしばらく時間がかかります。本当に中止してもよろしいですか?";
+
+/* No comment provided by engineer. */
+"time" = "時刻";
+
+/* Info table key */
 "Title" = "タイトル";
 
-/* (No Comment) */
-"To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "選択されているフォルダを無視して、選択したアーカイブを直接展開する場合は、「選択した項目のみ展開」をクリックして下さい。";
+"To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "選択されているフォルダを無視して、選択した書庫を直接展開する場合は、「選択した項目のみ展開」をクリックして下さい。";
 
 /* Today title string */
 "Today" = "今日";
 
+/* No comment provided by engineer. */
+"Toggle Preview" = "プレビュー表示を切り替え";
+
+/* No comment provided by engineer. */
+"Toggle Sidebar" = "スライドショー表示を切り替え";
+
 /* menu item */
 "Trash" = "ゴミ箱";
 
-/* DMG subformat */
-"UDF" = "UDF";
+/* No comment provided by engineer. */
+"Uninstall Command-Line Tool" = "コマンドラインツールをアンインストール";
 
-/* (No Comment) */
 "Unknown" = "不明";
 
-/* (No Comment) */
+"Unknown file types" = "不明なファイルタイプ";
+
 "Unlock Password Manager…" = "パスワードマネージャーをアンロック…";
 
-/* (No Comment) */
+"Unlock the password manager to set a preset password." = "パスワードマネージャーをアンロックしてプリセットのパスワードを設定。";
+
 "Unpacking failed" = "展開に失敗しました";
 
-/* (No Comment) */
+"Untitled Archive" = "名称未設定書庫";
+
 "untitled folder" = "名称未設定フォルダ";
 
 /* the two possible labels of the action button in the "file replace" alert panel */
-"Update" = "アップデート";
+"Update" = "更新";
 
-/* (No Comment) */
 "Update File" = "ファイルを更新";
 
-/* (No Comment) */
-"Updated" = "更新";
+"Update Items" = "項目を更新";
+
+"Updated" = "更新済み";
 
 /* title of the OK button in the file open panel used to locate the temp folder or standard opening program */
 "Use" = "使う";
 
-/* (No Comment) */
-"Use for subsequent archives" = "以降のアーカイブに使用";
+"Use for subsequent archives" = "以降の書庫に使用";
 
-/* (No Comment) */
 "Use RAR" = "RAR を使用";
 
-/* (No Comment) */
-"Use this password for the new archive" = "このパスワードを新規アーカイブで使用";
+"Use this filter to select which files and folders to add:" = "このフィルターを使って追加するファイルやフォルダを選択:";
 
-/* (No Comment) */
-"Use this pattern to delete files and folders from the archive:" = "このパターンを使ってアーカイブからファイルやフォルダを削除:";
+"Use this password for the new archive" = "このパスワードを新規書庫で使用";
 
-/* (No Comment) */
-"Use this pattern to specify which files and folders to add to the archive:" = "このパターンを使ってアーカイブに追加するファイルやフォルダを指定:";
+"Use this pattern to delete files and folders from the archive:" = "このパターンを使って書庫からファイルやフォルダを削除:";
 
-/* (No Comment) */
+"Use this pattern to specify which files and folders to add to the archive:" = "このパターンを使って書庫に追加するファイルやフォルダを指定:";
+
 "Use this preset as default in the toolbar" = "このプリセットをツールバーでのデフォルト動作にする";
 
-/* (No Comment) */
 "Use this preset as service" = "このプリセットをサービスで使う";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"user" = "ユーザー";
+
+/* No comment provided by engineer. */
+"User confirmation for \"%@\" answered with %@" = "\"%1$@\" のユーザー確認に対して %2$@ と返答がありました";
+
+/* Info table key */
 "Version" = "バージョン";
 
-/* (No Comment) */
 "View" = "表示";
 
-/* (No Comment) */
 "View the selected file" = "選択したファイルを表示します";
 
 /* Logging volume changes during extraction and testing of multi-volume rar archives */
 "Volume: %@" = "ボリューム: %@";
 
-/* (No Comment) */
+/* Info table key */
 "Volumes" = "ボリューム";
 
-/* (No Comment) */
 "Warning" = "警告";
 
-/* (No Comment) */
 "Warning: Saving cannot be undone" = "警告: 保存した後でこれを取り消すことはできません";
 
-/* (No Comment) */
 "Weak (PKZip2 compatible)" = "弱い暗号 (PKZip2 互換)";
 
-/* (No Comment) */
-"When in Direct Mode, all archive operations are immediate and cannot be undone." = "ダイレクトモードでは、アーカイブ処理がただちに反映されるため、元には戻せません。";
+/* relative date unit */
+"weeks" = "週間";
 
-/* (No Comment) */
+"When in Direct Mode, all archive operations are immediate and cannot be undone." = "ダイレクトモードでは、書庫の処理がただちに反映されるため、元には戻せません。";
+
 "with errors" = "エラーがあります";
 
-/* (No Comment) */
 "Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "起動時に、%@ のアップデートがあるか確認しますか? この設定は後からいつでも環境設定から変更することができます。";
 
-/* (No Comment) */
 "Wrong checksum" = "チェックサム異常";
 
-/* Format name */
+/* Import presets wrong type alert title */
+"Wrong Preset Type" = "プリセットタイプが誤り";
+
 "XAR Format" = "XAR 形式";
 
-/* Format name */
-"XIP Format" = "XIP 形式";
-
-/* (No Comment) */
 "Yes" = "はい";
 
 /* Yesterday title string */
 "Yesterday" = "昨日";
 
-/* (No Comment) */
-"You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "まだ内容は閲覧できますが、アーカイブ操作はすべて失敗します。 ウインドウを閉じますか?";
+"You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "まだ内容は閲覧できますが、書庫に対する処理はすべて失敗します。 ウインドウを閉じますか?";
 
-/* (No Comment) */
 "You can't move an item into one of its subfolders!" = "自分のサブフォルダへ項目を移動させることはできません!";
 
-/* (No Comment) */
 "You don't have permission to write to this folder." = "このフォルダに書き込みができるアクセス権がありません。";
 
 /* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
-"You should save this archive with ZIP or RAR format or your comment will be lost." = "このアーカイブを ZIP もしくは RAR 形式で保存して下さい。それ以外では、コメントが保存されません。";
+"You should save this archive with ZIP or RAR format or your comment will be lost." = "この書庫を ZIP もしくは RAR 形式で保存して下さい。それ以外では、コメントが保存されません。";
 
-/* (No Comment) */
 "Your changes will be lost if you don't save them." = "保存しないと、変更は失われてしまいます。";
 
 /* ZipDocument */
 "Zip Format (recommended)" = "Zip 形式 (推奨)";
 
-/* DMG subformat */
 "Zlib compressed" = "Zlib 圧縮";
 
-/* DMG subformat */
 "Zlib compressed (level 9)" = "Zlib 圧縮 (レベル 9)";
 
-
-"Cancel Operation" = "Cancel Operation";
-"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
+"⚠️ (older)" = "⚠️ (より古い)";

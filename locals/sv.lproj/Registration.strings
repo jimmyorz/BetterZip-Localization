@@ -1,85 +1,58 @@
-/* (No Comment) */
 "%d days left" = "%d dagar kvar";
 
 /* No comment provided by engineer. */
 "An error occured, please try again later. If the problem persists, please contact me by email." = "Ett fel uppstod. Vänligen försök igen senare. Om problemet kvarstår, kontakta mig via mejl.";
 
-/* (No Comment) */
 "Automatically check for updates (last check: %@)" = "Leta efter uppdateringar automatiskt. (Letade senast: %@)";
 
-/* (No Comment) */
 "Better get your license today!" = "Det är nog bäst att du ordnar din licensnyckel idag!";
 
-/* (No Comment) */
 "BetterZip has detected more copies running at the same time in your network than you have license keys." = "BetterZip har upptäckt flera installationer som körs samtidigt i ditt nätverk än du har licenser för.";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period ends today. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip är inte registrerad ännu. Din testperiod upphör idag. För att fortsätta att använda BetterZip, klicka på ”Köp nu”-knappen nedan och registrera nu!";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end in %d days." = "BetterZip är inte registrerad ännu. Testperioden går ut om %d dagar.";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end tomorrow. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip  är inte registrerad ännu. Din testperiod tar slut imorgon. För att fortsätta använda BetterZip klicka på ”Köp nu”-knappen nedan och registrera nu!";
 
-/* (No Comment) */
 "Buy now" = "Köp nu";
 
-/* (No Comment) */
+/* Strings not to be in the MAS version */
 "Buy Now…" = "Köp nu…";
 
-/* (No Comment) */
 "Check for Updates…" = "Leta efter uppdateringar…";
 
-/* (No Comment) */
 "Continue" = "Fortsätt";
 
-/* (No Comment) */
 "Every computer in your network needs its own license key. Please consider buying one of those really reasonably priced multi-user licenses." = "Varje installation i ditt nätverk måste ha en egen licens. Vänligen fundera på att köpa en ganska hyfsat prissatt multianvändar licens.";
 
-/* (No Comment) */
 "Great!" = "Superbra!";
 
-/* Strings not to be in the MAS version */
-"https://macitbetter.com/buy/betterzip" = "https://macitbetter.com/buy/betterzip";
-
-/* (No Comment) */
-"https://macitbetter.com/lost-key-for/betterzip" = "https://macitbetter.com/lost-key-for/betterzip";
-
-/* (No Comment) */
 "If you like BetterZip, click the 'Buy now' button below and get your license today!" = "Om du gillar BetterZip, klicka på ”Köp nu!”-knappen nedan och få din licensnyckel idag!";
 
-/* (No Comment) */
 "It has been a long time since you last tried BetterZip. Take a few more days to evaluate it again. Your trial period has been extended by five days." = "Det har varit en god stund sedan du använde BetterZip sist. Du får ett par dagar till på dig att evaluera den. Din testperiod har utökats.";
 
-/* (No Comment) */
 "Later" = "Senare";
 
 /* Parameter: name */
 "Licensee: %@" = "Licensinnehavare: %@";
 
-/* (No Comment) */
 "More license keys required." = "Flera licensnycklar krävs…";
 
-/* (No Comment) */
 "Please register BetterZip to enable the saving of archives." = "Vänligen registrera BetterZip för att sparning av arkiv ska fungera igen.";
 
 /* Params: date */
 "Registration: %@" = "Registrering: %@";
 
+"Registration: %@ u2013 %d licenses" = "";
+
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Registrerat:";
 
-/* (No Comment) */
-"Registration: %@ for %d licenses" = "Registrering: %@ för %d licenser";
-
-/* (No Comment) */
 "Registration…" = "Registrering…";
 
-/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "Koden är inte giltig. Dubbelkolla att du klistrat in den fullständiga licensnyckeln i textfältet.";
 
-/* (No Comment) */
 "The trial period is over" = "Testperioden är nu slut.";
 
 /* No comment provided by engineer. */
@@ -88,27 +61,18 @@
 /* New in BetterZip 3 */
 "This function is available to registered users only." = "Denna funktion finns bara för registrerade användare.";
 
-/* (No Comment) */
 "This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "Den här licensen är för en äldre version utav BetterZip. Du kan använda den för att köpa en uppgradering till BetterZip 6 för US$ %@. Klicka på ”Uppgradera nu”-knappen för att ta dig till våran webbshop.";
 
-/* No comment provided by engineer. */
 "Trial period, %d days left" = "Testperiod, %d dagar kvar";
 
-/* (No Comment) */
 "Trial user, %d days left" = "%d dagar kvar av testperioden";
 
-/* (No Comment) */
 "Upgrade now" = "Uppgradera nu";
 
-/* (No Comment) */
 "Welcome back to BetterZip!" = "Välkommen tillbaka till BetterZip!";
 
-/* (No Comment) */
 "Your copy of BetterZip is registered. Thank you!" = "BetterZip har nu registrerats. Tack så mycket!";
 
-/* (No Comment) */
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "Den testperiod är nu slut. Emedan BetterZip kommer att fungera ett par dagar till så måste du registrera BetterZip om du vill fortsätta att använda det. Klicka på ”Köp nu”-knappen nedan och få din licensnyckel på några minuter.";
 
-/* (No Comment) */
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "Din testperiod är nu slut. Du kan fortfarande granska, men sparning går inte längre. Vänligen registrera om du vill fortsätta att använda BetterZip! Klicka på ”Köp nu”-knappen nedan och få en en licensnyckel på några minuter.";
-

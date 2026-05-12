@@ -2,16 +2,40 @@
 "Add Items to New Archive in BetterZip" = "BetterZip で新しい書庫へ項目を追加";
 
 /* (No Comment) */
+"Compress with BetterZip" = "BetterZip で圧縮";
+
+/* (No Comment) */
 "Compress with Preset" = "プリセットを使った圧縮";
+
+/* No comment provided by engineer. */
+"Error" = "エラー";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "外部コマンドの戻り値: %1$d%2$c";
 
 /* (No Comment) */
 "Extract to" = "展開先";
 
 /* (No Comment) */
+"Extract with BetterZip" = "BetterZip で展開";
+
+/* (No Comment) */
 "Extract with Preset" = "プリセットを使って展開";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "無視して続ける";
 
 /* (No Comment) */
 "Next to Archives" = "次の書庫";
+
+/* No comment provided by engineer. */
+"No compression" = "無圧縮";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "暗号化なし";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
 
 /* (No Comment) */
 "Open in BetterZip" = "BetterZip で開く";
@@ -22,6 +46,24 @@
   Created by Robert Rezabek on 07.05.17. */
 "Other Actions" = "その他のアクション";
 
+/* No comment provided by engineer. */
+"Other…" = "その他…";
+
+/* (No Comment) */
+"Start collecting items in a new archive" = "新しい書庫に項目の収集を開始";
+
+/* No comment provided by engineer. */
+"Stop" = "停止";
+
 /* (No Comment) */
 "Test Validity of Archives" = "書庫の妥当性をテスト";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "ヘルパーツール %@ が見つからないか、実行ができません。";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "対象のドライブに充分な空き容量がありません。";
+
+/* No comment provided by engineer. */
+"Warning" = "警告";
 

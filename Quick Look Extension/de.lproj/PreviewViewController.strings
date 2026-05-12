@@ -1,7 +1,10 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1X0-Dx-oTi"; Note = "don't translate"; */
+"1X0-Dx-oTi.title" = "Text Cell";
+
 /* Class = "NSTableColumn"; headerCell.title = "Attributes"; ObjectID = "2NT-uQ-ifc"; */
 "2NT-uQ-ifc.headerCell.title" = "Attribute";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3Ye-pm-JXL"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "3Ye-pm-JXL"; Note = "don't translate"; */
 "3Ye-pm-JXL.title" = "Text Cell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "D9n-CY-dye"; */
@@ -13,7 +16,7 @@
 /* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "ibb-eH-X1e"; */
 "ibb-eH-X1e.headerCell.title" = "Größe";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IMo-dV-byZ"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IMo-dV-byZ"; Note = "don't translate"; */
 "IMo-dV-byZ.title" = "Text Cell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "KT0-yK-Cg2"; */
@@ -31,10 +34,10 @@
 /* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "QUh-KA-qlu"; */
 "QUh-KA-qlu.title" = "Automatische Spaltengröße";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r10-Bv-Lfw"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "r10-Bv-Lfw"; Note = "don't translate"; */
 "r10-Bv-Lfw.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "t24-BS-p3d"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "t24-BS-p3d"; Note = "don't translate"; */
 "t24-BS-p3d.title" = "Text Cell";
 
 /* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "TB1-H2-ikb"; */
@@ -43,9 +46,9 @@
 /* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "tfT-ax-tXZ"; */
 "tfT-ax-tXZ.headerCell.title" = "Art";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "w5r-tG-oSU"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "w5r-tG-oSU"; Note = "don't translate"; */
 "w5r-tG-oSU.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xnb-J4-9Bf"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Xnb-J4-9Bf"; Note = "don't translate"; */
 "Xnb-J4-9Bf.title" = "Text Cell";
 

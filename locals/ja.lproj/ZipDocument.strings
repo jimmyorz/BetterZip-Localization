@@ -1,46 +1,13 @@
 /* Class = "NSTableColumn"; headerCell.title = "key"; ObjectID = "0W4-j3-kLO"; */
 "0W4-j3-kLO.headerCell.title" = "キー";
 
-/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
-"3Db-W6-KiY.title" = "カラム幅の自動調整";
-
-/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
-"6Il-Hd-fod.label" = "ドロップエリア";
-
-/* Class = "NSMenuItem"; title = "Add to Favorites…"; ObjectID = "6qe-iQ-ixE"; */
-"6qe-iQ-ixE.title" = "お気に入りに追加…";
-
-/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
-"7f0-k5-lWA.headerCell.title" = "値";
-
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; */
-"8p6-fL-GfM.title" = "OtherViews";
-
-/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
-"8Yx-BY-UEi.title" = "名前を変更";
-
-/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; */
-"9xa-Ff-0K9.title" = "Table View Cell";
-
-/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
-"19d-zw-yaW.title" = "ファイルの一覧表示を許可";
-
-/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
-"89T-hX-8ou.title" = "新規タブで開く";
-
-/* Class = "NSWindow"; title = "Replace Existing Files"; ObjectID = "91"; */
-"91.title" = "既存のファイルを置き換える";
-
-/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
-"99.title" = "ProgressWindow";
-
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "189"; */
 "189.title" = "メニュー";
 
-/* Class = "NSMenuItem"; title = "Extract Selected…"; ObjectID = "190"; */
+/* Class = "NSMenuItem"; title = "Extract Selected…"; ObjectID = "190"; Note = "@changed-6.0b2 (previous: \"Extract Selected...\")"; */
 "190.title" = "選択した項目を展開…";
 
-/* Class = "NSMenuItem"; title = "Add Here…"; ObjectID = "191"; */
+/* Class = "NSMenuItem"; title = "Add Here…"; ObjectID = "191"; Note = "@changed-6.0b2 (previous: \"Add Here...\")"; */
 "191.title" = "ここへ追加…";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "192"; */
@@ -49,10 +16,13 @@
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "193"; */
 "193.title" = "名前を変更";
 
-/* Class = "NSMenuItem"; title = "Extract All…"; ObjectID = "198"; */
+/* Class = "NSMenuItem"; title = "Extract All…"; ObjectID = "198"; Note = "@changed-6.0b2 (previous: \"Extract All...\")"; */
 "198.title" = "すべて展開…";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "205"; */
+/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
+"19d-zw-yaW.title" = "ファイルの一覧表示を許可";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "205"; Note = "don't translate"; */
 "205.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = ".zip"; ObjectID = "206"; */
@@ -67,7 +37,7 @@
 /* Class = "NSMenuItem"; title = ".tar"; ObjectID = "213"; */
 "213.title" = ".tar";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "226"; */
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "226"; Note = "don't translate"; */
 "226.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Best, but slower"; ObjectID = "227"; */
@@ -79,7 +49,7 @@
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "229"; */
 "229.title" = "通常";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "286"; */
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "286"; Note = "don't translate"; */
 "286.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "MB"; ObjectID = "287"; */
@@ -97,11 +67,11 @@
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "322"; */
 "322.title" = "新規フォルダ";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "326"; */
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "326"; Note = "don't translate"; */
 "326.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "No encryption"; ObjectID = "327"; */
-"327.title" = "暗号化しない";
+"327.title" = "暗号化なし";
 
 /* Class = "NSMenuItem"; title = "Strong (AES-256, WinZip compatible)"; ObjectID = "329"; */
 "329.title" = "強力な暗号 (AES-256, WinZip 互換)";
@@ -110,7 +80,7 @@
 "338.title" = "速度優先。圧縮率は低くなります";
 
 /* Class = "NSTabViewItem"; label = "Image"; ObjectID = "385"; */
-"385.label" = "Image";
+"385.label" = "画像";
 
 /* Class = "NSTabViewItem"; label = "Text"; ObjectID = "386"; */
 "386.label" = "Text";
@@ -118,34 +88,13 @@
 /* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "389"; */
 "389.label" = "PDF";
 
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "591"; */
-"591.title" = "An item named 01234567890123456789 already exists in this location.\nDo you want to replace it with the one you are extracting?";
+/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
+"3Db-W6-KiY.title" = "カラム幅の自動調整";
 
-/* Class = "NSButtonCell"; title = "Apply to all"; ObjectID = "592"; */
-"592.title" = "すべてに適用";
+/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
+"5hI-Ex-L0h.label" = "アウトライン";
 
-/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "593"; */
-"593.title" = "スキップ";
-
-/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "594"; */
-"594.title" = "中止";
-
-/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "595"; */
-"595.title" = "置き換える";
-
-/* Class = "NSTextFieldCell"; title = "File on disk:"; ObjectID = "596"; */
-"596.title" = "ディスク上のファイル:";
-
-/* Class = "NSTextFieldCell"; title = "File in archive:"; ObjectID = "597"; */
-"597.title" = "アーカイブ内のファイル:";
-
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "598"; */
-"598.title" = "Last modified: 14.06.2006 20:31\nSize: 123 KB";
-
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "599"; */
-"599.title" = "Last modified: 14.06.2006 20:31\nSize: 123 KB";
-
-/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; */
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; Note = "don't translate"; */
 "601.title" = "タイトル";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "602"; */
@@ -167,37 +116,43 @@
 "607.title" = "次回から確認しない";
 
 /* Class = "NSTextFieldCell"; title = "Archive format:"; ObjectID = "610"; */
-"610.title" = "アーカイブの形式:";
+"610.title" = "書庫の形式:";
 
 /* Class = "NSTextFieldCell"; title = "Compression:"; ObjectID = "612"; */
-"612.title" = "圧縮:";
+"612.title" = "圧縮モード:";
 
 /* Class = "NSTextFieldCell"; title = "Split into volumes of:"; ObjectID = "614"; */
-"614.title" = "アーカイブを分割する単位:";
+"614.title" = "書庫を分割する単位:";
 
 /* Class = "NSTextFieldCell"; title = "Encryption method:"; ObjectID = "617"; */
-"617.title" = "暗号化の方法:";
+"617.title" = "暗号化手法::";
 
 /* Class = "NSTextFieldCell"; title = "Filename"; ObjectID = "625"; */
-"625.title" = "System Font Text";
+"625.title" = "ファイル名";
 
 /* Class = "NSButtonCell"; title = "Preview as Text"; ObjectID = "637"; */
 "637.title" = "テキストとしてプレビュー";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "648"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "648"; Note = "don't translate"; */
 "648.title" = "Text Cell";
 
 /* Class = "NSTextFieldCell"; title = "Detail"; ObjectID = "659"; */
 "659.title" = "詳細";
 
 /* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "681"; */
-"681.title" = "Mac 固有のファイルをアーカイブから削除";
+"681.title" = "Mac 固有のファイルを書庫から削除";
 
 /* Class = "NSTextFieldCell"; title = "Additional parameters:"; ObjectID = "687"; */
 "687.title" = "追加パラメータ:";
 
 /* Class = "NSWindow"; title = "ZipWindow"; ObjectID = "692"; */
 "692.title" = "ZipWindow";
+
+/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
+"6Il-Hd-fod.label" = "ドロップエリア";
+
+/* Class = "NSMenuItem"; title = "Add to Favorites…"; ObjectID = "6qe-iQ-ixE"; Note = "@changed-6.0b2 (previous: \"Add to Favorites...\")"; */
+"6qe-iQ-ixE.title" = "お気に入りに追加…";
 
 /* Class = "NSTableColumn"; headerCell.title = "CRC-32"; ObjectID = "703"; */
 "703.headerCell.title" = "CRC-32";
@@ -215,7 +170,7 @@
 "707.headerCell.title" = "名前";
 
 /* Class = "NSTableColumn"; headerCell.title = "Modified"; ObjectID = "708"; */
-"708.headerCell.title" = "最終更新日時";
+"708.headerCell.title" = "更新日時";
 
 /* Class = "NSTableColumn"; headerCell.title = "Packed"; ObjectID = "709"; */
 "709.headerCell.title" = "圧縮後のサイズ";
@@ -226,41 +181,26 @@
 /* Class = "NSTableColumn"; headerCell.title = "Attributes"; ObjectID = "711"; */
 "711.headerCell.title" = "属性";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "713"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "713"; Note = "don't translate"; */
 "713.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "714"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "714"; Note = "don't translate"; */
 "714.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "715"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "715"; Note = "don't translate"; */
 "715.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "716"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "716"; Note = "don't translate"; */
 "716.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "718"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "718"; Note = "don't translate"; */
 "718.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; Note = "don't translate"; */
 "720.title" = "Text Cell";
 
-/* Class = "NSButtonCell"; alternateTitle = "Buy Now…"; ObjectID = "722"; */
-"722.alternateTitle" = "今すぐ購入…";
-
-/* Class = "NSButtonCell"; title = "Buy Now…"; ObjectID = "722"; */
-"722.title" = "statusButton";
-
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle Preview"; ObjectID = "835"; */
-"835.ibExternalAccessibilityDescription" = "プレビューを表示／非表示";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Toggle Preview"; ObjectID = "835"; */
-"835.ibShadowedToolTip" = "プレビューを表示／非表示";
-
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Toggle Favorites Sidebar"; ObjectID = "838"; */
-"838.ibExternalAccessibilityDescription" = "よく使う項目サイドバーを表示／非表示";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Toggle Favorites Sidebar"; ObjectID = "838"; */
-"838.ibShadowedToolTip" = "よく使う項目サイドバーを表示／非表示";
+/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
+"7f0-k5-lWA.headerCell.title" = "値";
 
 /* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "848"; */
 "848.label" = "進行状況";
@@ -269,16 +209,25 @@
 "855.title" = "キャンセル";
 
 /* Class = "NSButtonCell"; title = "Set the archive's date to the latest date in the archive"; ObjectID = "887"; */
-"887.title" = "アーカイブ内で最新の項目の日時とアーカイブの日時を同じにする";
+"887.title" = "書庫内で最新の項目の日時と書庫の日時を同じにする";
 
-/* Class = "NSTextFieldCell"; title = "Run script when done:"; ObjectID = "895"; */
+/* Class = "NSTextFieldCell"; title = "Run when done:"; ObjectID = "895"; Note = "@changed-6.0b2 (previous: \"Run script when done:\")"; */
 "895.title" = "完了時に実行するスクリプト:";
 
 /* Class = "NSButtonCell"; alternateTitle = "Fewer options"; ObjectID = "899"; */
-"899.alternateTitle" = "オプションを隠す";
+"899.alternateTitle" = "オプションの一部を隠す";
 
 /* Class = "NSButtonCell"; title = "More options"; ObjectID = "899"; */
 "899.title" = "オプションを表示";
+
+/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
+"89T-hX-8ou.title" = "新規タブで開く";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; Note = "don't translate"; */
+"8p6-fL-GfM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
+"8Yx-BY-UEi.title" = "名前を変更";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "923"; */
 "923.title" = "メニュー";
@@ -287,13 +236,7 @@
 "928.title" = "よく使う項目から取り除く";
 
 /* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "929"; */
-"929.title" = "ゴミ箱に捨てる";
-
-/* Class = "NSButtonCell"; title = "Keep Both"; ObjectID = "946"; */
-"946.title" = "両方とも残す";
-
-/* Class = "NSTextFieldCell"; title = "Press ⌥ for more options"; ObjectID = "950"; */
-"950.title" = "より多くのオプションを使用するには、⌥ を押す";
+"929.title" = "ゴミ箱に入れる";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "952"; */
 "952.title" = "表示";
@@ -307,14 +250,11 @@
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "956"; */
 "956.title" = "Item";
 
-/* Class = "NSMenuItem"; title = "Add this Preset to the Services Menu…"; ObjectID = "aAA-W7-PPF"; */
-"aAA-W7-PPF.title" = "このプリセットをサービスメニューへ追加…";
+/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
+"99.title" = "ProgressWindow";
 
-/* Class = "NSToolbarItem"; label = "Go"; ObjectID = "aLM-qa-8wx"; */
-"aLM-qa-8wx.label" = "移動";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Go"; ObjectID = "aLM-qa-8wx"; */
-"aLM-qa-8wx.paletteLabel" = "移動";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; Note = "don't translate"; */
+"9xa-Ff-0K9.title" = "Table View Cell";
 
 /* Class = "NSToolbarItem"; label = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
 "B6r-1D-sbS.label" = "ダイレクトモード";
@@ -331,28 +271,79 @@
 /* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "bRl-As-x1L"; */
 "bRl-As-x1L.title" = "Finder に表示";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Click for a preview"; ObjectID = "coT-g3-Q3e"; */
-"coT-g3-Q3e.ibShadowedToolTip" = "クリックしてプレビュー表示";
+/* Class = "NSToolbarItem"; label = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.label" = "収集";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.paletteLabel" = "収集";
+
+/* Class = "NSToolbarItem"; toolTip = "Toggle Collecting from Clipboard"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.toolTip" = "クリップボードから収集するかどうか切り替え";
+
+/* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "Dng-16-a4Q"; Note = "@new-6.0b2"; */
+"Dng-16-a4Q.title" = "プリセットの読み込み／保存";
 
 /* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "drc-eC-pc8"; */
-"drc-eC-pc8.headerCell.title" = "技法";
-
-/* Class = "NSMenuItem"; title = "Add Factory Presets "; ObjectID = "DV5-z4-eS4"; */
-"DV5-z4-eS4.title" = "出荷時のプリセットを追加";
+"drc-eC-pc8.headerCell.title" = "メソッド";
 
 /* Class = "NSMenuItem"; title = "Show Archive Count"; ObjectID = "EGp-mY-cAx"; */
 "EGp-mY-cAx.title" = "書庫の内容を表示";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Show only archives"; ObjectID = "EHg-Kv-f4s"; */
-"EHg-Kv-f4s.ibShadowedToolTip" = "アーカイブだけを表示";
+"EHg-Kv-f4s.ibShadowedToolTip" = "書庫だけを表示";
 
 /* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "Eqj-CB-527"; */
 "Eqj-CB-527.headerCell.title" = "コメント";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Click for a preview"; ObjectID = "ESn-fy-1Za"; */
-"ESn-fy-1Za.ibShadowedToolTip" = "クリックしてプレビューを表示";
+/* Class = "NSButtonCell"; title = "Exclude empty folders"; ObjectID = "ext-bc-eef"; Note = "@new-6.0b2"; */
+"ext-bc-eef.title" = "空のフォルダを除外";
 
-/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fWl-GQ-HyD"; */
+/* Class = "NSButtonCell"; title = "Extract flat"; ObjectID = "ext-bc-flt"; Note = "@new-6.0b2"; */
+"ext-bc-flt.title" = "フォルダを作らずに展開";
+
+/* Class = "NSButtonCell"; title = "Show extracted files in Finder"; ObjectID = "ext-bc-rev"; Note = "@new-6.0b2"; */
+"ext-bc-rev.title" = "Finder に展開したファイルを表示";
+
+/* Class = "NSTextFieldCell"; title = "Exclude:"; ObjectID = "ext-lc-exc"; Note = "@new-6.0b2"; */
+"ext-lc-exc.title" = "除外:";
+
+/* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "ext-lc-mov"; Note = "@new-6.0b2"; */
+"ext-lc-mov.title" = "書庫の異動先:";
+
+/* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "ext-lc-ren"; Note = "@new-6.0b2"; */
+"ext-lc-ren.title" = "名前を変更:";
+
+/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "ext-lc-scr"; Note = "@new-6.0b2"; */
+"ext-lc-scr.title" = "スクリプトを実行:";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
+"ext-mi-exc.title" = "何もしない";
+
+/* Class = "NSMenuItem"; title = "Don't move"; ObjectID = "ext-mi-mov"; Note = "@new-6.0b2"; */
+"ext-mi-mov.title" = "移動しない";
+
+/* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "ext-mi-pre"; Note = "@new-6.0b2"; */
+"ext-mi-pre.title" = "プリセットの読み込み／保存";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-ren"; Note = "@new-6.0b2"; */
+"ext-mi-ren.title" = "何もしない";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-scr"; Note = "@new-6.0b2"; */
+"ext-mi-scr.title" = "何もしない";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-exc"; Note = "don't translate"; */
+"ext-mn-exc.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-mov"; Note = "don't translate"; */
+"ext-mn-mov.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-pre"; Note = "don't translate"; */
+"ext-mn-pre.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-ren"; Note = "don't translate"; */
+"ext-mn-ren.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fWl-GQ-HyD"; Note = "don't translate"; */
 "fWl-GQ-HyD.title" = "Table View Cell";
 
 /* Class = "NSToolbarItem"; label = "Share"; ObjectID = "fX1-HF-4DM"; */
@@ -370,14 +361,29 @@
 /* Class = "NSTabViewItem"; label = "QuickLook"; ObjectID = "G7l-Ul-mns"; */
 "G7l-Ul-mns.label" = "QuickLook";
 
-/* Class = "NSTextFieldCell"; title = "_Title"; ObjectID = "GeM-Kp-e9q"; */
-"GeM-Kp-e9q.title" = "_Title";
-
-/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "Glr-6g-FTI"; */
-"Glr-6g-FTI.ibExternalAccessibilityDescription" = "アクションメニューボタン";
+/* Class = "NSButton"; ibShadowedToolTip = "Copy to Pasteboard"; ObjectID = "Gba-6O-FHF"; Note = "@new-6.0b2"; */
+"Gba-6O-FHF.ibShadowedToolTip" = "ペーストボードへコピー";
 
 /* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "h0w-vY-MO7"; */
 "h0w-vY-MO7.title" = "元ファイルの移動先:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Compare to Pasteboard"; ObjectID = "HAS-cb-btn"; Note = "@new-6.0b2"; */
+"HAS-cb-btn.ibShadowedToolTip" = "ペーストボードと比較";
+
+/* Class = "NSMenuItem"; title = "CRC32"; ObjectID = "HAS-mi-cr"; Note = "@new-6.0b2"; */
+"HAS-mi-cr.title" = "CRC32";
+
+/* Class = "NSMenuItem"; title = "MD5"; ObjectID = "HAS-mi-md"; Note = "@new-6.0b2"; */
+"HAS-mi-md.title" = "MD5";
+
+/* Class = "NSMenuItem"; title = "SHA-1"; ObjectID = "HAS-mi-s1"; Note = "@new-6.0b2"; */
+"HAS-mi-s1.title" = "SHA-1";
+
+/* Class = "NSMenuItem"; title = "SHA-256"; ObjectID = "HAS-mi-s2"; Note = "@new-6.0b2"; */
+"HAS-mi-s2.title" = "SHA-256";
+
+/* Class = "NSMenuItem"; title = "SHA-512"; ObjectID = "HAS-mi-s5"; Note = "@new-6.0b2"; */
+"HAS-mi-s5.title" = "SHA-512";
 
 /* Class = "NSToolbarItem"; label = "Save"; ObjectID = "Hk7-5H-N8G"; */
 "Hk7-5H-N8G.label" = "保存";
@@ -386,9 +392,9 @@
 "Hk7-5H-N8G.paletteLabel" = "保存";
 
 /* Class = "NSToolbarItem"; toolTip = "Save the archive"; ObjectID = "Hk7-5H-N8G"; */
-"Hk7-5H-N8G.toolTip" = "アーカイブを保存";
+"Hk7-5H-N8G.toolTip" = "書庫を保存";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hkk-Wb-LPd"; */
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hkk-Wb-LPd"; Note = "don't translate"; */
 "hkk-Wb-LPd.title" = "OtherViews";
 
 /* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "iKs-9F-vrS"; */
@@ -401,13 +407,13 @@
 "j6w-GE-ey8.paletteLabel" = "検査";
 
 /* Class = "NSToolbarItem"; toolTip = "Test the archive integrity"; ObjectID = "j6w-GE-ey8"; */
-"j6w-GE-ey8.toolTip" = "アーカイブの一貫性を検査";
+"j6w-GE-ey8.toolTip" = "書庫が正常であるか検査";
 
-/* Class = "NSMenuItem"; title = "Reveal Services Folder in Finder"; ObjectID = "KG4-eh-8m2"; */
-"KG4-eh-8m2.title" = "Finder のサービスフォルダを表示";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JR7-lR-q6a"; Note = "don't translate"; */
+"JR7-lR-q6a.title" = "OtherViews";
 
 /* Class = "NSToolbarItem"; toolTip = "Search the archive file"; ObjectID = "lAz-UZ-j4a"; */
-"lAz-UZ-j4a.toolTip" = "アーカイブファイルの検索";
+"lAz-UZ-j4a.toolTip" = "書庫ファイルの検索";
 
 /* Class = "NSMenuItem"; title = "Open in New Window"; ObjectID = "lz3-ce-RB0"; */
 "lz3-ce-RB0.title" = "新規ウインドウで開く";
@@ -417,6 +423,18 @@
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Preset password"; ObjectID = "M6K-Iz-FQE"; */
 "M6K-Iz-FQE.ibShadowedToolTip" = "パスワードをリセット";
+
+/* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "MIB-rn-lbc"; Note = "@new-6.0b2"; */
+"MIB-rn-lbc.title" = "名前を変更:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MIB-rn-men"; Note = "don't translate"; */
+"MIB-rn-men.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-rn-non"; Note = "@new-6.0b2"; */
+"MIB-rn-non.title" = "何もしない";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-zd-non"; Note = "@new-6.0b2"; */
+"MIB-zd-non.title" = "何もしない";
 
 /* Class = "NSToolbarItem"; label = "View"; ObjectID = "mTa-N6-F1u"; */
 "mTa-N6-F1u.label" = "表示";
@@ -436,26 +454,23 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Cancel editing comment"; ObjectID = "nfD-Px-ynP"; */
 "nfD-Px-ynP.ibShadowedToolTip" = "コメントの編集をキャンセル";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nzp-Eb-OZ3"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nzp-Eb-OZ3"; Note = "don't translate"; */
 "nzp-Eb-OZ3.title" = "Text Cell";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8r-P4-qfV"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8r-P4-qfV"; Note = "don't translate"; */
 "O8r-P4-qfV.title" = "Text Cell";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "P1n-u9-wGs"; */
-"P1n-u9-wGs.title" = "OtherViews";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
+"pTg-mn-c1A.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
 "qFO-f9-zNK.title" = "除外パターン:";
 
-/* Class = "NSBox"; title = "Box"; ObjectID = "QsC-ML-Fum"; */
-"QsC-ML-Fum.title" = "Box";
+/* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
+"QwO-eZ-IVh.label" = "ブラウザ";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Save comment"; ObjectID = "QXz-Vs-X5W"; */
 "QXz-Vs-X5W.ibShadowedToolTip" = "コメントを保存";
-
-/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "Ra6-dK-ybM"; */
-"Ra6-dK-ybM.title" = "このプリセットを LaunchBar 6 へ追加…";
 
 /* Class = "NSMenuItem"; title = "Preview as Text"; ObjectID = "RLi-Cg-7Eq"; */
 "RLi-Cg-7Eq.title" = "テキストとしてプレビュー";
@@ -467,7 +482,7 @@
 "S8f-eH-EmI.paletteLabel" = "新規フォルダ";
 
 /* Class = "NSToolbarItem"; toolTip = "Create a new folder in the selected place inside the archive"; ObjectID = "S8f-eH-EmI"; */
-"S8f-eH-EmI.toolTip" = "アーカイブで選択中の場所に新規フォルダを作成";
+"S8f-eH-EmI.toolTip" = "書庫で選択中の場所に新しくフォルダを作成";
 
 /* Class = "NSToolbarItem"; label = "Add"; ObjectID = "sqM-P8-N3J"; */
 "sqM-P8-N3J.label" = "追加";
@@ -476,28 +491,34 @@
 "sqM-P8-N3J.paletteLabel" = "追加";
 
 /* Class = "NSToolbarItem"; toolTip = "Add a new file or folder to the archive"; ObjectID = "sqM-P8-N3J"; */
-"sqM-P8-N3J.toolTip" = "アーカイブに新しいファイルやフォルダを追加";
+"sqM-P8-N3J.toolTip" = "書庫に新しいファイルやフォルダを追加";
 
-/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "SYh-p0-bXY"; */
-"SYh-p0-bXY.ibExternalAccessibilityDescription" = "アクションメニューボタン";
-
-/* Class = "NSPopUpButton"; ibShadowedToolTip = "Load/save preset"; ObjectID = "SYh-p0-bXY"; */
-"SYh-p0-bXY.ibShadowedToolTip" = "プリセットを読み込み／保存";
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "t44-mi-non"; Note = "@new-6.0b2"; */
+"t44-mi-non.title" = "何もしない";
 
 /* Class = "NSMenuItem"; title = "Item1"; ObjectID = "T9W-iu-Su0"; */
 "T9W-iu-Su0.title" = "Item1";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Click to cancel"; ObjectID = "TAv-Hf-o7O"; */
-"TAv-Hf-o7O.ibShadowedToolTip" = "クリックしてキャンセル";
+/* Class = "NSTextFieldCell"; title = "Recovery volumes:"; ObjectID = "tn1-wt-m8P"; Note = "@new-6.0b2"; */
+"tn1-wt-m8P.title" = "復旧ボリューム:";
+
+/* Class = "NSTabViewItem"; label = "Icon"; ObjectID = "uGn-zk-IBN"; Note = "@new-6.0b2"; */
+"uGn-zk-IBN.label" = "アイコン";
 
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "VfB-Ez-dR2"; */
 "VfB-Ez-dR2.title" = "Item2";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vMN-qb-Ugo"; */
+/* Class = "NSTextFieldCell"; title = "Recovery records:"; ObjectID = "VFD-T9-BFv"; Note = "@new-6.0b2"; */
+"VFD-T9-BFv.title" = "復旧記録:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vMN-qb-Ugo"; Note = "don't translate"; */
 "vMN-qb-Ugo.title" = "Text Cell";
 
-/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "wM1-ld-EPJ"; */
-"wM1-ld-EPJ.title" = "このプリセットを DropZone 4 に追加…";
+/* Class = "NSTabViewItem"; label = "Web"; ObjectID = "VrR-IH-vfd"; Note = "@new-6.0b2"; */
+"VrR-IH-vfd.label" = "ウェブ";
+
+/* Class = "NSTextFieldCell"; title = "After successful extraction"; ObjectID = "Vuk-qW-L0y"; Note = "@new-6.0b2"; */
+"Vuk-qW-L0y.title" = "正常に展開が終了した後に";
 
 /* Class = "NSToolbarItem"; label = "Move"; ObjectID = "wOI-VI-shq"; */
 "wOI-VI-shq.label" = "移動";
@@ -511,20 +532,11 @@
 /* Class = "NSMenuItem"; title = "Enter New Password"; ObjectID = "x1E-4h-A7n"; */
 "x1E-4h-A7n.title" = "新しいパスワードを入力";
 
-/* Class = "NSSegmentedCell"; x2W-Fe-OfA.ibShadowedToolTips[0] = "Go Back"; ObjectID = "x2W-Fe-OfA"; */
-"x2W-Fe-OfA.ibShadowedToolTips[0]" = "戻る";
-
-/* Class = "NSSegmentedCell"; x2W-Fe-OfA.ibShadowedToolTips[1] = "Go Forward"; ObjectID = "x2W-Fe-OfA"; */
-"x2W-Fe-OfA.ibShadowedToolTips[1]" = "進む";
-
 /* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "xia-Oz-guz"; */
 "xia-Oz-guz.headerCell.title" = "ステータス";
 
-/* Class = "NSMenuItem"; title = "Duplicate Preset"; ObjectID = "XqG-Gy-mFy"; */
-"XqG-Gy-mFy.title" = "プリセットを複製";
-
 /* Class = "NSPathCell"; placeholderString = "Archive"; ObjectID = "XVl-a4-b5t"; */
-"XVl-a4-b5t.placeholderString" = "アーカイブ";
+"XVl-a4-b5t.placeholderString" = "書庫";
 
 /* Class = "NSTabViewItem"; label = "Comment"; ObjectID = "yBQ-i8-7Jw"; */
 "yBQ-i8-7Jw.label" = "コメント";
@@ -538,11 +550,11 @@
 /* Class = "NSToolbarItem"; toolTip = "Delete files and folders from the archive"; ObjectID = "Yrg-un-hwR"; */
 "Yrg-un-hwR.toolTip" = "書庫からファイルとフォルダを削除";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yWf-Lk-fWN"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yWf-Lk-fWN"; Note = "don't translate"; */
 "yWf-Lk-fWN.title" = "Text Cell";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Hide follow-up parts of multi-volume archives"; ObjectID = "YXr-Xn-USm"; */
-"YXr-Xn-USm.ibShadowedToolTip" = "複数ボリュームのアーカイブで後に続く部分を隠す";
+"YXr-Xn-USm.ibShadowedToolTip" = "複数ボリュームの書庫で後に続く部分を隠す";
 
 /* Class = "NSTabViewItem"; label = "QL"; ObjectID = "z5p-yZ-uuv"; */
 "z5p-yZ-uuv.label" = "QL";
@@ -550,7 +562,7 @@
 /* Class = "NSTableColumn"; headerCell.title = "Total Size"; ObjectID = "zbK-89-hjt"; */
 "zbK-89-hjt.headerCell.title" = "合計サイズ";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zoC-fh-3zP"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zoC-fh-3zP"; Note = "don't translate"; */
 "zoC-fh-3zP.title" = "Text Cell";
 
 /* Class = "NSToolbarItem"; label = "Extract"; ObjectID = "ZOm-75-O5R"; */
@@ -560,11 +572,7 @@
 "ZOm-75-O5R.paletteLabel" = "展開";
 
 /* Class = "NSToolbarItem"; toolTip = "Extract files or folders from the archive"; ObjectID = "ZOm-75-O5R"; */
-"ZOm-75-O5R.toolTip" = "アーカイブからファイルやフォルダを展開";
-
-/* Class = "NSMenuItem"; title = "Reset Service and Toolbar Presets"; ObjectID = "zUj-gd-UN6"; */
-"zUj-gd-UN6.title" = "サービスとツールバーのプリセットをリセット";
+"ZOm-75-O5R.toolTip" = "書庫からファイルやフォルダを展開";
 
 /* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "zx3-jY-Ozc"; */
 "zx3-jY-Ozc.label" = "内容";
-

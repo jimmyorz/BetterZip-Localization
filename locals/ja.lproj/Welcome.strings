@@ -8,7 +8,7 @@
 "bBc-Bk-pge.title" = "戻る";
 
 /* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
-"bku-O5-RcK.title" = "BetterZip でアーカイブを開くよう macOS に登録する";
+"bku-O5-RcK.title" = "BetterZip で書庫を開くよう macOS に登録する";
 
 /* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
 "bRc-Br-wse.title" = "書庫の内容を表示";
@@ -16,7 +16,7 @@
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "すぐに展開";
 
-/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; */
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; Note = "@changed-6.0b2 (previous: \"What's New in BetterZip 5\")"; */
 "Igc-GC-msG.title" = "BetterZip 6 の新機能";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
@@ -42,4 +42,3 @@
 
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
 "tI2-Pg-two.label" = "オプション";
-

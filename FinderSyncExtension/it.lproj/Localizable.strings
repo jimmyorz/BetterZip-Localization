@@ -2,16 +2,40 @@
 "Add Items to New Archive in BetterZip" = "Aggiungi Elementi al Nuovo Archivio in BetterZip";
 
 /* (No Comment) */
+"Compress with BetterZip" = "Comprimi con BetterZip";
+
+/* (No Comment) */
 "Compress with Preset" = "Comprimi con Preset";
+
+/* No comment provided by engineer. */
+"Error" = "Errore";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "Il comando esterno ha restituito: %1$d%2$c";
 
 /* (No Comment) */
 "Extract to" = "Estrai in";
 
 /* (No Comment) */
-"Extract with Preset" = "Estrai con Preset";
+"Extract with BetterZip" = "Estrai con BetterZip";
 
 /* (No Comment) */
-"Next to Archives" = "Accanto agli Archivi";
+"Extract with Preset" = "Estrai con Preset";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "Ignora e prosegui";
+
+/* (No Comment) */
+"Next to Archives" = "Accanto all'archivio";
+
+/* No comment provided by engineer. */
+"No compression" = "Nessuna compressione";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "Non crittografato";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
 
 /* (No Comment) */
 "Open in BetterZip" = "Apri in BetterZip";
@@ -22,6 +46,24 @@
   Created by Robert Rezabek on 07.05.17. */
 "Other Actions" = "Altre azioni";
 
+/* No comment provided by engineer. */
+"Other…" = "Altro…";
+
+/* (No Comment) */
+"Start collecting items in a new archive" = "Inizia a raccogliere elementi in un nuovo archivio";
+
+/* No comment provided by engineer. */
+"Stop" = "Interrompi";
+
 /* (No Comment) */
 "Test Validity of Archives" = "Verifica Validità degli Archivi";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "Componente di supporto non trovato %@ o non eseguibile.";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "Spazio insufficiente sul disco di destinazione.";
+
+/* No comment provided by engineer. */
+"Warning" = "Avviso";
 

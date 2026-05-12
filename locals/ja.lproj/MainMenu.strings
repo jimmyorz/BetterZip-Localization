@@ -1,54 +1,6 @@
 /* Class = "NSMenuItem"; title = "Filename Encoding"; ObjectID = "0np-zc-OqJ"; */
 "0np-zc-OqJ.title" = "ファイル名文字コード";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
-"2EB-am-V2D.title" = "すべてを手前に移動";
-
-/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
-"2Jl-u9-6ra.title" = "移動";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "すべてを手前に移動";
-
-/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "ファイルを閉じる";
-
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "ウインドウ";
-
-/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
-"20p-td-SPJ.title" = "移動先の書庫";
-
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "しまう";
-
-/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "ウインドウ";
-
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
-"29.title" = "MainMenu";
-
-/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
-"56.title" = "BetterZip";
-
-/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
-"57.title" = "BetterZip";
-
-/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
-"58.title" = "BetterZip について";
-
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "開く…";
-
-/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
-"81.title" = "ファイル";
-
-/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
-"82.title" = "新規";
-
-/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "ファイル";
-
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
 "103.title" = "ヘルプ";
 
@@ -89,7 +41,7 @@
 "150.title" = "すべて表示";
 
 /* Class = "NSMenuItem"; title = "Find Archives in Sidebar"; ObjectID = "154"; */
-"154.title" = "サイドバーのアーカイブを検索";
+"154.title" = "サイドバーの書庫を検索";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
 "157.title" = "コピー";
@@ -115,8 +67,14 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
 "173.title" = "やり直す";
 
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "ウインドウ";
+
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "203"; */
 "203.title" = "拡大／縮小";
+
+/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
+"20p-td-SPJ.title" = "移動先の書庫";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "215"; */
 "215.title" = "表示";
@@ -130,8 +88,14 @@
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "220"; */
 "220.title" = "ツールバーをカスタマイズ…";
 
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "しまう";
+
 /* Class = "NSMenuItem"; title = "Transcript"; ObjectID = "238"; */
 "238.title" = "ログ";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "ウインドウ";
 
 /* Class = "NSMenuItem"; title = "Visit Our Website"; ObjectID = "240"; */
 "240.title" = "MacItBetter.com を表示";
@@ -152,7 +116,16 @@
 "276.title" = "選択したファイルを編集";
 
 /* Class = "NSMenuItem"; title = "Add to Archive…"; ObjectID = "283"; */
-"283.title" = "アーカイブに追加…";
+"283.title" = "書庫に追加…";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
+"2EB-am-V2D.title" = "すべてを手前に移動";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
+"2Jl-u9-6ra.title" = "移動";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "304"; */
 "304.title" = "閉じる";
@@ -197,7 +170,7 @@
 "353.title" = "使用許諾契約書を表示";
 
 /* Class = "NSMenuItem"; title = "Find Items in Archive"; ObjectID = "357"; */
-"357.title" = "アーカイブの項目を検索";
+"357.title" = "書庫の項目を検索";
 
 /* Class = "NSMenuItem"; title = "Drop Bar / Queue"; ObjectID = "368"; */
 "368.title" = "ドロップバー／キュー";
@@ -215,7 +188,7 @@
 "392.title" = "展開";
 
 /* Class = "NSMenuItem"; title = "Open and Extract with Queue…"; ObjectID = "397"; */
-"397.title" = "アーカイブを開いてキューで展開…";
+"397.title" = "書庫を開いてキューで展開…";
 
 /* Class = "NSMenuItem"; title = "Open and Compress with Queue…"; ObjectID = "400"; */
 "400.title" = "ファイルを開いてキューで圧縮…";
@@ -238,6 +211,33 @@
 /* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "423"; */
 "423.title" = "小さく";
 
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "すべてを手前に移動";
+
+/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
+"56.title" = "BetterZip";
+
+/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
+"57.title" = "BetterZip";
+
+/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
+"58.title" = "BetterZip について";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "開く…";
+
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
+"7cI-yB-lv7.title" = "ファイルを閉じる";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "新規";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "ファイル";
+
 /* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "aoH-k1-Ujp"; */
 "aoH-k1-Ujp.title" = "文字コード:";
 
@@ -256,6 +256,12 @@
 /* Class = "NSMenuItem"; title = "Delete Mac Files"; ObjectID = "bE8-zU-bO4"; */
 "bE8-zU-bO4.title" = "Mac ファイルを削除";
 
+/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
+"clt-mn-001.title" = "コマンドラインツールをインストール…";
+
+/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
+"cZp-5v-C6Y.title" = "Finder でサービスフォルダを開く";
+
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "BetterZip を終了";
 
@@ -265,8 +271,14 @@
 /* Class = "NSMenu"; title = "Filename Encoding"; ObjectID = "ICd-xV-ewG"; */
 "ICd-xV-ewG.title" = "ファイル名文字コード";
 
+/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
+"IKk-eJ-D0S.title" = "クリップボードから収集";
+
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "選択した項目をクイックルック";
+
+/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
+"k4R-bN-x7W.title" = "Finder に設定ファイルを表示";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "戻る";
@@ -274,8 +286,35 @@
 /* Class = "NSMenuItem"; title = "Show Folders"; ObjectID = "Mb7-qp-sLP"; */
 "Mb7-qp-sLP.title" = "フォルダを表示";
 
+/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
+"mib-col-view.title" = "カラム表示";
+
+/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
+"MIB-fp-Next.title" = "次のペインへ移る";
+
+/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
+"MIB-fp-Prev.title" = "前のペインへ移る";
+
+/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
+"MIB-he-fld.title" = "空のフォルダを表示しない";
+
+/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
+"MIB-hr-tgl.title" = "ハッシュ値を表示";
+
+/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
+"mib-icon-view.title" = "アイコン表示";
+
+/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
+"MIB-ss-Fw01.title" = "スライドショー";
+
+/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
+"mib-toggle-pathbar.title" = "パスバーを隠す";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
+"Mk8-19-gqf.title" = "項目";
+
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
-"n49-8l-XwF.title" = "パスワードマネージャーを解除";
+"n49-8l-XwF.title" = "パスワードマネージャーを解除…";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "nJ3-ST-qnh"; */
 "nJ3-ST-qnh.title" = "新規";
@@ -299,7 +338,7 @@
 "t4E-iF-PNO.title" = "書庫を移動";
 
 /* Class = "NSMenuItem"; title = "Direct Mode"; ObjectID = "T8l-7y-XsC"; */
-"T8l-7y-XsC.title" = "ダイレクトーモード";
+"T8l-7y-XsC.title" = "ダイレクトモード";
 
 /* Class = "NSMenuItem"; title = "Enclosing Folder"; ObjectID = "ugA-2S-09c"; */
 "ugA-2S-09c.title" = "内包しているフォルダ";
@@ -315,4 +354,3 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "進む";
-

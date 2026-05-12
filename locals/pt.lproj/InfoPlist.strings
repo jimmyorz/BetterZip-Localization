@@ -1,8 +1,29 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7-Zip Archive" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Android Application Package" = "";
+
+/* No comment provided by engineer. */
+"ARJ Archive" = "";
+
+/* No comment provided by engineer. */
+"BinHex Archive" = "";
+
+/* No comment provided by engineer. */
+"Brotli Archive" = "";
+
+/* No comment provided by engineer. */
+"Brotli compressed TAR Archive" = "";
+
+/* No comment provided by engineer. */
 "BZip2 Archive" = "";
+
+/* No comment provided by engineer. */
+"BZip2 compressed TAR Archive" = "";
+
+/* No comment provided by engineer. */
+"CAB Archive" = "";
 
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
@@ -13,11 +34,50 @@
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Chromium Extra" = "";
+
+/* No comment provided by engineer. */
 "Comicbook RAR Archive" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Comicbook Zip Archive" = "";
+
+/* No comment provided by engineer. */
+"Compiled HTML Archive" = "";
+
+/* No comment provided by engineer. */
+"Compressed CPIO Archive" = "";
+
+/* No comment provided by engineer. */
 "CPIO Archive" = "";
+
+/* No comment provided by engineer. */
+"Debian Linux Package" = "";
+
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "";
+
+/* No comment provided by engineer. */
+"Electronic Publication (ePub)" = "";
+
+/* No comment provided by engineer. */
+"GZip Archive" = "";
+
+/* No comment provided by engineer. */
+"GZipped Tar Archive" = "";
+
+/* No comment provided by engineer. */
+"Java ZIP Archive" = "";
+
+/* No comment provided by engineer. */
+"LHA Archive" = "";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "";
+
+/* No comment provided by engineer. */
+"Microsoft E-mail Attachment" = "";
 
 /* Privacy - AppleEvents Sending Usage Description */
 "NSAppleEventsUsageDescription" = "Execute AppleScripts definidos pelo usuário depois de comprimir ou extrair arquivos comprimidos.";
@@ -25,9 +85,44 @@
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Seu endereço de e-mail será usado apenas para preencher o campo de contato no relatório de falhas do BetterZip.";
 
-/* (No Comment) */
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";
+
+/* No comment provided by engineer. */
 "NSIS Archive" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Python Egg" = "";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "";
+
+/* No comment provided by engineer. */
+"Segmented Archive" = "";
+
+/* No comment provided by engineer. */
+"Stuffit Archive" = "";
+
+/* No comment provided by engineer. */
+"TAR Archive" = "";
+
+/* No comment provided by engineer. */
+"User-Defined Archive" = "";
+
+/* No comment provided by engineer. */
+"xz Archive" = "";
+
+/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "";
 
+/* No comment provided by engineer. */
+"ZIP Archive" = "";
+
+/* No comment provided by engineer. */
+"Zip Archive" = "";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "";
+
+/* No comment provided by engineer. */
+"Zstandard compressed TAR Archive" = "";

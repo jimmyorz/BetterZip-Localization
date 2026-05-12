@@ -7,27 +7,17 @@
 /* Class = "NSTextFieldCell"; title = "Specify Filter Patterns"; ObjectID = "DOK-5T-CvY"; */
 "DOK-5T-CvY.title" = "Especificar Padrões do Filtro";
 
-/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */
 "F0z-JX-Cv5.title" = "Window";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
 "gKo-1f-fdy.title" = "Cancelar";
 
-/* Class = "NSMenuItem"; title = "Include only files like"; ObjectID = "gS5-jE-uMJ"; */
-"gS5-jE-uMJ.title" = "Incluir apenas itens como";
-
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
 "jOl-a6-JOJ.title" = "OK";
-
-/* Class = "NSMenuItem"; title = "Exclude all files like"; ObjectID = "KIi-cE-vGM"; */
-"KIi-cE-vGM.title" = "Excluir itens como";
 
 /* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "ko5-m8-Ic0"; Note = "don't translate"; */
 "ko5-m8-Ic0.title" = "_placeholer";
 
-/* Class = "NSButtonCell"; title = "Pattern is a regular expression"; ObjectID = "RXv-40-jMg"; */
-"RXv-40-jMg.title" = "Padrão é uma expressão regular";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ygR-6F-K2W"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ygR-6F-K2W"; Note = "don't translate"; */
 "ygR-6F-K2W.title" = "Text Cell";
-

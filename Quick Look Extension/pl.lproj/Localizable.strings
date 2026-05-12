@@ -1,0 +1,122 @@
+/* No comment provided by engineer. Note = "don't translate"; */
+"%@ (damaged)" = "%@ (damaged)";
+
+/* No comment provided by engineer. */
+"%@ could not be extracted. Error code: %ld" = "";
+
+"%d item, uncompressed size: %@ %@" = "";
+
+"%d items, uncompressed size: %@ %@" = "";
+
+/* No comment provided by engineer. */
+"%d selected, uncompressed size: %@ %@" = "";
+
+"(incl. %d hidden)" = "";
+
+/* No comment provided by engineer. */
+"A volume is missing: %@." = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Added" = "Added";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot open file: %@" = "Cannot open file: %@";
+
+/* No comment provided by engineer. */
+"Continue" = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Corrupted" = "Corrupted";
+
+/* No comment provided by engineer. */
+"Error" = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"External command returned: %d%c" = "External command returned: %1$d%2$c";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed" = "Failed";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unpacking failed)" = "Failed (unpacking failed)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unsupported)" = "Failed (unsupported)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong checksum)" = "Failed (wrong checksum)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong password)" = "Failed (wrong password)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong size)" = "Failed (wrong size)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Ignore and go on" = "Ignore and go on";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Modified" = "Modified";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No checksum" = "No checksum";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No compression" = "No compression";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Not encrypted" = "Not encrypted";
+
+/* No comment provided by engineer. */
+"OK" = "";
+
+/* No comment provided by engineer. */
+"Opening archive failed" = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Other…" = "Other…";
+
+/* No comment provided by engineer. */
+"Stop" = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Testing: %@…" = "Testing: %@…";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The helper tool %@ could not be found or is not executable." = "The helper tool %@ could not be found or is not executable.";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
+
+/* No comment provided by engineer. */
+"This archive appears to be damaged." = "";
+
+/* Today title string */
+"Today" = "";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unknown" = "Unknown";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unpacking failed" = "Unpacking failed";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Updated" = "Updated";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Warning" = "Warning";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Wrong checksum" = "Wrong checksum";
+
+/* Yesterday title string */
+"Yesterday" = "";

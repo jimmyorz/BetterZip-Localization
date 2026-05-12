@@ -13,6 +13,5 @@
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "QQe-6v-KhE"; */
 "QQe-6v-KhE.title" = "Nie tłumacz";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tRx-J3-VVa"; */
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tRx-J3-VVa"; Note = "don't translate"; */
 "tRx-J3-VVa.title" = "Text Cell";
-

@@ -1,51 +1,6 @@
 /* Class = "NSMenuItem"; title = "Filename Encoding"; ObjectID = "0np-zc-OqJ"; */
 "0np-zc-OqJ.title" = "Encodage du nom de fichier";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
-"2EB-am-V2D.title" = "Tout ramener au premier plan";
-
-/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
-"2Jl-u9-6ra.title" = "Aller";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "Tout ramener au premier plan";
-
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "Fenêtre";
-
-/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
-"20p-td-SPJ.title" = "Déplacer l'archive vers";
-
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "Réduire dans le dock";
-
-/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "Fenêtre";
-
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
-"29.title" = "MainMenu";
-
-/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
-"56.title" = "BetterZip";
-
-/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
-"57.title" = "BetterZip";
-
-/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
-"58.title" = "À propos de BetterZip";
-
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "Ouvrir…";
-
-/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
-"81.title" = "Fichier";
-
-/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
-"82.title" = "Nouveau";
-
-/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "Fichier";
-
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
 "103.title" = "Aide";
 
@@ -112,8 +67,14 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
 "173.title" = "Rétablir";
 
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Fenêtre";
+
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "203"; */
 "203.title" = "Agrandir";
+
+/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
+"20p-td-SPJ.title" = "Déplacer l'archive vers";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "215"; */
 "215.title" = "Affichage";
@@ -127,8 +88,14 @@
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "220"; */
 "220.title" = "Personnaliser la barre d'outils…";
 
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Réduire dans le dock";
+
 /* Class = "NSMenuItem"; title = "Transcript"; ObjectID = "238"; */
 "238.title" = "Historique";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Fenêtre";
 
 /* Class = "NSMenuItem"; title = "Visit Our Website"; ObjectID = "240"; */
 "240.title" = "Aller sur MacItBetter.com";
@@ -150,6 +117,15 @@
 
 /* Class = "NSMenuItem"; title = "Add to Archive…"; ObjectID = "283"; */
 "283.title" = "Ajouter à l'archive…";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
+"2EB-am-V2D.title" = "Tout ramener au premier plan";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
+"2Jl-u9-6ra.title" = "Aller";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "304"; */
 "304.title" = "Fermer";
@@ -235,6 +211,33 @@
 /* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "423"; */
 "423.title" = "Plus petit";
 
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Tout ramener au premier plan";
+
+/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
+"56.title" = "BetterZip";
+
+/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
+"57.title" = "BetterZip";
+
+/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
+"58.title" = "À propos de BetterZip";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "Ouvrir…";
+
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
+"7cI-yB-lv7.title" = "";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Fichier";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "Nouveau";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Fichier";
+
 /* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "aoH-k1-Ujp"; */
 "aoH-k1-Ujp.title" = "Encodage :";
 
@@ -253,6 +256,12 @@
 /* Class = "NSMenuItem"; title = "Delete Mac Files"; ObjectID = "bE8-zU-bO4"; */
 "bE8-zU-bO4.title" = "Supprimer les fichiers spécifiques Mac";
 
+/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
+"clt-mn-001.title" = "";
+
+/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
+"cZp-5v-C6Y.title" = "";
+
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "Quitter BetterZip";
 
@@ -262,14 +271,47 @@
 /* Class = "NSMenu"; title = "Filename Encoding"; ObjectID = "ICd-xV-ewG"; */
 "ICd-xV-ewG.title" = "Encodage du nom de fichier";
 
+/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
+"IKk-eJ-D0S.title" = "";
+
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "Ouvrir les éléments sélectionnés avec Quick Look";
+
+/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
+"k4R-bN-x7W.title" = "";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Retour";
 
 /* Class = "NSMenuItem"; title = "Show Folders"; ObjectID = "Mb7-qp-sLP"; */
 "Mb7-qp-sLP.title" = "Afficher les dossiers";
+
+/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
+"mib-col-view.title" = "";
+
+/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
+"MIB-fp-Next.title" = "";
+
+/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
+"MIB-fp-Prev.title" = "";
+
+/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
+"MIB-he-fld.title" = "";
+
+/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
+"MIB-hr-tgl.title" = "";
+
+/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
+"mib-icon-view.title" = "";
+
+/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
+"MIB-ss-Fw01.title" = "";
+
+/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
+"mib-toggle-pathbar.title" = "";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
+"Mk8-19-gqf.title" = "";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
 "n49-8l-XwF.title" = "Déverrouiller le gestionnaire de mots de passe…";
@@ -312,4 +354,3 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Suivant";
-

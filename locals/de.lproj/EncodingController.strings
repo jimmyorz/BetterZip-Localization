@@ -7,7 +7,7 @@
 /* Class = "NSTextFieldCell"; title = "The filename encoding could not be determined automatically. Please choose one from the list:"; ObjectID = "C3J-ki-gMn"; */
 "C3J-ki-gMn.title" = "Die Dateinamenkodierung konnte nicht automatisch erkannt werden. Bitte wählen Sie aus der Liste:";
 
-/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */
 "F0z-JX-Cv5.title" = "Window";
 
 /* Class = "NSButtonCell"; title = "Choose"; ObjectID = "L73-xf-j5T"; */

@@ -2,9 +2,6 @@
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip will only run on macOS 10.13 (High Sierra) or later systems.";
 "Quit!" = "Quit!";
 "Sorry!" = "Sorry!";
-"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
-"https://macitbetter.com/" = "https://macitbetter.com/";
-"http://www.win-rar.com/" = "http://www.win-rar.com/";
 
 /* helpers */
 "Last modified: %@%cSize: %@" = "Last modified: %@%cSize: %@";
@@ -69,6 +66,7 @@
 "Clean" = "Clean";
 "Stop" = "Stop";
 "Ignore and go on" = "Ignore and go on";
+"Ignore all remaining errors" = "Ignore all remaining errors";
 "The file %@ could not be added to the archive. Maybe the system disc is full?" = "The file %@ could not be added to the archive. Maybe the system disk is full?";
 "There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
 "Loading archive: %@" = "Loading archive: %@";
@@ -118,7 +116,6 @@
 "Close" = "Close";
 "Strong (AES-256) with header encryption" = "Strong (AES-256) with header encryption";
 
-
 /* PreferenceController */
 "Last checked: " = "Last checked: ";
 "General" = "General";
@@ -129,7 +126,6 @@
 "Never" = "Never";
 "never" = "never";
 "Next to original" = "Next to original";
-
 
 /* V 2.0 */
 "Cancel the operation" = "Cancel the operation";

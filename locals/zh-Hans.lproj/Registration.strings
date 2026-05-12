@@ -1,85 +1,58 @@
-/* (No Comment) */
 "%d days left" = "还剩余%d天";
 
 /* No comment provided by engineer. */
 "An error occured, please try again later. If the problem persists, please contact me by email." = "错误，请稍后再试。如果问题仍然存在，请通过电子邮件与我联系。";
 
-/* (No Comment) */
 "Automatically check for updates (last check: %@)" = "自动检查更新（上一次检查：%@）";
 
-/* (No Comment) */
 "Better get your license today!" = "建议您您今天获得许可证！";
 
-/* (No Comment) */
 "BetterZip has detected more copies running at the same time in your network than you have license keys." = "BetterZip在您的网络中检测到有超过许可证数量的拷贝运行着。";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period ends today. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip 还没有注册，您的试用期今天就将结束了。要继续使用 BetterZip，请点击下方的“在线购买”即刻注册！";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end in %d days." = "BetterZip 还没有注册，您的试用期还剩%d天。";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end tomorrow. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip 还没有注册，您的试用期明天就结束了。要继续使用 BetterZip，请点击下方的“在线购买”即刻注册！";
 
-/* (No Comment) */
 "Buy now" = "在线购买";
 
-/* (No Comment) */
+/* Strings not to be in the MAS version */
 "Buy Now…" = "即刻购买…";
 
-/* (No Comment) */
 "Check for Updates…" = "检查更新…";
 
-/* (No Comment) */
 "Continue" = "继续";
 
-/* (No Comment) */
 "Every computer in your network needs its own license key. Please consider buying one of those really reasonably priced multi-user licenses." = "在您的网络中的每个计算机都需要它自己的许可证。请您考虑购买些价格合理的多用户许可证。";
 
-/* (No Comment) */
 "Great!" = "太棒了！";
 
-/* Strings not to be in the MAS version */
-"https://macitbetter.com/buy/betterzip" = "https://macitbetter.com/buy/betterzip";
-
-/* (No Comment) */
-"https://macitbetter.com/lost-key-for/betterzip" = "https://macitbetter.com/lost-key-for/betterzip";
-
-/* (No Comment) */
 "If you like BetterZip, click the 'Buy now' button below and get your license today!" = "如果您期望继续使用 BetterZip，请点击下方的“在线购买”即刻注册！";
 
-/* (No Comment) */
 "It has been a long time since you last tried BetterZip. Take a few more days to evaluate it again. Your trial period has been extended by five days." = "距离您上一次试用 BetterZip 已经过去很长时间了，请多试用几天吧。您的试用期已经延长5天。";
 
-/* (No Comment) */
 "Later" = "以后再说";
 
 /* Parameter: name */
 "Licensee: %@" = "持有者：%@";
 
-/* (No Comment) */
 "More license keys required." = "需要更多的许可证。";
 
-/* (No Comment) */
 "Please register BetterZip to enable the saving of archives." = "请注册 BetterZip 来启用压缩文件存储功能。";
 
 /* Params: date */
 "Registration: %@" = "注册信息：个用于%@";
 
+"Registration: %@ u2013 %d licenses" = "";
+
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "注册： %1$* = %2$d 许可证";
 
-/* (No Comment) */
-"Registration: %@ for %d licenses" = "注册信息：个用于%@，为%d人所准备的许可证";
-
-/* (No Comment) */
 "Registration…" = "注册…";
 
-/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "注册码无效，请确保您将完整的注册码都粘贴进入了文本框。";
 
-/* (No Comment) */
 "The trial period is over" = "试用期已结束";
 
 /* No comment provided by engineer. */
@@ -88,27 +61,18 @@
 /* New in BetterZip 3 */
 "This function is available to registered users only." = "此功能只提供给注册了的用户。";
 
-/* (No Comment) */
 "This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "此许可是以前版本的。现在你可使用 US$ %@ 来升级到 BetterZip 6。点击\"现在升级\"按钮前往网上商店购买。";
 
-/* No comment provided by engineer. */
 "Trial period, %d days left" = "试用期，剩余 %d 天";
 
-/* (No Comment) */
 "Trial user, %d days left" = "您的试用还剩，%d天";
 
-/* (No Comment) */
 "Upgrade now" = "立刻升级";
 
-/* (No Comment) */
 "Welcome back to BetterZip!" = "欢迎回到 BetterZip！";
 
-/* (No Comment) */
 "Your copy of BetterZip is registered. Thank you!" = "您的 BetterZip 副本已经注册，非常感谢！";
 
-/* (No Comment) */
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "您的试用期已经结束。虽然 BetterZip 会继续工作数天，但是如果您想要继续使用，您得注册！请点按下方的“在线购买”按钮，仅需几分钟您就可以收到许可密钥。";
 
-/* (No Comment) */
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "您的试用期已经结束。 您还可以查看压缩文件，但是存储功能已经被禁用。如果您想继续使用 BetterZip，请您注册！点按下方的“在线购买”按钮，仅需几分钟您就可以得到您的许可密钥。";
-

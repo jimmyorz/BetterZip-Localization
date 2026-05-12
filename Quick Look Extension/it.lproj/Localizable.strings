@@ -1,0 +1,122 @@
+/* No comment provided by engineer. Note = "don't translate"; */
+"%@ (damaged)" = "%@ (danneggiato)";
+
+/* No comment provided by engineer. */
+"%@ could not be extracted. Error code: %ld" = "Impossibile estrarre %1$@. Codice errore: %2$ld";
+
+"%d item, uncompressed size: %@ %@" = "%1$d elemento, dimensioni non compresse: %2$@ %3$@";
+
+"%d items, uncompressed size: %@ %@" = "%1$d elementi, dimensioni non compresse: %2$@ %3$@";
+
+/* No comment provided by engineer. */
+"%d selected, uncompressed size: %@ %@" = "%1$d selezionati, dimensioni non compresse: %2$@ %3$@";
+
+"(incl. %d hidden)" = "(incl. %d nascosti)";
+
+/* No comment provided by engineer. */
+"A volume is missing: %@." = "Manca un volume: %@.";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Added" = "Aggiunto";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot enumerate directory: %@" = "Impossibile enumerare la cartella: %@";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot open file: %@" = "Impossibile aprire il file: %@";
+
+/* No comment provided by engineer. */
+"Continue" = "Continua";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Corrupted" = "Corrotto";
+
+/* No comment provided by engineer. */
+"Error" = "Errore";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"External command returned: %d%c" = "Il comando esterno ha restituito: %1$d%2$c";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed" = "Non riuscito";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unpacking failed)" = "Non riuscito (estrazione non riuscita)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unsupported)" = "Non riuscito (non supportato)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong checksum)" = "Non riuscito (checksum errato)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong password)" = "Non riuscito (password errata)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong size)" = "Non riuscito (dimensioni errate)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Ignore and go on" = "Ignora e prosegui";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Modified" = "Modificato";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Moved" = "Spostato";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No checksum" = "Nessun checksum";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No compression" = "Nessuna compressione";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Not encrypted" = "Non crittografato";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Opening archive failed" = "Apertura archivio non riuscita";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Other…" = "Altro…";
+
+/* No comment provided by engineer. */
+"Stop" = "Interrompi";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Testing: %@…" = "Verifica: %@…";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The helper tool %@ could not be found or is not executable." = "Assistente %@ non trovato o non è eseguibile.";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "L'estrazione rar potrebbe richiedere una grande quantità di memoria (%@). Vuoi continuare?";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"There is not enough free space on the destination drive." = "Spazio insufficiente sul disco di destinazione.";
+
+/* No comment provided by engineer. */
+"This archive appears to be damaged." = "L'archivio sembra essere danneggiato.";
+
+/* Today title string */
+"Today" = "Oggi";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unknown" = "Sconosciuto";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unpacking failed" = "Estrazione non riuscita";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Updated" = "Aggiornato";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Warning" = "Avviso";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Wrong checksum" = "Checksum errato";
+
+/* Yesterday title string */
+"Yesterday" = "Ieri";

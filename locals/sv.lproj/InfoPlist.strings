@@ -1,28 +1,28 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7-Zip Archive" = "7-Zip-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Android applikationspaket";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "ARJ-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BinHex Archive" = "BinHex-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli Archive" = "Brotli-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Brotli-komprimerat TAR-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 Archive" = "BZip2 arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 compressed TAR Archive" = "BZip2-komprimerat TAR arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "CAB-arkiv";
 
 /* Bundle display name */
@@ -34,58 +34,49 @@
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Chromium Extra" = "Chromium Extra";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Comicbook RAR-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook Zip Archive" = "Comicbook Zip-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compiled HTML Archive" = "Kompilerat HTML-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed CPIO Archive" = "Komprimerat CPIO-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CPIO Archive" = "CPIO-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Debian Linux Package" = "Debian Linux-paket";
 
-/* (No Comment) */
-"Disk Image" = "Skivavbild";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "DiskDoubler-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Electronic Publication (ePub)" = "Elektronisk publikation (ePub)";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZip Archive" = "GZip-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZipped Tar Archive" = "GZip-komprimerat TAR-arkiv";
 
-/* (No Comment) */
-"ISO Disk Image" = "ISO skivavbild";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Java ZIP Archive" = "Java Zip-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LHA Archive" = "LHA-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Linux RPM-arkiv";
 
-/* (No Comment) */
-"MacBinary Archive" = "MacBinary-arkiv";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Microsoft E-post bilaga";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -94,45 +85,44 @@
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Din E-post kommer bara att användas för att auto-fylla i kontakt-fältet i BetterZips krashrapportering.";
 
-/* (No Comment) */
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";
+
+/* No comment provided by engineer. */
 "NSIS Archive" = "NSIS-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Python Egg" = "Python Egg";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "RAR-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Segmented Archive" = "Segmenterat arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Stuffit Archive" = "StuffIt-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "TAR Archive" = "TAR-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "User-Defined Archive" = "Användar-definierat arkiv";
 
-/* (No Comment) */
-"XAR Archive" = "XAR-arkiv";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz Archive" = "xz-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "xz-komprimerat TAR-arkiv";
 
-/* (No Comment) */
-"Zip Archive" = "ZIP-arkiv";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "ZIP-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Zip Archive" = "ZIP-arkiv";
+
+/* No comment provided by engineer. */
 "Zstandard Archive" = "ZStandard-arkiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "ZStandard-komprimerat TAR-arkiv";
-

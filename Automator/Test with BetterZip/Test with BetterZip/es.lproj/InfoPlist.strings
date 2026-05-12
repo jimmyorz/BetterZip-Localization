@@ -1,0 +1,5 @@
+/* Bundle name */
+"CFBundleName" = "Test with BetterZip";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2025 MacItBetter. All rights reserved.";

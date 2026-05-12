@@ -1,47 +1,83 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7-Zip Archive" = "Archiwum 7-Zip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Pakiet aplikacji na Androida";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "Archiwum ARJ";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BinHex Archive" = "Archiwum BinHex";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli Archive" = "Archiwum Brotli";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Skompresowane Brotli Archiwum TAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 Archive" = "Archiwum BZip2";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 compressed TAR Archive" = "Skompresowane BZip2 Archiwum TAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "Archiwum CAB";
 
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
+/* Get Info string */
+"CFBundleGetInfoString" = "";
+
 /* Bundle name */
 "CFBundleName" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Chromium Extra" = "";
+
+/* No comment provided by engineer. */
+"Comicbook RAR Archive" = "";
+
+/* No comment provided by engineer. */
+"Comicbook Zip Archive" = "";
+
+/* No comment provided by engineer. */
+"Compiled HTML Archive" = "";
+
+/* No comment provided by engineer. */
+"Compressed CPIO Archive" = "";
+
+/* No comment provided by engineer. */
 "CPIO Archive" = "Archiwum CPIO";
 
-/* (No Comment) */
-"ISO Disk Image" = "Obraz dysku ISO";
+/* No comment provided by engineer. */
+"Debian Linux Package" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "";
+
+/* No comment provided by engineer. */
+"Electronic Publication (ePub)" = "";
+
+/* No comment provided by engineer. */
+"GZip Archive" = "";
+
+/* No comment provided by engineer. */
+"GZipped Tar Archive" = "";
+
+/* No comment provided by engineer. */
 "Java ZIP Archive" = "Archiwum Java ZIP";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LHA Archive" = "Archiwum LHA";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "";
+
+/* No comment provided by engineer. */
+"Microsoft E-mail Attachment" = "";
 
 /* Privacy - AppleEvents Sending Usage Description */
 "NSAppleEventsUsageDescription" = "Wykonaj zdefiniowane przez użytkownika skrypty AppleScript po kompresji i rozpakowaniu archiwów.";
@@ -49,3 +85,44 @@
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Twój adres e-mail będzie używany tylko do wypełnienia pola kontaktowego w raporcie awarii BetterZip.";
 
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "";
+
+/* No comment provided by engineer. */
+"NSIS Archive" = "";
+
+/* No comment provided by engineer. */
+"Python Egg" = "";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "";
+
+/* No comment provided by engineer. */
+"Segmented Archive" = "";
+
+/* No comment provided by engineer. */
+"Stuffit Archive" = "";
+
+/* No comment provided by engineer. */
+"TAR Archive" = "";
+
+/* No comment provided by engineer. */
+"User-Defined Archive" = "";
+
+/* No comment provided by engineer. */
+"xz Archive" = "";
+
+/* No comment provided by engineer. */
+"xz compressed TAR Archive" = "";
+
+/* No comment provided by engineer. */
+"ZIP Archive" = "";
+
+/* No comment provided by engineer. */
+"Zip Archive" = "";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "";
+
+/* No comment provided by engineer. */
+"Zstandard compressed TAR Archive" = "";

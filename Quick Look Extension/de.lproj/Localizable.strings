@@ -1,5 +1,125 @@
+/* (No Comment) */
+"(incl. %d hidden)" = "";
+
+/* No comment provided by engineer. */
+"%@ (damaged)" = "%@ (damaged)";
+
+/* No comment provided by engineer. */
+"%@ could not be extracted. Error code: %ld" = "%1$@ could not be extracted. Error code: %2$ld";
+
+/* (No Comment) */
+"%d item, uncompressed size: %@ %@" = "%d Objekt, entpackte Größe: %@ %@";
+
+/* (No Comment) */
+"%d items, uncompressed size: %@ %@" = "%d Objekte, entpackte Größe: %@ %@";
+
+/* No comment provided by engineer. */
+"%d selected, uncompressed size: %@ %@" = "%1$d gewählt, entpackte Größe: %2$@ %3$@";
+
+/* No comment provided by engineer. */
+"A volume is missing: %@." = "Ein Teil fehlt: %@";
+
+/* No comment provided by engineer. */
+"Added" = "Added";
+
+/* No comment provided by engineer. */
+"Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
+
+/* No comment provided by engineer. */
+"Cannot open file: %@" = "Cannot open file: %@";
+
+/* No comment provided by engineer. */
+"Continue" = "";
+
+/* No comment provided by engineer. */
+"Corrupted" = "Corrupted";
+
+/* No comment provided by engineer. */
+"Error" = "";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "External command returned: %1$d%2$c";
+
+/* No comment provided by engineer. */
+"Failed" = "Failed";
+
+/* No comment provided by engineer. */
+"Failed (unpacking failed)" = "Failed (unpacking failed)";
+
+/* No comment provided by engineer. */
+"Failed (unsupported)" = "Failed (unsupported)";
+
+/* No comment provided by engineer. */
+"Failed (wrong checksum)" = "Failed (wrong checksum)";
+
+/* No comment provided by engineer. */
+"Failed (wrong password)" = "Failed (wrong password)";
+
+/* No comment provided by engineer. */
+"Failed (wrong size)" = "Failed (wrong size)";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "Ignore and go on";
+
+/* No comment provided by engineer. */
+"Modified" = "Modified";
+
+/* No comment provided by engineer. */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. */
+"No checksum" = "No checksum";
+
+/* No comment provided by engineer. */
+"No compression" = "No compression";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "Not encrypted";
+
+/* No comment provided by engineer. */
+"OK" = "";
+
+/* No comment provided by engineer. */
+"Opening archive failed" = "";
+
+/* No comment provided by engineer. */
+"Other…" = "Other…";
+
+/* No comment provided by engineer. */
+"Stop" = "";
+
+/* No comment provided by engineer. */
+"Testing: %@…" = "Testing: %@…";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "The helper tool %@ could not be found or is not executable.";
+
+/* No comment provided by engineer. */
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
+
+/* No comment provided by engineer. */
+"This archive appears to be damaged." = "";
+
 /* Today title string */
 "Today" = "Heute";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unknown";
+
+/* No comment provided by engineer. */
+"Unpacking failed" = "Unpacking failed";
+
+/* No comment provided by engineer. */
+"Updated" = "Updated";
+
+/* No comment provided by engineer. */
+"Warning" = "Warning";
+
+/* No comment provided by engineer. */
+"Wrong checksum" = "Wrong checksum";
 
 /* Yesterday title string */
 "Yesterday" = "Gestern";

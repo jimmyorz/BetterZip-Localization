@@ -4,26 +4,11 @@
 /* Class = "NSButtonCell"; title = "Let's Go!"; ObjectID = "AZv-gH-0JZ"; */
 "AZv-gH-0JZ.title" = "¡Vamos!";
 
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
+"bBc-Bk-pge.title" = "Atrás";
+
 /* Class = "NSButtonCell"; title = "Tell macOS to open archives in BetterZip"; ObjectID = "bku-O5-RcK"; */
 "bku-O5-RcK.title" = "Indicar a MacOS que abra archivos en BetterZip";
-
-/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; */
-"Igc-GC-msG.title" = "Novedades de BetterZip 6";
-
-/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
-"ktm-z0-OrQ.title" = "¡Te damos la bienvenida a BetterZip!";
-
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "Don't translate";
-
-/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
-"pAU-Gw-VpU.title" = "Comprobar actualizaciones periódicamente";
-
-/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
-"t2Q-rY-XuF.title" = "Añadir un botón BetterZip en la barra de herramientas del Finder";
-
-/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
-"qLc-Qu-est.title" = "¿Qué debería pasar cuando abres un archivo comprimido?";
 
 /* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
 "bRc-Br-wse.title" = "Explorar el contenido del archivo";
@@ -31,9 +16,29 @@
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "Extraerlo de inmediato";
 
+/* Class = "NSButtonCell"; title = "What's New in BetterZip 6"; ObjectID = "Igc-GC-msG"; Note = "@changed-6.0b2 (previous: \"What's New in BetterZip 5\")"; */
+"Igc-GC-msG.title" = "Novedades de BetterZip 6";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
+"ktm-z0-OrQ.title" = "¡Te damos la bienvenida a BetterZip!";
+
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "Siguiente";
 
-/* Class = "NSButtonCell"; title = "Back"; ObjectID = "bBc-Bk-pge"; */
-"bBc-Bk-pge.title" = "Atrás";
+/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+"or3-DA-ngV.title" = "Don't translate";
 
+/* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
+"pAU-Gw-VpU.title" = "Comprobar actualizaciones periódicamente";
+
+/* Class = "NSTextFieldCell"; title = "What should happen when you open an archive?"; ObjectID = "qLc-Qu-est"; */
+"qLc-Qu-est.title" = "¿Qué debería pasar cuando abres un archivo comprimido?";
+
+/* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
+"t2Q-rY-XuF.title" = "Añadir un botón BetterZip en la barra de herramientas del Finder";
+
+/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
+"tI1-Pg-one.label" = "";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
+"tI2-Pg-two.label" = "";

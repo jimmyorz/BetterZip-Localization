@@ -56,9 +56,6 @@
 "Debian Linux Package" = "Debian Linux パッケージ";
 
 /* No comment provided by engineer. */
-"Disk Image" = "ディスクイメージ";
-
-/* No comment provided by engineer. */
 "DiskDoubler Archive" = "DiskDoubler 書庫";
 
 /* No comment provided by engineer. */
@@ -71,9 +68,6 @@
 "GZipped Tar Archive" = "GZip で圧縮された TAR 書庫";
 
 /* No comment provided by engineer. */
-"ISO Disk Image" = "ISO ディスクイメージ";
-
-/* No comment provided by engineer. */
 "Java ZIP Archive" = "Java ZIP 書庫";
 
 /* No comment provided by engineer. */
@@ -83,13 +77,10 @@
 "Linux RPM Archive" = "Linux RPM パッケージ";
 
 /* No comment provided by engineer. */
-"MacBinary Archive" = "MacBinary 書庫";
-
-/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "マイクロソフトメール添付ファイル";
 
 /* Privacy - AppleEvents Sending Usage Description */
-"NSAppleEventsUsageDescription" = "書庫を圧縮、もしくは展開後にユーザー定義の AppleScript を実行";
+"NSAppleEventsUsageDescription" = "書庫を圧縮／展開した後にユーザー定義の AppleScript を実行。";
 
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "あなたのメールアドレスは、BetterZip クラッシュレポーターの連絡欄に入力すること以外には使用しません。";
@@ -119,23 +110,19 @@
 "User-Defined Archive" = "ユーザー定義書庫";
 
 /* No comment provided by engineer. */
-"XAR Archive" = "XAR 書庫";
-
-/* No comment provided by engineer. */
 "xz Archive" = "xz 書庫";
 
 /* No comment provided by engineer. */
 "xz compressed TAR Archive" = "xz で圧縮された TAR 書庫";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "Zip 書庫";
+"ZIP Archive" = "ZIP 書庫";
 
 /* No comment provided by engineer. */
-"ZIP Archive" = "ZIP 書庫";
+"Zip Archive" = "Zip 書庫";
 
 /* No comment provided by engineer. */
 "Zstandard Archive" = "Zstandard 書庫";
 
 /* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Zstandard で圧縮された TAR 書庫";
-

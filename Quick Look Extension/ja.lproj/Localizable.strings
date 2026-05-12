@@ -1,81 +1,122 @@
-/* Format name */
-"7-Zip Format" = "7-Zip 形式";
+/* No comment provided by engineer. Note = "don't translate"; */
+"%@ (damaged)" = "%@ (破損)";
 
-/* Format name */
-"Apple Disk Image" = "Apple ディスクイメージ";
+/* No comment provided by engineer. */
+"%@ could not be extracted. Error code: %ld" = "%1$@ を展開できませんでした。エラーコード: %2$ld";
 
-/* DMG subformat */
-"BZip2 compressed" = "BZip 2 圧縮";
+"%d item, uncompressed size: %@ %@" = "%1$d 項目、圧縮前サイズ: %2$@ %3$@";
 
-/* Format name */
-"CPIO Format, uncompressed (cpio)" = "非圧縮の CPIO 形式 (cpio)";
+"%d items, uncompressed size: %@ %@" = "%1$d 項目、圧縮前サイズ: %2$@ %3$@";
 
-/* DMG subformat */
-"DVD/CD-R master for export" = "エクスポート用の DVD/CD-R マスター";
+/* No comment provided by engineer. */
+"%d selected, uncompressed size: %@ %@" = "%1$d 個選択済み、圧縮前サイズ: %2$@ %3$@";
 
-/* DMG subformat */
-"HFS" = "HFS";
+"(incl. %d hidden)" = "(%d 個の隠しファイルを含む)";
 
-/* Format name */
-"ISO Image" = "ISO イメージ";
+/* No comment provided by engineer. */
+"A volume is missing: %@." = "ボリュームが欠落しています: %@。";
 
-/* DMG subformat */
-"ISO9660 Level 2" = "ISO9660 レベル 2";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Added" = "追加済み";
 
-/* DMG subformat */
-"ISO9660 with Joliet ext." = "ISO9660 Juliet 拡張";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot enumerate directory: %@" = "ディレクトリの数が不明です: %@";
 
-/* DMG subformat */
-"LZMA compressed (macOS 10.15+)" = "LZMA 圧縮 (macOS 10.15+)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Cannot open file: %@" = "ファイルが開けません: %@";
 
-/* DMG subformat */
-"Read-only image" = "読み込み専用イメージ";
+/* No comment provided by engineer. */
+"Continue" = "続ける";
 
-/* DMG subformat */
-"Read/write image" = "読み書き可能イメージ";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Corrupted" = "破損";
 
-/* Format name */
-"TAR Format, Brotli compressed (tbr)" = "TAR 形式、Brotli 圧縮 (tbr)";
+/* No comment provided by engineer. */
+"Error" = "エラー";
 
-/* Format name */
-"TAR Format, BZip2 compressed (tbz)" = "TAR 形式、BZip 2 圧縮 (tbz)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"External command returned: %d%c" = "外部コマンドの戻り値: %1$d%2$c";
 
-/* Format name */
-"TAR Format, GZip compressed (tgz)" = "TAR 形式、GZip 圧縮 (tgz)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed" = "失敗";
 
-/* Format name */
-"TAR Format, uncompressed (tar)" = "TAR 形式、非圧縮 (tar)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unpacking failed)" = "失敗 (展開できませんでした)";
 
-/* Format name */
-"TAR Format, xz compressed (txz)" = "TAR 形式、xz 圧縮 (txz)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (unsupported)" = "失敗 (サポートしていない形式)";
 
-/* Format name */
-"TAR Format, Z compressed (tz)" = "TAR 形式、Z 圧縮 (tz)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong checksum)" = "失敗 (チェックサム異常)";
 
-/* Format name */
-"TAR Format, Zstandard compressed (tzst)" = "TAR 形式、Zstandard 圧縮 (tzst)";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong password)" = "失敗 (パスワードが違います)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Failed (wrong size)" = "失敗 (サイズ異常)";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Ignore and go on" = "無視して続ける";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Modified" = "更新日時";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Moved" = "移動済み";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No checksum" = "チェックサムなし";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"No compression" = "無圧縮";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Not encrypted" = "暗号化なし";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Opening archive failed" = "書庫を開けませんでした";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Other…" = "その他…";
+
+/* No comment provided by engineer. */
+"Stop" = "中止";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Testing: %@…" = "検査中: %@…";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The helper tool %@ could not be found or is not executable." = "ヘルパーツール %@ が見つからないか、実行ができません。";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "rar ファイルの展開はメモリを大量に消費 (%@) します。続けてもよろしいですか?";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"There is not enough free space on the destination drive." = "対象のドライブに充分な空き容量がありません。";
+
+/* No comment provided by engineer. */
+"This archive appears to be damaged." = "この書庫は壊れているようです。";
 
 /* Today title string */
 "Today" = "今日";
 
-/* DMG subformat */
-"UDF" = "UDF";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unknown" = "不明";
 
-/* Format name */
-"XAR Format" = "XAR 形式";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Unpacking failed" = "展開できませんでした";
 
-/* Format name */
-"XIP Format" = "XIP 形式";
+/* No comment provided by engineer. Note = "don't translate"; */
+"Updated" = "更新済み";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Warning" = "警告";
+
+/* No comment provided by engineer. Note = "don't translate"; */
+"Wrong checksum" = "チェックサム異常";
 
 /* Yesterday title string */
 "Yesterday" = "昨日";
-
-/* Format name */
-"Zip Format (recommended)" = "Zip 形式 (推奨)";
-
-/* DMG subformat */
-"Zlib compressed" = "Zlib 圧縮";
-
-/* DMG subformat */
-"Zlib compressed (level 9)" = "Zlib 圧縮 (レベル9)";
-

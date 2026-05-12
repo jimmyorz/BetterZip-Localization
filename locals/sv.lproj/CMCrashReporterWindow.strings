@@ -1,0 +1,26 @@
+/* Class = "NSWindow"; title = "Report a Crash"; ObjectID = "1"; Note = "@new-6.0b2"; */
+"1.title" = "Rapportera en krasch";
+
+/* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2"; */
+"198.title" = "Ojdå, verkar som appen avslutades oväntat sist den användes. Du kan skicka en rapport för att hjälpa oss att förbättra appen.";
+
+/* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2"; */
+"200.title" = "Inkludera en anonym kraschrapport med teknisk information.";
+
+/* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2"; */
+"201.title" = "Vänligen berätta vad du gjorde när appen kraschade (frivilligt)";
+
+/* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2"; */
+"203.title" = "Rapportera";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "204"; Note = "@new-6.0b2"; */
+"204.title" = "Ignorera";
+
+/* Class = "NSButtonCell"; title = "Don't show this anymore"; ObjectID = "205"; Note = "@new-6.0b2"; */
+"205.title" = "Visa inte detta igen";
+
+/* Class = "NSTextFieldCell"; title = "Email address:"; ObjectID = "206"; Note = "@new-6.0b2"; */
+"206.title" = "e-post:";
+
+/* Class = "NSTextFieldCell"; title = "Please leave an email address so we may contact you for more information about this crash."; ObjectID = "207"; Note = "@new-6.0b2"; */
+"207.title" = "Vänligen bifoga din e-post om vi behöver kontakta dig för mera information om krashen.";

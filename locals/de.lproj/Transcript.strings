@@ -1,15 +1,9 @@
 /* Class = "NSWindow"; title = "Transcript"; ObjectID = "3"; */
 "3.title" = "Konsole";
 
-/* Class = "NSMenuItem"; title = "Older than a month"; ObjectID = "Dg0-Yg-FS0"; */
-"Dg0-Yg-FS0.title" = "Älter als ein Monat";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HhF-qE-Du6"; Note = "don't translate"; */
+"HhF-qE-Du6.title" = "Text Cell";
 
-/* Class = "NSMenuItem"; title = "Older than a week"; ObjectID = "Pt0-zO-OBt"; */
-"Pt0-zO-OBt.title" = "Älter als eine Woche";
-
-/* Class = "NSMenuItem"; title = "Clear Logs"; ObjectID = "uFg-xy-A1b"; */
-"uFg-xy-A1b.title" = "Logs löschen";
-
-/* Class = "NSMenuItem"; title = "All"; ObjectID = "VuK-VW-91S"; */
-"VuK-VW-91S.title" = "Alle";
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "xXf-en-u0Y"; Note = "don't translate"; */
+"xXf-en-u0Y.title" = "Table View Cell";
 

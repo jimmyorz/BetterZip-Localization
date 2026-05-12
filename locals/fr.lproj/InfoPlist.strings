@@ -1,28 +1,28 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7-Zip Archive" = "Archive 7-Zip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Paquet d'application Android";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "Archive ARJ";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BinHex Archive" = "Archive BinHex";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli Archive" = "Archive Brotli";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Archive compressée TAR Brotli";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 Archive" = "Archive BZip2";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZip2 compressed TAR Archive" = "Archive compressée TAR BZip2";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "Archive CAV";
 
 /* Bundle display name */
@@ -34,58 +34,49 @@
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Chromium Extra" = "Chromium Extra";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Archive Comicbook RAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Comicbook Zip Archive" = "Archive Comicbook ZIP";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compiled HTML Archive" = "Archive HTML compilée";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed CPIO Archive" = "Archive CPIO compressée";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CPIO Archive" = "Archive CPIO";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Debian Linux Package" = "Paquet Debian Linux";
 
-/* (No Comment) */
-"Disk Image" = "Image disque";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "Archive DiskDoubler";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Electronic Publication (ePub)" = "Livre électronique (ePub)";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZip Archive" = "Archive GZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "GZipped Tar Archive" = "Archive Tar Gzippé";
 
-/* (No Comment) */
-"ISO Disk Image" = "Image disque ISO";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Java ZIP Archive" = "Archive ZIP Java";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LHA Archive" = "Archive LHA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Archive RPM Linux";
 
-/* (No Comment) */
-"MacBinary Archive" = "Archive MacBinary";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Pièce jointe Microsoft E-mail";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -97,45 +88,41 @@
 /* Copyright (human-readable) */
 "NSHumanReadableCopyright" = "Copyright © 2006-2023 MacItBetter, Robert Rezabek";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NSIS Archive" = "Archive NSIS";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Python Egg" = "Python Egg";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "Archive RAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Segmented Archive" = "Archive segmentée";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Stuffit Archive" = "Archive Stuffit";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "TAR Archive" = "Archive TAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "User-Defined Archive" = "Archive personnalisée ";
 
-/* (No Comment) */
-"XAR Archive" = "Archive XAR";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz Archive" = "Archive xz";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "Archive compressée TAR xz";
 
-/* (No Comment) */
-"Zip Archive" = "Archive Zip";
-
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "Archive ZIP";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Zip Archive" = "Archive Zip";
+
+/* No comment provided by engineer. */
 "Zstandard Archive" = "Archive Zstandard";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Archive compressée TAR Zstandard";
-

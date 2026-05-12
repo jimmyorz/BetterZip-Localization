@@ -1,85 +1,58 @@
-/* (No Comment) */
 "%d days left" = "%d Giorni Rimanenti";
 
 /* No comment provided by engineer. */
 "An error occured, please try again later. If the problem persists, please contact me by email." = "Si è verificato un errore, riprova più tardi. Se il problema persiste, ti prego di contattarmi via e-mail.";
 
-/* (No Comment) */
 "Automatically check for updates (last check: %@)" = "Controlla automaticamente gli aggiornamenti (ultimo controllo: %@)";
 
-/* (No Comment) */
 "Better get your license today!" = "Meglio ottenere oggi la licenza!";
 
-/* (No Comment) */
 "BetterZip has detected more copies running at the same time in your network than you have license keys." = "BetterZip ha rilevato nella rete più copie in esecuzione contemporaneamente con la tua chiave di licenza.";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period ends today. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip non è ancora stato registrato. Il tuo periodo di prova termina oggi. Per continuare a usare BetterZip, fai clic sul pulsante \"Acquista ora\" qui sotto e registrati ora!";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end in %d days." = "BetterZip non è ancora stato registrato. Il periodo di prova termina tra %d giorni.";
 
-/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end tomorrow. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip non è ancora stato registrato. Il tuo periodo di prova terminerà domani. Per continuare a usare BetterZip, fai clic sul pulsante \"Acquista ora\" qui sotto e registrati ora!";
 
-/* (No Comment) */
 "Buy now" = "Acquista ora";
 
-/* (No Comment) */
+/* Strings not to be in the MAS version */
 "Buy Now…" = "Acquista Ora…";
 
-/* (No Comment) */
 "Check for Updates…" = "Controlla Aggiornamenti…";
 
-/* (No Comment) */
 "Continue" = "Continua";
 
-/* (No Comment) */
 "Every computer in your network needs its own license key. Please consider buying one of those really reasonably priced multi-user licenses." = "Ogni computer nella tua rete ha bisogno della sua chiave di licenza. Considerare l'acquisto di una licenza multiutente a prezzo ragionevole.";
 
-/* (No Comment) */
 "Great!" = "Ottimo!";
 
-/* Strings not to be in the MAS version */
-"https://macitbetter.com/buy/betterzip" = "https://macitbetter.com/buy/betterzip";
-
-/* (No Comment) */
-"https://macitbetter.com/lost-key-for/betterzip" = "https://macitbetter.com/lost-key-for/betterzip";
-
-/* (No Comment) */
 "If you like BetterZip, click the 'Buy now' button below and get your license today!" = "Se ti piace BetterZip, fai clic sul pulsante 'Acquista ora' qui sotto e ottieni la tua licenza oggi!";
 
-/* (No Comment) */
 "It has been a long time since you last tried BetterZip. Take a few more days to evaluate it again. Your trial period has been extended by five days." = "E' passato molto tempo dall'ultima volta che hai provato BetterZip. Prenditi ancora qualche giorno per valutarlo di nuovo. Il tuo periodo di prova è stato esteso.";
 
-/* (No Comment) */
 "Later" = "Dopo";
 
 /* Parameter: name */
 "Licensee: %@" = "Licenza: %@";
 
-/* (No Comment) */
 "More license keys required." = "Più chiavi di licenza richieste.";
 
-/* (No Comment) */
 "Please register BetterZip to enable the saving of archives." = "Si prega di registrare BetterZip per abilitare il salvataggio degli archivi.";
 
 /* Params: date */
 "Registration: %@" = "Registrazione: %@";
 
+"Registration: %@ u2013 %d licenses" = "Registrazione: %@ \\u2013 %d licenze";
+
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Registrazione: %1$@ – %2$d licenze";
 
-/* (No Comment) */
-"Registration: %@ for %d licenses" = "Registrazione: %@ per %d licenze";
-
-/* (No Comment) */
 "Registration…" = "Registrazione…";
 
-/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "Il codice non è valido. Assicurati di aver incollato la chiave completa nel campo di testo.";
 
-/* (No Comment) */
 "The trial period is over" = "Il periodo di prova è terminato";
 
 /* No comment provided by engineer. */
@@ -88,27 +61,18 @@
 /* New in BetterZip 3 */
 "This function is available to registered users only." = "Questa funzione è disponibile solo per gli utenti registrati.";
 
-/* (No Comment) */
 "This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "Questo è un codice di licenza per una versione precedente di BetterZip. Puoi usarlo per acquistare una licenza di BetterZip 6 al prezzo di aggiornamento scontato di US$ %@. Fai clic su \"Aggiorna ora\" qui sotto per accedere al negozio online.";
 
-/* No comment provided by engineer. */
 "Trial period, %d days left" = "Periodo di prova, %d giorni rimanenti";
 
-/* (No Comment) */
 "Trial user, %d days left" = "Utente di prova, %d giorni rimanenti";
 
-/* (No Comment) */
 "Upgrade now" = "Aggiorna ora";
 
-/* (No Comment) */
 "Welcome back to BetterZip!" = "Bentornati in BetterZip!";
 
-/* (No Comment) */
 "Your copy of BetterZip is registered. Thank you!" = "La tua copia di BetterZip è registrata. Grazie!";
 
-/* (No Comment) */
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "Il tuo periodo di prova è terminato. Anche se BetterZip funzionerà per qualche altro giorno, devi registrarti, se vuoi continuare ad usarlo! Fai clic sul pulsante \"Acquista ora\" qui sotto e ricevi il codice di licenza in pochi minuti.";
 
-/* (No Comment) */
-"Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "Il tuo periodo di prova è terminato. Ancora è possibile visualizzare gli archivi, ma il salvataggio degli archivi è stato disabilitato. Registrati, se vuoi continuare a utilizzare BetterZip! Fai clic sul pulsante \"Acquista ora\" qui sotto e ricevi il codice di licenza in pochi minuti.";
-
+"Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "Il tuo periodo di prova è terminato. Puoi ancora visualizzare gli archivi, ma il salvataggio degli archivi è stato disabilitato. Registrati, se vuoi continuare a utilizzare BetterZip! Fai clic sul pulsante \"Acquista ora\" qui sotto e ricevi il codice di licenza in pochi minuti.";

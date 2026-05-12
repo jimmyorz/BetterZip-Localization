@@ -1,27 +1,69 @@
 /* (No Comment) */
-"Add Items to New Archive in BetterZip" = "Add Items to New Archive in BetterZip";
+"Add Items to New Archive in BetterZip" = "Lägg till objekt till nytt arkiv i BetterZip";
 
 /* (No Comment) */
-"Compress with Preset" = "Compress with Preset";
+"Compress with BetterZip" = "Komprimera med BetterZip";
 
 /* (No Comment) */
-"Extract to" = "Extract to";
+"Compress with Preset" = "Komprimera med förinställning";
+
+/* No comment provided by engineer. */
+"Error" = "Ett fel uppstod";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "Ett externt kommando svarade: %1$d%2$c";
 
 /* (No Comment) */
-"Extract with Preset" = "Extract with Preset";
+"Extract to" = "Extrahera till";
 
 /* (No Comment) */
-"Next to Archives" = "Next to Archives";
+"Extract with BetterZip" = "Extrahera med BetterZip";
 
 /* (No Comment) */
-"Open in BetterZip" = "Open in BetterZip";
+"Extract with Preset" = "Extrahera med förinställning";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "Ignorera och gå vidare";
+
+/* (No Comment) */
+"Next to Archives" = "Intill arkiven";
+
+/* No comment provided by engineer. */
+"No compression" = "Ingen komprimering";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "Inte krypterad";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* (No Comment) */
+"Open in BetterZip" = "Öppna med BetterZip";
 
 /* Localizable.strings
   BetterZip
 
   Created by Robert Rezabek on 07.05.17. */
-"Other Actions" = "Other Actions";
+"Other Actions" = "Andra åtgärder";
+
+/* No comment provided by engineer. */
+"Other…" = "Annat...";
 
 /* (No Comment) */
-"Test Validity of Archives" = "Test Validity of Archives";
+"Start collecting items in a new archive" = "Börja samla ihop objekt i ett nytt arkiv";
+
+/* No comment provided by engineer. */
+"Stop" = "Stanna";
+
+/* (No Comment) */
+"Test Validity of Archives" = "Undersök validiteten av arkiven";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "Hjälpverktyget %@ kunde inte hittas eller kunde in köras.";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "Det finns inte tillräckligt med utrymme på destinationsdisken.";
+
+/* No comment provided by engineer. */
+"Warning" = "Varning";
 

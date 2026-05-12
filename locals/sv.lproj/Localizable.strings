@@ -1,36 +1,49 @@
-/* (No Comment) */
-"(incl. %d hidden)" = "(ink. %d dolda)";
-
-/* Marks the newer file */
-"(newer)" = "(nyare)";
-
-/* Marks the older file */
-"(older)" = "(äldre)";
-
-/* (No Comment) */
 "%@ (damaged)" = "%@ (skadat)";
 
 /* initial name of a duplicated extract preset, %@ being the original name
-   initial name of a duplicated save preset, %@ being the original name */
+initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "%@ kopiera";
 
-/* (No Comment) */
+/* Error messages */
+"%@ could not be extracted. Error code: %ld" = "";
+
 "%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ hanteras inte av någon applikation. Försök att extrahera filen och öppna den i Finder.";
 
-/* (No Comment) */
 "%@ of %@" = "%@ av %@";
 
-/* (No Comment) */
+"%@ was unable to send the crashlog." = "";
+
 "%d item, uncompressed size: %@ %@" = "%d objekt, okomprimerad storlek: %@ %@";
 
-/* (No Comment) */
+/* UI elements */
+"%d Items" = "";
+
 "%d items, uncompressed size: %@ %@" = "%d obbjekt, okomprimerad storlek: %@ %@";
 
-/* (No Comment) */
 "%d selected, uncompressed size: %@ %@" = "%d valda, okomprimerad storlek: %@ %@";
 
-/* (No Comment) */
+/* merge conflicts message files only
+merge conflicts message folders only */
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
+
+/* merge conflicts message */
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
+
+/* pattern window label */
+"%lu matching items" = "";
+
+"(incl. %d hidden)" = "(ink. %d dolda)";
+
+"(newer)" = "(nyare)";
+
+"(older)" = "(äldre)";
+
+/* unnamed filter predicate */
+"(untitled)" = "";
+
 "+pwd" = "+pwd";
+
+"7-Zip Format (best compression)" = "7Zip-format (mest komprimering)";
 
 /* displayed in the file types table for user defined extensions */
 "<Click to add your own>" = "<Klicka för att lägga till dina egna>";
@@ -38,49 +51,32 @@
 /* initial name of a new password */
 "<new password>" = "<nytt lösenord>";
 
-/* (No Comment) */
 "<new pattern>" = "<Nytt mönster>";
 
-/* (No Comment) */
 "<new preset>" = "<Ny förinställning>";
 
-/* Marks the older file */
-"⚠️ (older)" = "⚠️ (äldre)";
-
-/* Format name */
-"7-Zip Format" = "7-Zip format";
-
-/* (No Comment) */
-"7-Zip Format (best compression)" = "7Zip-format (mest komprimering)";
-
-/* (No Comment) */
 "A volume is missing: %@." = "En volym saknas: %@.";
 
-/* (No Comment) */
+/* column header */
+"Action" = "";
+
 "Activate" = "Aktivera";
 
-/* (No Comment) */
+/* Import presets button */
 "Add" = "Lägg till";
 
-/* (No Comment) */
 "Add a new file or folder to the archive" = "Lägg till en ny fil eller mapp till arkivet";
 
-/* (No Comment) */
 "Add Files to Archive" = "Lägg till filer i arkivet";
 
-/* (No Comment) */
 "Add Items" = "Lägg till objekt";
 
-/* (No Comment) */
 "Add Mac Stuff" = "Lägg till Macsaker";
 
-/* (No Comment) */
 "Add the items to a new archive" = "Lägg till objekt till det nya arkivet";
 
-/* (No Comment) */
 "Add to %@…" = "Lägg till i %@…";
 
-/* (No Comment) */
 "Added" = "Tillagd";
 
 /* added in BetterZip 3 */
@@ -89,71 +85,58 @@
 /* Preferences tab title */
 "Advanced" = "Avancerat";
 
-/* (No Comment) */
 "After filtering, there are no files left to archive." = "Efter filtreringen så finns det inga filer kvar i arkivet.";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"All" = "";
+
 "All Queued Archive Operations Complete" = "All köade arkivåtgärder klara";
 
-/* (No Comment) */
 "An error occurred" = "Ett fel har uppstått";
 
-/* (No Comment) */
 "An error occurred opening %@. Do you want to try to open the archive anyway?" = "Ett fel uppstod vid öppnadet av %@. Vill du försöka öppna det i alla fall?";
 
-/* (No Comment) */
 "An error occurred opening %@. Do you want to try to repair the archive?" = "Ett fel inträffade vid öppning %@. Vill du försöka reparera arkivet?";
 
-/* (No Comment) */
 "An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?" = "Ett objekt med namnet %@ finns redan på den platsen inuti arkivet. Vill du ersätta det med det du lägger till?";
 
-/* (No Comment) */
 "An item named %@ already exists in this location inside the archive. Do you want to update it?" = "Ett objekt med namnet %@ finns redan på den här platsen inuti arkivet. Vill du uppdatera det?";
 
 /* ReplaceExistingFiles */
 "An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?" = "Ett objekt med namnet %@ finns redan på den här platsen. Vill du ersätta det med den du extraherar?";
 
-/* (No Comment) */
 "An item with this name already exists in this folder!" = "Ett objekt med det namnet finns redan i den här mappen!";
 
-/* (No Comment) */
 "An unknown error occurred." = "Ett okänt fel har inträffat.";
 
-/* Format name */
+"Another helper (%@) already uses tag %d." = "";
+
 "Apple Disk Image" = "Apple Skivavbild";
 
-/* Checkbox label */
 "Apply to all" = "Tillämpa på alla";
 
-/* Checkbox label */
 "Apply to all folders" = "Tillämpa på alla mappar";
 
-/* Checkbox label */
 "Apply to all in queue" = "Tillämpa på alla i kön";
 
-/* (No Comment) */
+/* column header */
 "Archive" = "Arkivera";
 
-/* (No Comment) */
 "Archive Creation Complete" = "Arkivet skapades framgångsrikt";
 
-/* (No Comment) */
 "Archive Creation Failed" = "Skapandet av arkivet misslyckades";
 
-/* (No Comment) */
 "Archive Extraction Complete" = "Arkiv-extraheringen klar";
 
-/* (No Comment) */
 "Archive Extraction Failed" = "Extrahering av arkivet misslyckades";
 
-/* (No Comment) */
+"Archive seems to be damaged" = "";
+
 "Archive Test Failed" = "Arkivtestet misslyckades";
 
-/* (No Comment) */
-"Archive test successful" = "Arkivtestet klart";
-
-/* (No Comment) */
 "Archive Test Successful" = "Arkivtestet var framgångsrikt";
+
+"Archive test successful" = "Arkivtestet klart";
 
 /* No comment provided by engineer. */
 "Archive test successful. No errors were found." = "Test av arkivet gick bra. Inga fel hittades.";
@@ -161,88 +144,84 @@
 /* Preferences tab title */
 "Archive Types" = "Arkivtyper";
 
-/* (No Comment) */
 "Archives" = "Arkiv";
 
-/* (No Comment) */
 "Are you sure you want to overwrite the original archive?" = "Är du säker på att du vill skriva över originalarkivet?";
 
-/* (No Comment) */
+/* Info table key */
+"Attributes" = "";
+
+/* Info table key */
 "Author" = "Upphovsman";
 
-/* (No Comment) */
 "Back" = "Gå tillbaka";
 
-/* (No Comment) */
 "Best (solid, slow extraction)" = "Bäst (Ordentlig, men långsam extrahering)";
 
-/* (No Comment) */
 "Best, but slower operation" = "Bäst, men tar längre tid";
 
-/* (No Comment) */
 "BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip kan inte extrahera till denna mapp. Kanske har du inte skrivrättigheter.";
 
-/* (No Comment) */
+/* Welcome text, line 1 */
+"BetterZip is the most powerful archiver for macOS, and you can customize it in many ways. To get started quickly use a few select options below. " = "";
+
 "BetterZip Recovered Files" = "BetterZip-återskapade filer";
 
-/* (No Comment) */
 "BetterZip Temporary Folder" = "BetterZips tillfälliga mapp";
 
 /* added in V 5.0 */
 "BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip nekades åtkomst till %@. Du kan ge tillåtelse till det i Systeminställnignar.";
 
-/* (No Comment) */
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "";
+
 "BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip kommer nu att ta bort %d filer, som matchar mönstret som är angivet i inställningarna, från arkivet.";
 
-/* (No Comment) */
 "BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip kommer nu att ta bort %d files som matchar ditt mönster från arkivet.";
 
-/* (No Comment) */
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip kommer nu att ta bort %d Mac-specifika filer från arkivet";
 
-/* (No Comment) */
 "BetterZip will now remove Mac specific files from the archive." = "BetterZip kommer nu att ta bort Mac-specifika filer från arkivet.";
 
-/* (No Comment) */
 "BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip kommer nu att ta bort en fil, som matchar mönstret som är angivet i inställningarna, från arkivet.";
 
-/* (No Comment) */
 "BetterZip will now remove one file matching your patterns from the archive." = "BetterZip kommer nu att ta bort en fil som matchar ditt mönster från arkivet.";
 
-/* (No Comment) */
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip kommer nu att ta bort en Mac-specifik fil från arkivet";
 
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip funkar bara på macOS 10.13 (High Sierra) eller senare.";
 
-/* DMG subformat */
-"BZip2 compressed" = "BZip2 komprimerad";
+/* No comment provided by engineer. */
+"Buy Now" = "";
 
-/* (No Comment) */
 "BZip2-compressed image" = "BZip2 komprimerad skivavbild";
 
-/* (No Comment) */
+/* Import presets button
+button */
 "Cancel" = "Avbryt";
 
-/* (No Comment) */
+/* Extraction error suppression */
+"Cancel extraction" = "";
+
 "Cancel Opening" = "Avbryt öppnandet";
+
+"Cancel Operation" = "Cancel Operation";
 
 /* V 2.0 */
 "Cancel the operation" = "Avbryt åtgärden";
 
-/* (No Comment) */
 "cancelled" = "avbruten";
 
-/* (No Comment) */
+"Cannot enumerate directory: %@" = "";
+
+"Cannot open file: %@" = "";
+
 "Caution" = "Se upp";
 
-/* (No Comment) */
 "Change Archive Mode" = "Byt arkiv läge";
 
-/* (No Comment) */
 "Check for updates on startup?" = "Leta efter uppdateringar vid start?";
 
-/* (No Comment) */
 "Choose from your favorite presets" = "Välj bland din favoritförinställningar";
 
 /* Welcome text, line 3 */
@@ -251,31 +230,26 @@
 /* The window title. */
 "Choose Master Password" = "Välj huvudlösenord";
 
-/* (No Comment) */
 "Clean" = "Rensa";
 
-/* (No Comment) */
 "Clean Archive" = "Rensa arkiv";
 
-/* (No Comment) */
 "Clean now" = "Rensa nu";
 
-/* (No Comment) */
 "Cleaning" = "Rensar";
 
-/* (No Comment) */
 "Clear" = "Rensa";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Clear Logs" = "";
+
 "Close" = "Stäng";
 
-/* (No Comment) */
 "Columns" = "Kolumner";
 
-/* (No Comment) */
+/* Info table key */
 "Comment" = "Kommentar";
 
-/* (No Comment) */
 "Comment Text" = "Kommentera text";
 
 /* Open panel title */
@@ -287,43 +261,64 @@
 /* Default title for dynamic preset services */
 "Compress with Preset %@" = "Komprimera med förinställningen %@";
 
-/* (No Comment) */
+/* Info table key */
+"Compressed" = "";
+
 "Compressed %@" = "Komprimerade %@";
 
-/* (No Comment) */
 "Compressing %@" = "Komprimerar %@";
 
-/* (No Comment) */
+"Compression:" = "";
+
+/* Hash helper */
+"Computing…" = "";
+
 "Continue" = "Fortsätt";
 
-/* (No Comment) */
+/* Info table key */
 "Copyright" = "Upphovsrätt";
 
-/* Format name */
+"Corrupted" = "";
+
 "CPIO Format, uncompressed (cpio)" = "CPIO-format, okomprimerat (cpio)";
 
-/* (No Comment) */
+/* Crash reporter */
+"CrashReport" = "";
+
 "Create a new folder in the selected place inside the archive." = "Skapa ny mapp på den valda platsen inuti arkivet.";
 
-/* (No Comment) */
+/* Filter / pattern UI */
+"Create Filter" = "";
+
 "Create New Folder" = "Skapa ny mapp";
 
 /* File infos in preview sidebar */
 "Date" = "Datum";
 
+/* No comment provided by engineer. */
+"date" = "";
+
+/* relative date unit */
+"days" = "";
+
+/* No comment provided by engineer. */
+"Debug" = "";
+
 /* Option in the password encoding pop-up to use the default encoding */
 "Default encoding" = "Standardkodning";
 
-/* (No Comment) */
+"Define the filter criteria:" = "";
+
 "Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Delete %lu log files?" = "";
 
 /* menu item */
 "Delete Empty Folders" = "Radera tomma mappar";
 
-/* (No Comment) */
 "Delete Files From Archive" = "Radera filer från arkiv";
 
-/* (No Comment) */
 "Delete Items" = "Radera objekt";
 
 /* menu item */
@@ -332,74 +327,77 @@
 /* Menu items for delete menu */
 "Delete Selected" = "Radera valda filer";
 
-/* (No Comment) */
 "Delete the selected files or folders from the archive" = "Radera de valda filerna eller mapparna från arkivet";
-
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "Radera enligt mönster";
 
 /* menu item */
 "Delete with Pattern" = "Radera enligt mönster";
 
-/* (No Comment) */
-"Deleting items" = "Raderar objekt";
+/* Tooltip for the delete with pattern toolbar button */
+"Delete with pattern" = "Radera enligt mönster";
 
-/* Option in the encoding pop-up to detect the encoding automatically */
-"Detect automatically" = "Bestäm automatiskt";
+"Deleting items" = "Raderar objekt";
 
 /* Menu item for character encoding detector */
 "Detect Automatically" = "Bestäm automatiskt";
 
-/* (No Comment) */
+/* Option in the encoding pop-up to detect the encoding automatically */
+"Detect automatically" = "Bestäm automatiskt";
+
+/* Info table key */
 "Dimensions" = "Dimensioner";
+
+/* column header */
+"Disk" = "";
 
 /* Welcome text, line 2 */
 "Dive into all available settings in the preferences window when you are ready." = "Djupdyk bland alla tillgängliga inställningar i isntällningsfönstret när du är redo.";
 
-/* (No Comment) */
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "Aktivera inte denna inställning såvida du inte har för vana att regelbundet backa upp dina data. BetterZip kommer inte att varna innan filer skrivs över, om du använder en förinställning med överskrivning aktiverat. Filer kan gå förlorade. Används på egen risk.";
 
 /* Warning when quitting BetterZip while operations are running */
 "Do you really want to quit BetterZip?" = "Vill du verkligen avsluta BetterZip?";
 
-/* (No Comment) */
 "Do you want to extract the %d archives that were found inside the selected folders?" = "Vill du extrahera till %d arkiven som hittade i den valda mappen?";
 
-/* (No Comment) */
 "Do you want to keep it that way or add metadata to your archive?" = "Vill du låta arkivet vara så här eller vill du lägga till metadata ditt arkiv?";
 
-/* (No Comment) */
+/* Import presets alert message */
+"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "";
+
 "Do you want to save the changes back to the archive?" = "Vill du spara ändringarna till arkivet?";
 
-/* (No Comment) */
 "Do you want to save the changes you made in the document %@?" = "Vill du spara ändringarna du gjorde i dokumentet %@?";
 
-/* (No Comment) */
 "Don't move" = "Flytta inte";
 
 /* Button title */
 "Don't Quit" = "Avsluta inte";
 
-/* (No Comment) */
 "Don't Save" = "Spara inte";
 
-/* (No Comment) */
+"Don't show again for this archive" = "";
+
 "Drag items here to compress or extract" = "Dra objekt hit för att komprimera eller extrahera";
 
-/* (No Comment) */
 "Drop archives here to extract" = "Släpp arkiv här för att extrahera";
 
-/* (No Comment) */
 "Drop items here to compress" = "Släpp objekt här för att komprimera";
 
-/* (No Comment) */
 "Drop the archives here to open them" = "Släpp arkiv här för att öppna dom";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Drop the file here to add it to a new archive." = "";
+
 "Drop the files here to add them to a new archive" = "Släpp filer här för att lägga till dom till det nya arkivet";
 
-/* DMG subformat */
+/* No comment provided by engineer. */
+"Drop the files here to filter and add them to a new archive" = "";
+
+"Duplicate Tag" = "";
+
 "DVD/CD-R master for export" = "DVD/CD-R master för export";
+
+"Edit Filter" = "";
 
 /* menu item */
 "Edit Patterns…" = "Redigera mönster…";
@@ -410,40 +408,43 @@
 /* menu item */
 "Edit Presets…" = "Redigera förinställningar…";
 
-/* (No Comment) */
+/* Info table key */
 "Encryption" = "Kryptering";
 
-/* (No Comment) */
+/* save predicate alert message */
+"Enter a name for this predicate:" = "";
+
 "Error" = "Fel";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"ext" = "";
+
+/* Preferences tab title */
+"Extensions" = "";
+
+/* No comment provided by engineer. */
+"External command returned: %d\n" = "";
+
 "External command returned: %d%c" = "Externt kommando kom tillbaka: %d%c";
 
-/* Open panel title */
+/* Open panel title
+button */
 "Extract" = "Extrahera";
 
-/* (No Comment) */
 "Extract All" = "Extrahera alla";
 
-/* (No Comment) */
 "Extract all files and folders from the archive" = "Extrahera alla filer och mappar från arkivet";
 
-/* (No Comment) */
 "Extract files or folders from the archive" = "Extrahera filer eller mappar från arkivet";
 
-/* (No Comment) */
 "Extract Here" = "Extrahera hit";
 
-/* (No Comment) */
 "Extract Selected" = "Extrahera valda";
 
-/* (No Comment) */
 "Extract Selected Only" = "Extrahera endast valda";
 
-/* (No Comment) */
 "Extract the selected files or folders from the archive" = "Extrahera de valda filerna eller mapparna från arkivet";
 
-/* (No Comment) */
 "Extract to…" = "Extrahera till…";
 
 /* default service name */
@@ -452,70 +453,76 @@
 /* Menu items for extract menu */
 "Extract with Preset" = "Extrahera medd förinställning";
 
-/* (No Comment) */
 "Extract with Preset %@" = "Extrahera med förinställningen %@";
 
-/* (No Comment) */
 "Extracted %@" = "Extraherade %@";
 
-/* (No Comment) */
 "Extracting %@" = "Exxtraherar %@";
 
-/* (No Comment) */
 "Extracting archive: %@" = "Extraherar arkivet: %@";
 
-/* (No Comment) */
 "Extracting items from %@" = "Extraherar objekt från %@";
 
-/* (No Comment) */
 "Extracting items from archive: %@ of %@" = "Extraherar objekt från arkivet: %@ av %@";
 
-/* (No Comment) */
 "Extracting items temporarily" = "Extraherar objekt tillfälligt";
 
-/* (No Comment) */
 "Failed" = "Misslyckades";
 
-/* (No Comment) */
 "Failed (unpacking failed)" = "Misslyckades (uppackningen gick fel)";
 
-/* (No Comment) */
 "Failed (unsupported)" = "Misslyckades (stöds inte)";
 
-/* (No Comment) */
 "Failed (wrong checksum)" = "Misslyckades (fel kontrollsumma)";
 
-/* (No Comment) */
 "Failed (wrong password)" = "Misslyckades (fel lösenord)";
 
-/* (No Comment) */
 "Failed (Wrong size)" = "Misslyckades (fel storlek)";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Failed (wrong size)" = "";
+
 "Fast, but larger archives" = "Snabbt, men större arkiv";
 
-/* (No Comment) */
+/* singular */
+"file" = "";
+
 "File in archive:" = "Fil i arkivet:";
 
-/* (No Comment) */
 "File on disc:" = "Fil på skiva:";
 
-/* (No Comment) */
 "File Types" = "Fil-typer";
 
-/* (No Comment) */
+/* Info table key */
 "Filename encoding" = "Filnamnskodning";
 
 /* Preferences tab title */
 "Files" = "Filer";
 
+/* plural */
+"files" = "";
+
+/* popup label */
+"Files:" = "";
+
+/* name field placeholder */
+"Filter name" = "";
+
 /* Preferences window - name of the tab to manage filter patterns */
 "Filtering" = "Filtrera";
 
-/* (No Comment) */
 "Finishing…" = "Avslutar…";
 
-/* (No Comment) */
+/* singular */
+"folder" = "";
+
+/* plural */
+"folders" = "";
+
+/* popup label */
+"Folders:" = "";
+
+/* Info table key */
 "Format" = "Format";
 
 /* Preferences tab title */
@@ -527,155 +534,202 @@
 /* Preferences tab title */
 "Helpers" = "Hjälpredor";
 
-/* (No Comment) */
+/* Info table key */
 "Hidden" = "Dold";
 
-/* (No Comment) */
+/* disclosure label */
+"Hide Details" = "";
+
 "Hide Favorites" = "Göm favoriter";
 
-/* (No Comment) */
+"Hide password" = "";
+
+/* View menu */
+"Hide Path Bar" = "";
+
 "Hide Preview" = "Göm förhandsvisning";
 
 /* new compression levels */
 "High, but slower operation" = "Hög, men långsammare åtgärd";
 
-/* (No Comment) */
 "Hold cmd ⌘ to add them to a new archive" = "Tryck ned CMD ⌘ för att lägga till dom till ett nytt arkiv";
 
-/* (No Comment) */
-"http://www.win-rar.com/" = "http://www.win-rar.com/";
+/* No comment provided by engineer. */
+"Hold option ⌥ to apply a filter first" = "";
 
-/* (No Comment) */
-"https://macitbetter.com/" = "https://macitbetter.com/";
-
-/* (No Comment) */
-"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
-
-/* (No Comment) */
 "Ignore" = "Ignorera";
 
-/* (No Comment) */
+"Ignore all remaining errors" = "";
+
 "Ignore and go on" = "Ignorera och gå vidare";
 
-/* (No Comment) */
 "Ignore Changes" = "Ignoerar ändringarna";
 
-/* (No Comment) */
+"Ignore errors" = "";
+
 "Ignore This Time" = "Ignorera den här gången";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Install Command-Line Tool…" = "";
+
+/* Error messages when saving Helpers configuration JSON */
+"Invalid Install Path" = "";
+
+"Invalid JSON" = "";
+
+"Invalid Tag" = "";
+
 "It is either damaged or in an unsupported format." = "Det är antingen skadat eller är i ett format som inte stöds.";
 
-/* (No Comment) */
+/* Info table key */
 "Items" = "Objekt";
 
-/* Button label */
+/* conflict action */
 "Keep Both" = "Behåll båda";
 
-/* (No Comment) */
 "Keep Mac Stuff out" = "Utelämna Macsaker";
 
-/* Button label */
+/* conflict action */
 "Keep Newer" = "Behåll de nyare";
 
-/* (No Comment) */
+/* Info table key */
 "Kind" = "Typ";
 
-/* %c is replaced with newline character */
+"Known file types" = "";
+
+/* PreferenceController */
+"Last checked: " = "";
+
 "Last modified: %@ %@%cSize: %@" = "Senast ändrad: %@ %@%cStorlek: %@";
 
 /* helpers */
 "Last modified: %@%cSize: %@" = "Senast ändrade: %@%cSize: %@";
 
-/* (No Comment) */
+"Let me add a filter" = "";
+
+/* No comment provided by engineer. */
+"Load or save a preset" = "";
+
+/* tasks button tooltip */
+"Load or save predicates" = "";
+
 "Loading archive: %@" = "Laddar arkivet: %@";
 
-/* (No Comment) */
 "Lock Password Manager" = "Lås lösenordshanteraren";
 
-/* DMG subformat */
 "LZMA compressed (macOS 10.15+)" = "LZMA komprimerad (macOS 10.15+)";
 
-/* (No Comment) */
 "macOS default (AES-128)" = "macOS standard (AES-128)";
 
-/* (No Comment) */
 "macOS returned this error:" = "macOS skickade detta fel:";
 
-/* (No Comment) */
+/* menu item */
+"Manage Filters…" = "";
+
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "Kanske finns det inte tillräckligt med plats på måldisken. Eller så är lösenordet felaktigt.";
 
-/* Button label */
+/* conflict action */
+"Merge" = "";
+
+/* merge conflicts window title */
+"Merge Conflicts" = "";
+
 "Merge Folders" = "Slå ihop mappar";
+
+/* Info table key */
+"Method" = "";
+
+/* Multi-volume RAR */
+"Missing Volumes" = "";
+
+/* Info table key */
+"Missing volumes" = "";
 
 /* possible file status strings */
 "Modified" = "Ändrad";
 
-/* (No Comment) */
+/* Info table key */
 "Modified at" = "Ändrad klockan";
 
-/* (No Comment) */
+/* relative date unit */
+"months" = "";
+
+"Move Archive" = "";
+
+/* Show file panel to ask for destination when moving archive/originals after operations */
+"Move archive here" = "";
+
 "Move Items" = "Flytta objekt";
 
-/* (No Comment) */
+"Move Originals" = "";
+
+"Move originals here" = "";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "";
+
 "Moved" = "Flyttad";
 
-/* (No Comment) */
 "Multi-volume" = "Multi-volym";
 
-/* (No Comment) */
 "Multiple Copies Installed" = "Flera kopior installerade";
 
-/* (No Comment) */
 "Multiple files" = "Flera filer";
 
-/* (No Comment) */
 "N/A" = "Går inte";
 
-/* (No Comment) */
-"never" = "aldrig";
+/* column header */
+"Name" = "";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"name" = "";
+
+/* name label */
+"Name:" = "";
+
 "Never" = "Aldrig";
 
-/* (No Comment) */
+"never" = "aldrig";
+
 "New Folder" = "Ny mapp";
 
-/* (No Comment) */
 "New Preset" = "Ny förinställning";
 
-/* (No Comment) */
 "New Preset (%@)" = "Ny förinställning";
 
-/* (No Comment) */
 "Next to archive" = "Nästa till arkivet";
 
-/* (No Comment) */
 "Next to original" = "Intill originalet";
 
-/* (No Comment) */
 "No" = "Nej";
 
-/* (No Comment) */
 "No checksum" = "Ingen kontrollsumma";
 
-/* (No Comment) */
 "No compression" = "Ingen komprimering";
 
-/* (No Comment) */
 "no errors" = "inga fel";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"No errors found" = "";
+
 "No files selected" = "Inga filer valda";
 
-/* (No Comment) */
+/* no filter predicate
+no rename */
+"None" = "";
+
 "Normal" = "Normal";
 
-/* (No Comment) */
 "Not encrypted" = "Inte krypterad";
 
-/* (No Comment) */
+/* button */
 "OK" = "Okej";
+
+/* No comment provided by engineer. */
+"Older than a month" = "";
+
+/* No comment provided by engineer. */
+"Older than a week" = "";
 
 /* Descriptive title of the password editor window */
 "One password per line:" = "Ett lösenord per rad:";
@@ -683,426 +737,470 @@
 /* Open panel title */
 "Open" = "Öppna";
 
-/* (No Comment) */
 "Open and browse the archive" = "Öppna och bläddra i arkivet";
 
-/* (No Comment) */
 "Open Anyway" = "Öppna i alla fall";
 
-/* (No Comment) */
 "Open System Preferences" = "Öppna Systeminställningar";
 
-/* (No Comment) */
+"Open With" = "";
+
 "Opening archive failed" = "Det gick inte att öppna arkivet";
 
-/* (No Comment) */
 "Opening archive with %d items" = "Öppnar arkivet med %d objekt";
 
-/* (No Comment) */
-"Other folder…" = "Annan mapp…";
+"Operation time: %.1lf s" = "";
+
+/* Operations queue */
+"Operations Completed" = "";
 
 /* menu item */
 "Other Folder…" = "Annan mapp…";
 
+"Other folder…" = "Annan mapp…";
+
 /* open with other application */
 "Other…" = "Annan…";
 
-/* (No Comment) */
+/* Info table key */
 "Pages" = "Sidor";
+
+/* No comment provided by engineer. */
+"Panel Settings" = "";
 
 /* Preferences tab title */
 "Passwords" = "Lösenord";
 
-/* (No Comment) */
+/* Info table key */
 "Path" = "Sökväg";
 
-/* (No Comment) */
 "Permission denied" = "Åtkomst nekad";
 
 /* Preferences tab title */
 "Places" = "Platser";
 
-/* (No Comment) */
+"Please confirm" = "";
+
+"Please download a fresh copy from our website." = "";
+
 "Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Vänligen välj rätt sökväg i Inställningar > Hjälpredor eller välj ett annat format för sparning.";
+
+/* placeholder */
+"Predicate name" = "";
 
 /* Preferences tab title */
 "Presets" = "Förinställningar";
 
-/* (No Comment) */
 "Queued for compression" = "Köade för komprimering";
 
-/* (No Comment) */
 "Queued for extraction" = "Köade för extrahering";
 
-/* (No Comment) */
 "Queued for testing" = "Köade för testning";
-
-/* Preferences tab title */
-"Quick Look" = "Snabbtitt";
 
 /* Button title */
 "Quit" = "Avsluta";
 
-/* (No Comment) */
 "Quit and Reveal in Finder" = "Avsluta och visa i Finder";
 
-/* (No Comment) */
 "Quit!" = "Stäng av!";
 
-/* (No Comment) */
 "RAR Format" = "RAR-format";
 
-/* DMG subformat */
+/* Info table key */
+"Ratio" = "";
+
 "Read-only image" = "Skrivskyddad avbild";
 
 /* DMG Options */
 "Read/write image" = "Läs- och skrivbar avbild";
 
-/* (No Comment) */
+"Reconstruct" = "";
+
 "Regular Expression" = "Regular Expression";
 
-/* (No Comment) */
 "Reload Drop Bar" = "Ladda om Släpp-listen";
 
-/* (No Comment) */
 "Remove" = "Ta bort";
 
-/* (No Comment) */
 "Remove files matching the patterns configured in the preferences window from the archive." = "Ta bort filer, som matchar mönstret som är angivet i inställningarna, från arkivet.";
 
-/* (No Comment) */
 "Rename Item" = "Byt namn på objektet";
 
-/* (No Comment) */
 "Repair" = "Reparera";
 
-/* Button label */
+/* Import presets button
+conflict action */
 "Replace" = "Ersätt";
 
-/* (No Comment) */
+/* rename mode */
+"Replace _ and . with space" = "";
+
+/* rename mode */
+"Replace _ with space" = "";
+
+/* Import presets alert title */
+"Replace or Add?" = "";
+
+/* rename mode */
+"Replace space with _" = "";
+
+"Reset" = "";
+
+/* Advanced prefs – reset learned progress weights */
+"Reset Learned Progress Weights?" = "";
+
 "Reset Password Manager" = "Nollställ lösenordshanteraren";
 
-/* (No Comment) */
 "Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "Nollställning av lösenordshanteraren raderar alla dina sparade lösenord och huvudlösenordet. Det går inte att ångra detta.";
 
-/* (No Comment) */
+"Reveal" = "";
+
 "Reveal in Finder" = "Visa i Finder";
 
-/* (No Comment) */
 "Running script" = "Kör skriptet";
+
+"Running shortcut" = "";
+
+"Running shortcut %@" = "";
 
 /* Progress messages */
 "Running user script %@" = "Kör användarskriptet %@";
 
-/* (No Comment) */
+/* rename mode */
+"Sanitize filenames for Windows" = "";
+
 "Save" = "Spara";
 
-/* (No Comment) */
 "Save As…" = "Spara som…";
 
-/* (No Comment) */
+/* save predicate alert title */
+"Save Predicate" = "";
+
 "Save the archive" = "Spara arkivet";
 
 /* menu item in sharing menu */
 "Save the archive before sharing" = "Spara arkivet innan delning";
 
-/* (No Comment) */
 "Save the archive with another name." = "Spara arkivet med ett annat namn.";
 
-/* (No Comment) */
 "Save the current settings as preset" = "Spara nuvarande inställningar som en förinställning";
 
-/* (No Comment) */
 "Saving archive %@" = "Sparar arkivet %@";
 
-/* (No Comment) */
 "Saving archive failed" = "Sparningen av arkivet misslyckades";
 
-/* (No Comment) */
 "Saving archive: %@ of %@" = "Sparar arkivet: %@ av %@";
 
-/* (No Comment) */
+"Scripts" = "";
+
 "Search" = "Sök";
 
-/* (No Comment) */
 "Search the archive file" = "Sök i arkivet";
 
-/* (No Comment) */
 "Service Name" = "Tjänstens namn";
 
 /* possible button labels for setting and clearing passwords in the save presets configuration */
 "Set" = "Ställ in";
 
-/* (No Comment) */
+"Set Master Password…" = "";
+
+"Shortcuts" = "";
+
+/* No comment provided by engineer. */
+"Show Archive in Finder" = "";
+
+/* disclosure label */
+"Show Details" = "";
+
 "Show Favorites" = "Visa favoriter";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Show in Finder" = "";
+
+/* Password */
+"Show password" = "";
+
+/* View menu */
+"Show Path Bar" = "";
+
 "Show Preview" = "Visa förhandsvisning";
 
-/* (No Comment) */
 "Show save panel" = "Visa spara-panelen";
 
 /* Pattern control */
 "Simple File Mask" = "Enkel Filmask";
 
-/* (No Comment) */
+/* Info table key */
 "Size" = "Storlek";
 
-/* (No Comment) */
+/* conflict action */
+"Skip" = "";
+
+/* Info table key */
 "Solid" = "Solid";
 
-/* (No Comment) */
 "Sorry!" = "Jag beklagar!";
 
-/* (No Comment) */
+"Sort By" = "";
+
 "Stop" = "Stoppa";
 
-/* (No Comment) */
 "Strong (AES-256)" = "Stark (AES-256)";
 
-/* (No Comment) */
 "Strong (AES-256) with header encryption" = "Stark (AES-256) med kryptering av filhuvudet";
 
-/* (No Comment) */
 "Symbolic Link (no preview possible)" = "Symbolisk länk (förhandsvisning inte möjligt)";
 
 /* The system default app should handle this file type. */
 "System Default" = "Systemförinställningar";
 
-/* Format name */
+"Tags for user-defined formats must be 1000 or greater." = "";
+
 "TAR Format, Brotli compressed (tbr)" = "TAR-format, Brotli-komplrimerad (tbr)";
 
-/* Format name */
 "TAR Format, BZip2 compressed (tbz)" = "TAR-format, BZip2-komprimerad (tbz)";
 
-/* Format name */
 "TAR Format, GZip compressed (tgz)" = "TAR-format, GZip-komprimerad (tgz)";
 
-/* Format name */
 "TAR Format, uncompressed (tar)" = "TAR-format, okomprimerad (tar)";
 
-/* Format name */
 "TAR Format, xz compressed (txz)" = "TAR-format, xz komprimerat (txz)";
 
 /* New formats */
 "TAR Format, Z compressed (tz)" = "TAR-format, Z-komprimerad (tz)";
 
-/* Format name */
 "TAR Format, Zstandard compressed (tzst)" = "TAR-format, Z-standard-komprimerad (tzst)";
 
-/* (No Comment) */
+"tar options,compressor options" = "";
+
 "Test" = "Testa";
 
-/* (No Comment) */
+"Test Archive" = "";
+
 "Test the archive" = "Testa arkivet";
 
-/* (No Comment) */
 "Test the archive integrity" = "Testa arkivets integritet";
 
-/* (No Comment) */
 "Testing %@" = "Testar %@";
 
-/* (No Comment) */
 "Testing archive %@" = "Testar arkivet %@";
 
 /* Output while testing archives */
 "Testing: %@…" = "Testar: %@…";
 
-/* (No Comment) */
+"Thanks for helping us improve %@" = "";
+
+/* Application integrity */
+"The application is damaged." = "";
+
 "The archive cannot be created." = "Arkivet kunde inte skapas.";
 
-/* (No Comment) */
 "The archive could not be extracted completely. It may be damaged." = "Arkivet kunde inte extraheras fullständigt. Det kan vara skadat.";
 
-/* (No Comment) */
 "The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "Arkivet kunde inte extraheras fullständigt. Det kan vara skadat. Vill du försöka reparera det?";
 
-/* (No Comment) */
 "The archive could not be extracted." = "Arkivet kunde inte extraheras.";
 
-/* (No Comment) */
 "The archive disappeared" = "Arkivet försvann";
 
-/* (No Comment) */
+"The archive extraction encountered errors." = "";
+
 "The archive extraction failed." = "Extrahering av arkivet misslyckades.";
 
-/* (No Comment) */
 "The archive is either damaged or in an unsupported format." = "Arkivet är antingen skadat eller är i ett format som inte stöds";
 
-/* (No Comment) */
 "The archive test failed. Do you want to try to repair the archive?" = "Testning av arkivet misslyckades. Vill du försöka reparera det?";
 
-/* (No Comment) */
 "The archive test was completed successfully." = "Arkivtestet framgångsrikt.";
 
-/* (No Comment) */
 "The archive tests failed." = "Testning av arkivet misslyckades.";
 
 /* No comment provided by engineer. */
 "The archive tests failed. The archive is either damaged or in an unsupported format. The transcript window may contain further details." = "Arkivtesterna misslyckades. Arkivet är antingen skadat eller är i ett format som saknar stöd. Transkriptfönstret kan innehålla mera information.";
 
-/* (No Comment) */
 "The file %@ could not be added to the archive. Maybe the system disc is full?" = "Filen %@ kunde inte läggas till i arkivet. Är systemdisken full kanske?";
 
-/* (No Comment) */
 "The file %@ could not be extracted." = "Filen %@ kunde inte extraheras.";
 
-/* (No Comment) */
 "The file %@ has been modified." = "Filen %@ har ändrats.";
 
-/* (No Comment) */
+"The file at '%@' does not exist." = "";
+
+/* No comment provided by engineer. */
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "";
+
+"The helper tool %@ could not be found or is not executable." = "";
+
+"The JSON must be a dictionary (top-level object)." = "";
+
+"The last error macOS reported was:" = "";
+
+/* No comment provided by engineer. */
+"The log files will be moved to the Trash." = "";
+
 "The password may be incorrect." = "Lösenordet kan vara felaktigt.";
 
-/* (No Comment) */
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "";
+
 "The rar helper could not be found." = "RAR-hjälpredan kunde inte hittas.";
 
-/* (No Comment) */
 "The transcript window may contain further details." = "Logg-fönstret kan innehålla mer detaljer.";
 
-/* (No Comment) */
 "There are operations in progress." = "Verksamhet pågår.";
 
-/* (No Comment) */
 "There is not enough free space on the destination drive." = "Deet finns inte tillräckligt med utrymme på måldisken.";
 
-/* (No Comment) */
 "This archive appears to be damaged." = "Det här arkivet verkar vara skadat.";
 
-/* (No Comment) */
 "This archive doesn't contain any Mac specific files yet" = "Det här arkivet innehåller inga Macspecifika filer ännu";
+
+/* Import presets wrong type alert message */
+"This file contains extract presets, but you are importing into save presets." = "";
+
+/* Import presets wrong type alert message */
+"This file contains save presets, but you are importing into extract presets." = "";
+
+/* No comment provided by engineer. */
+"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "";
 
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "Det här är inte lösenordet du behöver.";
 
-/* (No Comment) */
+"This name is invalid." = "";
+
+"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
+
+/* No comment provided by engineer. */
+"time" = "";
+
+/* Info table key */
 "Title" = "Titel";
 
-/* (No Comment) */
 "To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "För att ignorera de valda mapparna och börja extrahera bara de valda arkiven, klicka på \"Extrahera endast valda\"";
 
 /* Today title string */
 "Today" = "Idag";
 
+/* No comment provided by engineer. */
+"Toggle Preview" = "";
+
+/* No comment provided by engineer. */
+"Toggle Sidebar" = "";
+
 /* menu item */
 "Trash" = "Kasta";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"Uninstall Command-Line Tool" = "";
+
 "Unknown" = "Okänt";
 
-/* (No Comment) */
+"Unknown file types" = "";
+
 "Unlock Password Manager…" = "Lås upp lösenordshanteraren…";
 
-/* (No Comment) */
+"Unlock the password manager to set a preset password." = "";
+
 "Unpacking failed" = "Uppackning misslyckades";
 
-/* (No Comment) */
+"Untitled Archive" = "";
+
 "untitled folder" = "Namnlös mapp";
 
 /* the two possible labels of the action button in the "file replace" alert panel */
 "Update" = "Uppdatera";
 
-/* (No Comment) */
 "Update File" = "Uppdatera fil";
 
-/* (No Comment) */
+"Update Items" = "";
+
 "Updated" = "Uppdaterad";
 
 /* title of the OK button in the file open panel used to locate the temp folder or standard opening program */
 "Use" = "Använd";
 
-/* (No Comment) */
 "Use for subsequent archives" = "Använd för nästkommande arkiv";
 
-/* (No Comment) */
 "Use RAR" = "Använd RAR";
 
-/* (No Comment) */
+"Use this filter to select which files and folders to add:" = "";
+
 "Use this password for the new archive" = "Använd detta lösenord för det nya arkivet";
 
-/* (No Comment) */
 "Use this pattern to delete files and folders from the archive:" = "Använd detta mönster för att radera filer och mappar från arkivet:";
 
-/* (No Comment) */
 "Use this pattern to specify which files and folders to add to the archive:" = "Använd detta mönster för att specificera vilka filer och mappar som ska läggas till i arkivet";
 
-/* (No Comment) */
 "Use this preset as default in the toolbar" = "Använd den här förinställningen som förvald i verktygslisten";
 
-/* (No Comment) */
 "Use this preset as service" = "Använd denna förinställning som en tjänst";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
+"user" = "";
+
+/* No comment provided by engineer. */
+"User confirmation for \"%@\" answered with %@" = "";
+
+/* Info table key */
 "Version" = "Version";
 
-/* (No Comment) */
 "View" = "Visa";
 
-/* (No Comment) */
 "View the selected file" = "Visa vald fil";
 
 /* Logging volume changes during extraction and testing of multi-volume rar archives */
 "Volume: %@" = "Volym: %@";
 
-/* (No Comment) */
+/* Info table key */
 "Volumes" = "Volymerna: %@";
 
-/* (No Comment) */
 "Warning" = "Varning";
 
-/* (No Comment) */
 "Warning: Saving cannot be undone" = "Varning: Sparningen kan inte återtas";
 
-/* (No Comment) */
 "Weak (PKZip2 compatible)" = "Svag (PKZip2 kompatibel)";
 
-/* (No Comment) */
+/* relative date unit */
+"weeks" = "";
+
 "When in Direct Mode, all archive operations are immediate and cannot be undone." = "När du är i Direktläge kommer alla arkivåtgärder ske på en gång och kan inte ångras.";
 
-/* (No Comment) */
 "with errors" = "med några fel";
 
-/* (No Comment) */
 "Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "Vill du att %@ letar efter uppdatering vid start? Du kan själv leta manuellt från inställningsfönstret när du vill.";
 
-/* (No Comment) */
 "Wrong checksum" = "Felaktig kontrollsumma";
 
-/* Format name */
+/* Import presets wrong type alert title */
+"Wrong Preset Type" = "";
+
 "XAR Format" = "XAR-format";
 
-/* Format name */
-"XIP Format" = "XIP-format";
-
-/* (No Comment) */
 "Yes" = "Ja";
 
 /* Yesterday title string */
 "Yesterday" = "Igår";
 
-/* (No Comment) */
 "You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "Du kan fortfarande bläddra i innehållet, men alla arkivåtgärder kommer att misslyckas. Vill du stänga fönstret?";
 
-/* (No Comment) */
 "You can't move an item into one of its subfolders!" = "Du kan inte flytta ett objekt till en av dess undermappar!";
 
-/* (No Comment) */
 "You don't have permission to write to this folder." = "Du har inte behörighet att skriva till den här mappen.";
 
 /* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
 "You should save this archive with ZIP or RAR format or your comment will be lost." = "DU bör spara detta arkiv med ZIP eller RAR, annars försvinner din kommentar.";
 
-/* (No Comment) */
 "Your changes will be lost if you don't save them." = "Din ändringar försvinenr om du inte sparar dom.";
 
 /* ZipDocument */
 "Zip Format (recommended)" = "Zip-format (rekommenderas)";
 
-/* DMG subformat */
 "Zlib compressed" = "Zlib-komprimerad";
 
-/* DMG subformat */
 "Zlib compressed (level 9)" = "Zlib-komprimerad (9:e graden)";
 
-
-"Cancel Operation" = "Cancel Operation";
-"This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
+"⚠️ (older)" = "⚠️ (äldre)";

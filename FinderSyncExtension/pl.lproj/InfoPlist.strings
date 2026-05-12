@@ -1,3 +1,5 @@
 /* Bundle display name */
 "CFBundleDisplayName" = "Rozszerzenie BetterZip dla Findera";
 
+/* Bundle name */
+"CFBundleName" = "";

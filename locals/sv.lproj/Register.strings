@@ -1,18 +1,3 @@
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "0FK-VE-wpk"; */
-"0FK-VE-wpk.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare.";
-
-/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
-"5qB-2K-8i7.title" = "Aktivera BetterZip med återförsäljar-kod";
-
-/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
-"8.title" = "Registrera BetterZip";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
-"17.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare.";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
-"98O-gG-uXk.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare";
-
 /* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
 "138.title" = "Tappat bort licensnyckeln?";
 
@@ -22,7 +7,7 @@
 /* Class = "NSButtonCell"; title = "Buy now"; ObjectID = "141"; */
 "141.title" = "Köp nu";
 
-/* Class = "NSTextFieldCell"; placeholderString = "Copy the key from the e-mail you received. It should be 4 lines of mostly letters and numbers."; ObjectID = "142"; */
+/* Class = "NSTextFieldCell"; placeholderString = "Copy/paste the key from the e-mail you received."; ObjectID = "142"; */
 "142.placeholderString" = "Kopiera licensnyckeln från mejlet du fått.";
 
 /* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
@@ -31,11 +16,17 @@
 /* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
 "144.title" = "Licensnyckel:";
 
-/* Class = "NSTabViewItem"; label = "MAS Convert"; ObjectID = "a9U-Bh-x3p"; */
-"a9U-Bh-x3p.label" = "MAS konvertera";
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare.";
 
-/* Class = "NSButtonCell"; title = "Register"; ObjectID = "bmZ-yF-vW1"; */
-"bmZ-yF-vW1.title" = "Registrera";
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "Aktivera BetterZip med återförsäljar-kod";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "Registrera BetterZip";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare";
 
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "Tillbaka";
@@ -43,21 +34,14 @@
 /* Class = "NSTabViewItem"; label = "Register"; ObjectID = "G8e-Xx-KQQ"; */
 "G8e-Xx-KQQ.label" = "Registrera";
 
-/* Class = "NSTextFieldCell"; title = "Mac App Store License Detected"; ObjectID = "g81-Nf-GOk"; */
-"g81-Nf-GOk.title" = "Mac App Store licens upptäckt";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "kIb-kC-2Vk"; */
-"kIb-kC-2Vk.placeholderString" = "Din e-postadress";
-
 /* Class = "NSTabViewItem"; label = "Claim Voucher"; ObjectID = "l3n-jx-lIq"; */
 "l3n-jx-lIq.label" = "Begär voucher";
 
 /* Class = "NSButtonCell"; title = "Register"; ObjectID = "MpD-2n-QXa"; */
 "MpD-2n-QXa.title" = "Registrera";
 
+/* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
+"t2U-Sw-lRl.title" = "";
+
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "Din E-post adress";
-
-/* Class = "NSButtonCell"; title = "Later"; ObjectID = "Xp6-Oz-aed"; */
-"Xp6-Oz-aed.title" = "Senare";
-

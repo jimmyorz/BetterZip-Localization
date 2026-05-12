@@ -8,7 +8,7 @@
 "C3r-jo-XHQ.title" = "拡張子:";
 
 /* Class = "NSTextFieldCell"; title = "Drag components into the text field and add your own text:"; ObjectID = "deF-jE-FnN"; */
-"deF-jE-FnN.title" = "テキストフィールドにコンポーネントをドラッグすれば自分のテキストを追加:";
+"deF-jE-FnN.title" = "テキストフィールドにコンポーネントをドラッグして固有のテキストを追加:";
 
 /* Class = "NSTokenFieldCell"; title = "date"; ObjectID = "H7m-LI-yTh"; Note = "don't translate"; */
 "H7m-LI-yTh.title" = "日付";
@@ -36,4 +36,3 @@
 
 /* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "xeb-8F-pHd"; */
 "xeb-8F-pHd.title" = "フォルダ:";
-

@@ -1,0 +1,26 @@
+/* Class = "NSWindow"; title = "Report a Crash"; ObjectID = "1"; Note = "@new-6.0b2"; */
+"1.title" = "クラッシュを報告";
+
+/* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2"; */
+"198.title" = "おっと。前回このアプリケーションは予期せずに終了したようです。このアプリケーションの改善に役立てられる報告を弊社に送信することができます。";
+
+/* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2"; */
+"200.title" = "技術情報を含む匿名のクラッシュレポートも同時に送信";
+
+/* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2"; */
+"201.title" = "アプリケーションがクラッシュした時にどういう操作したか教えてください。(任意)";
+
+/* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2"; */
+"203.title" = "レポート送信";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "204"; Note = "@new-6.0b2"; */
+"204.title" = "無視";
+
+/* Class = "NSButtonCell"; title = "Don't show this anymore"; ObjectID = "205"; Note = "@new-6.0b2"; */
+"205.title" = "以後は表示しない";
+
+/* Class = "NSTextFieldCell"; title = "Email address:"; ObjectID = "206"; Note = "@new-6.0b2"; */
+"206.title" = "メールアドレス:";
+
+/* Class = "NSTextFieldCell"; title = "Please leave an email address so we may contact you for more information about this crash."; ObjectID = "207"; Note = "@new-6.0b2"; */
+"207.title" = "このクラッシュのより詳しい情報を弊社からあなたにお尋ねすることがありますので、できればメールアドレスの入力もお願いします。";

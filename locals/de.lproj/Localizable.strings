@@ -114,6 +114,9 @@ merge conflicts message folders only */
 /* (No Comment) */
 "After filtering, there are no files left to archive." = "Nach dem Filtern des Archivs blieben keine Dateien mehr über.";
 
+/* No comment provided by engineer. */
+"All" = "";
+
 /* (No Comment) */
 "All Queued Archive Operations Complete" = "Alle Archivoperationen der Warteschlange abgeschlossen";
 
@@ -203,9 +206,6 @@ merge conflicts message folders only */
 
 /* (No Comment) */
 "Back" = "Zurück";
-
-/* The user needs to choose a master password. */
-"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "Bevor Sie Passwörter in Presets setzen können, müssen Sie den Passwortmanager initialisieren und ein Hauptpasswort eingeben.";
 
 /* (No Comment) */
 "Best (solid, slow extraction)" = "Beste Kompression (auch langsameres Entpacken)";
@@ -319,6 +319,9 @@ button */
 /* (No Comment) */
 "Clear" = "Löschen";
 
+/* No comment provided by engineer. */
+"Clear Logs" = "";
+
 /* (No Comment) */
 "Close" = "Schließen";
 
@@ -378,6 +381,9 @@ button */
 
 /* (No Comment) */
 "Create New Folder" = "Neuen Ordner erstellen";
+
+/* No comment provided by engineer. */
+"date" = "";
 
 /* File infos in preview sidebar */
 "Date" = "Datum";
@@ -522,6 +528,9 @@ button */
 
 /* (No Comment) */
 "Error" = "Fehler";
+
+/* No comment provided by engineer. */
+"ext" = "";
 
 /* Preferences tab title */
 "Extensions" = "Erweiterungen";
@@ -693,16 +702,10 @@ button */
 "Hold option ⌥ to apply a filter first" = "Halten Sie Option ⌥ um zuerst einen Filter anzuwenden";
 
 /* (No Comment) */
-"http://www.win-rar.com/" = "http://www.win-rar.com/";
-
-/* (No Comment) */
-"https://macitbetter.com/" = "https://macitbetter.com/";
-
-/* (No Comment) */
-"https://macitbetter.com/contact" = "mailto:betterzip@macitbetter.com";
-
-/* (No Comment) */
 "Ignore" = "Ignorieren";
+
+/* (No Comment) */
+"Ignore all remaining errors" = "";
 
 /* (No Comment) */
 "Ignore and go on" = "Ignorieren und weiter";
@@ -848,6 +851,9 @@ button */
 /* (No Comment) */
 "N/A" = "n.a.";
 
+/* No comment provided by engineer. */
+"name" = "";
+
 /* column header */
 "Name" = "Name";
 
@@ -906,6 +912,12 @@ no rename */
 /* button */
 "OK" = "OK";
 
+/* No comment provided by engineer. */
+"Older than a month" = "";
+
+/* No comment provided by engineer. */
+"Older than a week" = "";
+
 /* Descriptive title of the password editor window */
 "One password per line:" = "Ein Passwort pro Zeile";
 
@@ -947,6 +959,9 @@ no rename */
 
 /* Info table key */
 "Pages" = "Seiten";
+
+/* No comment provided by engineer. */
+"Panel Settings" = "";
 
 /* Preferences tab title */
 "Passwords" = "Passwörter";
@@ -1285,6 +1300,12 @@ conflict action */
 /* (No Comment) */
 "The file at '%@' does not exist." = "Die Datei '%@' existiert nicht.";
 
+/* No comment provided by engineer. */
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "";
+
+/* (No Comment) */
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "";
+
 /* (No Comment) */
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "Der erste Teil von “%@” fehlt. Recovery Volumes (.rev) wurden gefunden. Wollen Sie die fehlenden Teile rekonstruieren?";
 
@@ -1341,6 +1362,9 @@ conflict action */
 
 /* (No Comment) */
 "This operation has been running for a while. Are you sure you want to cancel it?" = "Diese Operation läuft schon längere Zeit. Wollen Sie sie wirklich abbrechen?";
+
+/* No comment provided by engineer. */
+"time" = "";
 
 /* Info table key */
 "Title" = "Titel";
@@ -1422,6 +1446,12 @@ conflict action */
 
 /* (No Comment) */
 "Use this preset as service" = "Dieses Preset als Dienst verwenden";
+
+/* No comment provided by engineer. */
+"user" = "";
+
+/* No comment provided by engineer. */
+"User confirmation for \"%@\" answered with %@" = "";
 
 /* Info table key */
 "Version" = "Version";

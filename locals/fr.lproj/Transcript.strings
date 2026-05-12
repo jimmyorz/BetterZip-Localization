@@ -1,6 +1,8 @@
 /* Class = "NSWindow"; title = "Transcript"; ObjectID = "3"; */
 "3.title" = "Historique";
 
-/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "11"; */
-"11.title" = "Effacer";
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HhF-qE-Du6"; Note = "don't translate"; */
+"HhF-qE-Du6.title" = "Text Cell";
 
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "xXf-en-u0Y"; Note = "don't translate"; */
+"xXf-en-u0Y.title" = "Table View Cell";

@@ -25,7 +25,7 @@
 /* (No Comment) */
 "Buy now" = "Jetzt kaufen";
 
-/* (No Comment) */
+/* Strings not to be in the MAS version */
 "Buy Now…" = "Jetzt kaufen…";
 
 /* (No Comment) */
@@ -39,12 +39,6 @@
 
 /* (No Comment) */
 "Great!" = "Super!";
-
-/* Strings not to be in the MAS version */
-"https://macitbetter.com/buy/betterzip" = "https://macitbetter.com/buy/betterzip";
-
-/* (No Comment) */
-"https://macitbetter.com/lost-key-for/betterzip" = "https://macitbetter.com/lost-key-for/betterzip";
 
 /* (No Comment) */
 "If you like BetterZip, click the 'Buy now' button below and get your license today!" = "Wenn Ihnen BetterZip gefällt, klicken Sie 'Jetzt kaufen', und erhalten Sie noch heute Ihren Lizenzcode.";
@@ -69,6 +63,9 @@
 
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Registrierung: %1$@ – %2$d Lizenzen";
+
+/* (No Comment) */
+"Registration: %@ u2013 %d licenses" = "";
 
 /* (No Comment) */
 "Registration…" = "Registrierung…";

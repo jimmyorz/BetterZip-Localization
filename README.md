@@ -170,11 +170,10 @@ That's it – your changes are live on GitHub.
 
 Xcode can also clone and push without the command line:
 
-1. **Source Control → Clone…**
+1. **Integrate → Clone…**
 2. Paste `https://github.com/macitbetter/BetterZip-Localization.git` and choose
    a folder.
-3. After editing, use **Source Control → Commit…** then **Source Control →
-   Push…**.
+3. After editing, use **Integrate → Commit…** then **Integrate → Push…**.
 
 ### Using the command line
 

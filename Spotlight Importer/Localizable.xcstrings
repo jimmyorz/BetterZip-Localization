@@ -2,10 +2,24 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Cannot enumerate directory: %@" : {
-
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法列出目錄內容：%@"
+          }
+        }
+      }
     },
     "Cannot open file: %@" : {
-
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法打開檔案：%@"
+          }
+        }
+      }
     },
     "Today" : {
       "comment" : "Today title string",
@@ -14,6 +28,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heute"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今天"
           }
         }
       }
@@ -25,6 +45,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gestern"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "昨天"
           }
         }
       }

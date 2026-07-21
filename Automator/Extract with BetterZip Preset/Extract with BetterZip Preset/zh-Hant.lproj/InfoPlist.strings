@@ -1,0 +1,5 @@
+/* Bundle name */
+"CFBundleName" = "使用 BetterZip 預設組合解壓縮";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2006–2026 MacItBetter, Robert Rezabek";

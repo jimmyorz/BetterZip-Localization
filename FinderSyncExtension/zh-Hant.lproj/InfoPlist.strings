@@ -1,0 +1,5 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip Finder 按鈕";
+
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";

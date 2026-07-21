@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Matching items"; ObjectID = "1Ui-VO-ddL"; */
+"1Ui-VO-ddL.title" = "符合的項目";
+
+/* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "Cnm-J7-wjm"; */
+"Cnm-J7-wjm.title" = "_placeholer";
+
+/* Class = "NSTextFieldCell"; title = "Specify Filter Patterns"; ObjectID = "DOK-5T-CvY"; */
+"DOK-5T-CvY.title" = "指定過濾規則";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gKo-1f-fdy"; */
+"gKo-1f-fdy.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "jOl-a6-JOJ"; */
+"jOl-a6-JOJ.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "ko5-m8-Ic0"; Note = "don't translate"; */
+"ko5-m8-Ic0.title" = "_placeholer";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ygR-6F-K2W"; Note = "don't translate"; */
+"ygR-6F-K2W.title" = "Text Cell";

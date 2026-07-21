@@ -1,0 +1,128 @@
+/* No comment provided by engineer. */
+"7-Zip Archive" = "7-Zip 壓縮檔";
+
+/* No comment provided by engineer. */
+"Android Application Package" = "Android App 套件";
+
+/* No comment provided by engineer. */
+"ARJ Archive" = "ARJ 壓縮檔";
+
+/* No comment provided by engineer. */
+"BinHex Archive" = "BinHex 壓縮檔";
+
+/* No comment provided by engineer. */
+"Brotli Archive" = "Brotli 壓縮檔";
+
+/* No comment provided by engineer. */
+"Brotli compressed TAR Archive" = "Brotli 壓縮的 TAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"BZip2 Archive" = "BZip2 壓縮檔";
+
+/* No comment provided by engineer. */
+"BZip2 compressed TAR Archive" = "BZip2 壓縮的 TAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"CAB Archive" = "CAB 壓縮檔";
+
+/* Bundle display name */
+"CFBundleDisplayName" = "BetterZip";
+
+/* Get Info string */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006–2026 MacItBetter, Robert Rezabek";
+
+/* Bundle name */
+"CFBundleName" = "BetterZip";
+
+/* No comment provided by engineer. */
+"Chromium Extra" = "Chromium Extra";
+
+/* No comment provided by engineer. */
+"Comicbook RAR Archive" = "漫畫書 RAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"Comicbook Zip Archive" = "漫畫書 ZIP 壓縮檔";
+
+/* No comment provided by engineer. */
+"Compiled HTML Archive" = "已編譯的 HTML 壓縮檔";
+
+/* No comment provided by engineer. */
+"Compressed CPIO Archive" = "壓縮的 CPIO 壓縮檔";
+
+/* No comment provided by engineer. */
+"CPIO Archive" = "CPIO 壓縮檔";
+
+/* No comment provided by engineer. */
+"Debian Linux Package" = "Debian Linux 套件";
+
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "DiskDoubler 壓縮檔";
+
+/* No comment provided by engineer. */
+"Electronic Publication (ePub)" = "電子出版品（ePub）";
+
+/* No comment provided by engineer. */
+"GZip Archive" = "GZip 壓縮檔";
+
+/* No comment provided by engineer. */
+"GZipped Tar Archive" = "GZip 壓縮的 TAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"Java ZIP Archive" = "Java ZIP 壓縮檔";
+
+/* No comment provided by engineer. */
+"LHA Archive" = "LHA 壓縮檔";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "Linux RPM 壓縮檔";
+
+/* No comment provided by engineer. */
+"Microsoft E-mail Attachment" = "Microsoft 電子郵件附件";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "壓縮或解壓縮壓縮檔後，執行使用者定義的 AppleScript。";
+
+/* Privacy - Contacts Usage Description */
+"NSContactsUsageDescription" = "你的電子郵件地址只會用於預先填寫 BetterZip 當機報告中的聯絡欄位。";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2006–2026 MacItBetter, Robert Rezabek";
+
+/* No comment provided by engineer. */
+"NSIS Archive" = "NSIS 壓縮檔";
+
+/* No comment provided by engineer. */
+"Python Egg" = "Python Egg";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "RAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"Segmented Archive" = "分段壓縮檔";
+
+/* No comment provided by engineer. */
+"Stuffit Archive" = "StuffIt 壓縮檔";
+
+/* No comment provided by engineer. */
+"TAR Archive" = "TAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"User-Defined Archive" = "使用者定義的壓縮檔";
+
+/* No comment provided by engineer. */
+"xz Archive" = "xz 壓縮檔";
+
+/* No comment provided by engineer. */
+"xz compressed TAR Archive" = "xz 壓縮的 TAR 壓縮檔";
+
+/* No comment provided by engineer. */
+"ZIP Archive" = "ZIP 壓縮檔";
+
+/* No comment provided by engineer. */
+"Zip Archive" = "ZIP 壓縮檔";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "Zstandard 壓縮檔";
+
+/* No comment provided by engineer. */
+"Zstandard compressed TAR Archive" = "Zstandard 壓縮的 TAR 壓縮檔";

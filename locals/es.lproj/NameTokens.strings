@@ -1,0 +1,17 @@
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"date" = "fecha";
+
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"time" = "hora";
+
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"user" = "usuario";
+
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"name" = "nombre";
+
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"ext" = "ext";
+
+/* Token in the archive name editor. Keep it short: the label beside it already spells the word out, and long tokens get clipped */
+"folder" = "carpeta";

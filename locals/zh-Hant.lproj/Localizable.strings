@@ -327,6 +327,9 @@ button */
 /* No comment provided by engineer. */
 "date" = "日期";
 
+/* relative date unit */
+"days" = "天";
+
 /* No comment provided by engineer. */
 "Debug" = "偵錯";
 
@@ -685,6 +688,9 @@ button */
 
 /* Info table key */
 "Modified at" = "修改時間";
+
+/* relative date unit */
+"months" = "個月";
 
 "Move Archive" = "移動壓縮檔";
 
@@ -1216,6 +1222,9 @@ conflict action */
 
 "Weak (PKZip2 compatible)" = "弱（PKZip2 相容）";
 
+/* relative date unit */
+"weeks" = "週";
+
 "When in Direct Mode, all archive operations are immediate and cannot be undone." = "在「直接模式」中，所有壓縮檔作業都會立即執行，且無法還原。";
 
 "with errors" = "有錯誤";
@@ -1249,5 +1258,24 @@ conflict action */
 "Zlib compressed" = "Zlib 壓縮";
 
 "Zlib compressed (level 9)" = "Zlib 壓縮（等級 9）";
+
+/* @new-6.0b5 – save-panel / preset format names (Formats/*.json "name"); shown via MIBLocalizedFormatName */
+"7-Zip Format" = "7-Zip 格式";
+"ARJ Archive" = "ARJ 壓縮檔";
+"BinHex Archive" = "BinHex 壓縮檔";
+"CAB Archive" = "CAB 壓縮檔";
+"Chromium Extra" = "Chromium Extra";
+"Compiled HTML Archive" = "已編譯的 HTML 壓縮檔";
+"Debian Linux Package" = "Debian Linux 套件";
+"ISO Image" = "ISO 磁碟映像檔";
+"LHA Archive" = "LHA 壓縮檔";
+"Microsoft E-mail Attachment" = "Microsoft 電子郵件附件";
+"NSIS Archive" = "NSIS 壓縮檔";
+"PDF Document" = "PDF 文件";
+"RPM Linux Archive" = "Linux RPM 壓縮檔";
+"SWF Flash Archive" = "SWF Flash 壓縮檔";
+"Split File" = "分割檔案";
+"Stuffit Archive" = "StuffIt 壓縮檔";
+"WIM Archive" = "WIM 壓縮檔";
 
 "⚠️ (older)" = "⚠️（較舊）";

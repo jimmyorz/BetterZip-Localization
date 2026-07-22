@@ -11,9 +11,6 @@
 "BinHex Archive" = "Archivio BinHex";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Archivio Brotli";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Archivio TAR compresso Brotli";
 
 /* No comment provided by engineer. */
@@ -28,9 +25,6 @@
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
-/* Get Info string */
-"CFBundleGetInfoString" = "";
-
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
@@ -39,9 +33,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Archivio RAR Comicbook";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "Archivio Zip Comicbook";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "Archivio HTML compilato";
@@ -74,9 +65,6 @@
 "LHA Archive" = "Archivio LHA";
 
 /* No comment provided by engineer. */
-"Linux RPM Archive" = "Archivio RPM Linux";
-
-/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Allegato e-mail Microsoft";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -84,9 +72,6 @@
 
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Il tuo indirizzo e-mail sarà usato solo per precompilare il campo contatto nel crash report di BetterZip.";
-
-/* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";
 
 /* No comment provided by engineer. */
 "NSIS Archive" = "Archivio NSIS";
@@ -110,19 +95,22 @@
 "User-Defined Archive" = "Archivio definito dall'utente";
 
 /* No comment provided by engineer. */
-"xz Archive" = "Archivio xz";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "Archivio TAR compresso xz";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "Archivio ZIP";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "Archivio Zip";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "Archivio Zstandard";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Archivio TAR compresso Zstandard";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Archivio ZIP Comicbook";
+"xz compressed Archive" = "Archivio xz";
+"Zstandard compressed Archive" = "Archivio Zstandard";
+"Brotli compressed Archive" = "Archivio Brotli";
+"RAR Legacy Archive" = "Archivio RAR legacy";
+"RPM Linux Archive" = "Archivio RPM Linux";
+"Disk Image" = "Immagine disco";
+"ISO Disk Image" = "Immagine disco ISO";
+"MacBinary File" = "File MacBinary";
+"XAR Archive" = "Archivio XAR";

@@ -4,42 +4,21 @@
 initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "kopiowanie %@";
 
-/* Error messages */
-"%@ could not be extracted. Error code: %ld" = "";
-
 "%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ nie jest obsługiwany przez żadną aplikację. Spróbuj wypakować plik i użyj Findera, aby go otworzyć.";
 
 "%@ of %@" = "%@ z %@";
 
-"%@ was unable to send the crashlog." = "";
-
 "%d item, uncompressed size: %@ %@" = "%d rzecz, rozmiar bez kompresji: %@ %@";
-
-/* UI elements */
-"%d Items" = "";
 
 "%d items, uncompressed size: %@ %@" = "%d rzeczy, rozmiar bez kompresji: %@ %@";
 
 "%d selected, uncompressed size: %@ %@" = "wybrano %d , rozmiar bez kompresji: %@ %@";
-
-/* merge conflicts message files only
-merge conflicts message folders only */
-"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
-
-/* merge conflicts message */
-"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
-
-/* pattern window label */
-"%lu matching items" = "";
 
 "(incl. %d hidden)" = "(pliki ukryte %d )";
 
 "(newer)" = "(nowszy)";
 
 "(older)" = "(starszy)";
-
-/* unnamed filter predicate */
-"(untitled)" = "";
 
 "+pwd" = "+pwd";
 
@@ -51,14 +30,11 @@ merge conflicts message folders only */
 /* initial name of a new password */
 "<new password>" = "<nowe hasło>";
 
-"<new pattern>" = "<nowa wartość>";
+"<new filter>" = "<nowa wartość>";
 
 "<new preset>" = "<nowy profil>";
 
 "A volume is missing: %@." = "Brak woluminu: %@.";
-
-/* column header */
-"Action" = "";
 
 "Activate" = "Aktywuj";
 
@@ -87,9 +63,6 @@ merge conflicts message folders only */
 
 "After filtering, there are no files left to archive." = "Po filtracji, nie ma żadnych plików do zostawienia w archiwum.";
 
-/* No comment provided by engineer. */
-"All" = "";
-
 "All Queued Archive Operations Complete" = "Wszystkie operacje ukończone";
 
 "An error occurred" = "Wystąpił błąd";
@@ -109,10 +82,6 @@ merge conflicts message folders only */
 
 "An unknown error occurred." = "Wystąpił nieznany błąd.";
 
-"Another helper (%@) already uses tag %d." = "";
-
-"Apple Disk Image" = "";
-
 "Apply to all" = "Zastosuj do wszystkich";
 
 "Apply to all folders" = "Zastosuj do wszystkich folderów";
@@ -130,8 +99,6 @@ merge conflicts message folders only */
 
 "Archive Extraction Failed" = "Nie udało się wypakować archiwum";
 
-"Archive seems to be damaged" = "";
-
 "Archive Test Failed" = "Test archiwum zakończony niepowodzeniem";
 
 "Archive Test Successful" = "Test archiwum zakończony pomyślnie";
@@ -147,9 +114,6 @@ merge conflicts message folders only */
 "Archives" = "Archiwa";
 
 "Are you sure you want to overwrite the original archive?" = "Czy na pewno chcesz zastąpić oryginalne archiwum?";
-
-/* Info table key */
-"Attributes" = "";
 
 /* Info table key */
 "Author" = "Autor";
@@ -170,38 +134,24 @@ merge conflicts message folders only */
 "BetterZip Temporary Folder" = "Folder tymczasowy BetterZip";
 
 /* added in V 5.0 */
-"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip nie mógł uzyskać dostępu do %@. Możesz przyznać mu dostęp w Preferencjach systemowych.";
+"BetterZip was denied access to %@. You can grant it access in the System Settings." = "BetterZip nie mógł uzyskać dostępu do %@. Możesz przyznać mu dostęp w Preferencjach systemowych.";
 
-"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "";
-
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip usunie teraz %d pliki pasujące do szablonów skonfigurowanych w preferencjach.";
-
-"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip usunie teraz %d pliki pasujące do wzorców z archiwum.";
+"BetterZip will now remove %d files matching your filters from the archive." = "BetterZip usunie teraz %d pliki pasujące do wzorców z archiwum.";
 
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip usunie teraz %d pliki systemowe Mac z archiwum.";
 
 "BetterZip will now remove Mac specific files from the archive." = "BetterZip usunie teraz pliki systemowe Mac z archiwum.";
 
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip usunie teraz jeden plik pasujący do szablonu skonfigurowanego w preferencjach.";
-
-"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip usunie teraz jeden plik pasujący do wzoru z archiwum.";
+"BetterZip will now remove one file matching your filters from the archive." = "BetterZip usunie teraz jeden plik pasujący do wzoru z archiwum.";
 
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip usunie teraz jeden plik systemowy Mac z archiwum.";
 
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip będzie działał tylko na macOS 10.13 (High Sierra) lub nowszych wersjach.";
 
-/* No comment provided by engineer. */
-"Buy Now" = "";
-
-"BZip2-compressed image" = "";
-
 /* Import presets button
 button */
 "Cancel" = "Anuluj";
-
-/* Extraction error suppression */
-"Cancel extraction" = "";
 
 "Cancel Opening" = "Anuluj otwieranie";
 
@@ -211,10 +161,6 @@ button */
 "Cancel the operation" = "Anuluj operację";
 
 "cancelled" = "anulowano";
-
-"Cannot enumerate directory: %@" = "";
-
-"Cannot open file: %@" = "";
 
 "Caution" = "Uwaga";
 
@@ -240,9 +186,6 @@ button */
 
 "Clear" = "Wyczyść";
 
-/* No comment provided by engineer. */
-"Clear Logs" = "";
-
 "Close" = "Zamknij";
 
 "Columns" = "Kolumny";
@@ -261,58 +204,28 @@ button */
 /* Default title for dynamic preset services */
 "Compress with Preset %@" = "Kompresuj z profilem %@";
 
-/* Info table key */
-"Compressed" = "";
-
 "Compressed %@" = "Skompresowano %@";
 
 "Compressing %@" = "Kompresuję %@";
-
-"Compression:" = "";
-
-/* Hash helper */
-"Computing…" = "";
 
 "Continue" = "Kontyntynuj";
 
 /* Info table key */
 "Copyright" = "Prawa autorskie";
 
-"Corrupted" = "";
-
 "CPIO Format, uncompressed (cpio)" = "Format CPIO, bez kompresji (cpio)";
 
-/* Crash reporter */
-"CrashReport" = "";
-
 "Create a new folder in the selected place inside the archive." = "Utwórz nowy folder w wybranym miejscu wewnątrz archiwum.";
-
-/* Filter / pattern UI */
-"Create Filter" = "";
 
 "Create New Folder" = "Utwórz nowy folder";
 
 /* File infos in preview sidebar */
 "Date" = "Data";
 
-/* No comment provided by engineer. */
-"date" = "";
-
-/* relative date unit */
-"days" = "";
-
-/* No comment provided by engineer. */
-"Debug" = "";
-
 /* Option in the password encoding pop-up to use the default encoding */
 "Default encoding" = "Domyślne kodowanie";
 
-"Define the filter criteria:" = "";
-
 "Delete" = "Usuń";
-
-/* No comment provided by engineer. */
-"Delete %lu log files?" = "";
 
 /* menu item */
 "Delete Empty Folders" = "Usuń puste foldery";
@@ -330,10 +243,10 @@ button */
 "Delete the selected files or folders from the archive" = "Usuń wybrane pliki lub foldery z archiwum";
 
 /* menu item */
-"Delete with Pattern" = "Usuń wg. wzorca";
+"Delete with Filter" = "Usuń wg. filtra";
 
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "Usuń z szablonem";
+/* Tooltip for the delete with filter toolbar button */
+"Delete with filter" = "Usuń z filtrem";
 
 "Deleting items" = "Usuwam elementy";
 
@@ -346,11 +259,8 @@ button */
 /* Info table key */
 "Dimensions" = "Wymiary";
 
-/* column header */
-"Disk" = "";
-
 /* Welcome text, line 2 */
-"Dive into all available settings in the preferences window when you are ready." = "Zanurz się we wszystkich dostępnych ustawieniach w oknie preferencji, gdy będziesz gotowy.";
+"Dive into all available settings in the settings window when you are ready." = "Zanurz się we wszystkich dostępnych ustawieniach w oknie ustawień, gdy będziesz gotowy.";
 
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "Nie włączaj tej opcji, jeśli nie masz nawyku regularnego tworzenia kopii zapasowych swoich danych. BetterZip nie ostrzeże cię przed nadpisaniem plików, jeśli użyjesz profilu z włączonym przełącznikiem nadpisywania. Pliki mogą zostać utracone. Używasz na własne ryzyko.";
 
@@ -360,9 +270,6 @@ button */
 "Do you want to extract the %d archives that were found inside the selected folders?" = "Czy chcesz wypakować %d archiwa, które znaleziono wewnątrz wybranych folderów?";
 
 "Do you want to keep it that way or add metadata to your archive?" = "Czy chcesz zachować to w ten sposób lub dodać metadane do swojego archiwum?";
-
-/* Import presets alert message */
-"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "";
 
 "Do you want to save the changes back to the archive?" = "Czy chcesz zapisać zmiany z powrotem do archiwum?";
 
@@ -375,8 +282,6 @@ button */
 
 "Don't Save" = "Nie zapisuj";
 
-"Don't show again for this archive" = "";
-
 "Drag items here to compress or extract" = "Przeciągnij tutaj, aby skompresować lub wypakować";
 
 "Drop archives here to extract" = "Upuść archiwa tutaj, aby wypakować";
@@ -385,22 +290,10 @@ button */
 
 "Drop the archives here to open them" = "Upuść archiwa tutaj, aby je otworzyć";
 
-/* No comment provided by engineer. */
-"Drop the file here to add it to a new archive." = "";
-
 "Drop the files here to add them to a new archive" = "Upuść pliki tutaj, aby dodać je do nowego archiwum";
 
-/* No comment provided by engineer. */
-"Drop the files here to filter and add them to a new archive" = "";
-
-"Duplicate Tag" = "";
-
-"DVD/CD-R master for export" = "";
-
-"Edit Filter" = "";
-
 /* menu item */
-"Edit Patterns…" = "Edytuj wzory …";
+"Edit Filters…" = "Edytuj filtry…";
 
 /* menu item */
 "Edit Places…" = "Edytuj miejsca …";
@@ -411,19 +304,7 @@ button */
 /* Info table key */
 "Encryption" = "Szyfrowanie";
 
-/* save predicate alert message */
-"Enter a name for this predicate:" = "";
-
 "Error" = "Błąd";
-
-/* No comment provided by engineer. */
-"ext" = "";
-
-/* Preferences tab title */
-"Extensions" = "";
-
-/* No comment provided by engineer. */
-"External command returned: %d\n" = "";
 
 "External command returned: %d%c" = "Polecenie zewnętrzne zwrócone: %d%c";
 
@@ -479,13 +360,7 @@ button */
 
 "Failed (Wrong size)" = "Błąd (niewłaściwy rozmiar)";
 
-/* No comment provided by engineer. */
-"Failed (wrong size)" = "";
-
 "Fast, but larger archives" = "Szybka, ale większe archiwum";
-
-/* singular */
-"file" = "";
 
 "File in archive:" = "Plik w archiwum:";
 
@@ -499,31 +374,10 @@ button */
 /* Preferences tab title */
 "Files" = "Pliki";
 
-/* plural */
-"files" = "";
-
-/* popup label */
-"Files:" = "";
-
-/* name field placeholder */
-"Filter name" = "";
-
-/* Preferences window - name of the tab to manage filter patterns */
+/* Preferences tab title */
 "Filtering" = "Filtracja";
 
 "Finishing…" = "Kończe…";
-
-/* singular */
-"folder" = "";
-
-/* plural */
-"folders" = "";
-
-/* popup label */
-"Folders:" = "";
-
-/* Info table key */
-"Format" = "";
 
 /* Preferences tab title */
 "General" = "Ogólne";
@@ -537,15 +391,7 @@ button */
 /* Info table key */
 "Hidden" = "Ukryty";
 
-/* disclosure label */
-"Hide Details" = "";
-
 "Hide Favorites" = "Ukryj ulubione";
-
-"Hide password" = "";
-
-/* View menu */
-"Hide Path Bar" = "";
 
 "Hide Preview" = "Ukryj podgląd";
 
@@ -554,35 +400,15 @@ button */
 
 "Hold cmd ⌘ to add them to a new archive" = "Przytrzymaj cmd ⌘, aby dodać je do nowego archiwum";
 
-/* No comment provided by engineer. */
-"Hold option ⌥ to apply a filter first" = "";
-
 "Ignore" = "Ignoruj";
-
-"Ignore all remaining errors" = "";
 
 "Ignore and go on" = "Ignoruj i idź dalej";
 
 "Ignore Changes" = "Ignoruj zmiany";
 
-"Ignore errors" = "";
-
 "Ignore This Time" = "Ignoruj tym czasem";
 
-/* No comment provided by engineer. */
-"Install Command-Line Tool…" = "";
-
-/* Error messages when saving Helpers configuration JSON */
-"Invalid Install Path" = "";
-
-"Invalid JSON" = "";
-
-"Invalid Tag" = "";
-
 "It is either damaged or in an unsupported format." = "To jest uszkodzone albo w nieobsługiwanym formacie.";
-
-/* Info table key */
-"Items" = "";
 
 /* conflict action */
 "Keep Both" = "Zatrzymaj oba";
@@ -595,8 +421,6 @@ button */
 /* Info table key */
 "Kind" = "Rodzaj";
 
-"Known file types" = "";
-
 /* PreferenceController */
 "Last checked: " = "Ostatnie sprawdzenie: ";
 
@@ -605,72 +429,22 @@ button */
 /* helpers */
 "Last modified: %@%cSize: %@" = "Ostatnia modyfikacja: %@%cRozmiar: %@";
 
-"Let me add a filter" = "";
-
-/* No comment provided by engineer. */
-"Load or save a preset" = "";
-
-/* tasks button tooltip */
-"Load or save predicates" = "";
-
 "Loading archive: %@" = "Ładuję archiwum: %@";
 
 "Lock Password Manager" = "Zablokuj menadżera haseł";
 
-"LZMA compressed (macOS 10.15+)" = "";
-
-"macOS default (AES-128)" = "";
-
 "macOS returned this error:" = "macOS pokazał ten błąd:";
-
-/* menu item */
-"Manage Filters…" = "";
 
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "Być może, nie ma wystarczającej ilości miejsca na dysku docelowym. Lub hasło jest nieprawidłowe.";
 
-/* conflict action */
-"Merge" = "";
-
-/* merge conflicts window title */
-"Merge Conflicts" = "";
-
 "Merge Folders" = "Łączenie folderów";
-
-/* Info table key */
-"Method" = "";
-
-/* Multi-volume RAR */
-"Missing Volumes" = "";
-
-/* Info table key */
-"Missing volumes" = "";
 
 /* possible file status strings */
 "Modified" = "Zmodyfikowano";
 
-/* Info table key */
-"Modified at" = "";
-
-/* relative date unit */
-"months" = "";
-
-"Move Archive" = "";
-
-/* Show file panel to ask for destination when moving archive/originals after operations */
-"Move archive here" = "";
-
 "Move Items" = "Przenieś rzeczy";
 
-"Move Originals" = "";
-
-"Move originals here" = "";
-
-/* No comment provided by engineer. */
-"Move to Trash" = "";
-
 "Moved" = "Przeniesiono";
-
-"Multi-volume" = "";
 
 "Multiple Copies Installed" = "Zainstalowano wiele kopii";
 
@@ -678,24 +452,11 @@ button */
 
 "N/A" = "N/A";
 
-/* column header */
-"Name" = "";
-
-/* No comment provided by engineer. */
-"name" = "";
-
-/* name label */
-"Name:" = "";
-
 "Never" = "Nigdy";
 
 "never" = "nigdy";
 
 "New Folder" = "Nowy folder";
-
-"New Preset" = "";
-
-"New Preset (%@)" = "";
 
 "Next to archive" = "Obok archiwum";
 
@@ -709,14 +470,7 @@ button */
 
 "no errors" = "nie ma błędów";
 
-/* No comment provided by engineer. */
-"No errors found" = "";
-
 "No files selected" = "Nie wybrano plików";
-
-/* no filter predicate
-no rename */
-"None" = "";
 
 "Normal" = "Normalna";
 
@@ -724,12 +478,6 @@ no rename */
 
 /* button */
 "OK" = "OK";
-
-/* No comment provided by engineer. */
-"Older than a month" = "";
-
-/* No comment provided by engineer. */
-"Older than a week" = "";
 
 /* Descriptive title of the password editor window */
 "One password per line:" = "Jedno hasło na linię:";
@@ -741,18 +489,11 @@ no rename */
 
 "Open Anyway" = "Mimo to otwórz";
 
-"Open System Preferences" = "Otwórz Preferencje systemowe";
-
-"Open With" = "";
+"Open System Settings" = "Otwórz Preferencje systemowe";
 
 "Opening archive failed" = "Otwarcie archiwum nie powiodło się";
 
 "Opening archive with %d items" = "Otwieram archiwum z %d rzeczami";
-
-"Operation time: %.1lf s" = "";
-
-/* Operations queue */
-"Operations Completed" = "";
 
 /* menu item */
 "Other Folder…" = "Inny folder…";
@@ -765,9 +506,6 @@ no rename */
 /* Info table key */
 "Pages" = "Strony";
 
-/* No comment provided by engineer. */
-"Panel Settings" = "";
-
 /* Preferences tab title */
 "Passwords" = "Hasła";
 
@@ -779,14 +517,7 @@ no rename */
 /* Preferences tab title */
 "Places" = "Miejsca";
 
-"Please confirm" = "";
-
-"Please download a fresh copy from our website." = "";
-
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Proszę wybrać prawidłową ścieżkę dostępu w preferencjach > Dodatki, lub wybierz inny format archiwum.";
-
-/* placeholder */
-"Predicate name" = "";
+"Please set the correct path in Settings > Helpers or choose a different format for saving." = "Proszę wybrać prawidłową ścieżkę dostępu w Ustawieniach > Dodatki, lub wybierz inny format archiwum.";
 
 /* Preferences tab title */
 "Presets" = "Profile";
@@ -794,8 +525,6 @@ no rename */
 "Queued for compression" = "Przygotowanie do kompresowania";
 
 "Queued for extraction" = "Przygotowanie do wypakowania";
-
-"Queued for testing" = "";
 
 /* Button title */
 "Quit" = "Wyjdź";
@@ -806,23 +535,11 @@ no rename */
 
 "RAR Format" = "Format RAR";
 
-/* Info table key */
-"Ratio" = "";
-
-"Read-only image" = "";
-
-/* DMG Options */
-"Read/write image" = "";
-
-"Reconstruct" = "";
-
 "Regular Expression" = "Wyrażenie regularne";
 
 "Reload Drop Bar" = "Załaduj ponownie Drop Bar";
 
 "Remove" = "Usuń";
-
-"Remove files matching the patterns configured in the preferences window from the archive." = "Usuń pliki pasujące do szablonów skonfigurowanych w preferencjach.";
 
 "Rename Item" = "Zmień nazwę rzeczy";
 
@@ -832,54 +549,17 @@ no rename */
 conflict action */
 "Replace" = "Zastąp";
 
-/* rename mode */
-"Replace _ and . with space" = "";
-
-/* rename mode */
-"Replace _ with space" = "";
-
-/* Import presets alert title */
-"Replace or Add?" = "";
-
-/* rename mode */
-"Replace space with _" = "";
-
-"Reset" = "";
-
-/* Advanced prefs – reset learned progress weights */
-"Reset Learned Progress Weights?" = "";
-
-"Reset Password Manager" = "";
-
 "Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "Zresetowanie menedżera haseł spowoduje usunięcie wszystkich haseł i hasła głównego. Działania nie można cofnąć.";
-
-"Reveal" = "";
 
 "Reveal in Finder" = "Pokaż w Finderze";
 
 "Running script" = "Uruchamiam skrypt";
 
-"Running shortcut" = "";
-
-"Running shortcut %@" = "";
-
-/* Progress messages */
-"Running user script %@" = "";
-
-/* rename mode */
-"Sanitize filenames for Windows" = "";
-
 "Save" = "Zapisz";
 
 "Save As…" = "Zapisz jako…";
 
-/* save predicate alert title */
-"Save Predicate" = "";
-
 "Save the archive" = "Zapisz archiwum";
-
-/* menu item in sharing menu */
-"Save the archive before sharing" = "";
 
 "Save the archive with another name." = "Zapisz archiwum pod inną nazwą.";
 
@@ -891,8 +571,6 @@ conflict action */
 
 "Saving archive: %@ of %@" = "Zapisuję archiwum: %@ z %@";
 
-"Scripts" = "";
-
 "Search" = "Znajdź";
 
 "Search the archive file" = "Przeszukaj plik archiwum";
@@ -902,26 +580,7 @@ conflict action */
 /* possible button labels for setting and clearing passwords in the save presets configuration */
 "Set" = "Ustaw";
 
-"Set Master Password…" = "";
-
-"Shortcuts" = "";
-
-/* No comment provided by engineer. */
-"Show Archive in Finder" = "";
-
-/* disclosure label */
-"Show Details" = "";
-
 "Show Favorites" = "Pokaż ulubione";
-
-/* No comment provided by engineer. */
-"Show in Finder" = "";
-
-/* Password */
-"Show password" = "";
-
-/* View menu */
-"Show Path Bar" = "";
 
 "Show Preview" = "Pokaż podgląd";
 
@@ -933,15 +592,7 @@ conflict action */
 /* Info table key */
 "Size" = "Rozmiar";
 
-/* conflict action */
-"Skip" = "";
-
-/* Info table key */
-"Solid" = "";
-
 "Sorry!" = "Przepraszam!";
-
-"Sort By" = "";
 
 "Stop" = "Zakończ";
 
@@ -954,10 +605,6 @@ conflict action */
 /* The system default app should handle this file type. */
 "System Default" = "Domyślne ustawienie systemowe";
 
-"Tags for user-defined formats must be 1000 or greater." = "";
-
-"TAR Format, Brotli compressed (tbr)" = "";
-
 "TAR Format, BZip2 compressed (tbz)" = "Format TAR, kompresja BZip2 (tbz)";
 
 "TAR Format, GZip compressed (tgz)" = "Format TAR, kompresja GZip (tgz)";
@@ -966,16 +613,7 @@ conflict action */
 
 "TAR Format, xz compressed (txz)" = "Format TAR, kompresja xz (txz)";
 
-/* New formats */
-"TAR Format, Z compressed (tz)" = "";
-
-"TAR Format, Zstandard compressed (tzst)" = "";
-
-"tar options,compressor options" = "";
-
 "Test" = "Testuj";
-
-"Test Archive" = "";
 
 "Test the archive" = "Testuj archiwum";
 
@@ -988,11 +626,6 @@ conflict action */
 /* Output while testing archives */
 "Testing: %@…" = "Testuję: %@…";
 
-"Thanks for helping us improve %@" = "";
-
-/* Application integrity */
-"The application is damaged." = "";
-
 "The archive cannot be created." = "Archiwum nie może być utworzone.";
 
 "The archive could not be extracted completely. It may be damaged." = "Archiwum nie może być całkowicie wypakowane. Być może jest uszkodzone.";
@@ -1002,8 +635,6 @@ conflict action */
 "The archive could not be extracted." = "Archiwum nie może być wypakowane.";
 
 "The archive disappeared" = "Archiwum zniknęło";
-
-"The archive extraction encountered errors." = "";
 
 "The archive extraction failed." = "Wypakowanie archiwum nie powiodło się.";
 
@@ -1024,27 +655,9 @@ conflict action */
 
 "The file %@ has been modified." = "Plik %@ został zmodyfikowany.";
 
-"The file at '%@' does not exist." = "";
-
-/* No comment provided by engineer. */
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "";
-
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "";
-
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "";
-
-"The helper tool %@ could not be found or is not executable." = "";
-
-"The JSON must be a dictionary (top-level object)." = "";
-
 "The last error macOS reported was:" = "Ostatni błąd zgłoszony przez macOS:";
 
-/* No comment provided by engineer. */
-"The log files will be moved to the Trash." = "";
-
 "The password may be incorrect." = "Hasło może być nieprawidłowe.";
-
-"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "";
 
 "The rar helper could not be found." = "Nie można odnaleźć programu WinRAR.";
 
@@ -1058,56 +671,24 @@ conflict action */
 
 "This archive doesn't contain any Mac specific files yet" = "To archiwum nie zawiera jeszcze żadnych specyficznych plików Mac";
 
-/* Import presets wrong type alert message */
-"This file contains extract presets, but you are importing into save presets." = "";
-
-/* Import presets wrong type alert message */
-"This file contains save presets, but you are importing into extract presets." = "";
-
-/* No comment provided by engineer. */
-"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "";
-
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "Błędne hasło.";
 
-"This name is invalid." = "";
-
 "This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
-
-/* No comment provided by engineer. */
-"time" = "";
-
-/* Info table key */
-"Title" = "";
 
 "To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "Aby zignorować wybrane foldery i wypakować tylko wybrane archiwa kliknij “Wypakuj tylko wybrane”.";
 
 /* Today title string */
 "Today" = "Dziś";
 
-/* No comment provided by engineer. */
-"Toggle Preview" = "";
-
-/* No comment provided by engineer. */
-"Toggle Sidebar" = "";
-
 /* menu item */
 "Trash" = "Kosz";
 
-/* No comment provided by engineer. */
-"Uninstall Command-Line Tool" = "";
-
 "Unknown" = "Nieznany";
-
-"Unknown file types" = "";
 
 "Unlock Password Manager…" = "Odblokuj menadżera haseł…";
 
-"Unlock the password manager to set a preset password." = "";
-
 "Unpacking failed" = "Rozpakowanie nie powiodło się";
-
-"Untitled Archive" = "";
 
 "untitled folder" = "folder bez nazwy";
 
@@ -1115,8 +696,6 @@ conflict action */
 "Update" = "Aktualizacja";
 
 "Update File" = "Aktualizacja pliku";
-
-"Update Items" = "";
 
 "Updated" = "Zaktualizowano";
 
@@ -1127,23 +706,15 @@ conflict action */
 
 "Use RAR" = "Użyj RAR";
 
-"Use this filter to select which files and folders to add:" = "";
-
 "Use this password for the new archive" = "Użyj tego hasła dla nowego archiwum";
 
-"Use this pattern to delete files and folders from the archive:" = "Użyj tego szablonu, aby usunąć pliki i foldery z archiwum:";
+"Use this filter to delete files and folders from the archive:" = "Użyj tego szablonu, aby usunąć pliki i foldery z archiwum:";
 
-"Use this pattern to specify which files and folders to add to the archive:" = "Użyj tego szablonu, aby określić, które pliki i foldery dodać do archiwum:";
+"Use this filter to select which files and folders to add:" = "Użyj tego szablonu, aby określić, które pliki i foldery dodać do archiwum:";
 
 "Use this preset as default in the toolbar" = "Użyj te ustawienia jako domyślne w pasku narzędzi";
 
 "Use this preset as service" = "Użyj tych ustawień jako usługi";
-
-/* No comment provided by engineer. */
-"user" = "";
-
-/* No comment provided by engineer. */
-"User confirmation for \"%@\" answered with %@" = "";
 
 /* Info table key */
 "Version" = "Wersja";
@@ -1152,31 +723,17 @@ conflict action */
 
 "View the selected file" = "Podejrzyj wybrany plik";
 
-/* Logging volume changes during extraction and testing of multi-volume rar archives */
-"Volume: %@" = "";
-
-/* Info table key */
-"Volumes" = "";
-
 "Warning" = "Ostrzeżenie";
 
 "Warning: Saving cannot be undone" = "Ostrzeżenie: Zapisywanie nie może być cofnięte";
 
 "Weak (PKZip2 compatible)" = "Słaba (kompatybilna PKZip2)";
 
-/* relative date unit */
-"weeks" = "";
-
 "When in Direct Mode, all archive operations are immediate and cannot be undone." = "Podczas pracy w trybie bezpośrednim, wszystkie operacje nad archiwami są natychmiastowe i nie można cofnąć.";
 
 "with errors" = "z błędami";
 
-"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "Czy chcesz %@ sprawdzać aktualizacje podczas startu? Możesz zainicjować sprawdzanie ręcznie z okna preferencji.";
-
 "Wrong checksum" = "Zła suma kontrolna";
-
-/* Import presets wrong type alert title */
-"Wrong Preset Type" = "";
 
 "XAR Format" = "Format XAR";
 
@@ -1199,8 +756,222 @@ conflict action */
 /* ZipDocument */
 "Zip Format (recommended)" = "Format Zip (zalecany)";
 
-"Zlib compressed" = "";
-
-"Zlib compressed (level 9)" = "";
-
 "⚠️ (older)" = "⚠️ (starszy)";
+
+/* date predicate operators (PatternWindowController) @new-6.0b4 */
+"before" = "jest przed";
+"after" = "jest po";
+"is in the last" = "jest w ostatnich";
+"is not in the last" = "nie jest w ostatnich";
+
+/* AppController – btrzp:// guarded action confirmation (M1) */
+"Allow this action?" = "Zezwolić na tę operację?";
+"An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself." = "Aplikacja lub strona internetowa prosi program BetterZip o wypakowanie tych elementów do „%@”:\n\n%@\n\nKontynuuj tylko wtedy, gdy samodzielnie rozpocząłeś tę operację.";
+"An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself." = "Aplikacja lub strona internetowa prosi program BetterZip o wypakowanie tych elementów:\n\n%@\n\nKontynuuj tylko wtedy, gdy samodzielnie rozpocząłeś tę operację.";
+"An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself." = "Aplikacja lub strona internetowa prosi program BetterZip o spakowanie tych elementów:\n\n%@\n\nKontynuuj tylko wtedy, gdy samodzielnie rozpocząłeś tę operację.";
+"An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself." = "Aplikacja lub strona internetowa prosi program BetterZip o przetestowanie tych elementów:\n\n%@\n\nKontynuuj tylko wtedy, gdy samodzielnie rozpocząłeś tę operację.";
+"An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself." = "Aplikacja lub strona internetowa prosi program BetterZip o otwarcie tych elementów:\n\n%@\n\nKontynuuj tylko wtedy, gdy samodzielnie rozpocząłeś tę operację.";
+
+/* @new-6.0b5 – save-panel / preset format names (Formats/*.json "name"); shown via MIBLocalizedFormatName */
+"7-Zip Format" = "Format 7-Zip";
+"ARJ Archive" = "Archiwum ARJ";
+"BinHex Archive" = "Archiwum BinHex";
+"CAB Archive" = "Archiwum CAB";
+"Chromium Extra" = "Chromium Extra";
+"Compiled HTML Archive" = "Skompilowane archiwum HTML";
+"Debian Linux Package" = "Pakiet Debian Linux";
+"ISO Image" = "Obraz ISO";
+"LHA Archive" = "Archiwum LHA";
+"Microsoft E-mail Attachment" = "Załącznik e-mail Microsoft";
+"NSIS Archive" = "Archiwum NSIS";
+"PDF Document" = "Dokument PDF";
+"RPM Linux Archive" = "Archiwum RPM Linux";
+"SWF Flash Archive" = "Archiwum Flash SWF";
+"Split File" = "Plik podzielony";
+"Stuffit Archive" = "Archiwum Stuffit";
+"WIM Archive" = "Archiwum WIM";
+"Apple Disk Image" = "Obraz dysku Apple";
+"TAR Format, Brotli compressed (tbr)" = "Format TAR, kompresja Brotli (tbr)";
+"TAR Format, Z compressed (tz)" = "Format TAR, kompresja Z (tz)";
+"TAR Format, Zstandard compressed (tzst)" = "Format TAR, kompresja Zstandard (tzst)";
+
+/* @new-6.0b5 – BetterTouchTool launcher plugin install (AppController) */
+"The BetterTouchTool plugin could not be found." = "Nie można znaleźć wtyczki BetterTouchTool.";
+"The plugin file is missing from this copy of BetterZip." = "Brak pliku wtyczki w tej kopii programu BetterZip.";
+"BetterTouchTool isn’t installed." = "BetterTouchTool nie jest zainstalowany.";
+"Install BetterTouchTool first, then try again." = "Najpierw zainstaluj BetterTouchTool, a następnie spróbuj ponownie.";
+"The BetterTouchTool plugin could not be installed." = "Nie można zainstalować wtyczki BetterTouchTool.";
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
+"(untitled)" = "(bez tytułu)";
+"%@ could not be extracted. Error code: %ld" = "Nie udało się wypakować %@. Kod błędu: %ld";
+"%@ was unable to send the crashlog." = "%@ nie mógł wysłać dziennika awarii.";
+"%d Items" = "%d elementów";
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "%ld %@ już istnieją w miejscu docelowym.\nWybierz sposób rozwiązania konfliktów:";
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "%ld %@ i %ld %@ już istnieją w miejscu docelowym.\nWybierz sposób rozwiązania konfliktów:";
+"%lu matching items" = "%lu pasujących elementów";
+"Action" = "Akcja";
+"Another helper (%@) already uses tag %d." = "Inne narzędzie (%@) używa już tagu %d.";
+"Archive seems to be damaged" = "Archiwum wydaje się uszkodzone";
+"Attributes" = "Atrybuty";
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip odrzuci próbki czasu zebrane dla operacji kompresji, wypakowywania i podobnych na tym Macu. Dokładność paska postępu i szacowanego czasu chwilowo się zmniejszy, dopóki nie zostaną zebrane nowe próbki.";
+"Buy Now" = "Kup teraz";
+"BZip2-compressed image" = "Obraz skompresowany BZip2";
+"Cancel extraction" = "Anuluj wypakowywanie";
+"Cannot enumerate directory: %@" = "Nie można wyświetlić katalogu: %@";
+"Cannot open file: %@" = "Nie można otworzyć pliku: %@";
+"Compressed" = "Skompresowane";
+"Compression:" = "Kompresja:";
+"Computing…" = "Obliczanie…";
+"Corrupted" = "Uszkodzone";
+"CrashReport" = "CrashReport";
+"Create Filter" = "Utwórz filtr";
+"days" = "dni";
+"Debug" = "Debug";
+"Define the filter criteria:" = "Określ kryteria filtra:";
+"Delete %lu log files?" = "Usunąć %lu plików dziennika?";
+"Disk" = "Disk";
+"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "Czy chcesz zastąpić wszystkie istniejące profile zaimportowanymi, czy dodać zaimportowane profile do istniejącej listy?";
+"Don't show again for this archive" = "Nie pokazuj ponownie dla tego archiwum";
+"Drop the file here to add it to a new archive." = "Upuść plik tutaj, aby dodać go do nowego archiwum.";
+"Drop the files here to filter and add them to a new archive" = "Upuść pliki tutaj, aby je przefiltrować i dodać do nowego archiwum";
+"Duplicate Tag" = "Zduplikowany tag";
+"DVD/CD-R master for export" = "Master DVD/CD-R do eksportu";
+"Edit Filter" = "Edytuj filtr";
+"Enter a name for this predicate:" = "Wprowadź nazwę tego predykatu:";
+"Extensions" = "Rozszerzenia";
+"External command returned: %d\n" = "Polecenie zewnętrzne zwróciło: %d\n";
+"Failed (wrong size)" = "Niepowodzenie (zły rozmiar)";
+"file" = "plik";
+"files" = "pliki";
+"Files:" = "Pliki:";
+"Filter name" = "Nazwa filtra";
+"folder" = "folder";
+"folders" = "foldery";
+"Folders:" = "Foldery:";
+"Format" = "Format";
+"Hide Details" = "Ukryj szczegóły";
+"Hide password" = "Ukryj hasło";
+"Hide Path Bar" = "Ukryj pasek ścieżki";
+"Hold option ⌥ to apply a filter first" = "Przytrzymaj Option ⌥, aby najpierw zastosować filtr";
+"Ignore errors" = "Ignoruj błędy";
+"Install Command-Line Tool…" = "Zainstaluj narzędzie wiersza poleceń…";
+"Invalid Install Path" = "Nieprawidłowa ścieżka instalacji";
+"Invalid JSON" = "Nieprawidłowy JSON";
+"Invalid Tag" = "Nieprawidłowy tag";
+"Items" = "Elementy";
+"Known file types" = "Znane typy plików";
+"Let me add a filter" = "Dodaj filtr";
+"Load or save a preset" = "Wczytaj lub zapisz profil";
+"Load or save predicates" = "Wczytaj lub zapisz predykaty";
+"LZMA compressed (macOS 10.15+)" = "Skompresowane LZMA (macOS 10.15+)";
+"macOS default (AES-128)" = "Domyślne macOS (AES-128)";
+"Manage Filters…" = "Zarządzaj filtrami…";
+"Merge" = "Scal";
+"Merge Conflicts" = "Konflikty scalania";
+"Method" = "Metoda";
+"Missing volumes" = "Brakujące woluminy";
+"Missing Volumes" = "Brakujący wolumin";
+"Modified at" = "Data modyfikacji";
+"months" = "miesiące";
+"Move Archive" = "Przenieś";
+"Move archive here" = "Przenieś tu archiwum";
+"Move Originals" = "Przenieś";
+"Move originals here" = "Przenieś tu oryginały";
+"Move to Trash" = "Przenieś do Kosza";
+"Multi-volume" = "Wielowoluminowe";
+"Name" = "Nazwa";
+"Name:" = "Nazwa:";
+"New Preset" = "Nowy profil";
+"New Preset (%@)" = "Nowy profil (%@)";
+"No errors found" = "Nie znaleziono błędów";
+"None" = "Brak";
+"Open With" = "Otwórz za pomocą";
+"Operation time: %.1lf s" = "Czas operacji: %.1lf s";
+"Operations Completed" = "Operacje zakończone";
+"Please confirm" = "Potwierdź";
+"Please download a fresh copy from our website." = "Pobierz nową kopię z naszej witryny.";
+"Predicate name" = "Nazwa predykatu";
+"Queued for testing" = "W kolejce do testowania";
+"Ratio" = "Współczynnik";
+"Read-only image" = "Obraz tylko do odczytu";
+"Read/write image" = "Obraz do odczytu i zapisu";
+"Reconstruct" = "Zrekonstruuj";
+"Replace _ and . with space" = "Zamień _ i . na spację";
+"Replace _ with space" = "Zamień _ na spację";
+"Replace or Add?" = "Zastąpić czy dodać?";
+"Replace space with _" = "Zamień spację na _";
+"Reset" = "Zresetuj";
+"Reset Learned Progress Weights?" = "Zresetować wyuczone wagi postępu?";
+"Reset Password Manager" = "Zresetuj menedżer haseł";
+"Reveal" = "Pokaż";
+"Running shortcut" = "Uruchamianie skrótu";
+"Running shortcut %@" = "Uruchamianie skrótu %@";
+"Running user script %@" = "Uruchamianie skryptu użytkownika %@";
+"Sanitize filenames for Windows" = "Oczyść nazwy plików dla Windows";
+"Save Predicate" = "Zapisz predykat";
+"Save the archive before sharing" = "Zapisz archiwum przed udostępnieniem";
+"Scripts" = "Skrypty";
+"Set Master Password…" = "Ustaw hasło główne…";
+"Shortcuts" = "Skróty";
+"Show Archive in Finder" = "Pokaż archiwum w Finderze";
+"Show Details" = "Pokaż szczegóły";
+"Show in Finder" = "Pokaż w Finderze";
+"Show password" = "Pokaż hasło";
+"Show Path Bar" = "Pokaż pasek ścieżki";
+"Skip" = "Pomiń";
+"Solid" = "Lity";
+"Sort By" = "Sortuj według";
+"Tags for user-defined formats must be 1000 or greater." = "Tagi dla formatów zdefiniowanych przez użytkownika muszą wynosić 1000 lub więcej.";
+"tar options,compressor options" = "Opcje TAR,Opcje kompresora";
+"Test Archive" = "Testuj archiwum";
+"Thanks for helping us improve %@" = "Dziękujemy za pomoc w ulepszaniu %@";
+"The application is damaged." = "Aplikacja jest uszkodzona.";
+"The archive extraction encountered errors." = "Podczas wypakowywania archiwum wystąpiły błędy.";
+"The file at '%@' does not exist." = "Plik w lokalizacji '%@' nie istnieje.";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "Brakuje pierwszego woluminu „%@”. Znaleziono woluminy odzyskiwania (.rev). Czy chcesz zrekonstruować brakujące woluminy?";
+"The helper tool %@ could not be found or is not executable." = "Nie znaleziono narzędzia %@ lub nie jest ono wykonywalne.";
+"The JSON must be a dictionary (top-level object)." = "JSON musi być słownikiem (obiektem najwyższego poziomu).";
+"The log files will be moved to the Trash." = "Pliki dziennika zostaną przeniesione do Kosza.";
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "Wypakowanie tego archiwum rar może wymagać dużej ilości pamięci (%@).\nCzy chcesz kontynuować?";
+"This file contains extract presets, but you are importing into save presets." = "Ten plik zawiera profile wypakowywania, ale importujesz do profili zapisywania.";
+"This file contains save presets, but you are importing into extract presets." = "Ten plik zawiera profile zapisywania, ale importujesz do profili wypakowywania.";
+"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "To archiwum znajduje się na czarnej liście. Przytrzymaj Option ⌥, aby je otworzyć i zobaczyć zawartość.";
+"This name is invalid." = "Ta nazwa jest nieprawidłowa.";
+"Title" = "Tytuł";
+"Toggle Preview" = "Przełącz podgląd";
+"Toggle Sidebar" = "Przełącz pasek boczny";
+"Uninstall Command-Line Tool" = "Odinstaluj narzędzie wiersza poleceń";
+"Unknown file types" = "Nieznane typy plików";
+"Unlock the password manager to set a preset password." = "Odblokuj menedżer haseł, aby ustawić hasło profilu.";
+"Untitled Archive" = "Archiwum bez tytułu";
+"Update Items" = "Zaktualizuj elementy";
+"Volume: %@" = "Wolumin: %@";
+"Volumes" = "Woluminy";
+"weeks" = "tygodnie";
+"Wrong Preset Type" = "Nieprawidłowy typ profilu";
+"Zlib compressed" = "Skompresowane Zlib";
+"Zlib compressed (level 9)" = "Skompresowane Zlib (poziom 9)";
+"All" = "Wszystko";
+"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "Zanim ustawisz hasła w profilach, skonfiguruj menedżer haseł i wybierz hasło główne. ";
+"Clear Logs" = "Wyczyść dzienniki";
+"Older than a month" = "Starsze niż miesiąc";
+"Older than a week" = "Starsze niż tydzień";
+"relativeDateUnit.days" = "dni";
+"relativeDateUnit.weeks" = "tygodni";
+"relativeDateUnit.months" = "miesięcy";
+"date" = "data";
+"ext" = "ext";
+"Ignore all remaining errors" = "Ignoruj wszystkie pozostałe błędy";
+"name" = "nazwa";
+"Panel Settings" = "Ustawienia panelu";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "Brakuje pierwszego woluminu „%@”. Znaleziono woluminy odzyskiwania (.rev), ale do zrekonstruowania brakujących woluminów wymagane jest narzędzie wiersza poleceń rar. Skonfiguruj ścieżkę do rar w BetterZip > Ustawienia > Narzędzia.";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "Brakuje pierwszego woluminu „%@”. Znaleziono woluminy odzyskiwania (.rev), ale do zrekonstruowania brakujących woluminów wymagane jest narzędzie wiersza poleceń rar. Skonfiguruj ścieżkę do rar w Preferencje › Aplikacje pomocnicze.";
+"time" = "czas";
+"user" = "użytkownik";
+"User confirmation for \"%@\" answered with %@" = "Potwierdzenie użytkownika dla \"%@\" odpowiedziano: %@";
+
+/* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
+"Show or hide the sidebar" = "Pokaż lub ukryj pasek boczny";
+"Show or hide the preview" = "Pokaż lub ukryj podgląd";

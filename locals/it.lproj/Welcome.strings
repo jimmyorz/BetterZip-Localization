@@ -25,9 +25,6 @@
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "Avanti";
 
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "_placeholder";
-
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "Controlla regolarmente gli aggiornamenti";
 
@@ -42,3 +39,6 @@
 
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
 "tI2-Pg-two.label" = "Opzioni";
+
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "Installa il plugin Launcher di BetterTouchTool";

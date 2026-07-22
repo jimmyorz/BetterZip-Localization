@@ -245,11 +245,11 @@
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Back";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Delete with Pattern";
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
+"QZx-8c-obf.title" = "Delete with Filter";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "Preferences…";
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
+"RyC-7H-3JR.title" = "Settings…";
 
 /* Class = "NSMenuItem"; title = "Direct Mode"; ObjectID = "T8l-7y-XsC"; */
 "T8l-7y-XsC.title" = "Direct Mode";

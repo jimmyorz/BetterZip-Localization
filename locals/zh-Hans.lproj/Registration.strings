@@ -44,10 +44,8 @@
 /* Params: date */
 "Registration: %@" = "注册信息：个用于%@";
 
-"Registration: %@ u2013 %d licenses" = "";
-
 /* Parameters: date, license count */
-"Registration: %@ – %d licenses" = "注册： %1$* = %2$d 许可证";
+"Registration: %@ – %d licenses" = "注册：%1$@ – %2$d 个许可证";
 
 "Registration…" = "注册…";
 
@@ -76,3 +74,6 @@
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "您的试用期已经结束。虽然 BetterZip 会继续工作数天，但是如果您想要继续使用，您得注册！请点按下方的“在线购买”按钮，仅需几分钟您就可以收到许可密钥。";
 
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "您的试用期已经结束。 您还可以查看压缩文件，但是存储功能已经被禁用。如果您想继续使用 BetterZip，请您注册！点按下方的“在线购买”按钮，仅需几分钟您就可以得到您的许可密钥。";
+
+/* @new-6.0b4 – string that was missing from zh-Hans */
+"Registration: %@ \u2013 %d licenses" = "注册：%@ \u2013 %d 个许可证";

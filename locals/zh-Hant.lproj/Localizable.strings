@@ -24,10 +24,10 @@ initial name of a duplicated save preset, %@ being the original name */
 
 /* merge conflicts message files only
 merge conflicts message folders only */
-"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@。\\n請選擇衝突的處理方式：";
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@。\n請選擇衝突的處理方式：";
 
 /* merge conflicts message */
-"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@ 和 %ld 個 %@。\\n請選擇衝突的處理方式：";
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@ 和 %ld 個 %@。\n請選擇衝突的處理方式：";
 
 /* pattern window label */
 "%lu matching items" = "%lu 個符合的項目";
@@ -48,10 +48,10 @@ merge conflicts message folders only */
 /* displayed in the file types table for user defined extensions */
 "<Click to add your own>" = "<按一下以加入自訂項目>";
 
+"<new filter>" = "";
+
 /* initial name of a new password */
 "<new password>" = "<新增密碼>";
-
-"<new pattern>" = "<新增規則>";
 
 "<new preset>" = "<新增預設組合>";
 
@@ -82,8 +82,14 @@ merge conflicts message folders only */
 /* added in BetterZip 3 */
 "Adding files to archive %@" = "正在將檔案加入壓縮檔 %@";
 
+/* No comment provided by engineer. */
+"Additional Parameters" = "";
+
 /* Preferences tab title */
 "Advanced" = "高階";
+
+/* date predicate operator */
+"after" = "";
 
 "After filtering, there are no files left to archive." = "過濾後，沒有任何檔案可加入壓縮檔。";
 
@@ -91,6 +97,24 @@ merge conflicts message folders only */
 "All" = "全部";
 
 "All Queued Archive Operations Complete" = "佇列中的所有壓縮檔作業均已完成";
+
+/* AppController – btrzp:// guarded action confirmation (M1) */
+"Allow this action?" = "";
+
+/* btrzp:// guarded action confirmation */
+"An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself." = "";
+
+/* btrzp:// guarded action confirmation */
+"An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself." = "";
+
+/* btrzp:// guarded action confirmation */
+"An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself." = "";
+
+/* btrzp:// guarded action confirmation */
+"An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself." = "";
+
+/* btrzp:// guarded action confirmation */
+"An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself." = "";
 
 "An error occurred" = "發生錯誤";
 
@@ -156,9 +180,15 @@ merge conflicts message folders only */
 
 "Back" = "返回";
 
+/* date predicate operator */
+"before" = "";
+
 "Best (solid, slow extraction)" = "最佳（實心壓縮，解壓縮較慢）";
 
 "Best, but slower operation" = "最佳，但作業速度較慢";
+
+/* No comment provided by engineer. */
+"BetterTouchTool isn’t installed." = "";
 
 "BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip 無法解壓縮至此資料夾。你可能沒有寫入權限。";
 
@@ -170,21 +200,17 @@ merge conflicts message folders only */
 "BetterZip Temporary Folder" = "BetterZip 暫存資料夾";
 
 /* added in V 5.0 */
-"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip 無法取用 %@。你可以在「系統設定」中允許取用。";
+"BetterZip was denied access to %@. You can grant it access in the System Settings." = "";
 
 "BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip 將捨棄這部 Mac 上收集的壓縮、解壓縮和相關作業時間樣本。在收集到新的樣本前，進度列和預估完成時間的準確度會暫時降低。";
 
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip 將從壓縮檔中移除 %d 個符合「偏好設定」中所設規則的檔案。";
-
-"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip 將從壓縮檔中移除 %d 個符合規則的檔案。";
+"BetterZip will now remove %d files matching your filters from the archive." = "";
 
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip 將從壓縮檔中移除 %d 個 Mac 特有檔案。";
 
 "BetterZip will now remove Mac specific files from the archive." = "BetterZip 將從壓縮檔中移除 Mac 特有檔案。";
 
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip 將從壓縮檔中移除一個符合「偏好設定」中所設規則的檔案。";
-
-"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip 將從壓縮檔中移除一個符合規則的檔案。";
+"BetterZip will now remove one file matching your filters from the archive." = "";
 
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip 將從壓縮檔中移除一個 Mac 特有檔案。";
 
@@ -268,6 +294,9 @@ button */
 
 "Compressing %@" = "正在壓縮 %@";
 
+/* No comment provided by engineer. */
+"compression options" = "";
+
 "Compression:" = "壓縮：";
 
 /* Hash helper */
@@ -298,9 +327,6 @@ button */
 /* No comment provided by engineer. */
 "date" = "日期";
 
-/* relative date unit */
-"days" = "天";
-
 /* No comment provided by engineer. */
 "Debug" = "偵錯";
 
@@ -330,10 +356,10 @@ button */
 "Delete the selected files or folders from the archive" = "從壓縮檔中刪除所選檔案或資料夾";
 
 /* menu item */
-"Delete with Pattern" = "使用規則刪除";
+"Delete with Filter" = "";
 
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "使用規則刪除";
+/* Tooltip for the delete with filter toolbar button */
+"Delete with filter" = "";
 
 "Deleting items" = "刪除項目";
 
@@ -350,7 +376,7 @@ button */
 "Disk" = "磁碟";
 
 /* Welcome text, line 2 */
-"Dive into all available settings in the preferences window when you are ready." = "準備好後，深入瞭解偏好設定視窗中的所有可用設定。";
+"Dive into all available settings in the settings window when you are ready." = "";
 
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "如果你不習慣對資料進行定期備份，請勿啟用此選項。如果使用啟用了覆蓋開關，BetterZip在覆蓋檔案之前不會發出警告。檔案可能丟失。請慎重考慮風險。";
 
@@ -400,7 +426,7 @@ button */
 "Edit Filter" = "編輯過濾器";
 
 /* menu item */
-"Edit Patterns…" = "編輯規則…";
+"Edit Filters…" = "";
 
 /* menu item */
 "Edit Places…" = "編輯位置…";
@@ -508,7 +534,7 @@ button */
 /* name field placeholder */
 "Filter name" = "過濾器名稱";
 
-/* Preferences window - name of the tab to manage filter patterns */
+/* Preferences tab title */
 "Filtering" = "過濾器";
 
 "Finishing…" = "正在完成…";
@@ -570,6 +596,9 @@ button */
 "Ignore This Time" = "僅這次忽略";
 
 /* No comment provided by engineer. */
+"Install BetterTouchTool first, then try again." = "";
+
+/* No comment provided by engineer. */
 "Install Command-Line Tool…" = "安裝命令列工具…";
 
 /* Error messages when saving Helpers configuration JSON */
@@ -578,6 +607,12 @@ button */
 "Invalid JSON" = "無效的 JSON";
 
 "Invalid Tag" = "無效的標記";
+
+/* date predicate operator */
+"is in the last" = "";
+
+/* date predicate operator */
+"is not in the last" = "";
 
 "It is either damaged or in an unsupported format." = "它可能已損毀，或者是一種不支援的格式。";
 
@@ -650,9 +685,6 @@ button */
 
 /* Info table key */
 "Modified at" = "修改時間";
-
-/* relative date unit */
-"months" = "個月";
 
 "Move Archive" = "移動壓縮檔";
 
@@ -741,7 +773,7 @@ no rename */
 
 "Open Anyway" = "仍要打開";
 
-"Open System Preferences" = "打開系統設定";
+"Open System Settings" = "";
 
 "Open With" = "打開方式";
 
@@ -783,7 +815,7 @@ no rename */
 
 "Please download a fresh copy from our website." = "請從我們的網站重新下載。";
 
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "請在「偏好設定」>「輔助工具」中設定正確路徑，或選擇其他儲存格式。";
+"Please set the correct path in Settings > Helpers or choose a different format for saving." = "";
 
 /* placeholder */
 "Predicate name" = "條件名稱";
@@ -816,13 +848,23 @@ no rename */
 
 "Reconstruct" = "重建";
 
+/* No comment provided by engineer. */
+"Refusing to run the command: the value for “%@” contains characters that are not allowed for security reasons (%@)." = "";
+
 "Regular Expression" = "正規表示式";
+
+/* unit after 'in the last N' in the filter date row; may need a case different from the standalone unit (German: Tagen) */
+"relativeDateUnit.days" = "";
+
+/* unit after 'in the last N' in the filter date row; may need a case different from the standalone unit (German: Monaten) */
+"relativeDateUnit.months" = "";
+
+/* unit after 'in the last N' in the filter date row */
+"relativeDateUnit.weeks" = "";
 
 "Reload Drop Bar" = "重新載入拖放列";
 
 "Remove" = "移除";
-
-"Remove files matching the patterns configured in the preferences window from the archive." = "從壓縮檔中移除符合「偏好設定」視窗中所設規則的檔案。";
 
 "Rename Item" = "重新命名項目";
 
@@ -916,6 +958,10 @@ conflict action */
 
 /* No comment provided by engineer. */
 "Show in Finder" = "在 Finder 中顯示";
+
+"Show or hide the preview" = "";
+
+"Show or hide the sidebar" = "";
 
 /* Password */
 "Show password" = "顯示密碼";
@@ -1018,6 +1064,12 @@ conflict action */
 /* No comment provided by engineer. */
 "The archive tests failed. The archive is either damaged or in an unsupported format. The transcript window may contain further details." = "壓縮檔測試失敗。壓縮檔可能已損毀或使用不支援的格式。「記錄」視窗中可能有更多詳細資訊。";
 
+/* No comment provided by engineer. */
+"The BetterTouchTool plugin could not be found." = "";
+
+/* No comment provided by engineer. */
+"The BetterTouchTool plugin could not be installed." = "";
+
 "The file %@ could not be added to the archive. Maybe the system disc is full?" = "檔案 %@ 無法加入到壓縮檔，也許系統磁碟已滿？";
 
 "The file %@ could not be extracted." = "無法解壓縮檔案 %@。";
@@ -1029,7 +1081,7 @@ conflict action */
 /* No comment provided by engineer. */
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在 BetterZip >「設定」>「輔助工具」中設定 RAR 路徑。";
 
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在「偏好設定」›「輔助 App」中設定 RAR 路徑。";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Settings › Helper Apps." = "";
 
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "缺少「%@」的第一個分卷，但已找到復原分卷（.rev）。要重建缺少的分卷嗎？";
 
@@ -1044,7 +1096,10 @@ conflict action */
 
 "The password may be incorrect." = "密碼可能不正確。";
 
-"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "RAR 解壓縮可能需要大量記憶體（%@）。\\n要繼續嗎？";
+/* No comment provided by engineer. */
+"The plugin file is missing from this copy of BetterZip." = "";
+
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "RAR 解壓縮可能需要大量記憶體（%@）。\n要繼續嗎？";
 
 "The rar helper could not be found." = "找不到 RAR 輔助工具。";
 
@@ -1085,10 +1140,9 @@ conflict action */
 /* Today title string */
 "Today" = "今天";
 
-/* No comment provided by engineer. */
 "Toggle Preview" = "切換預覽";
 
-/* No comment provided by engineer. */
+/* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
 "Toggle Sidebar" = "切換側邊欄";
 
 /* menu item */
@@ -1127,13 +1181,11 @@ conflict action */
 
 "Use RAR" = "使用 RAR";
 
+"Use this filter to delete files and folders from the archive:" = "";
+
 "Use this filter to select which files and folders to add:" = "使用此過濾器選擇要加入的檔案和資料夾：";
 
 "Use this password for the new archive" = "將此密碼用於新的壓縮檔";
-
-"Use this pattern to delete files and folders from the archive:" = "使用此規則從壓縮檔中刪除檔案和資料夾：";
-
-"Use this pattern to specify which files and folders to add to the archive:" = "使用目前模式可以指定將哪些檔案和資料夾加入到壓縮檔：";
 
 "Use this preset as default in the toolbar" = "在工具列中將此預設組合作為預設值";
 
@@ -1164,14 +1216,9 @@ conflict action */
 
 "Weak (PKZip2 compatible)" = "弱（PKZip2 相容）";
 
-/* relative date unit */
-"weeks" = "週";
-
 "When in Direct Mode, all archive operations are immediate and cannot be undone." = "在「直接模式」中，所有壓縮檔作業都會立即執行，且無法還原。";
 
 "with errors" = "有錯誤";
-
-"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "要讓 %@ 在啟動時檢查更新嗎？你隨時可以在「偏好設定」視窗中手動檢查。";
 
 "Wrong checksum" = "檢查碼錯誤";
 

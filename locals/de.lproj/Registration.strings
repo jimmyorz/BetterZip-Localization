@@ -65,9 +65,6 @@
 "Registration: %@ – %d licenses" = "Registrierung: %1$@ – %2$d Lizenzen";
 
 /* (No Comment) */
-"Registration: %@ u2013 %d licenses" = "";
-
-/* (No Comment) */
 "Registration…" = "Registrierung…";
 
 /* (No Comment) */
@@ -105,4 +102,3 @@
 
 /* (No Comment) */
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "Oje, die Testzeit ist jetzt wirklich vorbei. Sie können zwar noch in Archive reinschauen, aber das Sichern wurde deaktiviert. Um BetterZip wieder ganz benützen zu können, registrieren Sie es noch heute!";
-

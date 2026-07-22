@@ -313,7 +313,7 @@
 /* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "ext-lc-ren"; Note = "@new-6.0b2"; */
 "ext-lc-ren.title" = "重新命名項目：";
 
-/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "ext-lc-scr"; Note = "@new-6.0b2"; */
+/* Class = "NSTextFieldCell"; title = "Run when done:"; ObjectID = "ext-lc-scr"; Note = "@changed-6.0b3 (previous: \"Run script:\")"; */
 "ext-lc-scr.title" = "執行工序指令：";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
@@ -463,7 +463,7 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
 "pTg-mn-c1A.title" = "OtherViews";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
 "qFO-f9-zNK.title" = "排除規則：";
 
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */

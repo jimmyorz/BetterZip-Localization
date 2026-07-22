@@ -227,7 +227,7 @@
 "72.title" = "Ouvrir…";
 
 /* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "";
+"7cI-yB-lv7.title" = "Fermer le fichier";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "Fichier";
@@ -257,10 +257,10 @@
 "bE8-zU-bO4.title" = "Supprimer les fichiers spécifiques Mac";
 
 /* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
-"clt-mn-001.title" = "";
+"clt-mn-001.title" = "Installer l'outil en ligne de commande…";
 
 /* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
-"cZp-5v-C6Y.title" = "";
+"cZp-5v-C6Y.title" = "Ouvrir le dossier Services dans le Finder";
 
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "Quitter BetterZip";
@@ -272,13 +272,13 @@
 "ICd-xV-ewG.title" = "Encodage du nom de fichier";
 
 /* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
-"IKk-eJ-D0S.title" = "";
+"IKk-eJ-D0S.title" = "Récupérer depuis le presse-papiers";
 
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "Ouvrir les éléments sélectionnés avec Quick Look";
 
 /* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
-"k4R-bN-x7W.title" = "";
+"k4R-bN-x7W.title" = "Afficher le fichier de réglages dans le Finder";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Retour";
@@ -287,31 +287,31 @@
 "Mb7-qp-sLP.title" = "Afficher les dossiers";
 
 /* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
-"mib-col-view.title" = "";
+"mib-col-view.title" = "Vue en colonnes";
 
 /* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
-"MIB-fp-Next.title" = "";
+"MIB-fp-Next.title" = "Activer le panneau suivant";
 
 /* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
-"MIB-fp-Prev.title" = "";
+"MIB-fp-Prev.title" = "Activer le panneau précédent";
 
 /* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
-"MIB-he-fld.title" = "";
+"MIB-he-fld.title" = "Masquer les dossiers vides";
 
 /* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
-"MIB-hr-tgl.title" = "";
+"MIB-hr-tgl.title" = "Afficher les sommes de contrôle";
 
 /* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
-"mib-icon-view.title" = "";
+"mib-icon-view.title" = "Vue en icônes";
 
 /* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
-"MIB-ss-Fw01.title" = "";
+"MIB-ss-Fw01.title" = "Diaporama";
 
 /* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
-"mib-toggle-pathbar.title" = "";
+"mib-toggle-pathbar.title" = "Masquer la barre de chemin";
 
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
-"Mk8-19-gqf.title" = "";
+"Mk8-19-gqf.title" = "Objet";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
 "n49-8l-XwF.title" = "Déverrouiller le gestionnaire de mots de passe…";
@@ -328,8 +328,8 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "Préférences…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Supprimer suivant le modèle";
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
+"QZx-8c-obf.title" = "Supprimer avec un filtre";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
 "RyC-7H-3JR.title" = "Préférences…";
@@ -354,3 +354,6 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Suivant";
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "Installer le plug-in Launcher de BetterTouchTool";

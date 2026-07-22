@@ -51,7 +51,7 @@ merge conflicts message folders only */
 /* initial name of a new password */
 "<new password>" = "<nuova password>";
 
-"<new pattern>" = "<nuovo pattern>";
+"<new filter>" = "<nuovo pattern>";
 
 "<new preset>" = "<nuovo preset>";
 
@@ -170,21 +170,17 @@ merge conflicts message folders only */
 "BetterZip Temporary Folder" = "BetterZip cartella temporanea";
 
 /* added in V 5.0 */
-"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "Accesso a %@ negato a BetterZip. Puoi consentire l’accesso nelle Impostazioni di Sistema.";
+"BetterZip was denied access to %@. You can grant it access in the System Settings." = "Accesso a %@ negato a BetterZip. Puoi consentire l’accesso nelle Impostazioni di Sistema.";
 
 "BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip eliminerà i dati raccolti per stimare la durata delle operazioni su questo Mac. La precisione della barra di avanzamento e del tempo residuo diminuirà temporaneamente fino a quando non saranno acquisiti nuovi dati.";
 
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip ora rimuoverà %d file corrispondenti ai pattern configurati nella finestra delle preferenze dall'archivio.";
-
-"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip ora rimuoverà %d file corrispondenti ai tuoi pattern dall'archivio.";
+"BetterZip will now remove %d files matching your filters from the archive." = "BetterZip ora rimuoverà %d file corrispondenti ai tuoi pattern dall'archivio.";
 
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip ora rimuoverà %d file specifici per Mac dall'archivio.";
 
 "BetterZip will now remove Mac specific files from the archive." = "BetterZip rimuoverà ora i file specifici per Mac dall'archivio.";
 
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip rimuoverà un file corrispondente ai pattern configurati nella finestra delle preferenze dall'archivio.";
-
-"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip ora rimuoverà un file corrispondente ai tuoi pattern dall'archivio.";
+"BetterZip will now remove one file matching your filters from the archive." = "BetterZip ora rimuoverà un file corrispondente ai tuoi pattern dall'archivio.";
 
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip rimuoverà un file specifico per Mac dall'archivio.";
 
@@ -330,10 +326,10 @@ button */
 "Delete the selected files or folders from the archive" = "Elimina file o cartelle selezionati dall'archivio";
 
 /* menu item */
-"Delete with Pattern" = "Elimina con pattern";
+"Delete with Filter" = "Elimina con filtro";
 
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "Elimina con pattern";
+/* Tooltip for the delete with filter toolbar button */
+"Delete with filter" = "Elimina con filtro";
 
 "Deleting items" = "Eliminazione elementi";
 
@@ -350,7 +346,7 @@ button */
 "Disk" = "Disco";
 
 /* Welcome text, line 2 */
-"Dive into all available settings in the preferences window when you are ready." = "Esplora tutte le impostazioni disponibili nella finestra delle preferenze quando sei pronto.";
+"Dive into all available settings in the settings window when you are ready." = "Esplora tutte le impostazioni disponibili nella finestra delle impostazioni quando sei pronto.";
 
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "Non abilitare questa opzione se non hai l'abitudine di eseguire backup regolari dei dati. BetterZip non ti avviserà prima di sovrascrivere i file se utilizzi un preset con l'opzione di sovrascrittura abilitata. I file potrebbero andare persi. Usa a tuo rischio.";
 
@@ -400,7 +396,7 @@ button */
 "Edit Filter" = "Modifica filtro";
 
 /* menu item */
-"Edit Patterns…" = "Modifica Pattern…";
+"Edit Filters…" = "Modifica filtri…";
 
 /* menu item */
 "Edit Places…" = "Modifica Posizioni…";
@@ -508,7 +504,7 @@ button */
 /* name field placeholder */
 "Filter name" = "Nome filtro";
 
-/* Preferences window - name of the tab to manage filter patterns */
+/* Preferences tab title */
 "Filtering" = "Filtri";
 
 "Finishing…" = "Completamento…";
@@ -741,7 +737,7 @@ no rename */
 
 "Open Anyway" = "Apri comunque";
 
-"Open System Preferences" = "Apri Impostazioni di Sistema";
+"Open System Settings" = "Apri Impostazioni di Sistema";
 
 "Open With" = "Apri con";
 
@@ -783,7 +779,7 @@ no rename */
 
 "Please download a fresh copy from our website." = "Scarica una nuova copia dal nostro sito web.";
 
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Impostare il percorso corretto in Preferenze> Assistenti o scegliere un formato diverso per il salvataggio.";
+"Please set the correct path in Settings > Helpers or choose a different format for saving." = "Impostare il percorso corretto in Impostazioni> Assistenti o scegliere un formato diverso per il salvataggio.";
 
 /* placeholder */
 "Predicate name" = "Nome predicato";
@@ -822,8 +818,6 @@ no rename */
 
 "Remove" = "Rimuovi";
 
-"Remove files matching the patterns configured in the preferences window from the archive." = "Rimuovi i file corrispondenti ai pattern configurati nella finestra delle preferenze dall'archivio.";
-
 "Rename Item" = "Rinomina elemento";
 
 "Repair" = "Ripara";
@@ -843,8 +837,6 @@ conflict action */
 
 /* rename mode */
 "Replace space with _" = "Sostituisci lo spazio con _";
-
-"Reset" = "";
 
 /* Advanced prefs – reset learned progress weights */
 "Reset Learned Progress Weights?" = "Reimpostare i pesi di apprendimento?";
@@ -1131,9 +1123,9 @@ conflict action */
 
 "Use this password for the new archive" = "Usa questa password per il nuovo archivio";
 
-"Use this pattern to delete files and folders from the archive:" = "Usa questo pattern per eliminare file e cartelle dall'archivio:";
+"Use this filter to delete files and folders from the archive:" = "Usa questo pattern per eliminare file e cartelle dall'archivio:";
 
-"Use this pattern to specify which files and folders to add to the archive:" = "Usa questo pattern per specificare quali file e cartelle aggiungere all'archivio:";
+"Use this filter to select which files and folders to add:" = "Usa questo pattern per specificare quali file e cartelle aggiungere all'archivio:";
 
 "Use this preset as default in the toolbar" = "Usa questo preset come predefinito nella barra strumenti";
 
@@ -1171,8 +1163,6 @@ conflict action */
 
 "with errors" = "con errori";
 
-"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "Vuoi %@ controllare gli aggiornamenti all'avvio? Puoi avviare manualmente il controllo delle impostazioni in qualsiasi momento.";
-
 "Wrong checksum" = "Checksum errato";
 
 /* Import presets wrong type alert title */
@@ -1204,3 +1194,52 @@ conflict action */
 "Zlib compressed (level 9)" = "Zlib compresso (livello 9)";
 
 "⚠️ (older)" = "⚠️ (più vecchio)";
+
+/* date predicate operators (PatternWindowController) @new-6.0b4 */
+"before" = "è prima di";
+"after" = "è dopo il";
+"is in the last" = "è negli ultimi";
+"is not in the last" = "non è negli ultimi";
+
+/* relative-date unit in the filter date row (grammatical case after "in the last N") @new-6.0b4 */
+"relativeDateUnit.days" = "giorni";
+"relativeDateUnit.weeks" = "settimane";
+"relativeDateUnit.months" = "mesi";
+
+/* AppController – btrzp:// guarded action confirmation (M1) */
+"Allow this action?" = "Consentire questa azione?";
+"An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself." = "Un’app o una pagina web sta chiedendo a BetterZip di estrarre questi elementi in «%@»:\n\n%@\n\nContinua solo se hai avviato tu questa azione.";
+"An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself." = "Un’app o una pagina web sta chiedendo a BetterZip di estrarre questi elementi:\n\n%@\n\nContinua solo se hai avviato tu questa azione.";
+"An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself." = "Un’app o una pagina web sta chiedendo a BetterZip di comprimere questi elementi:\n\n%@\n\nContinua solo se hai avviato tu questa azione.";
+"An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself." = "Un’app o una pagina web sta chiedendo a BetterZip di verificare questi elementi:\n\n%@\n\nContinua solo se hai avviato tu questa azione.";
+"An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself." = "Un’app o una pagina web sta chiedendo a BetterZip di aprire questi elementi:\n\n%@\n\nContinua solo se hai avviato tu questa azione.";
+
+/* @new-6.0b5 – save-panel / preset format names (Formats/*.json "name"); shown via MIBLocalizedFormatName */
+"7-Zip Format" = "Formato 7-Zip";
+"ARJ Archive" = "Archivio ARJ";
+"BinHex Archive" = "Archivio BinHex";
+"CAB Archive" = "Archivio CAB";
+"Chromium Extra" = "Chromium Extra";
+"Compiled HTML Archive" = "Archivio HTML compilato";
+"Debian Linux Package" = "Pacchetto Debian Linux";
+"ISO Image" = "Immagine ISO";
+"LHA Archive" = "Archivio LHA";
+"Microsoft E-mail Attachment" = "Allegato e-mail Microsoft";
+"NSIS Archive" = "Archivio NSIS";
+"PDF Document" = "Documento PDF";
+"RPM Linux Archive" = "Archivio RPM Linux";
+"SWF Flash Archive" = "Archivio Flash SWF";
+"Split File" = "File diviso";
+"Stuffit Archive" = "Archivio Stuffit";
+"WIM Archive" = "Archivio WIM";
+
+/* @new-6.0b5 – BetterTouchTool launcher plugin install (AppController) */
+"The BetterTouchTool plugin could not be found." = "Impossibile trovare il plugin di BetterTouchTool.";
+"The plugin file is missing from this copy of BetterZip." = "Il file del plugin non è presente in questa copia di BetterZip.";
+"BetterTouchTool isn’t installed." = "BetterTouchTool non è installato.";
+"Install BetterTouchTool first, then try again." = "Installa prima BetterTouchTool, poi riprova.";
+"The BetterTouchTool plugin could not be installed." = "Impossibile installare il plugin di BetterTouchTool.";
+
+/* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
+"Show or hide the sidebar" = "Mostra o nascondi la barra laterale";
+"Show or hide the preview" = "Mostra o nascondi l’anteprima";

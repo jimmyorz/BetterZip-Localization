@@ -1,6 +1,54 @@
 /* Class = "NSMenuItem"; title = "Filename Encoding"; ObjectID = "0np-zc-OqJ"; */
 "0np-zc-OqJ.title" = "ファイル名文字コード";
 
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
+"2EB-am-V2D.title" = "すべてを手前に移動";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
+"2Jl-u9-6ra.title" = "移動";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "すべてを手前に移動";
+
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
+"7cI-yB-lv7.title" = "ファイルを閉じる";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "ウインドウ";
+
+/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
+"20p-td-SPJ.title" = "移動先の書庫";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "しまう";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "ウインドウ";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
+"56.title" = "BetterZip";
+
+/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
+"57.title" = "BetterZip";
+
+/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
+"58.title" = "BetterZip について";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "開く…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "新規";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "ファイル";
+
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
 "103.title" = "ヘルプ";
 
@@ -67,14 +115,8 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
 "173.title" = "やり直す";
 
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "ウインドウ";
-
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "203"; */
 "203.title" = "拡大／縮小";
-
-/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
-"20p-td-SPJ.title" = "移動先の書庫";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "215"; */
 "215.title" = "表示";
@@ -88,14 +130,8 @@
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "220"; */
 "220.title" = "ツールバーをカスタマイズ…";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "しまう";
-
 /* Class = "NSMenuItem"; title = "Transcript"; ObjectID = "238"; */
 "238.title" = "ログ";
-
-/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "ウインドウ";
 
 /* Class = "NSMenuItem"; title = "Visit Our Website"; ObjectID = "240"; */
 "240.title" = "MacItBetter.com を表示";
@@ -117,15 +153,6 @@
 
 /* Class = "NSMenuItem"; title = "Add to Archive…"; ObjectID = "283"; */
 "283.title" = "書庫に追加…";
-
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
-"29.title" = "MainMenu";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
-"2EB-am-V2D.title" = "すべてを手前に移動";
-
-/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
-"2Jl-u9-6ra.title" = "移動";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "304"; */
 "304.title" = "閉じる";
@@ -210,33 +237,6 @@
 
 /* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "423"; */
 "423.title" = "小さく";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "すべてを手前に移動";
-
-/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
-"56.title" = "BetterZip";
-
-/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
-"57.title" = "BetterZip";
-
-/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
-"58.title" = "BetterZip について";
-
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "開く…";
-
-/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "ファイルを閉じる";
-
-/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
-"81.title" = "ファイル";
-
-/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
-"82.title" = "新規";
-
-/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "ファイル";
 
 /* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "aoH-k1-Ujp"; */
 "aoH-k1-Ujp.title" = "文字コード:";
@@ -328,11 +328,8 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "環境設定…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "パターンによる削除";
-
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "環境設定…";
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
+"RyC-7H-3JR.title" = "設定…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
 "t4E-iF-PNO.title" = "書庫を移動";
@@ -354,3 +351,7 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "進む";
+
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "BetterTouchTool Launcher プラグインをインストール";

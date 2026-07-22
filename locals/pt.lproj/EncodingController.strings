@@ -5,7 +5,7 @@
 "aUZ-Is-DBp.title" = "Item 3";
 
 /* Class = "NSTextFieldCell"; title = "The filename encoding could not be determined automatically. Please choose one from the list:"; ObjectID = "C3J-ki-gMn"; */
-"C3J-ki-gMn.title" = "A codificação do nome do arquivo não pôde ser determinada automaticamente. Escolha uma na lista:";
+"C3J-ki-gMn.title" = "Não foi possível determinar automaticamente a codificação do nome do arquivo. Escolha uma na lista:";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */
 "F0z-JX-Cv5.title" = "Window";
@@ -15,3 +15,4 @@
 
 /* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "M1Q-cT-oTC"; Note = "don't translate"; */
 "M1Q-cT-oTC.title" = "Item 1";
+

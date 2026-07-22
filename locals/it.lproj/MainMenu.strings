@@ -328,10 +328,10 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "Impostazioni…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Elimina con Pattern";
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
+"QZx-8c-obf.title" = "Elimina con filtro";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
 "RyC-7H-3JR.title" = "Impostazioni…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
@@ -354,3 +354,6 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Inoltra";
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "Installa il plugin Launcher di BetterTouchTool";

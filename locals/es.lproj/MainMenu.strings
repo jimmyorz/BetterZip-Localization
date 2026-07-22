@@ -140,7 +140,7 @@
 "307.title" = "Revertir";
 
 /* Class = "NSMenuItem"; title = "File-Packages are Expandable"; ObjectID = "317"; */
-"317.title" = "Paquetes de archivos expandibles";
+"317.title" = "Permitir expandir paquetes de archivos";
 
 /* Class = "NSMenuItem"; title = "Show/Hide Toolbar"; ObjectID = "319"; */
 "319.title" = "Mostrar/Ocultar barra de herramientas";
@@ -149,7 +149,7 @@
 "326.title" = "Lista plana";
 
 /* Class = "NSMenuItem"; title = "Outline View"; ObjectID = "327"; */
-"327.title" = "Lista esquema";
+"327.title" = "Vista de esquema";
 
 /* Class = "NSMenuItem"; title = "Favorites"; ObjectID = "332"; */
 "332.title" = "Favoritos";
@@ -227,7 +227,7 @@
 "72.title" = "Abrir…";
 
 /* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "";
+"7cI-yB-lv7.title" = "Cerrar archivo";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "Archivo";
@@ -257,10 +257,10 @@
 "bE8-zU-bO4.title" = "Eliminar extensiones de Mac";
 
 /* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
-"clt-mn-001.title" = "";
+"clt-mn-001.title" = "Instalar herramienta de comandos…";
 
 /* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
-"cZp-5v-C6Y.title" = "";
+"cZp-5v-C6Y.title" = "Abrir carpeta Servicios en Finder";
 
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "Salir de BetterZip";
@@ -272,13 +272,13 @@
 "ICd-xV-ewG.title" = "Codificando nombre archivo";
 
 /* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
-"IKk-eJ-D0S.title" = "";
+"IKk-eJ-D0S.title" = "Obtener del portapapeles";
 
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "Vista rápida de archivos seleccionados";
 
 /* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
-"k4R-bN-x7W.title" = "";
+"k4R-bN-x7W.title" = "Mostrar archivo de ajustes en el Finder";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Retroceder";
@@ -287,34 +287,34 @@
 "Mb7-qp-sLP.title" = "Mostrar carpetas";
 
 /* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
-"mib-col-view.title" = "";
+"mib-col-view.title" = "Ver en columnas";
 
 /* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
-"MIB-fp-Next.title" = "";
+"MIB-fp-Next.title" = "Enfocar siguiente panel";
 
 /* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
-"MIB-fp-Prev.title" = "";
+"MIB-fp-Prev.title" = "Enfocar panel anterior";
 
 /* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
-"MIB-he-fld.title" = "";
+"MIB-he-fld.title" = "Ocultar carpetas vacías";
 
 /* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
-"MIB-hr-tgl.title" = "";
+"MIB-hr-tgl.title" = "Mostrar sumas de verificación";
 
 /* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
-"mib-icon-view.title" = "";
+"mib-icon-view.title" = "Ver como iconos";
 
 /* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
-"MIB-ss-Fw01.title" = "";
+"MIB-ss-Fw01.title" = "Ver como galería";
 
 /* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
-"mib-toggle-pathbar.title" = "";
+"mib-toggle-pathbar.title" = "Ocultar barra de ruta";
 
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
-"Mk8-19-gqf.title" = "";
+"Mk8-19-gqf.title" = "Elemento";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
-"n49-8l-XwF.title" = "Desbloquear Administrador de Contraseñas…";
+"n49-8l-XwF.title" = "Desbloquear gestor de contraseñas…";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "nJ3-ST-qnh"; */
 "nJ3-ST-qnh.title" = "Nuevo";
@@ -323,34 +323,37 @@
 "Obb-b9-aac.title" = "Automático";
 
 /* Class = "NSMenuItem"; title = "Open BetterZip's App Support Folder"; ObjectID = "PoJ-NB-tKs"; */
-"PoJ-NB-tKs.title" = "Abrir carpeta de soporte de la aplicación BetterZip";
+"PoJ-NB-tKs.title" = "Abrir carpeta de soporte de BetterZip";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "Preferencias…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Eliminar con patrón";
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
+"QZx-8c-obf.title" = "Borrar con filtro";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "Preferencias…";
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
+"RyC-7H-3JR.title" = "Ajustes…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
 "t4E-iF-PNO.title" = "Mover archivo a";
 
 /* Class = "NSMenuItem"; title = "Direct Mode"; ObjectID = "T8l-7y-XsC"; */
-"T8l-7y-XsC.title" = "Modo Directo";
+"T8l-7y-XsC.title" = "Operación directa";
 
 /* Class = "NSMenuItem"; title = "Enclosing Folder"; ObjectID = "ugA-2S-09c"; */
-"ugA-2S-09c.title" = "Adjuntando carpeta";
+"ugA-2S-09c.title" = "Carpeta contenedora ";
 
 /* Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "vAL-Un-3aC"; */
 "vAL-Un-3aC.title" = "Pantalla de Bienvenida";
 
 /* Class = "NSMenuItem"; title = "Release Notes"; ObjectID = "WUD-mQ-HqJ"; Note = "Release Notes menu item"; */
-"WUD-mQ-HqJ.title" = "Notas de lanzamiento";
+"WUD-mQ-HqJ.title" = "Notas de la versión";
 
 /* Class = "NSMenuItem"; title = "Sort Folders Above Files"; ObjectID = "xYB-5x-wZu"; */
-"xYB-5x-wZu.title" = "Mostrar carpetas encima de los archivos";
+"xYB-5x-wZu.title" = "Ordenar carpetas arriba de los archivos";
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Avanzar";
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "Instalar el plugin del Launcher de BetterTouchTool";

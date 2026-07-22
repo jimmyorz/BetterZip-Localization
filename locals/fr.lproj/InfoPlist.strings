@@ -11,9 +11,6 @@
 "BinHex Archive" = "Archive BinHex";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Archive Brotli";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Archive compressée TAR Brotli";
 
 /* No comment provided by engineer. */
@@ -23,7 +20,7 @@
 "BZip2 compressed TAR Archive" = "Archive compressée TAR BZip2";
 
 /* No comment provided by engineer. */
-"CAB Archive" = "Archive CAV";
+"CAB Archive" = "Archive CAB";
 
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
@@ -39,9 +36,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Archive Comicbook RAR";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "Archive Comicbook ZIP";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "Archive HTML compilée";
@@ -72,9 +66,6 @@
 
 /* No comment provided by engineer. */
 "LHA Archive" = "Archive LHA";
-
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "Archive RPM Linux";
 
 /* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Pièce jointe Microsoft E-mail";
@@ -110,19 +101,22 @@
 "User-Defined Archive" = "Archive personnalisée ";
 
 /* No comment provided by engineer. */
-"xz Archive" = "Archive xz";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "Archive compressée TAR xz";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "Archive ZIP";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "Archive Zip";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "Archive Zstandard";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Archive compressée TAR Zstandard";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Archive Comicbook ZIP";
+"xz compressed Archive" = "Archive xz";
+"Zstandard compressed Archive" = "Archive Zstandard";
+"Brotli compressed Archive" = "Archive Brotli";
+"RAR Legacy Archive" = "Archive RAR héritée";
+"RPM Linux Archive" = "Archive RPM Linux";
+"Disk Image" = "Image disque";
+"ISO Disk Image" = "Image disque ISO";
+"MacBinary File" = "Fichier MacBinary";
+"XAR Archive" = "Archive XAR";

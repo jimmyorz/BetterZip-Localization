@@ -1,122 +1,123 @@
-/* No comment provided by engineer. Note = "don't translate"; */
-"%@ (damaged)" = "%@ (damaged)";
+/* (No Comment) */
+"(incl. %d hidden)" = "(incl. %d oculto(s))";
 
 /* No comment provided by engineer. */
-"%@ could not be extracted. Error code: %ld" = "";
-
-"%d item, uncompressed size: %@ %@" = "";
-
-"%d items, uncompressed size: %@ %@" = "";
+"%@ (damaged)" = "%@ (danificado)";
 
 /* No comment provided by engineer. */
-"%d selected, uncompressed size: %@ %@" = "";
+"%@ could not be extracted. Error code: %ld" = "Não foi possível extrair %1$@. Código de erro: %2$ld";
 
-"(incl. %d hidden)" = "";
+/* (No Comment) */
+"%d item, uncompressed size: %@ %@" = "%d item, tamanho não comprimido: %@ %@";
 
-/* No comment provided by engineer. */
-"A volume is missing: %@." = "";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Added" = "Added";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Cannot open file: %@" = "Cannot open file: %@";
+/* (No Comment) */
+"%d items, uncompressed size: %@ %@" = "%d itens, tamanho não comprimido: %@ %@";
 
 /* No comment provided by engineer. */
-"Continue" = "";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Corrupted" = "Corrupted";
+"%d selected, uncompressed size: %@ %@" = "%1$d selecionado(s), tamanho não comprimido: %2$@ %3$@";
 
 /* No comment provided by engineer. */
-"Error" = "";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"External command returned: %d%c" = "External command returned: %1$d%2$c";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed" = "Failed";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed (unpacking failed)" = "Failed (unpacking failed)";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed (unsupported)" = "Failed (unsupported)";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed (wrong checksum)" = "Failed (wrong checksum)";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed (wrong password)" = "Failed (wrong password)";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Failed (wrong size)" = "Failed (wrong size)";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Ignore and go on" = "Ignore and go on";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Modified" = "Modified";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Moved" = "Moved";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"No checksum" = "No checksum";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"No compression" = "No compression";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Not encrypted" = "Not encrypted";
+"A volume is missing: %@." = "Volume ausente: %@.";
 
 /* No comment provided by engineer. */
-"OK" = "";
+"Added" = "Adicionado";
 
 /* No comment provided by engineer. */
-"Opening archive failed" = "";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Other…" = "Other…";
+"Cannot enumerate directory: %@" = "Não é possível enumerar o diretório: %@";
 
 /* No comment provided by engineer. */
-"Stop" = "";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"Testing: %@…" = "Testing: %@…";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"The helper tool %@ could not be found or is not executable." = "The helper tool %@ could not be found or is not executable.";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?";
-
-/* No comment provided by engineer. Note = "don't translate"; */
-"There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
+"Cannot open file: %@" = "Não é possível abrir o arquivo: %@";
 
 /* No comment provided by engineer. */
-"This archive appears to be damaged." = "";
+"Continue" = "Continuar";
+
+/* No comment provided by engineer. */
+"Corrupted" = "Corrompido";
+
+/* No comment provided by engineer. */
+"Error" = "Erro";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "O comando externo retornou: %1$d%2$c";
+
+/* No comment provided by engineer. */
+"Failed" = "Falha";
+
+/* No comment provided by engineer. */
+"Failed (unpacking failed)" = "Falha (falha ao desempacotar)";
+
+/* No comment provided by engineer. */
+"Failed (unsupported)" = "Falha (incompatível)";
+
+/* No comment provided by engineer. */
+"Failed (wrong checksum)" = "Falha (soma de verificação errada)";
+
+/* No comment provided by engineer. */
+"Failed (wrong password)" = "Falha (senha errada)";
+
+/* No comment provided by engineer. */
+"Failed (wrong size)" = "Falha (tamanho errado)";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "Ignorar e Prosseguir";
+
+/* No comment provided by engineer. */
+"Modified" = "Modificado";
+
+/* No comment provided by engineer. */
+"Moved" = "Movido";
+
+/* No comment provided by engineer. */
+"No checksum" = "Sem soma de verificação";
+
+/* No comment provided by engineer. */
+"No compression" = "Sem compressão";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "Sem criptografia";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Opening archive failed" = "Falha ao abrir o arquivo comprimido";
+
+/* No comment provided by engineer. */
+"Other…" = "Outro…";
+
+/* No comment provided by engineer. */
+"Stop" = "Parar";
+
+/* No comment provided by engineer. */
+"Testing: %@…" = "Testando: %@…";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "Não foi possível encontrar o auxiliar %@ ou talvez ele não seja executável.";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "Não há espaço livre suficiente no disco de destino.";
+
+/* No comment provided by engineer. */
+"This archive appears to be damaged." = "Este arquivo comprimido parece estar danificado.";
 
 /* Today title string */
-"Today" = "";
+"Today" = "Hoje";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"Unknown" = "Unknown";
+/* No comment provided by engineer. */
+"Unknown" = "Desconhecido";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"Unpacking failed" = "Unpacking failed";
+/* No comment provided by engineer. */
+"Unpacking failed" = "Falha ao desempacotar";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"Updated" = "Updated";
+/* No comment provided by engineer. */
+"Updated" = "Atualizado";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"Warning" = "Warning";
+/* No comment provided by engineer. */
+"Warning" = "Aviso";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"Wrong checksum" = "Wrong checksum";
+/* No comment provided by engineer. */
+"Wrong checksum" = "Soma de verificação errada";
 
 /* Yesterday title string */
-"Yesterday" = "";
+"Yesterday" = "Ontem";
+

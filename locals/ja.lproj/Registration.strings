@@ -1,58 +1,79 @@
+/* (No Comment) */
 "%d days left" = "あと %d 日";
 
 /* No comment provided by engineer. */
 "An error occured, please try again later. If the problem persists, please contact me by email." = "エラーが発生しました。後ほど再度お試し下さい。それでも解決しない場合、弊社にメールでご連絡下さい。";
 
+/* (No Comment) */
 "Automatically check for updates (last check: %@)" = "自動的にアップデートを確認 (最終確認日時: %@)";
 
+/* (No Comment) */
 "Better get your license today!" = "ライセンスの取得は今日が最適!";
 
+/* (No Comment) */
 "BetterZip has detected more copies running at the same time in your network than you have license keys." = "BetterZip はあなたがお持ちのライセンスキーより多くのコピーがネットワーク上で実行されていることを検出しました。";
 
+/* (No Comment) */
 "BetterZip is not yet registered. Your trial period ends today. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip は未だ登録されていません。試用期間は今日までです。続けて BetterZip をお使いになる場合は、下にある「今すぐ購入」ボタンをクリックして、すぐに登録して下さい!";
 
+/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end in %d days." = "BetterZip は未登録です。試用期間はあと、%d 残っています。";
 
+/* (No Comment) */
 "BetterZip is not yet registered. Your trial period will end tomorrow. To continue using BetterZip click the 'Buy now' button below and register now!" = "BetterZip は未だ登録されていません。明日で試用期間は終了です。続けて BetterZip をお使いになる場合は、下にある「今すぐ購入」ボタンをクリックして、すぐに登録して下さい!";
 
+/* (No Comment) */
 "Buy now" = "オンラインで購入";
 
 /* Strings not to be in the MAS version */
 "Buy Now…" = "今すぐ購入…";
 
+/* (No Comment) */
 "Check for Updates…" = "アップデートを確認…";
 
+/* (No Comment) */
 "Continue" = "続ける";
 
+/* (No Comment) */
 "Every computer in your network needs its own license key. Please consider buying one of those really reasonably priced multi-user licenses." = "ネットワークにあるコンピュータそれぞれに固有のライセンスが必要です。とてもリーズナブルな価格のマルチユーザーライセンスの購入をご検討下さい。";
 
+/* (No Comment) */
 "Great!" = "素晴らしい!";
 
+/* (No Comment) */
 "If you like BetterZip, click the 'Buy now' button below and get your license today!" = "もし BetterZip を気に入っていただけたなら、以下の「今すぐ購入」ボタンをクリックして、ライセンスを入手して下さい!";
 
+/* (No Comment) */
 "It has been a long time since you last tried BetterZip. Take a few more days to evaluate it again. Your trial period has been extended by five days." = "最後に BetterZip を試してからずいぶん経ちました。そこで再度試用して頂くため数日の猶予を儲けました。試用期間が延長されています。";
 
+/* (No Comment) */
 "Later" = "後で";
 
 /* Parameter: name */
 "Licensee: %@" = "ライセンス: %@";
 
+/* (No Comment) */
 "More license keys required." = "ライセンスキーが不足しています。";
 
+/* (No Comment) */
 "Please register BetterZip to enable the saving of archives." = "BetterZip を登録して書庫の保存ができるようにして下さい。";
 
 /* Params: date */
 "Registration: %@" = "登録: %@";
 
-"Registration: %@ u2013 %d licenses" = "登録: %@ u2013 %d ライセンス";
-
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "登録: %1$@ – %2$d ライセンス";
 
+/* (No Comment) */
+"Registration: %@ u2013 %d licenses" = "登録: %@ u2013 %d ライセンス";
+
+/* (No Comment) */
 "Registration…" = "登録…";
 
+/* (No Comment) */
 "The code is invalid. Make sure you pasted the complete key into the text field." = "コードが正しくありません。正しいキーをテキスト欄にペーストしたか確認して下さい。";
 
+/* (No Comment) */
 "The trial period is over" = "試用期限が切れました";
 
 /* No comment provided by engineer. */
@@ -61,18 +82,27 @@
 /* New in BetterZip 3 */
 "This function is available to registered users only." = "この機能は登録ユーザーだけが使用できます。";
 
+/* (No Comment) */
 "This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "これは、BetterZip の古いバージョンのライセンスコードです。このコードは割引アップグレード価格、US$ %@ での BetterZip 6 ライセンス購入にお使いいただけます。以下の \"今すぐアップグレード\" をクリックしてウェブショップを開いて下さい。";
 
+/* (No Comment) */
 "Trial period, %d days left" = "使用期間: 残り %d 日";
 
+/* (No Comment) */
 "Trial user, %d days left" = "試用版ユーザー、あと、%d 日";
 
+/* (No Comment) */
 "Upgrade now" = "今すぐアップグレード";
 
+/* (No Comment) */
 "Welcome back to BetterZip!" = "BetterZip へようこそ!";
 
+/* (No Comment) */
 "Your copy of BetterZip is registered. Thank you!" = "BetterZip は登録されました。ありがとうございます!";
 
+/* (No Comment) */
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "試用期間は終了しました。BetterZip はあと数日動作しますが、続けてお使いになる場合は、登録しなくてはなりません! 以下の 'オンラインで購入' ボタンをクリックすると、数分でライセンスキーを受け取ることができます。";
 
+/* (No Comment) */
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "試用期間が終了しました。アーカオブを開くことはできますが、保存はできません。続けて 'BetterZIp' の利用をご希望の場合は、登録をお願いします! 以下のオンラインで購入ボタンをクリックすると、ライセンスキーを数分で受け取ることができます。";
+

@@ -1,122 +1,123 @@
-/* No comment provided by engineer. Note = "don't translate"; */
+/* (No Comment) */
+"(incl. %d hidden)" = "(ink. %d dold/dolda)";
+
+/* No comment provided by engineer. */
 "%@ (damaged)" = "%@ (damaged)";
 
 /* No comment provided by engineer. */
-"%@ could not be extracted. Error code: %ld" = "";
+"%@ could not be extracted. Error code: %ld" = "%1$@ kunde inte extraheras. Felkod: %2$ld";
 
-"%d item, uncompressed size: %@ %@" = "";
+/* (No Comment) */
+"%d item, uncompressed size: %@ %@" = "%d objekt, okomprimerad storlek: %@ %@";
 
-"%d items, uncompressed size: %@ %@" = "";
-
-/* No comment provided by engineer. */
-"%d selected, uncompressed size: %@ %@" = "";
-
-"(incl. %d hidden)" = "";
+/* (No Comment) */
+"%d items, uncompressed size: %@ %@" = "%d objekt, okomprimerad storlek: %@ %@";
 
 /* No comment provided by engineer. */
-"A volume is missing: %@." = "";
+"%d selected, uncompressed size: %@ %@" = "%1$d valt, okomprimerad storlek: %2$@ %3$@";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
+"A volume is missing: %@." = "En volym saknas: %@.";
+
+/* No comment provided by engineer. */
 "Added" = "Added";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Cannot open file: %@" = "Cannot open file: %@";
 
 /* No comment provided by engineer. */
-"Continue" = "";
+"Continue" = "Fortsätt";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Corrupted" = "Corrupted";
 
 /* No comment provided by engineer. */
-"Error" = "";
+"Error" = "Fel";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "External command returned: %d%c" = "External command returned: %1$d%2$c";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed" = "Failed";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (unpacking failed)" = "Failed (unpacking failed)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (unsupported)" = "Failed (unsupported)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong checksum)" = "Failed (wrong checksum)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong password)" = "Failed (wrong password)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong size)" = "Failed (wrong size)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Ignore and go on" = "Ignore and go on";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Modified" = "Modified";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Moved" = "Moved";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "No checksum" = "No checksum";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "No compression" = "No compression";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Not encrypted" = "Not encrypted";
 
 /* No comment provided by engineer. */
-"OK" = "";
+"OK" = "OK";
 
 /* No comment provided by engineer. */
-"Opening archive failed" = "";
+"Opening archive failed" = "Arkiver kunde inte öppnas";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Other…" = "Other…";
 
 /* No comment provided by engineer. */
-"Stop" = "";
+"Stop" = "Stoppa";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Testing: %@…" = "Testing: %@…";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "The helper tool %@ could not be found or is not executable." = "The helper tool %@ could not be found or is not executable.";
 
-/* No comment provided by engineer. Note = "don't translate"; */
-"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?";
-
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "There is not enough free space on the destination drive." = "There is not enough free space on the destination drive.";
 
 /* No comment provided by engineer. */
-"This archive appears to be damaged." = "";
+"This archive appears to be damaged." = "Detta arkiv verkar vara trasigt";
 
 /* Today title string */
-"Today" = "";
+"Today" = "Idag";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Unknown" = "Unknown";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Unpacking failed" = "Unpacking failed";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Updated" = "Updated";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Warning" = "Warning";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Wrong checksum" = "Wrong checksum";
 
 /* Yesterday title string */
-"Yesterday" = "";
+"Yesterday" = "Igår";
+

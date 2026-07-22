@@ -11,9 +11,6 @@
 "BinHex Archive" = "Archivo BinHex";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Archivo Brotli";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Archivo Brotli TAR comprimido";
 
 /* No comment provided by engineer. */
@@ -39,9 +36,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Archivo Comicbook RAR";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "Archivo Comicbook RAR";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "Archivo HTML compilado";
@@ -74,9 +68,6 @@
 "LHA Archive" = "Archivo LHA";
 
 /* No comment provided by engineer. */
-"Linux RPM Archive" = "Archivo Linux RPM";
-
-/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Microsoft E-mail Adjunto";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -86,7 +77,7 @@
 "NSContactsUsageDescription" = "Tu dirección de correo electrónico solo se utilizará para rellenar el campo de contacto en el informe de fallos de BetterZip.";
 
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "Copyright © 2006-2023 MacItBetter, Robert Rezabek";
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";
 
 /* No comment provided by engineer. */
 "NSIS Archive" = "Archivo NSIS";
@@ -110,19 +101,22 @@
 "User-Defined Archive" = "Archivo definido por el usuario";
 
 /* No comment provided by engineer. */
-"xz Archive" = "Archivo xz";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "Archivo TAR comprimido xz";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "Archivo ZIP";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "Archivo Zip";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "Archivo Zstandard";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Archivo TAR comprimido de Zstandard";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Archivo Comicbook ZIP";
+"xz compressed Archive" = "Archivo xz";
+"Zstandard compressed Archive" = "Archivo Zstandard";
+"Brotli compressed Archive" = "Archivo Brotli";
+"RAR Legacy Archive" = "Archivo RAR heredado";
+"RPM Linux Archive" = "Archivo Linux RPM";
+"Disk Image" = "Imagen de disco";
+"ISO Disk Image" = "Imagen de disco ISO";
+"MacBinary File" = "Archivo MacBinary";
+"XAR Archive" = "Archivo XAR";

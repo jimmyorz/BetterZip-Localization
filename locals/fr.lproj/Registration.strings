@@ -44,7 +44,7 @@
 /* Params: date */
 "Registration: %@" = "Enregistrement : %@";
 
-"Registration: %@ u2013 %d licenses" = "";
+"Registration: %@ u2013 %d licenses" = "Enregistrement : %@ – %d licences";
 
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Enregistrement : %1$@ - %2$d licences";

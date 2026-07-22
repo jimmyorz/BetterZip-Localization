@@ -226,9 +226,6 @@
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
 "72.title" = "Otwórz…";
 
-/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "";
-
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "Plik";
 
@@ -256,12 +253,6 @@
 /* Class = "NSMenuItem"; title = "Delete Mac Files"; ObjectID = "bE8-zU-bO4"; */
 "bE8-zU-bO4.title" = "Usuń pliki macOS";
 
-/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
-"clt-mn-001.title" = "";
-
-/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
-"cZp-5v-C6Y.title" = "";
-
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "Wyjdź z BetterZip";
 
@@ -271,47 +262,14 @@
 /* Class = "NSMenu"; title = "Filename Encoding"; ObjectID = "ICd-xV-ewG"; */
 "ICd-xV-ewG.title" = "Strona kodowa nazwy pliku";
 
-/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
-"IKk-eJ-D0S.title" = "";
-
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "Szybki podgląd wybranych plików";
-
-/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
-"k4R-bN-x7W.title" = "";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "Wstecz";
 
 /* Class = "NSMenuItem"; title = "Show Folders"; ObjectID = "Mb7-qp-sLP"; */
 "Mb7-qp-sLP.title" = "Pokaż foldery";
-
-/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
-"mib-col-view.title" = "";
-
-/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
-"MIB-fp-Next.title" = "";
-
-/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
-"MIB-fp-Prev.title" = "";
-
-/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
-"MIB-he-fld.title" = "";
-
-/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
-"MIB-hr-tgl.title" = "";
-
-/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
-"mib-icon-view.title" = "";
-
-/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
-"MIB-ss-Fw01.title" = "";
-
-/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
-"mib-toggle-pathbar.title" = "";
-
-/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
-"Mk8-19-gqf.title" = "";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
 "n49-8l-XwF.title" = "Odblokuj menadżera haseł…";
@@ -328,11 +286,11 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "Preferencje…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Usuń z wzorcem";
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
+"QZx-8c-obf.title" = "Usuń z filtrem";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "Preferencje…";
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
+"RyC-7H-3JR.title" = "Ustawienia…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
 "t4E-iF-PNO.title" = "Przenieś archiwum do";
@@ -354,3 +312,37 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Do Przodu";
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "Zainstaluj wtyczkę Launchera BetterTouchTool";
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
+"7cI-yB-lv7.title" = "Zamknij plik";
+/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
+"clt-mn-001.title" = "Zainstaluj narzędzie wiersza poleceń…";
+/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
+"cZp-5v-C6Y.title" = "Otwórz folder usług w Finderze";
+/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
+"IKk-eJ-D0S.title" = "Zbierz ze schowka";
+/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
+"k4R-bN-x7W.title" = "Pokaż plik ustawień w Finderze";
+/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
+"mib-col-view.title" = "Widok kolumn";
+/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
+"MIB-fp-Next.title" = "Uaktywnij następny panel";
+/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
+"MIB-fp-Prev.title" = "Uaktywnij poprzedni panel";
+/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
+"MIB-he-fld.title" = "Ukryj puste foldery";
+/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
+"MIB-hr-tgl.title" = "Pokaż sumy kontrolne";
+/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
+"mib-icon-view.title" = "Widok ikon";
+/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
+"MIB-ss-Fw01.title" = "Pokaz slajdów";
+/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
+"mib-toggle-pathbar.title" = "Ukryj pasek ścieżki";
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
+"Mk8-19-gqf.title" = "Element";

@@ -38,7 +38,10 @@
 "t2Q-rY-XuF.title" = "Ajouter un bouton BetterZip dans la barre d'outils du Finder";
 
 /* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
-"tI1-Pg-one.label" = "";
+"tI1-Pg-one.label" = "Comportement à l'ouverture";
 
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
-"tI2-Pg-two.label" = "";
+"tI2-Pg-two.label" = "Options";
+
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "Installer le plug-in Launcher de BetterTouchTool";

@@ -1,0 +1,58 @@
+/* Compound row (All/Any of the following are true) */
+"%[All, Any]@ %[of the following are true]@" = "%[Todos, Quaisquer]@ %[dos seguintes são verdadeiros]@";
+
+/* (No Comment) */
+"%[kind]@ %@ %@" = "%[Tipo]@ %@ %@";
+
+/* Left-hand attribute labels (string rows, 3-view) */
+"%[name]@ %@ %@" = "%[Nome]@ %@ %@";
+
+/* (No Comment) */
+"%[path]@ %@ %@" = "%[Caminho]@ %@ %@";
+
+/* (No Comment) */
+"%[timeV]@ %@ %@ %@" = "%[Data de Modificação]@ %@ %@ %@";
+
+/* Left-hand attribute labels (4-view rows: size and date) */
+"%[uncoV]@ %@ %@ %@" = "%[Tamanho]@ %@ %@ %@";
+
+/* (No Comment) */
+"%@ %[begins with]@ %@" = "%@ %[começa com]@ %@";
+
+/* (No Comment) */
+"%@ %[contains]@ %@" = "%@ %[contém]@ %@";
+
+/* (No Comment) */
+"%@ %[ends with]@ %@" = "%@ %[termina com]@ %@";
+
+/* (No Comment) */
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[é no mínimo]@ %@ %@";
+
+/* (No Comment) */
+"%@ %[is greater than]@ %@ %@" = "%@ %[é maior que]@ %@ %@";
+
+/* (No Comment) */
+"%@ %[is less than or equal to]@ %@ %@" = "%@ %[é no máximo]@ %@ %@";
+
+/* (No Comment) */
+"%@ %[is less than]@ %@ %@" = "%@ %[é menor que]@ %@ %@";
+
+/* (No Comment) */
+"%@ %[is like]@ %@" = "%@ %[é como]@ %@";
+
+/* (No Comment) */
+"%@ %[is not]@ %@" = "%@ %[não é]@ %@";
+
+/* (No Comment) */
+"%@ %[is not]@ %@ %@" = "%@ %[não é]@ %@ %@";
+
+/* String operators (3-view rows) */
+"%@ %[is]@ %@" = "%@ %[é]@ %@";
+
+/* Size operators (4-view rows with KB/MB/GB unit popup). The "is" / "is not"
+   entries are shared by the absolute-date rows (which keep these titles). */
+"%@ %[is]@ %@ %@" = "%@ %[é]@ %@ %@";
+
+/* (No Comment) */
+"%@ %[matches]@ %@" = "%@ %[corresponde a]@ %@";
+

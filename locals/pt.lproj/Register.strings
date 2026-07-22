@@ -1,3 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "Ativar BetterZip com Código de Revendedor";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "Registro do BetterZip";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Abra a página de compra no navegador.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "Abra a página de compra no navegador.";
+
 /* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
 "138.title" = "Perdi Minha Licença";
 
@@ -8,25 +20,13 @@
 "141.title" = "Comprar Agora";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Copy/paste the key from the e-mail you received."; ObjectID = "142"; */
-"142.placeholderString" = "Copie a licença do e-mail que você recebeu.";
+"142.placeholderString" = "Copie a licença do e‑mail que você recebeu.";
 
 /* Class = "NSButtonCell"; title = "Later"; ObjectID = "143"; */
 "143.title" = "Mais Tarde";
 
 /* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
 "144.title" = "Licença:";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
-"17.ibShadowedToolTip" = "Abra a página de compra no navegador.";
-
-/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
-"5qB-2K-8i7.title" = "Ativar BetterZip com Código de Revendedor";
-
-/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
-"8.title" = "Registro do BetterZip";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
-"98O-gG-uXk.ibShadowedToolTip" = "Abra a página de compra no navegador.";
 
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "Voltar";
@@ -44,4 +44,5 @@
 "t2U-Sw-lRl.title" = "O BetterZip precisa personalizar esse código com o seu endereço de e‑mail para ser ativado.\n";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
-"VOR-xE-oVT.placeholderString" = "Seu endereço de e-mail";
+"VOR-xE-oVT.placeholderString" = "Seu endereço de e‑mail";
+

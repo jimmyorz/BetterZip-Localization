@@ -2,16 +2,40 @@
 "Add Items to New Archive in BetterZip" = "Adicionar Itens a Novo Arquivo Comprimido no BetterZip";
 
 /* (No Comment) */
-"Compress with Preset" = "Comprimir com Pré-Ajuste";
+"Compress with BetterZip" = "Comprimir com BetterZip";
+
+/* (No Comment) */
+"Compress with Preset" = "Comprimir com Pré‑ajuste";
+
+/* No comment provided by engineer. */
+"Error" = "Erro";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "O comando externo retornou: %1$d%2$c";
 
 /* (No Comment) */
 "Extract to" = "Extrair para";
 
 /* (No Comment) */
-"Extract with Preset" = "Extrair com Pré-Ajuste";
+"Extract with BetterZip" = "Extrair com BetterZip";
+
+/* (No Comment) */
+"Extract with Preset" = "Extrair com Pré‑ajuste";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "Ignorar e Prosseguir";
 
 /* (No Comment) */
 "Next to Archives" = "Junto aos Arquivos Comprimidos";
+
+/* No comment provided by engineer. */
+"No compression" = "Sem compressão";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "Sem criptografia";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
 
 /* (No Comment) */
 "Open in BetterZip" = "Abrir no BetterZip";
@@ -22,6 +46,24 @@
   Created by Robert Rezabek on 07.05.17. */
 "Other Actions" = "Outras Ações";
 
+/* No comment provided by engineer. */
+"Other…" = "Outro…";
+
+/* (No Comment) */
+"Start collecting items in a new archive" = "Iniciar coleta de itens num novo arquivo comprimido";
+
+/* No comment provided by engineer. */
+"Stop" = "Parar";
+
 /* (No Comment) */
 "Test Validity of Archives" = "Testar Validade dos Arquivos Comprimidos";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "Não foi possível encontrar o auxiliar %@ ou talvez ele não seja executável.";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "Não há espaço livre suficiente no disco de destino.";
+
+/* No comment provided by engineer. */
+"Warning" = "Aviso";
 

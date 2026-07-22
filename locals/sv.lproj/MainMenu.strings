@@ -1,6 +1,54 @@
 /* Class = "NSMenuItem"; title = "Filename Encoding"; ObjectID = "0np-zc-OqJ"; */
 "0np-zc-OqJ.title" = "Filnamnskodning";
 
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
+"2EB-am-V2D.title" = "Lägg alla överst";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
+"2Jl-u9-6ra.title" = "Gå";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Lägg alla överst";
+
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
+"7cI-yB-lv7.title" = "Stäng filen";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Fönster";
+
+/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
+"20p-td-SPJ.title" = "Flytta arkiv till";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimera";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Fönster";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "Huvudmeny";
+
+/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
+"56.title" = "BetterZip";
+
+/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
+"57.title" = "BetterZip";
+
+/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
+"58.title" = "Om BetterZip";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "Öppna…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Arkiv";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
+"82.title" = "Ny";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Arkiv";
+
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
 "103.title" = "Hjälp";
 
@@ -67,14 +115,8 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
 "173.title" = "Gör om";
 
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "Fönster";
-
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "203"; */
 "203.title" = "Zooma";
-
-/* Class = "NSMenu"; title = "Move Archive to"; ObjectID = "20p-td-SPJ"; */
-"20p-td-SPJ.title" = "Flytta arkiv till";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "215"; */
 "215.title" = "Visa";
@@ -88,14 +130,8 @@
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "220"; */
 "220.title" = "Anpassa verktygslisten…";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "Minimera";
-
 /* Class = "NSMenuItem"; title = "Transcript"; ObjectID = "238"; */
 "238.title" = "Transkript";
-
-/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "Fönster";
 
 /* Class = "NSMenuItem"; title = "Visit Our Website"; ObjectID = "240"; */
 "240.title" = "Besök vår hemsida";
@@ -117,15 +153,6 @@
 
 /* Class = "NSMenuItem"; title = "Add to Archive…"; ObjectID = "283"; */
 "283.title" = "Lägg till i arkiv…";
-
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
-"29.title" = "Huvudmeny";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "2EB-am-V2D"; */
-"2EB-am-V2D.title" = "Lägg alla överst";
-
-/* Class = "NSMenuItem"; title = "Go"; ObjectID = "2Jl-u9-6ra"; */
-"2Jl-u9-6ra.title" = "Gå";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "304"; */
 "304.title" = "Stäng";
@@ -210,33 +237,6 @@
 
 /* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "423"; */
 "423.title" = "Mindre";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "Lägg alla överst";
-
-/* Class = "NSMenuItem"; title = "BetterZip"; ObjectID = "56"; */
-"56.title" = "BetterZip";
-
-/* Class = "NSMenu"; title = "BetterZip"; ObjectID = "57"; */
-"57.title" = "BetterZip";
-
-/* Class = "NSMenuItem"; title = "About BetterZip"; ObjectID = "58"; */
-"58.title" = "Om BetterZip";
-
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
-"72.title" = "Öppna…";
-
-/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "Stäng filen";
-
-/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
-"81.title" = "Arkiv";
-
-/* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
-"82.title" = "Ny";
-
-/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "Arkiv";
 
 /* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "aoH-k1-Ujp"; */
 "aoH-k1-Ujp.title" = "Kodning:";
@@ -328,10 +328,7 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "Inställningar…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "Radera med mönster";
-
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
 "RyC-7H-3JR.title" = "Inställningar…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
@@ -354,3 +351,7 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "Framåt";
+
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "Installera BetterTouchTool Launcher-plugin";

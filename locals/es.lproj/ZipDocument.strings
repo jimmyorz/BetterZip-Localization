@@ -71,7 +71,7 @@
 "326.title" = "Otras Vistas";
 
 /* Class = "NSMenuItem"; title = "No encryption"; ObjectID = "327"; */
-"327.title" = "Sin cifrado";
+"327.title" = "Sin encriptar";
 
 /* Class = "NSMenuItem"; title = "Strong (AES-256, WinZip compatible)"; ObjectID = "329"; */
 "329.title" = "Fuerte (AES-256, compatible WinZip)";
@@ -89,10 +89,10 @@
 "389.label" = "PDF";
 
 /* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
-"3Db-W6-KiY.title" = "Columnas con tamaño automático";
+"3Db-W6-KiY.title" = "Ajustar columnas automáticamente";
 
 /* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
-"5hI-Ex-L0h.label" = "";
+"5hI-Ex-L0h.label" = "Esquema";
 
 /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; Note = "don't translate"; */
 "601.title" = "Título";
@@ -104,7 +104,7 @@
 "603.title" = "Advertencia";
 
 /* Class = "NSTextFieldCell"; title = "Warning message text"; ObjectID = "604"; */
-"604.title" = "Texto mensaje advertencia";
+"604.title" = "Mensaje de advertencia";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "605"; */
 "605.title" = "Aceptar";
@@ -134,7 +134,7 @@
 "637.title" = "Ver como texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "648"; Note = "don't translate"; */
-"648.title" = "Texto celda";
+"648.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Detail"; ObjectID = "659"; */
 "659.title" = "Detalle";
@@ -164,7 +164,7 @@
 "705.headerCell.title" = "Tipo";
 
 /* Class = "NSTableColumn"; headerCell.title = "Ratio"; ObjectID = "706"; */
-"706.headerCell.title" = "Proporción";
+"706.headerCell.title" = "Tasa compresión";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "707"; */
 "707.headerCell.title" = "Nombre";
@@ -182,22 +182,22 @@
 "711.headerCell.title" = "Atributos";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "713"; Note = "don't translate"; */
-"713.title" = "Texto Celda";
+"713.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "714"; Note = "don't translate"; */
-"714.title" = "Texto Celda";
+"714.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "715"; Note = "don't translate"; */
-"715.title" = "Texto Celda";
+"715.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "716"; Note = "don't translate"; */
-"716.title" = "Texto Celda";
+"716.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "718"; Note = "don't translate"; */
-"718.title" = "Texto Celda";
+"718.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; Note = "don't translate"; */
-"720.title" = "Texto Celda";
+"720.title" = "Celda de texto";
 
 /* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
 "7f0-k5-lWA.headerCell.title" = "valor";
@@ -209,10 +209,10 @@
 "855.title" = "Cancelar";
 
 /* Class = "NSButtonCell"; title = "Set the archive's date to the latest date in the archive"; ObjectID = "887"; */
-"887.title" = "Ajustar fecha del archivo a la última fecha en el archivo";
+"887.title" = "Usar la fecha más reciente del contenido como fecha del archivo.";
 
 /* Class = "NSTextFieldCell"; title = "Run when done:"; ObjectID = "895"; Note = "@changed-6.0b2 (previous: \"Run script when done:\")"; */
-"895.title" = "Ejecutar script cuando finalize:";
+"895.title" = "Ejecutar al finalizar: ";
 
 /* Class = "NSButtonCell"; alternateTitle = "Fewer options"; ObjectID = "899"; */
 "899.alternateTitle" = "Menos opciones";
@@ -272,16 +272,16 @@
 "bRl-As-x1L.title" = "Mostrar en el Finder";
 
 /* Class = "NSToolbarItem"; label = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.label" = "";
+"cd1-SN-QSP.label" = "Recopilar";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.paletteLabel" = "";
+"cd1-SN-QSP.paletteLabel" = "Recopilar";
 
 /* Class = "NSToolbarItem"; toolTip = "Toggle Collecting from Clipboard"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.toolTip" = "";
+"cd1-SN-QSP.toolTip" = "Alternar captura del portapapeles";
 
 /* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "Dng-16-a4Q"; Note = "@new-6.0b2"; */
-"Dng-16-a4Q.title" = "";
+"Dng-16-a4Q.title" = "Cargar o guardar preajuste";
 
 /* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "drc-eC-pc8"; */
 "drc-eC-pc8.headerCell.title" = "Método";
@@ -296,52 +296,52 @@
 "Eqj-CB-527.headerCell.title" = "Comentario";
 
 /* Class = "NSButtonCell"; title = "Exclude empty folders"; ObjectID = "ext-bc-eef"; Note = "@new-6.0b2"; */
-"ext-bc-eef.title" = "";
+"ext-bc-eef.title" = "Excluir carpetas vacías";
 
 /* Class = "NSButtonCell"; title = "Extract flat"; ObjectID = "ext-bc-flt"; Note = "@new-6.0b2"; */
-"ext-bc-flt.title" = "";
+"ext-bc-flt.title" = "Extraer sin subcarpetas";
 
 /* Class = "NSButtonCell"; title = "Show extracted files in Finder"; ObjectID = "ext-bc-rev"; Note = "@new-6.0b2"; */
-"ext-bc-rev.title" = "";
+"ext-bc-rev.title" = "Mostrar archivos extraídos en Finder";
 
 /* Class = "NSTextFieldCell"; title = "Exclude:"; ObjectID = "ext-lc-exc"; Note = "@new-6.0b2"; */
-"ext-lc-exc.title" = "";
+"ext-lc-exc.title" = "Excluir:";
 
 /* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "ext-lc-mov"; Note = "@new-6.0b2"; */
-"ext-lc-mov.title" = "";
+"ext-lc-mov.title" = "Mover archivo a: ";
 
 /* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "ext-lc-ren"; Note = "@new-6.0b2"; */
-"ext-lc-ren.title" = "";
+"ext-lc-ren.title" = "Renombrar elementos:";
 
 /* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "ext-lc-scr"; Note = "@new-6.0b2"; */
-"ext-lc-scr.title" = "";
+"ext-lc-scr.title" = "Ejecutar script:";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
-"ext-mi-exc.title" = "";
+"ext-mi-exc.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "Don't move"; ObjectID = "ext-mi-mov"; Note = "@new-6.0b2"; */
-"ext-mi-mov.title" = "";
+"ext-mi-mov.title" = "No mover";
 
 /* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "ext-mi-pre"; Note = "@new-6.0b2"; */
-"ext-mi-pre.title" = "";
+"ext-mi-pre.title" = "Cargar o guardar preajuste";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-ren"; Note = "@new-6.0b2"; */
-"ext-mi-ren.title" = "";
+"ext-mi-ren.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-scr"; Note = "@new-6.0b2"; */
-"ext-mi-scr.title" = "";
+"ext-mi-scr.title" = "Ninguno";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-exc"; Note = "don't translate"; */
-"ext-mn-exc.title" = "OtherViews";
+"ext-mn-exc.title" = "Otras vistas";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-mov"; Note = "don't translate"; */
-"ext-mn-mov.title" = "OtherViews";
+"ext-mn-mov.title" = "Otras vistas";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-pre"; Note = "don't translate"; */
-"ext-mn-pre.title" = "OtherViews";
+"ext-mn-pre.title" = "Otras vistas";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-ren"; Note = "don't translate"; */
-"ext-mn-ren.title" = "OtherViews";
+"ext-mn-ren.title" = "Otras vistas";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fWl-GQ-HyD"; Note = "don't translate"; */
 "fWl-GQ-HyD.title" = "Celda de vista de tabla";
@@ -359,31 +359,31 @@
 "g4x-oH-yuM.placeholderString" = "Comentario";
 
 /* Class = "NSTabViewItem"; label = "QuickLook"; ObjectID = "G7l-Ul-mns"; */
-"G7l-Ul-mns.label" = "";
+"G7l-Ul-mns.label" = "Previsualización";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy to Pasteboard"; ObjectID = "Gba-6O-FHF"; Note = "@new-6.0b2"; */
-"Gba-6O-FHF.ibShadowedToolTip" = "";
+"Gba-6O-FHF.ibShadowedToolTip" = "Copiar al portapapeles";
 
 /* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "h0w-vY-MO7"; */
 "h0w-vY-MO7.title" = "Mover original a:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Compare to Pasteboard"; ObjectID = "HAS-cb-btn"; Note = "@new-6.0b2"; */
-"HAS-cb-btn.ibShadowedToolTip" = "";
+"HAS-cb-btn.ibShadowedToolTip" = "Comparar con el portapapeles";
 
 /* Class = "NSMenuItem"; title = "CRC32"; ObjectID = "HAS-mi-cr"; Note = "@new-6.0b2"; */
-"HAS-mi-cr.title" = "";
+"HAS-mi-cr.title" = "CRC32";
 
 /* Class = "NSMenuItem"; title = "MD5"; ObjectID = "HAS-mi-md"; Note = "@new-6.0b2"; */
-"HAS-mi-md.title" = "";
+"HAS-mi-md.title" = "MD5";
 
 /* Class = "NSMenuItem"; title = "SHA-1"; ObjectID = "HAS-mi-s1"; Note = "@new-6.0b2"; */
-"HAS-mi-s1.title" = "";
+"HAS-mi-s1.title" = "SHA-1";
 
 /* Class = "NSMenuItem"; title = "SHA-256"; ObjectID = "HAS-mi-s2"; Note = "@new-6.0b2"; */
-"HAS-mi-s2.title" = "";
+"HAS-mi-s2.title" = "SHA-256";
 
 /* Class = "NSMenuItem"; title = "SHA-512"; ObjectID = "HAS-mi-s5"; Note = "@new-6.0b2"; */
-"HAS-mi-s5.title" = "";
+"HAS-mi-s5.title" = "SHA-512";
 
 /* Class = "NSToolbarItem"; label = "Save"; ObjectID = "Hk7-5H-N8G"; */
 "Hk7-5H-N8G.label" = "Guardar";
@@ -410,7 +410,7 @@
 "j6w-GE-ey8.toolTip" = "Probar la integridad del archivo";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JR7-lR-q6a"; Note = "don't translate"; */
-"JR7-lR-q6a.title" = "OtherViews";
+"JR7-lR-q6a.title" = "Otras vistas";
 
 /* Class = "NSToolbarItem"; toolTip = "Search the archive file"; ObjectID = "lAz-UZ-j4a"; */
 "lAz-UZ-j4a.toolTip" = "Buscar en el archivo";
@@ -425,16 +425,16 @@
 "M6K-Iz-FQE.ibShadowedToolTip" = "Contraseña predeterminada";
 
 /* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "MIB-rn-lbc"; Note = "@new-6.0b2"; */
-"MIB-rn-lbc.title" = "";
+"MIB-rn-lbc.title" = "Renombrar elementos";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MIB-rn-men"; Note = "don't translate"; */
-"MIB-rn-men.title" = "OtherViews";
+"MIB-rn-men.title" = "Otras vistas";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-rn-non"; Note = "@new-6.0b2"; */
-"MIB-rn-non.title" = "";
+"MIB-rn-non.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-zd-non"; Note = "@new-6.0b2"; */
-"MIB-zd-non.title" = "";
+"MIB-zd-non.title" = "Ninguno";
 
 /* Class = "NSToolbarItem"; label = "View"; ObjectID = "mTa-N6-F1u"; */
 "mTa-N6-F1u.label" = "Ver";
@@ -455,19 +455,19 @@
 "nfD-Px-ynP.ibShadowedToolTip" = "Cancelar la edición del comentario";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nzp-Eb-OZ3"; Note = "don't translate"; */
-"nzp-Eb-OZ3.title" = "Texto Celda";
+"nzp-Eb-OZ3.title" = "Celda de texto";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8r-P4-qfV"; Note = "don't translate"; */
-"O8r-P4-qfV.title" = "Texto Celda";
+"O8r-P4-qfV.title" = "Celda de texto";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
-"pTg-mn-c1A.title" = "OtherViews";
+"pTg-mn-c1A.title" = "Otras vistas";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
-"qFO-f9-zNK.title" = "Excluir los patrones:";
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
+"qFO-f9-zNK.title" = "Excluir filtros:";
 
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
-"QwO-eZ-IVh.label" = "";
+"QwO-eZ-IVh.label" = "Explorador";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Save comment"; ObjectID = "QXz-Vs-X5W"; */
 "QXz-Vs-X5W.ibShadowedToolTip" = "Guardar comentario";
@@ -494,31 +494,31 @@
 "sqM-P8-N3J.toolTip" = "Añadir un archivo nuevo o carpeta al archivo";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "t44-mi-non"; Note = "@new-6.0b2"; */
-"t44-mi-non.title" = "";
+"t44-mi-non.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "Item1"; ObjectID = "T9W-iu-Su0"; */
 "T9W-iu-Su0.title" = "Item1";
 
 /* Class = "NSTextFieldCell"; title = "Recovery volumes:"; ObjectID = "tn1-wt-m8P"; Note = "@new-6.0b2"; */
-"tn1-wt-m8P.title" = "";
+"tn1-wt-m8P.title" = "Volúmenes de recuperación:";
 
 /* Class = "NSTabViewItem"; label = "Icon"; ObjectID = "uGn-zk-IBN"; Note = "@new-6.0b2"; */
-"uGn-zk-IBN.label" = "";
+"uGn-zk-IBN.label" = "Icono";
 
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "VfB-Ez-dR2"; */
 "VfB-Ez-dR2.title" = "Item2";
 
 /* Class = "NSTextFieldCell"; title = "Recovery records:"; ObjectID = "VFD-T9-BFv"; Note = "@new-6.0b2"; */
-"VFD-T9-BFv.title" = "";
+"VFD-T9-BFv.title" = "Registros de recuperación:";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vMN-qb-Ugo"; Note = "don't translate"; */
-"vMN-qb-Ugo.title" = "Text Cell";
+"vMN-qb-Ugo.title" = "Celda de texto";
 
 /* Class = "NSTabViewItem"; label = "Web"; ObjectID = "VrR-IH-vfd"; Note = "@new-6.0b2"; */
-"VrR-IH-vfd.label" = "";
+"VrR-IH-vfd.label" = "Web";
 
 /* Class = "NSTextFieldCell"; title = "After successful extraction"; ObjectID = "Vuk-qW-L0y"; Note = "@new-6.0b2"; */
-"Vuk-qW-L0y.title" = "";
+"Vuk-qW-L0y.title" = "Tras finalizar la extracción: ";
 
 /* Class = "NSToolbarItem"; label = "Move"; ObjectID = "wOI-VI-shq"; */
 "wOI-VI-shq.label" = "Mover";
@@ -551,7 +551,7 @@
 "Yrg-un-hwR.toolTip" = "Eliminar los archivos seleccionados o carpetas del archivo";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yWf-Lk-fWN"; Note = "don't translate"; */
-"yWf-Lk-fWN.title" = "Texto Celda";
+"yWf-Lk-fWN.title" = "Celda de texto";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Hide follow-up parts of multi-volume archives"; ObjectID = "YXr-Xn-USm"; */
 "YXr-Xn-USm.ibShadowedToolTip" = "Ocultar partes de seguimiento de archivos multi-volumen";
@@ -563,7 +563,7 @@
 "zbK-89-hjt.headerCell.title" = "Tamaño Total";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zoC-fh-3zP"; Note = "don't translate"; */
-"zoC-fh-3zP.title" = "Texto celda";
+"zoC-fh-3zP.title" = "Celda de texto";
 
 /* Class = "NSToolbarItem"; label = "Extract"; ObjectID = "ZOm-75-O5R"; */
 "ZOm-75-O5R.label" = "Extraer";

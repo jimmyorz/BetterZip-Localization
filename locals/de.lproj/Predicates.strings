@@ -1,0 +1,35 @@
+/* Formatierungs-Strings für NSPredicateEditor in PatternWindowController.
+   Geladen über predicateEditor.formattingStringsFilename = "Predicates".
+   Die Datums-Operatoren (vor / nach / liegt in den letzten / …) werden NICHT
+   hier gesetzt, sondern direkt am Pop-up in PatternWindowController.m
+   (MIBRenameOperatorPopup) und über Localizable.strings lokalisiert. */
+
+/* Linke Spalte (String-Zeilen, 3-View) */
+"%[name]@ %@ %@"  = "%[Name]@ %@ %@";
+"%[path]@ %@ %@"  = "%[Pfad]@ %@ %@";
+"%[kind]@ %@ %@"  = "%[Art]@ %@ %@";
+
+/* Linke Spalte (4-View-Zeilen: Größe und Datum) */
+"%[uncoV]@ %@ %@ %@" = "%[Größe]@ %@ %@ %@";
+"%[timeV]@ %@ %@ %@" = "%[Änderungsdatum]@ %@ %@ %@";
+
+/* String-Operatoren (3-View-Zeilen) */
+"%@ %[is]@ %@"          = "%@ %[ist]@ %@";
+"%@ %[is not]@ %@"      = "%@ %[ist nicht]@ %@";
+"%@ %[contains]@ %@"    = "%@ %[enthält]@ %@";
+"%@ %[begins with]@ %@" = "%@ %[beginnt mit]@ %@";
+"%@ %[ends with]@ %@"   = "%@ %[endet auf]@ %@";
+"%@ %[is like]@ %@"     = "%@ %[ist wie]@ %@";
+"%@ %[matches]@ %@"     = "%@ %[entspricht Regex]@ %@";
+
+/* Größen-Operatoren (4-View-Zeilen mit Einheiten-Popup). „ist" / „ist nicht"
+   werden auch von den absoluten Datums-Zeilen verwendet. */
+"%@ %[is]@ %@ %@"                          = "%@ %[ist]@ %@ %@";
+"%@ %[is not]@ %@ %@"                      = "%@ %[ist nicht]@ %@ %@";
+"%@ %[is less than]@ %@ %@"                = "%@ %[ist kleiner als]@ %@ %@";
+"%@ %[is greater than]@ %@ %@"             = "%@ %[ist größer als]@ %@ %@";
+"%@ %[is less than or equal to]@ %@ %@"    = "%@ %[ist höchstens]@ %@ %@";
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[ist mindestens]@ %@ %@";
+
+/* Verbund-Zeile (Alle/Beliebige der folgenden Bedingungen sind erfüllt) */
+"%[All, Any]@ %[of the following are true]@" = "%[Alle, Beliebige]@ %[der folgenden Bedingungen sind erfüllt]@";

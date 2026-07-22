@@ -11,9 +11,6 @@
 "BinHex Archive" = "Archiwum BinHex";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Archiwum Brotli";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Skompresowane Brotli Archiwum TAR";
 
 /* No comment provided by engineer. */
@@ -28,44 +25,8 @@
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
-/* Get Info string */
-"CFBundleGetInfoString" = "";
-
-/* Bundle name */
-"CFBundleName" = "";
-
-/* No comment provided by engineer. */
-"Chromium Extra" = "";
-
-/* No comment provided by engineer. */
-"Comicbook RAR Archive" = "";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "";
-
-/* No comment provided by engineer. */
-"Compiled HTML Archive" = "";
-
-/* No comment provided by engineer. */
-"Compressed CPIO Archive" = "";
-
 /* No comment provided by engineer. */
 "CPIO Archive" = "Archiwum CPIO";
-
-/* No comment provided by engineer. */
-"Debian Linux Package" = "";
-
-/* No comment provided by engineer. */
-"DiskDoubler Archive" = "";
-
-/* No comment provided by engineer. */
-"Electronic Publication (ePub)" = "";
-
-/* No comment provided by engineer. */
-"GZip Archive" = "";
-
-/* No comment provided by engineer. */
-"GZipped Tar Archive" = "";
 
 /* No comment provided by engineer. */
 "Java ZIP Archive" = "Archiwum Java ZIP";
@@ -73,56 +34,49 @@
 /* No comment provided by engineer. */
 "LHA Archive" = "Archiwum LHA";
 
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "";
-
-/* No comment provided by engineer. */
-"Microsoft E-mail Attachment" = "";
-
 /* Privacy - AppleEvents Sending Usage Description */
 "NSAppleEventsUsageDescription" = "Wykonaj zdefiniowane przez użytkownika skrypty AppleScript po kompresji i rozpakowaniu archiwów.";
 
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Twój adres e-mail będzie używany tylko do wypełnienia pola kontaktowego w raporcie awarii BetterZip.";
 
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"ZIP Archive" = "Archiwum ZIP";
+"Comicbook ZIP Archive" = "Archiwum ZIP Comicbook";
+"Chromium Extra" = "Chromium Extra";
+"Segmented Archive" = "Archiwum segmentowane";
+"Python Egg" = "Python Egg";
+"TAR Archive" = "Archiwum TAR";
+"GZip Archive" = "Archiwum GZip";
+"GZipped Tar Archive" = "Skompresowane GZip Archiwum TAR";
+"xz compressed TAR Archive" = "Skompresowane xz Archiwum TAR";
+"xz compressed Archive" = "Archiwum xz";
+"Zstandard compressed TAR Archive" = "Skompresowane Zstandard Archiwum TAR";
+"Zstandard compressed Archive" = "Archiwum Zstandard";
+"Brotli compressed Archive" = "Archiwum Brotli";
+"Comicbook RAR Archive" = "Archiwum RAR Comicbook";
+"RAR Archive" = "Archiwum RAR";
+"RAR Legacy Archive" = "Starsze archiwum RAR";
+"Compressed CPIO Archive" = "Skompresowane archiwum CPIO";
+"Compiled HTML Archive" = "Skompilowane archiwum HTML";
+"Disk Image" = "Obraz dysku";
+"ISO Disk Image" = "Obraz dysku ISO";
+"Debian Linux Package" = "Pakiet Debian Linux";
+"RPM Linux Archive" = "Archiwum RPM Linux";
+"NSIS Archive" = "Archiwum NSIS";
+"Stuffit Archive" = "Archiwum Stuffit";
+"DiskDoubler Archive" = "Archiwum DiskDoubler";
+"MacBinary File" = "Plik MacBinary";
+"XAR Archive" = "Archiwum XAR";
+"Microsoft E-mail Attachment" = "Załącznik e-mail Microsoft";
+"Electronic Publication (ePub)" = "Publikacja elektroniczna (ePub)";
+"User-Defined Archive" = "Archiwum zdefiniowane przez użytkownika";
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
+/* Get Info string */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+/* Bundle name */
+"CFBundleName" = "BetterZip";
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";
-
-/* No comment provided by engineer. */
-"NSIS Archive" = "";
-
-/* No comment provided by engineer. */
-"Python Egg" = "";
-
-/* No comment provided by engineer. */
-"RAR Archive" = "";
-
-/* No comment provided by engineer. */
-"Segmented Archive" = "";
-
-/* No comment provided by engineer. */
-"Stuffit Archive" = "";
-
-/* No comment provided by engineer. */
-"TAR Archive" = "";
-
-/* No comment provided by engineer. */
-"User-Defined Archive" = "";
-
-/* No comment provided by engineer. */
-"xz Archive" = "";
-
-/* No comment provided by engineer. */
-"xz compressed TAR Archive" = "";
-
-/* No comment provided by engineer. */
-"ZIP Archive" = "";
-
-/* No comment provided by engineer. */
-"Zip Archive" = "";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "";
-
-/* No comment provided by engineer. */
-"Zstandard compressed TAR Archive" = "";
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";

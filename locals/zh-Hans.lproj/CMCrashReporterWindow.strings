@@ -1,26 +1,26 @@
-/* Class = "NSWindow"; title = "Report a Crash"; ObjectID = "1"; Note = "@new-6.0b2"; */
-"1.title" = "";
+/* Class = "NSWindow"; title = "Report a Crash"; ObjectID = "1"; Note = "@new-6.0b2; @new-6.0b4"; */
+"1.title" = "报告崩溃";
 
-/* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2"; */
-"198.title" = "";
+/* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2; @new-6.0b4"; */
+"198.title" = "糟糕，这个应用程序上次似乎意外退出了。您可以向我们发送报告，以帮助我们改进这个应用程序。";
 
-/* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2"; */
-"200.title" = "";
+/* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2; @new-6.0b4"; */
+"200.title" = "包含带技术信息的匿名崩溃报告";
 
-/* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2"; */
-"201.title" = "";
+/* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2; @new-6.0b4"; */
+"201.title" = "请说明应用程序崩溃时您正在执行的操作。（可选）";
 
-/* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2"; */
-"203.title" = "";
+/* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2; @new-6.0b4"; */
+"203.title" = "报告";
 
-/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "204"; Note = "@new-6.0b2"; */
-"204.title" = "";
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "204"; Note = "@new-6.0b2; @new-6.0b4"; */
+"204.title" = "忽略";
 
-/* Class = "NSButtonCell"; title = "Don't show this anymore"; ObjectID = "205"; Note = "@new-6.0b2"; */
-"205.title" = "";
+/* Class = "NSButtonCell"; title = "Don't show this anymore"; ObjectID = "205"; Note = "@new-6.0b2; @new-6.0b4"; */
+"205.title" = "不再显示";
 
-/* Class = "NSTextFieldCell"; title = "Email address:"; ObjectID = "206"; Note = "@new-6.0b2"; */
-"206.title" = "";
+/* Class = "NSTextFieldCell"; title = "Email address:"; ObjectID = "206"; Note = "@new-6.0b2; @new-6.0b4"; */
+"206.title" = "电子邮件地址：";
 
-/* Class = "NSTextFieldCell"; title = "Please leave an email address so we may contact you for more information about this crash."; ObjectID = "207"; Note = "@new-6.0b2"; */
-"207.title" = "";
+/* Class = "NSTextFieldCell"; title = "Please leave an email address so we may contact you for more information about this crash."; ObjectID = "207"; Note = "@new-6.0b2; @new-6.0b4"; */
+"207.title" = "请留下电子邮件地址，以便我们就此次崩溃的更多信息与您联系。";

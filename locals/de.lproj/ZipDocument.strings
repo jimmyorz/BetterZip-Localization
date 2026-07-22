@@ -4,9 +4,6 @@
 /* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
 "3Db-W6-KiY.title" = "Automatische Spaltenbreite";
 
-/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
-"5hI-Ex-L0h.label" = "";
-
 /* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
 "6Il-Hd-fod.label" = "Drop-Bereich";
 
@@ -179,7 +176,7 @@
 "704.headerCell.title" = "Pfad";
 
 /* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "705"; */
-"705.headerCell.title" = "Dateityp";
+"705.headerCell.title" = "Art";
 
 /* Class = "NSTableColumn"; headerCell.title = "Ratio"; ObjectID = "706"; */
 "706.headerCell.title" = "Faktor";
@@ -358,9 +355,6 @@
 /* Class = "NSTextFieldCell"; placeholderString = "Comment"; ObjectID = "g4x-oH-yuM"; */
 "g4x-oH-yuM.placeholderString" = "Kommentar";
 
-/* Class = "NSTabViewItem"; label = "QuickLook"; ObjectID = "G7l-Ul-mns"; */
-"G7l-Ul-mns.label" = "";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Copy to Pasteboard"; ObjectID = "Gba-6O-FHF"; Note = "@new-6.0b2"; */
 "Gba-6O-FHF.ibShadowedToolTip" = "In die Zwischenablage kopieren";
 
@@ -463,7 +457,7 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
 "pTg-mn-c1A.title" = "OtherViews";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
 "qFO-f9-zNK.title" = "Suchmuster ausschließen:";
 
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
@@ -576,4 +570,3 @@
 
 /* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "zx3-jY-Ozc"; */
 "zx3-jY-Ozc.label" = "Inhalt";
-

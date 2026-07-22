@@ -1,76 +1,73 @@
-/* No comment provided by engineer. Note = "don't translate"; */
+/* (No Comment) */
+"(incl. %d hidden)" = "(%d 個の隠しファイルを含む)";
+
+/* No comment provided by engineer. */
 "%@ (damaged)" = "%@ (破損)";
 
 /* No comment provided by engineer. */
 "%@ could not be extracted. Error code: %ld" = "%1$@ を展開できませんでした。エラーコード: %2$ld";
 
-"%d item, uncompressed size: %@ %@" = "%1$d 項目、圧縮前サイズ: %2$@ %3$@";
-
-"%d items, uncompressed size: %@ %@" = "%1$d 項目、圧縮前サイズ: %2$@ %3$@";
-
 /* No comment provided by engineer. */
 "%d selected, uncompressed size: %@ %@" = "%1$d 個選択済み、圧縮前サイズ: %2$@ %3$@";
-
-"(incl. %d hidden)" = "(%d 個の隠しファイルを含む)";
 
 /* No comment provided by engineer. */
 "A volume is missing: %@." = "ボリュームが欠落しています: %@。";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Added" = "追加済み";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Cannot enumerate directory: %@" = "ディレクトリの数が不明です: %@";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Cannot open file: %@" = "ファイルが開けません: %@";
 
 /* No comment provided by engineer. */
 "Continue" = "続ける";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Corrupted" = "破損";
 
 /* No comment provided by engineer. */
 "Error" = "エラー";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "External command returned: %d%c" = "外部コマンドの戻り値: %1$d%2$c";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed" = "失敗";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (unpacking failed)" = "失敗 (展開できませんでした)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (unsupported)" = "失敗 (サポートしていない形式)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong checksum)" = "失敗 (チェックサム異常)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong password)" = "失敗 (パスワードが違います)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Failed (wrong size)" = "失敗 (サイズ異常)";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Ignore and go on" = "無視して続ける";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Modified" = "更新日時";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Moved" = "移動済み";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "No checksum" = "チェックサムなし";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "No compression" = "無圧縮";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Not encrypted" = "暗号化なし";
 
 /* No comment provided by engineer. */
@@ -79,22 +76,22 @@
 /* No comment provided by engineer. */
 "Opening archive failed" = "書庫を開けませんでした";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Other…" = "その他…";
 
 /* No comment provided by engineer. */
 "Stop" = "中止";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Testing: %@…" = "検査中: %@…";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "The helper tool %@ could not be found or is not executable." = "ヘルパーツール %@ が見つからないか、実行ができません。";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "rar ファイルの展開はメモリを大量に消費 (%@) します。続けてもよろしいですか?";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "There is not enough free space on the destination drive." = "対象のドライブに充分な空き容量がありません。";
 
 /* No comment provided by engineer. */
@@ -103,20 +100,21 @@
 /* Today title string */
 "Today" = "今日";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Unknown" = "不明";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Unpacking failed" = "展開できませんでした";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Updated" = "更新済み";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Warning" = "警告";
 
-/* No comment provided by engineer. Note = "don't translate"; */
+/* No comment provided by engineer. */
 "Wrong checksum" = "チェックサム異常";
 
 /* Yesterday title string */
 "Yesterday" = "昨日";
+

@@ -20,7 +20,7 @@
 "Added" = "Added";
 
 /* No comment provided by engineer. */
-"Additional Parameters" = "";
+"Additional Parameters" = "其他參數";
 
 /* No comment provided by engineer. Note = "don't translate"; */
 "Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
@@ -29,7 +29,7 @@
 "Cannot open file: %@" = "Cannot open file: %@";
 
 /* No comment provided by engineer. */
-"compression options" = "";
+"compression options" = "壓縮選項";
 
 /* No comment provided by engineer. */
 "Continue" = "繼續";
@@ -89,7 +89,7 @@
 "Other…" = "Other…";
 
 /* No comment provided by engineer. */
-"Refusing to run the command: the value for “%@” contains characters that are not allowed for security reasons (%@)." = "";
+"Refusing to run the command: the value for “%@” contains characters that are not allowed for security reasons (%@)." = "因安全性考量，拒絕執行命令：「%@」的值包含不允許的字元（%@）。";
 
 /* No comment provided by engineer. */
 "Stop" = "停止";

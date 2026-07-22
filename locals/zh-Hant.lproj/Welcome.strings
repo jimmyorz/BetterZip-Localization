@@ -14,7 +14,7 @@
 "bRc-Br-wse.title" = "瀏覽壓縮檔內容";
 
 /* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0"; */
-"btt-Ce-001.title" = "";
+"btt-Ce-001.title" = "安裝 BetterTouchTool 啟動器外掛程式";
 
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "立即解壓縮";

@@ -35,7 +35,7 @@
 "1419.title" = "RAR 工具路徑：";
 
 /* Class = "NSTextFieldCell"; title = "Manage your filters"; ObjectID = "1420"; */
-"1420.title" = "管理過濾器列表中的規則";
+"1420.title" = "管理過濾器";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
 "1423.title" = "回復預設值";
@@ -116,10 +116,10 @@
 "1564.title" = "Text Cell";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "159"; */
-"159.ibShadowedToolTip" = "加入新規則（⌘N）";
+"159.ibShadowedToolTip" = "加入新過濾器（⌘N）";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "160"; */
-"160.ibShadowedToolTip" = "移除所選規則（⌫）";
+"160.ibShadowedToolTip" = "移除所選過濾器（⌫）";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1624"; Note = "don't translate"; */
 "1624.title" = "OtherViews";
@@ -215,7 +215,7 @@
 "1670.ibShadowedToolTip" = "加入新預設組合（⌘N）";
 
 /* Class = "NSWindow"; title = "Settings"; ObjectID = "17"; */
-"17.title" = "偏好設定";
+"17.title" = "設定";
 
 /* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "1748"; */
 "1748.title" = "從壓縮檔中移除 Mac 特有項目";
@@ -449,7 +449,7 @@
 "7Qu-Ib-mZN.ibShadowedToolTip" = "設定此預設組合在拖放列中的顯示方式";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new filter>"; ObjectID = "83K-Oo-tNH"; */
-"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<新增規則>";
+"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<新增過濾器>";
 
 /* Class = "NSMenuItem"; title = "1"; ObjectID = "8RN-GJ-7fQ"; Note = "@new-6.0b2"; */
 "8RN-GJ-7fQ.title" = "1";
@@ -515,7 +515,7 @@
 "aY0-4Y-0cq.title" = "項目2";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "B6X-qu-uuB"; */
-"B6X-qu-uuB.ibShadowedToolTip" = "移除所選規則（⌫）";
+"B6X-qu-uuB.ibShadowedToolTip" = "移除所選過濾器（⌫）";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Configure these on the Filters tab"; ObjectID = "b7U-a9-zVL"; Note = "@new-6.0b2"; */
 "b7U-a9-zVL.ibShadowedToolTip" = "請在「過濾器」標籤頁中設定";
@@ -905,7 +905,7 @@
 "MmQ-Ln-iay.title" = "1 年";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "mOB-1s-KZf"; */
-"mOB-1s-KZf.ibShadowedToolTip" = "加入新規則（⌘N）";
+"mOB-1s-KZf.ibShadowedToolTip" = "加入新過濾器（⌘N）";
 
 /* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */
 "MWZ-CN-jVv.title" = "所有大小均以 KiB、MiB 和 GiB 顯示";

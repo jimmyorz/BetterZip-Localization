@@ -257,7 +257,7 @@
 "bE8-zU-bO4.title" = "刪除 Mac 特有檔案";
 
 /* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0"; */
-"btt-mn-001.title" = "";
+"btt-mn-001.title" = "安裝 BetterTouchTool 啟動器外掛程式";
 
 /* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
 "clt-mn-001.title" = "安裝命令列工具…";
@@ -329,13 +329,13 @@
 "PoJ-NB-tKs.title" = "打開 BetterZip 的應用程式支援資料夾";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "Q9U-li-Mpb"; */
-"Q9U-li-Mpb.title" = "偏好設定…";
+"Q9U-li-Mpb.title" = "設定…";
 
 /* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
-"QZx-8c-obf.title" = "使用規則刪除";
+"QZx-8c-obf.title" = "使用過濾器刪除";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "偏好設定…";
+"RyC-7H-3JR.title" = "設定…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
 "t4E-iF-PNO.title" = "移動壓縮檔到：";

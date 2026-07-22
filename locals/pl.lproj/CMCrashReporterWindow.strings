@@ -1,26 +1,22 @@
+/* All entries fall back to the Base/English localization. */
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
 /* Class = "NSWindow"; title = "Report a Crash"; ObjectID = "1"; Note = "@new-6.0b2"; */
-"1.title" = "";
-
+"1.title" = "Zgłoś awarię";
 /* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2"; */
-"198.title" = "";
-
+"198.title" = "Ups, wygląda na to, że ta aplikacja niespodziewanie zakończyła działanie ostatnim razem. Możesz wysłać nam raport, aby pomóc nam ulepszyć tę aplikację.";
 /* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2"; */
-"200.title" = "";
-
+"200.title" = "Dołącz anonimowy raport o awarii z informacjami technicznymi";
 /* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2"; */
-"201.title" = "";
-
+"201.title" = "Opisz, co robiłeś, gdy aplikacja uległa awarii. (opcjonalnie)";
 /* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2"; */
-"203.title" = "";
-
+"203.title" = "Zgłoś";
 /* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "204"; Note = "@new-6.0b2"; */
-"204.title" = "";
-
+"204.title" = "Zignoruj";
 /* Class = "NSButtonCell"; title = "Don't show this anymore"; ObjectID = "205"; Note = "@new-6.0b2"; */
-"205.title" = "";
-
+"205.title" = "Nie pokazuj tego ponownie";
 /* Class = "NSTextFieldCell"; title = "Email address:"; ObjectID = "206"; Note = "@new-6.0b2"; */
-"206.title" = "";
-
+"206.title" = "Adres e-mail:";
 /* Class = "NSTextFieldCell"; title = "Please leave an email address so we may contact you for more information about this crash."; ObjectID = "207"; Note = "@new-6.0b2"; */
-"207.title" = "";
+"207.title" = "Zostaw adres e-mail, abyśmy mogli skontaktować się z tobą w celu uzyskania dodatkowych informacji o tej awarii.";

@@ -109,6 +109,9 @@
 /* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "247"; */
 "247.title" = "放大";
 
+/* Class = "NSMenuItem"; title = "Extract Selected…"; ObjectID = "254"; Note = "@new-6.0b4"; */
+"254.title" = "解压已选文件…";
+
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "262"; */
 "262.title" = "全选";
 
@@ -144,6 +147,9 @@
 
 /* Class = "NSMenuItem"; title = "Show/Hide Toolbar"; ObjectID = "319"; */
 "319.title" = "显示/隐藏工具栏";
+
+/* Class = "NSMenuItem"; title = "Extract All…"; ObjectID = "322"; Note = "@new-6.0b4"; */
+"322.title" = "全部解压…";
 
 /* Class = "NSMenuItem"; title = "Flat List"; ObjectID = "326"; */
 "326.title" = "平铺列表";
@@ -226,8 +232,8 @@
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
 "72.title" = "打开…";
 
-/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; */
-"7cI-yB-lv7.title" = "";
+/* Class = "NSMenuItem"; title = "Close File"; ObjectID = "7cI-yB-lv7"; Note = "@new-6.0b4"; */
+"7cI-yB-lv7.title" = "关闭文件";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
 "81.title" = "文件";
@@ -256,11 +262,11 @@
 /* Class = "NSMenuItem"; title = "Delete Mac Files"; ObjectID = "bE8-zU-bO4"; */
 "bE8-zU-bO4.title" = "删除 Mac 文件";
 
-/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2"; */
-"clt-mn-001.title" = "";
+/* Class = "NSMenuItem"; title = "Install Command-Line Tool…"; ObjectID = "clt-mn-001"; Note = "@new-6.0b2; @new-6.0b4"; */
+"clt-mn-001.title" = "安装命令行工具…";
 
-/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2"; */
-"cZp-5v-C6Y.title" = "";
+/* Class = "NSMenuItem"; title = "Open the Services Folder in Finder"; ObjectID = "cZp-5v-C6Y"; Note = "@new-6.0b2; @new-6.0b4"; */
+"cZp-5v-C6Y.title" = "在 Finder 中打开服务文件夹";
 
 /* Class = "NSMenuItem"; title = "Quit BetterZip"; ObjectID = "fgx-z5-3JJ"; */
 "fgx-z5-3JJ.title" = "退出 BetterZip";
@@ -271,14 +277,14 @@
 /* Class = "NSMenu"; title = "Filename Encoding"; ObjectID = "ICd-xV-ewG"; */
 "ICd-xV-ewG.title" = "文件名编码";
 
-/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2"; */
-"IKk-eJ-D0S.title" = "";
+/* Class = "NSMenuItem"; title = "Collect from Clipboard"; ObjectID = "IKk-eJ-D0S"; Note = "@new-6.0b2; @new-6.0b4"; */
+"IKk-eJ-D0S.title" = "从剪贴板收集";
 
 /* Class = "NSMenuItem"; title = "Quick Look Selected Items"; ObjectID = "JK1-4i-610"; */
 "JK1-4i-610.title" = "快速查看选中项";
 
-/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2"; */
-"k4R-bN-x7W.title" = "";
+/* Class = "NSMenuItem"; title = "Reveal Settings File in Finder"; ObjectID = "k4R-bN-x7W"; Note = "@new-6.0b2; @new-6.0b4"; */
+"k4R-bN-x7W.title" = "在 Finder 中显示设置文件";
 
 /* Class = "NSMenuItem"; title = "Back"; ObjectID = "Li7-Ca-i4R"; */
 "Li7-Ca-i4R.title" = "返回";
@@ -286,32 +292,29 @@
 /* Class = "NSMenuItem"; title = "Show Folders"; ObjectID = "Mb7-qp-sLP"; */
 "Mb7-qp-sLP.title" = "显示文件夹";
 
-/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b2"; */
-"mib-col-view.title" = "";
+/* Class = "NSMenuItem"; title = "Column View"; ObjectID = "mib-col-view"; Note = "@new-6.0b4"; */
+"mib-col-view.title" = "分栏视图";
 
-/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2"; */
-"MIB-fp-Next.title" = "";
+/* Class = "NSMenuItem"; title = "Focus Next Pane"; ObjectID = "MIB-fp-Next"; Note = "@new-6.0b2; @new-6.0b4"; */
+"MIB-fp-Next.title" = "聚焦下一窗格";
 
-/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2"; */
-"MIB-fp-Prev.title" = "";
+/* Class = "NSMenuItem"; title = "Focus Previous Pane"; ObjectID = "MIB-fp-Prev"; Note = "@new-6.0b2; @new-6.0b4"; */
+"MIB-fp-Prev.title" = "聚焦上一窗格";
 
-/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2"; */
-"MIB-he-fld.title" = "";
+/* Class = "NSMenuItem"; title = "Hide Empty Folders"; ObjectID = "MIB-he-fld"; Note = "@new-6.0b2; @new-6.0b4"; */
+"MIB-he-fld.title" = "隐藏空文件夹";
 
-/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2"; */
-"MIB-hr-tgl.title" = "";
+/* Class = "NSMenuItem"; title = "Show Hashes"; ObjectID = "MIB-hr-tgl"; Note = "@new-6.0b2; @new-6.0b4"; */
+"MIB-hr-tgl.title" = "显示哈希值";
 
-/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b2"; */
-"mib-icon-view.title" = "";
+/* Class = "NSMenuItem"; title = "Icon View"; ObjectID = "mib-icon-view"; Note = "@new-6.0b4"; */
+"mib-icon-view.title" = "图标视图";
 
-/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2"; */
-"MIB-ss-Fw01.title" = "";
+/* Class = "NSMenuItem"; title = "Slideshow"; ObjectID = "MIB-ss-Fw01"; Note = "@new-6.0b2; @new-6.0b4"; */
+"MIB-ss-Fw01.title" = "幻灯片显示";
 
-/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2"; */
-"mib-toggle-pathbar.title" = "";
-
-/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Mk8-19-gqf"; Note = "@new-6.0b2"; */
-"Mk8-19-gqf.title" = "";
+/* Class = "NSMenuItem"; title = "Hide Path Bar"; ObjectID = "mib-toggle-pathbar"; Note = "@new-6.0b2; @new-6.0b4"; */
+"mib-toggle-pathbar.title" = "隐藏路径栏";
 
 /* Class = "NSMenuItem"; title = "Unlock Password Manager…"; ObjectID = "n49-8l-XwF"; */
 "n49-8l-XwF.title" = "解锁密码管理器…";
@@ -328,11 +331,11 @@
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "首选项…";
 
-/* Class = "NSMenuItem"; title = "Delete with Pattern"; ObjectID = "QZx-8c-obf"; */
+/* Class = "NSMenuItem"; title = "Delete with Filter"; ObjectID = "QZx-8c-obf"; */
 "QZx-8c-obf.title" = "删除指定格式的文件";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "RyC-7H-3JR"; */
-"RyC-7H-3JR.title" = "首选项…";
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "RyC-7H-3JR"; */
+"RyC-7H-3JR.title" = "设置…";
 
 /* Class = "NSMenuItem"; title = "Move Archive to"; ObjectID = "t4E-iF-PNO"; */
 "t4E-iF-PNO.title" = "移动压缩文件到：";
@@ -346,6 +349,9 @@
 /* Class = "NSMenuItem"; title = "Welcome Screen"; ObjectID = "vAL-Un-3aC"; */
 "vAL-Un-3aC.title" = "欢迎屏幕";
 
+/* Class = "NSMenuItem"; title = "Forward"; ObjectID = "wQE-kY-vqP"; Note = "@new-6.0b4"; */
+"wQE-kY-vqP.title" = "前进";
+
 /* Class = "NSMenuItem"; title = "Release Notes"; ObjectID = "WUD-mQ-HqJ"; Note = "Release Notes menu item"; */
 "WUD-mQ-HqJ.title" = "发行说明";
 
@@ -354,3 +360,6 @@
 
 /* Class = "NSMenuItem"; title = "Forward"; ObjectID = "yYu-5x-Ihw"; */
 "yYu-5x-Ihw.title" = "前进";
+
+/* Class = "NSMenuItem"; title = "Install BetterTouchTool Launcher Plugin"; ObjectID = "btt-mn-001"; Note = "@new-6.0b5"; */
+"btt-mn-001.title" = "安装 BetterTouchTool Launcher 插件";

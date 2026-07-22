@@ -1,15 +1,15 @@
 
-/* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
-"17.title" = "Preferences";
+/* Class = "NSWindow"; title = "Settings"; ObjectID = "17"; */
+"17.title" = "Settings";
 
-/* Class = "NSTableColumn"; headerCell.title = "Pattern"; ObjectID = "156"; */
-"156.headerCell.title" = "Pattern";
+/* Class = "NSTableColumn"; headerCell.title = "Filter Name"; ObjectID = "156"; */
+"156.headerCell.title" = "Filter Name";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
-"159.ibShadowedToolTip" = "Add a new pattern (⌘N)";
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "159"; */
+"159.ibShadowedToolTip" = "Add a new filter (⌘N)";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "160"; */
-"160.ibShadowedToolTip" = "Remove the selected pattern (⌫)";
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "160"; */
+"160.ibShadowedToolTip" = "Remove the selected filter (⌫)";
 
 /* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "301"; */
 "301.headerCell.title" = "File Type";
@@ -53,8 +53,8 @@
 /* Class = "NSTextFieldCell"; title = "Path to the rar program:"; ObjectID = "1419"; */
 "1419.title" = "Path to the rar program:";
 
-/* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
-"1420.title" = "Manage the patterns in your filter lists";
+/* Class = "NSTextFieldCell"; title = "Manage your filters"; ObjectID = "1420"; */
+"1420.title" = "Manage your filters";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
 "1423.title" = "Restore Defaults";
@@ -470,8 +470,8 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "7Qu-Ib-mZN"; */
 "7Qu-Ib-mZN.ibShadowedToolTip" = "Set how this preset is shown in the drop bar";
 
-/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "83K-Oo-tNH"; */
-"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<new pattern>";
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new filter>"; ObjectID = "83K-Oo-tNH"; */
+"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<new filter>";
 
 /* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
 "95F-wH-1WN.title" = "Create an extra folder:";
@@ -527,8 +527,8 @@
 /* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "E07-Oc-NEU"; */
 "E07-Oc-NEU.title" = "Add this Preset to LaunchBar 6…";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "ENs-uN-ddX"; */
-"ENs-uN-ddX.title" = "Exclude Patterns:";
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "ENs-uN-ddX"; */
+"ENs-uN-ddX.title" = "Exclude Filters:";
 
 /* Class = "NSMenuItem"; title = "Item1"; ObjectID = "F8z-99-hdr"; */
 "F8z-99-hdr.title" = "Item1";
@@ -737,8 +737,8 @@
 /* Class = "NSTabViewItem"; label = "View"; ObjectID = "n0k-7I-0PH"; */
 "n0k-7I-0PH.label" = "View";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "n85-o5-vBH"; */
-"n85-o5-vBH.title" = "Exclude Patterns:";
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "n85-o5-vBH"; */
+"n85-o5-vBH.title" = "Exclude Filters:";
 
 /* Class = "NSButtonCell"; title = "Always save with the toolbar preset when clicking the toolbar button, even if the archive is not new"; ObjectID = "nvs-ns-H0J"; */
 "nvs-ns-H0J.title" = "Always save with the toolbar preset when clicking the toolbar button, even if the archive is not new";
@@ -752,8 +752,8 @@
 /* Class = "NSButtonCell"; title = "☆"; ObjectID = "oqm-ff-uxe"; */
 "oqm-ff-uxe.title" = "☆";
 
-/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "ovj-zb-Bbt"; */
-"ovj-zb-Bbt.ibShadowedIsNilPlaceholder" = "<new pattern>";
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new filter>"; ObjectID = "ovj-zb-Bbt"; */
+"ovj-zb-Bbt.ibShadowedIsNilPlaceholder" = "<new filter>";
 
 /* Class = "NSMenuItem"; title = "Open"; ObjectID = "p4a-ez-xRZ"; */
 "p4a-ez-xRZ.title" = "Open";

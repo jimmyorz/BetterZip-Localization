@@ -25,9 +25,6 @@
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "下一步";
 
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "_placeholder";
-
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "定期检查更新";
 
@@ -37,8 +34,11 @@
 /* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
 "t2Q-rY-XuF.title" = "向 Finder 工具栏添加一个 BetterZip 按钮";
 
-/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
-"tI1-Pg-one.label" = "";
+/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; Note = "@new-6.0b4"; */
+"tI1-Pg-one.label" = "打开行为";
 
-/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
-"tI2-Pg-two.label" = "";
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; Note = "@new-6.0b4"; */
+"tI2-Pg-two.label" = "选项";
+
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "安装 BetterTouchTool Launcher 插件";

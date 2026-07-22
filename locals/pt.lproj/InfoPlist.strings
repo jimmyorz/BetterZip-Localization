@@ -1,128 +1,120 @@
 /* No comment provided by engineer. */
-"7-Zip Archive" = "";
+"7-Zip Archive" = "Arquivo Comprimido 7‑Zip";
 
 /* No comment provided by engineer. */
-"Android Application Package" = "";
+"Android Application Package" = "Pacote de Aplicativo Android";
 
 /* No comment provided by engineer. */
-"ARJ Archive" = "";
+"ARJ Archive" = "Arquivo Comprimido ARJ";
 
 /* No comment provided by engineer. */
-"BinHex Archive" = "";
+"BinHex Archive" = "Arquivo Comprimido BinHex";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "";
+"Brotli compressed TAR Archive" = "Arquivo Comprimido TAR, comprimido com Brotli";
 
 /* No comment provided by engineer. */
-"Brotli compressed TAR Archive" = "";
+"BZip2 Archive" = "Arquivo Comprimido BZip2";
 
 /* No comment provided by engineer. */
-"BZip2 Archive" = "";
+"BZip2 compressed TAR Archive" = "Arquivo Comprimido TAR, comprimido com BZip2";
 
 /* No comment provided by engineer. */
-"BZip2 compressed TAR Archive" = "";
-
-/* No comment provided by engineer. */
-"CAB Archive" = "";
+"CAB Archive" = "Arquivo Comprimido CAB";
 
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
-
-/* Get Info string */
-"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
 
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
 /* No comment provided by engineer. */
-"Chromium Extra" = "";
+"Chromium Extra" = "Chromium Extra";
 
 /* No comment provided by engineer. */
-"Comicbook RAR Archive" = "";
+"Comicbook RAR Archive" = "Arquivo Comprimido RAR Comicbook";
 
 /* No comment provided by engineer. */
-"Comicbook Zip Archive" = "";
+"Compiled HTML Archive" = "Arquivo Comprimido HTML Compilado";
 
 /* No comment provided by engineer. */
-"Compiled HTML Archive" = "";
+"Compressed CPIO Archive" = "Arquivo Comprimido CPIO";
 
 /* No comment provided by engineer. */
-"Compressed CPIO Archive" = "";
+"CPIO Archive" = "Arquivo Comprimido CPIO";
 
 /* No comment provided by engineer. */
-"CPIO Archive" = "";
+"Debian Linux Package" = "Pacote Debian Linux";
 
 /* No comment provided by engineer. */
-"Debian Linux Package" = "";
+"DiskDoubler Archive" = "Arquivo Comprimido DiskDoubler";
 
 /* No comment provided by engineer. */
-"DiskDoubler Archive" = "";
+"Electronic Publication (ePub)" = "Publicação Eletrônica (ePub)";
 
 /* No comment provided by engineer. */
-"Electronic Publication (ePub)" = "";
+"GZip Archive" = "Arquivo Comprimido GZip";
 
 /* No comment provided by engineer. */
-"GZip Archive" = "";
+"GZipped Tar Archive" = "Arquivo Comprimido TAR, com GZip";
 
 /* No comment provided by engineer. */
-"GZipped Tar Archive" = "";
+"Java ZIP Archive" = "Arquivo Comprimido Java ZIP";
 
 /* No comment provided by engineer. */
-"Java ZIP Archive" = "";
+"LHA Archive" = "Arquivo Comprimido LHA";
 
 /* No comment provided by engineer. */
-"LHA Archive" = "";
-
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "";
-
-/* No comment provided by engineer. */
-"Microsoft E-mail Attachment" = "";
+"Microsoft E-mail Attachment" = "Anexo de E‑mail da Microsoft";
 
 /* Privacy - AppleEvents Sending Usage Description */
-"NSAppleEventsUsageDescription" = "Execute AppleScripts definidos pelo usuário depois de comprimir ou extrair arquivos comprimidos.";
+"NSAppleEventsUsageDescription" = "Depois de comprimir ou extrair arquivos comprimidos, execute os AppleScripts que você definiu.";
 
 /* Privacy - Contacts Usage Description */
-"NSContactsUsageDescription" = "Seu endereço de e-mail será usado apenas para preencher o campo de contato no relatório de falhas do BetterZip.";
+"NSContactsUsageDescription" = "Seu endereço de e‑mail será usado apenas para preencher o campo de contato no relatório de falhas do BetterZip.";
 
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";
+"NSHumanReadableCopyright" = "Copyright © 2006–2026 MacItBetter, Robert Rezabek";
 
 /* No comment provided by engineer. */
-"NSIS Archive" = "";
+"NSIS Archive" = "Arquivo Comprimido NSIS";
 
 /* No comment provided by engineer. */
-"Python Egg" = "";
+"Python Egg" = "Python Egg";
 
 /* No comment provided by engineer. */
-"RAR Archive" = "";
+"RAR Archive" = "Arquivo Comprimido RAR";
 
 /* No comment provided by engineer. */
-"Segmented Archive" = "";
+"Segmented Archive" = "Arquivo Comprimido Segmentado";
 
 /* No comment provided by engineer. */
-"Stuffit Archive" = "";
+"Stuffit Archive" = "Arquivo Comprimido Stuffit";
 
 /* No comment provided by engineer. */
-"TAR Archive" = "";
+"TAR Archive" = "Arquivo Comprimido TAR";
 
 /* No comment provided by engineer. */
-"User-Defined Archive" = "";
+"User-Defined Archive" = "Arquivo Comprimido Personalizado";
 
 /* No comment provided by engineer. */
-"xz Archive" = "";
+"xz compressed TAR Archive" = "Arquivo Comprimido TAR, comprimido com xz";
 
 /* No comment provided by engineer. */
-"xz compressed TAR Archive" = "";
+"ZIP Archive" = "Arquivo Comprimido ZIP";
 
 /* No comment provided by engineer. */
-"ZIP Archive" = "";
+"Zstandard compressed TAR Archive" = "Arquivo Comprimido TAR, comprimido com Zstandard";
 
-/* No comment provided by engineer. */
-"Zip Archive" = "";
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Arquivo Comprimido Zip Comicbook";
+"xz compressed Archive" = "Arquivo Comprimido xz";
+"Zstandard compressed Archive" = "Arquivo Comprimido Zstandard";
+"Brotli compressed Archive" = "Arquivo Comprimido Brotli";
+"RAR Legacy Archive" = "Arquivo Comprimido RAR Legado";
+"RPM Linux Archive" = "Arquivo Comprimido RPM Linux";
+"Disk Image" = "Imagem de Disco";
+"ISO Disk Image" = "Imagem de Disco ISO";
+"MacBinary File" = "Arquivo MacBinary";
+"XAR Archive" = "Arquivo Comprimido XAR";
 
-/* No comment provided by engineer. */
-"Zstandard Archive" = "";
-
-/* No comment provided by engineer. */
-"Zstandard compressed TAR Archive" = "";

@@ -10,6 +10,147 @@
 /* Class = "NSTextFieldCell"; title = "Recovery records:"; ObjectID = "0tS-H4-qCj"; Note = "@new-6.0b2"; */
 "0tS-H4-qCj.title" = "復旧記録:";
 
+/* Class = "NSButtonCell"; title = "Modification date"; ObjectID = "1jH-DB-ebH"; */
+"1jH-DB-ebH.title" = "更新日時";
+
+/* Class = "NSTextFieldCell"; title = "In the preview treat as:"; ObjectID = "1U1-Xc-cQc"; */
+"1U1-Xc-cQc.title" = "プレビューで扱う形式:";
+
+/* Class = "NSTextFieldCell"; title = "Wrap lines at:"; ObjectID = "1yb-uY-BTv"; Note = "@new-6.0b2"; */
+"1yb-uY-BTv.title" = "行を折り返す位置:";
+
+/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "2g1-aN-JSp"; */
+"2g1-aN-JSp.title" = "ファイル:";
+
+/* Class = "NSTextFieldCell"; title = "Set the default settings for the BetterZip Quick Look Generator here. "; ObjectID = "2O4-Ob-tkl"; */
+"2O4-Ob-tkl.title" = "BetterZip の Quick Look ジェネレータのデフォルト設定をここで指定。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2q5-nv-6VZ"; Note = "don't translate"; */
+"2q5-nv-6VZ.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "2t7-nQ-X3M"; Note = "@new-6.0b2"; */
+"2t7-nQ-X3M.title" = "ファイル:";
+
+/* Class = "NSMenuItem"; title = "Merge folders"; ObjectID = "2yf-yk-mxj"; */
+"2yf-yk-mxj.title" = "フォルダを統合";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected file types (⌫)"; ObjectID = "3B4-7C-4y7"; */
+"3B4-7C-4y7.ibShadowedToolTip" = "選択中のファイルタイプを削除 (⌫)";
+
+/* Class = "NSMenuItem"; title = "Extract"; ObjectID = "3cO-3P-oAU"; */
+"3cO-3P-oAU.title" = "展開";
+
+/* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "3Ho-Ga-Buh"; */
+"3Ho-Ga-Buh.title" = "元ファイルの移動先:";
+
+/* Class = "NSBox"; title = "Show Columns"; ObjectID = "4dg-oc-Zph"; */
+"4dg-oc-Zph.title" = "カラムを表示";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "4eQ-Gf-nKD"; Note = "@changed-6.0b2 (previous: \"Add this Preset to Dropzone 4...\")"; */
+"4eQ-Gf-nKD.title" = "このプリセットを DropZone 4 に追加…";
+
+/* Class = "NSMenuItem"; title = "Image"; ObjectID = "4f3-gB-BBc"; */
+"4f3-gB-BBc.title" = "画像";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4GT-YN-OiO"; Note = "don't translate"; */
+"4GT-YN-OiO.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Show Trash in the  \"Move Archive\" menu"; ObjectID = "4q5-eh-t7M"; */
+"4q5-eh-t7M.title" = "\"書庫を移動\" メニューにゴミ箱を表示";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application or Path"; ObjectID = "4RA-gd-5xM"; */
+"4RA-gd-5xM.headerCell.title" = "アプリケーションもしくはパス";
+
+/* Class = "NSTextFieldCell"; title = "Use this encoding for Windows ZIP files: "; ObjectID = "4rb-cX-TxH"; */
+"4rb-cX-TxH.title" = "次の文字コードを Windows の Zip ファイルに使う:";
+
+/* Class = "NSMenuItem"; title = "Replace the existing file"; ObjectID = "5AC-OM-eH2"; */
+"5AC-OM-eH2.title" = "既存のファイルを置き換える";
+
+/* Class = "NSTableColumn"; headerCell.title = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
+"5cV-Jv-OwU.headerCell.title" = "ダブルクリックアクション";
+
+/* Class = "NSTableColumn"; headerToolTip = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
+"5cV-Jv-OwU.headerToolTip" = "ダブルクリックアクション";
+
+/* Class = "NSBox"; title = "If an item with the same name already exists at the destination"; ObjectID = "5pQ-9l-dcl"; */
+"5pQ-9l-dcl.title" = "展開先に同名の項目が既に存在する場合";
+
+/* Class = "NSButtonCell"; title = "Keep up-to-date"; ObjectID = "6c0-OW-DC8"; */
+"6c0-OW-DC8.title" = "常に最新版へ更新";
+
+/* Class = "NSTextFieldCell"; title = "Folders:"; ObjectID = "6kS-pA-Wft"; Note = "@new-6.0b2"; */
+"6kS-pA-Wft.title" = "フォルダ:";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "6M9-hc-0Tm"; Note = "@changed-6.0b2 (previous: \"Choose...\")"; */
+"6M9-hc-0Tm.title" = "選択…";
+
+/* Class = "NSButtonCell"; title = "Start with the Drop Bar"; ObjectID = "6ro-jt-aTy"; */
+"6ro-jt-aTy.title" = "開始時にドロップバーを表示";
+
+/* Class = "NSButtonCell"; title = "Mac wakes up or restarts"; ObjectID = "7KM-yR-YBi"; */
+"7KM-yR-YBi.title" = "レジュームまたは再起動時";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "7Kq-OS-D9w"; */
+"7Kq-OS-D9w.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "7Md-Wv-TQw"; */
+"7Md-Wv-TQw.title" = "Item3";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "7Qu-Ib-mZN"; */
+"7Qu-Ib-mZN.ibShadowedToolTip" = "このプリセットをドロップバーでどう表示するかを設定";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "8RN-GJ-7fQ"; Note = "@new-6.0b2"; */
+"8RN-GJ-7fQ.title" = "1";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "9jX-RG-TxZ"; */
+"9jX-RG-TxZ.ibExternalAccessibilityDescription" = "アクションメニューボタン";
+
+/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "9ka-mq-q9r"; Note = "@new-6.0b2"; */
+"9ka-mq-q9r.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Errors"; ObjectID = "9ky-AG-PKY"; */
+"9ky-AG-PKY.title" = "エラー";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "9Ny-C6-bvu"; */
+"9Ny-C6-bvu.title" = "常に作成";
+
+/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "9pn-hJ-LPl"; Note = "@new-6.0b2"; */
+"9pn-hJ-LPl.title" = "選択…";
+
+/* Class = "NSMenuItem"; title = "Remove All Passwords"; ObjectID = "9s4-EZ-fNH"; */
+"9s4-EZ-fNH.title" = "すべて削除";
+
+/* Class = "NSWindow"; title = "Settings"; ObjectID = "17"; */
+"17.title" = "設定";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "78E-pE-9dL"; */
+"78E-pE-9dL.title" = "1";
+
+/* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
+"95F-wH-1WN.title" = "フォルダを追加で作成:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Filter Name"; ObjectID = "156"; */
+"156.headerCell.title" = "フィルター名";
+
+/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "301"; */
+"301.headerCell.title" = "ファイルタイプ";
+
+/* Class = "NSTableColumn"; headerCell.title = "Extensions"; ObjectID = "302"; */
+"302.headerCell.title" = "拡張子";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "309"; */
+"309.headerCell.title" = "アプリケーション";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected password (⌫)"; ObjectID = "937"; */
+"937.ibShadowedToolTip" = "選択中のパスワードを削除 (⌫)";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new password (⌘N)"; ObjectID = "938"; */
+"938.ibShadowedToolTip" = "新規パスワードを追加 (⌘N)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "944"; */
+"944.headerCell.title" = "パスワード";
+
 /* Class = "NSButtonCell"; title = "Start with an empty document"; ObjectID = "1383"; */
 "1383.title" = "起動時に新規書庫を開く";
 
@@ -33,9 +174,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Path to the RAR program:"; ObjectID = "1419"; Note = "@changed-6.0b2 (previous: \"Path to the rar program:\")"; */
 "1419.title" = "rar プログラムのパス:";
-
-/* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
-"1420.title" = "以下のパターンに合致するファイルを削除";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
 "1423.title" = "デフォルトへ戻す";
@@ -106,20 +244,11 @@
 /* Class = "NSTextFieldCell"; title = "Save archive to:"; ObjectID = "1556"; */
 "1556.title" = "書庫の保存先:";
 
-/* Class = "NSTableColumn"; headerCell.title = "Filter Name"; ObjectID = "156"; */
-"156.headerCell.title" = "フィルター名";
-
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "1563"; */
 "1563.headerCell.title" = "名前";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1564"; Note = "don't translate"; */
 "1564.title" = "Text Cell";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
-"159.ibShadowedToolTip" = "新規パターンを追加 (⌘N)";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "160"; */
-"160.ibShadowedToolTip" = "選択中のパターンを削除 (⌫)";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1624"; Note = "don't translate"; */
 "1624.title" = "OtherViews";
@@ -214,9 +343,6 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new preset (⌘N)"; ObjectID = "1670"; */
 "1670.ibShadowedToolTip" = "新規プリセットを追加 (⌘N)";
 
-/* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
-"17.title" = "環境設定";
-
 /* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "1748"; */
 "1748.title" = "Mac 固有のファイルを書庫から削除";
 
@@ -283,15 +409,6 @@
 /* Class = "NSMenuItem"; title = "Always try passwords"; ObjectID = "1965"; */
 "1965.title" = "常にパスワードの自動入力を行う";
 
-/* Class = "NSButtonCell"; title = "Modification date"; ObjectID = "1jH-DB-ebH"; */
-"1jH-DB-ebH.title" = "更新日時";
-
-/* Class = "NSTextFieldCell"; title = "In the preview treat as:"; ObjectID = "1U1-Xc-cQc"; */
-"1U1-Xc-cQc.title" = "プレビューで扱う形式:";
-
-/* Class = "NSTextFieldCell"; title = "Wrap lines at:"; ObjectID = "1yb-uY-BTv"; Note = "@new-6.0b2"; */
-"1yb-uY-BTv.title" = "行を折り返す位置:";
-
 /* Class = "NSButtonCell"; title = "Reset \"Don't Ask Me\" Warnings"; ObjectID = "2005"; */
 "2005.title" = "“今後は確認しない” とした警告をリセット";
 
@@ -355,135 +472,6 @@
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new preset>"; ObjectID = "2302"; */
 "2302.ibShadowedIsNilPlaceholder" = "<新規プリセット>";
 
-/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "2g1-aN-JSp"; */
-"2g1-aN-JSp.title" = "ファイル:";
-
-/* Class = "NSTextFieldCell"; title = "Set the default settings for the BetterZip Quick Look Generator here. "; ObjectID = "2O4-Ob-tkl"; */
-"2O4-Ob-tkl.title" = "BetterZip の Quick Look ジェネレータのデフォルト設定をここで指定。";
-
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2q5-nv-6VZ"; Note = "don't translate"; */
-"2q5-nv-6VZ.title" = "OtherViews";
-
-/* Class = "NSTextFieldCell"; title = "Files:"; ObjectID = "2t7-nQ-X3M"; Note = "@new-6.0b2"; */
-"2t7-nQ-X3M.title" = "ファイル:";
-
-/* Class = "NSMenuItem"; title = "Merge folders"; ObjectID = "2yf-yk-mxj"; */
-"2yf-yk-mxj.title" = "フォルダを統合";
-
-/* Class = "NSTableColumn"; headerCell.title = "File Type"; ObjectID = "301"; */
-"301.headerCell.title" = "ファイルタイプ";
-
-/* Class = "NSTableColumn"; headerCell.title = "Extensions"; ObjectID = "302"; */
-"302.headerCell.title" = "拡張子";
-
-/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "309"; */
-"309.headerCell.title" = "アプリケーション";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected file types (⌫)"; ObjectID = "3B4-7C-4y7"; */
-"3B4-7C-4y7.ibShadowedToolTip" = "選択中のファイルタイプを削除 (⌫)";
-
-/* Class = "NSMenuItem"; title = "Extract"; ObjectID = "3cO-3P-oAU"; */
-"3cO-3P-oAU.title" = "展開";
-
-/* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "3Ho-Ga-Buh"; */
-"3Ho-Ga-Buh.title" = "元ファイルの移動先:";
-
-/* Class = "NSBox"; title = "Show Columns"; ObjectID = "4dg-oc-Zph"; */
-"4dg-oc-Zph.title" = "カラムを表示";
-
-/* Class = "NSMenuItem"; title = "Add this Preset to Dropzone 4…"; ObjectID = "4eQ-Gf-nKD"; Note = "@changed-6.0b2 (previous: \"Add this Preset to Dropzone 4...\")"; */
-"4eQ-Gf-nKD.title" = "このプリセットを DropZone 4 に追加…";
-
-/* Class = "NSMenuItem"; title = "Image"; ObjectID = "4f3-gB-BBc"; */
-"4f3-gB-BBc.title" = "画像";
-
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4GT-YN-OiO"; Note = "don't translate"; */
-"4GT-YN-OiO.title" = "OtherViews";
-
-/* Class = "NSButtonCell"; title = "Show Trash in the  \"Move Archive\" menu"; ObjectID = "4q5-eh-t7M"; */
-"4q5-eh-t7M.title" = "\"書庫を移動\" メニューにゴミ箱を表示";
-
-/* Class = "NSTableColumn"; headerCell.title = "Application or Path"; ObjectID = "4RA-gd-5xM"; */
-"4RA-gd-5xM.headerCell.title" = "アプリケーションもしくはパス";
-
-/* Class = "NSTextFieldCell"; title = "Use this encoding for Windows ZIP files: "; ObjectID = "4rb-cX-TxH"; */
-"4rb-cX-TxH.title" = "次の文字コードを Windows の Zip ファイルに使う:";
-
-/* Class = "NSMenuItem"; title = "Replace the existing file"; ObjectID = "5AC-OM-eH2"; */
-"5AC-OM-eH2.title" = "既存のファイルを置き換える";
-
-/* Class = "NSTableColumn"; headerCell.title = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
-"5cV-Jv-OwU.headerCell.title" = "ダブルクリックアクション";
-
-/* Class = "NSTableColumn"; headerToolTip = "Double Click Action"; ObjectID = "5cV-Jv-OwU"; */
-"5cV-Jv-OwU.headerToolTip" = "ダブルクリックアクション";
-
-/* Class = "NSBox"; title = "If an item with the same name already exists at the destination"; ObjectID = "5pQ-9l-dcl"; */
-"5pQ-9l-dcl.title" = "展開先に同名の項目が既に存在する場合";
-
-/* Class = "NSButtonCell"; title = "Keep up-to-date"; ObjectID = "6c0-OW-DC8"; */
-"6c0-OW-DC8.title" = "常に最新版へ更新";
-
-/* Class = "NSTextFieldCell"; title = "Folders:"; ObjectID = "6kS-pA-Wft"; Note = "@new-6.0b2"; */
-"6kS-pA-Wft.title" = "フォルダ:";
-
-/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "6M9-hc-0Tm"; Note = "@changed-6.0b2 (previous: \"Choose...\")"; */
-"6M9-hc-0Tm.title" = "選択…";
-
-/* Class = "NSButtonCell"; title = "Start with the Drop Bar"; ObjectID = "6ro-jt-aTy"; */
-"6ro-jt-aTy.title" = "開始時にドロップバーを表示";
-
-/* Class = "NSMenuItem"; title = "1"; ObjectID = "78E-pE-9dL"; */
-"78E-pE-9dL.title" = "1";
-
-/* Class = "NSButtonCell"; title = "Mac wakes up or restarts"; ObjectID = "7KM-yR-YBi"; */
-"7KM-yR-YBi.title" = "レジュームまたは再起動時";
-
-/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "7Kq-OS-D9w"; */
-"7Kq-OS-D9w.title" = "Item1";
-
-/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "7Md-Wv-TQw"; */
-"7Md-Wv-TQw.title" = "Item3";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "7Qu-Ib-mZN"; */
-"7Qu-Ib-mZN.ibShadowedToolTip" = "このプリセットをドロップバーでどう表示するかを設定";
-
-/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "83K-Oo-tNH"; */
-"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<新規パターン>";
-
-/* Class = "NSMenuItem"; title = "1"; ObjectID = "8RN-GJ-7fQ"; Note = "@new-6.0b2"; */
-"8RN-GJ-7fQ.title" = "1";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected password (⌫)"; ObjectID = "937"; */
-"937.ibShadowedToolTip" = "選択中のパスワードを削除 (⌫)";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new password (⌘N)"; ObjectID = "938"; */
-"938.ibShadowedToolTip" = "新規パスワードを追加 (⌘N)";
-
-/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "944"; */
-"944.headerCell.title" = "パスワード";
-
-/* Class = "NSTextFieldCell"; title = "Create an extra folder:"; ObjectID = "95F-wH-1WN"; */
-"95F-wH-1WN.title" = "フォルダを追加で作成:";
-
-/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "9jX-RG-TxZ"; */
-"9jX-RG-TxZ.ibExternalAccessibilityDescription" = "アクションメニューボタン";
-
-/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "9ka-mq-q9r"; Note = "@new-6.0b2"; */
-"9ka-mq-q9r.title" = "文字";
-
-/* Class = "NSMenuItem"; title = "Errors"; ObjectID = "9ky-AG-PKY"; */
-"9ky-AG-PKY.title" = "エラー";
-
-/* Class = "NSMenuItem"; title = "Always"; ObjectID = "9Ny-C6-bvu"; */
-"9Ny-C6-bvu.title" = "常に作成";
-
-/* Class = "NSButtonCell"; title = "Choose…"; ObjectID = "9pn-hJ-LPl"; Note = "@new-6.0b2"; */
-"9pn-hJ-LPl.title" = "選択…";
-
-/* Class = "NSMenuItem"; title = "Remove All Passwords"; ObjectID = "9s4-EZ-fNH"; */
-"9s4-EZ-fNH.title" = "すべて削除";
-
 /* Class = "NSButtonCell"; title = "Kind"; ObjectID = "aD7-WM-1Lm"; */
 "aD7-WM-1Lm.title" = "種別";
 
@@ -513,9 +501,6 @@
 
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "aY0-4Y-0cq"; */
 "aY0-4Y-0cq.title" = "Item2";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "B6X-qu-uuB"; */
-"B6X-qu-uuB.ibShadowedToolTip" = "選択したパターンを削除 (⌫)";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Configure these on the Filters tab"; ObjectID = "b7U-a9-zVL"; Note = "@new-6.0b2"; */
 "b7U-a9-zVL.ibShadowedToolTip" = "フィルタータブで設定";
@@ -574,11 +559,11 @@
 /* Class = "NSMenuItem"; title = "Item3"; ObjectID = "Dzn-mE-DEs"; */
 "Dzn-mE-DEs.title" = "Item3";
 
-/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "E07-Oc-NEU"; Note = "@changed-6.0b2 (previous: \"Add this Preset to LaunchBar 6...\")"; */
-"E07-Oc-NEU.title" = "このプリセットを LaunchBar 6 に追加…";
-
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "e4s-K4-S9B"; */
 "e4s-K4-S9B.title" = "スキップ";
+
+/* Class = "NSMenuItem"; title = "Add this Preset to LaunchBar 6…"; ObjectID = "E07-Oc-NEU"; Note = "@changed-6.0b2 (previous: \"Add this Preset to LaunchBar 6...\")"; */
+"E07-Oc-NEU.title" = "このプリセットを LaunchBar 6 に追加…";
 
 /* Class = "NSButtonCell"; title = "Exclude empty folders"; ObjectID = "EEf-k3-x1B"; Note = "@new-6.0b2"; */
 "EEf-k3-x1B.title" = "空のフォルダを除外";
@@ -721,14 +706,14 @@
 /* Class = "NSButtonCell"; title = "Cut off trailing numbers from save names"; ObjectID = "IwO-cb-gMl"; */
 "IwO-cb-gMl.title" = "保存名から末尾の番号を削除";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Edit the selected file types (↩︎)"; ObjectID = "j21-Zj-J06"; */
-"j21-Zj-J06.ibShadowedToolTip" = "選択したファイルタイプを編集 (↩︎)";
-
 /* Class = "NSTextFieldCell"; title = "Folders:"; ObjectID = "j2R-FS-OL5"; */
 "j2R-FS-OL5.title" = "フォルダ:";
 
 /* Class = "NSTextFieldCell"; title = "Manage your Favorite folders"; ObjectID = "j2u-9I-NZd"; */
 "j2u-9I-NZd.title" = "お気に入りフォルダを管理";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Edit the selected file types (↩︎)"; ObjectID = "j21-Zj-J06"; */
+"j21-Zj-J06.ibShadowedToolTip" = "選択したファイルタイプを編集 (↩︎)";
 
 /* Class = "NSButtonCell"; title = "Always show both types of presets"; ObjectID = "JCe-b4-qDP"; Note = "@new-6.0b2"; */
 "JCe-b4-qDP.title" = "プリセットの種類を常に両方表示";
@@ -903,9 +888,6 @@
 
 /* Class = "NSMenuItem"; title = "1 year"; ObjectID = "MmQ-Ln-iay"; Note = "@new-6.0b2"; */
 "MmQ-Ln-iay.title" = "1年";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "mOB-1s-KZf"; */
-"mOB-1s-KZf.ibShadowedToolTip" = "新しいパターンを追加 (⌘N)";
 
 /* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */
 "MWZ-CN-jVv.title" = "すべてのサイズを kibi-, mebi-, gibiバイトで表示";
@@ -1096,11 +1078,11 @@
 /* Class = "NSButtonCell"; title = "Browse"; ObjectID = "v3P-fn-nXA"; */
 "v3P-fn-nXA.title" = "選択";
 
-/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "v81-yc-Tg7"; */
-"v81-yc-Tg7.title" = "Item3";
-
 /* Class = "NSMenuItem"; title = "Item1"; ObjectID = "v8k-rL-jai"; */
 "v8k-rL-jai.title" = "Item1";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "v81-yc-Tg7"; */
+"v81-yc-Tg7.title" = "Item3";
 
 /* Class = "NSBox"; title = "Lock when"; ObjectID = "Vjd-Um-Fao"; */
 "Vjd-Um-Fao.title" = "ロックするのは";
@@ -1179,3 +1161,4 @@
 
 /* Class = "NSButton"; ibShadowedToolTip = "⌘↩︎"; ObjectID = "ZZJ-XX-fc8"; */
 "ZZJ-XX-fc8.ibShadowedToolTip" = "⌘↩︎";
+

@@ -25,9 +25,6 @@
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "Nästa";
 
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "BetterZip är det kraftfullaste arkivverktyget för macOS som du kan skräddarsy på många vis. För att komma igång snabbt kan gör en del val nedan.\n\nDjupdyk i alla tillgängliga inställningar som finns i inställningspanelen när du är redo för det.\n\nVälj Hjälp > BetterZip-hjälp i menyn för mera information.";
-
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "Leta efter uppdateringar regelbundet";
 
@@ -42,3 +39,7 @@
 
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
 "tI2-Pg-two.label" = "Alternativ";
+
+
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "Installera BetterTouchTool Launcher-plugin";

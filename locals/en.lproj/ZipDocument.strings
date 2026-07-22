@@ -470,8 +470,8 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "o1g-QC-oYq"; */
 "o1g-QC-oYq.title" = "Cancel";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
-"qFO-f9-zNK.title" = "Exclude Patterns:";
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
+"qFO-f9-zNK.title" = "Exclude Filters:";
 
 /* Class = "NSToolbarItem"; label = "Add"; ObjectID = "sqM-P8-N3J"; */
 "sqM-P8-N3J.label" = "Add";
@@ -482,8 +482,8 @@
 /* Class = "NSToolbarItem"; toolTip = "Add a new file or folder to the archive"; ObjectID = "sqM-P8-N3J"; */
 "sqM-P8-N3J.toolTip" = "Add a new file or folder to the archive";
 
-/* Class = "NSTextFieldCell"; title = "Specify Filter Patterns"; ObjectID = "xRu-ix-4t9"; */
-"xRu-ix-4t9.title" = "Specify Filter Patterns";
+/* Class = "NSTextFieldCell"; title = "Specify Filters"; ObjectID = "xRu-ix-4t9"; */
+"xRu-ix-4t9.title" = "Specify Filters";
 
 /* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "xia-Oz-guz"; */
 "xia-Oz-guz.headerCell.title" = "Status";

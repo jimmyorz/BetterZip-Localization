@@ -11,16 +11,16 @@
 "deF-jE-FnN.title" = "Arraste componentes para o campo e adicione o seu próprio texto:";
 
 /* Class = "NSTokenFieldCell"; title = "date"; ObjectID = "H7m-LI-yTh"; Note = "don't translate"; */
-"H7m-LI-yTh.title" = "date";
+"H7m-LI-yTh.title" = "data";
 
 /* Class = "NSTokenFieldCell"; title = "folder"; ObjectID = "hDv-Q4-njw"; Note = "don't translate"; */
-"hDv-Q4-njw.title" = "folder";
+"hDv-Q4-njw.title" = "pasta";
 
 /* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "ILh-Pp-d9R"; */
 "ILh-Pp-d9R.title" = "Nome do usuário:";
 
 /* Class = "NSTokenFieldCell"; title = "name"; ObjectID = "KC9-EY-Fep"; Note = "don't translate"; */
-"KC9-EY-Fep.title" = "name";
+"KC9-EY-Fep.title" = "nome";
 
 /* Class = "NSTextFieldCell"; title = "Date:"; ObjectID = "pJo-u2-akO"; */
 "pJo-u2-akO.title" = "Data:";
@@ -29,10 +29,11 @@
 "r1x-T3-Wa3.title" = "ext";
 
 /* Class = "NSTokenFieldCell"; title = "time"; ObjectID = "t48-mL-ayb"; Note = "don't translate"; */
-"t48-mL-ayb.title" = "time";
+"t48-mL-ayb.title" = "tempo";
 
 /* Class = "NSTokenFieldCell"; title = "user"; ObjectID = "uN6-YH-JsR"; Note = "don't translate"; */
-"uN6-YH-JsR.title" = "user";
+"uN6-YH-JsR.title" = "pessoal";
 
 /* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "xeb-8F-pHd"; */
 "xeb-8F-pHd.title" = "Pasta:";
+

@@ -34,7 +34,7 @@
 /* Class = "NSTextFieldCell"; title = "Path to the RAR program:"; ObjectID = "1419"; Note = "@changed-6.0b2 (previous: \"Path to the rar program:\")"; */
 "1419.title" = "Percorso al programma rar:";
 
-/* Class = "NSTextFieldCell"; title = "Manage the patterns in your filter lists"; ObjectID = "1420"; */
+/* Class = "NSTextFieldCell"; title = "Manage your filters"; ObjectID = "1420"; */
 "1420.title" = "Gestisci i pattern nelle liste dei filtri";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
@@ -115,10 +115,10 @@
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1564"; Note = "don't translate"; */
 "1564.title" = "Text Cell";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "159"; */
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "159"; */
 "159.ibShadowedToolTip" = "Aggiungi un nuovo pattern (⌘N)";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "160"; */
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "160"; */
 "160.ibShadowedToolTip" = "Rimuovi il pattern selezionato (⌫)";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1624"; Note = "don't translate"; */
@@ -214,8 +214,8 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new preset (⌘N)"; ObjectID = "1670"; */
 "1670.ibShadowedToolTip" = "Aggiungi un nuovo preset (⌘N)";
 
-/* Class = "NSWindow"; title = "Preferences"; ObjectID = "17"; */
-"17.title" = "Preferenze";
+/* Class = "NSWindow"; title = "Settings"; ObjectID = "17"; */
+"17.title" = "Impostazioni";
 
 /* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "1748"; */
 "1748.title" = "Rimuovi materiale specifico per Mac dall'archivio";
@@ -448,7 +448,7 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Set how this preset is shown in the drop bar"; ObjectID = "7Qu-Ib-mZN"; */
 "7Qu-Ib-mZN.ibShadowedToolTip" = "Imposta come questo preset è mostrato nella barra rilascio";
 
-/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new pattern>"; ObjectID = "83K-Oo-tNH"; */
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new filter>"; ObjectID = "83K-Oo-tNH"; */
 "83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<nuovo pattern>";
 
 /* Class = "NSMenuItem"; title = "1"; ObjectID = "8RN-GJ-7fQ"; Note = "@new-6.0b2"; */
@@ -514,7 +514,7 @@
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "aY0-4Y-0cq"; */
 "aY0-4Y-0cq.title" = "Elemento 2";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected pattern (⌫)"; ObjectID = "B6X-qu-uuB"; */
+/* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "B6X-qu-uuB"; */
 "B6X-qu-uuB.ibShadowedToolTip" = "Rimuovi il pattern selezionato (⌫)";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Configure these on the Filters tab"; ObjectID = "b7U-a9-zVL"; Note = "@new-6.0b2"; */
@@ -904,7 +904,7 @@
 /* Class = "NSMenuItem"; title = "1 year"; ObjectID = "MmQ-Ln-iay"; Note = "@new-6.0b2"; */
 "MmQ-Ln-iay.title" = "1 anno";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Add a new pattern (⌘N)"; ObjectID = "mOB-1s-KZf"; */
+/* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "mOB-1s-KZf"; */
 "mOB-1s-KZf.ibShadowedToolTip" = "Aggiungi nuovo pattern (⌘N)";
 
 /* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */

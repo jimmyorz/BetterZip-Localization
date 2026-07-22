@@ -1,6 +1,39 @@
 /* Class = "NSTableColumn"; headerCell.title = "key"; ObjectID = "0W4-j3-kLO"; */
 "0W4-j3-kLO.headerCell.title" = "key";
 
+/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
+"3Db-W6-KiY.title" = "Ställ in kolumnstorleken automatiskt";
+
+/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
+"5hI-Ex-L0h.label" = "Översikt";
+
+/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
+"6Il-Hd-fod.label" = "Släpparea";
+
+/* Class = "NSMenuItem"; title = "Add to Favorites…"; ObjectID = "6qe-iQ-ixE"; Note = "@changed-6.0b2 (previous: \"Add to Favorites...\")"; */
+"6qe-iQ-ixE.title" = "Lägg till till favoriter…";
+
+/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
+"7f0-k5-lWA.headerCell.title" = "value";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; Note = "don't translate"; */
+"8p6-fL-GfM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
+"8Yx-BY-UEi.title" = "Byt namn";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; Note = "don't translate"; */
+"9xa-Ff-0K9.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
+"19d-zw-yaW.title" = "Slå på filsökning";
+
+/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
+"89T-hX-8ou.title" = "Öppna i ny flik";
+
+/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
+"99.title" = "Förloppsfönster";
+
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "189"; */
 "189.title" = "Meny";
 
@@ -18,9 +51,6 @@
 
 /* Class = "NSMenuItem"; title = "Extract All…"; ObjectID = "198"; Note = "@changed-6.0b2 (previous: \"Extract All...\")"; */
 "198.title" = "Extrahera alla…";
-
-/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
-"19d-zw-yaW.title" = "Slå på filsökning";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "205"; Note = "don't translate"; */
 "205.title" = "OtherViews";
@@ -88,12 +118,6 @@
 /* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "389"; */
 "389.label" = "PDF";
 
-/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
-"3Db-W6-KiY.title" = "Ställ in kolumnstorleken automatiskt";
-
-/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
-"5hI-Ex-L0h.label" = "";
-
 /* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; Note = "don't translate"; */
 "601.title" = "Titel";
 
@@ -148,12 +172,6 @@
 /* Class = "NSWindow"; title = "ZipWindow"; ObjectID = "692"; */
 "692.title" = "Zipfönster";
 
-/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
-"6Il-Hd-fod.label" = "Släpparea";
-
-/* Class = "NSMenuItem"; title = "Add to Favorites…"; ObjectID = "6qe-iQ-ixE"; Note = "@changed-6.0b2 (previous: \"Add to Favorites...\")"; */
-"6qe-iQ-ixE.title" = "Lägg till till favoriter…";
-
 /* Class = "NSTableColumn"; headerCell.title = "CRC-32"; ObjectID = "703"; */
 "703.headerCell.title" = "CRC-32";
 
@@ -199,9 +217,6 @@
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; Note = "don't translate"; */
 "720.title" = "Text Cell";
 
-/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
-"7f0-k5-lWA.headerCell.title" = "value";
-
 /* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "848"; */
 "848.label" = "Förlopp";
 
@@ -219,15 +234,6 @@
 
 /* Class = "NSButtonCell"; title = "More options"; ObjectID = "899"; */
 "899.title" = "Flera alternativ";
-
-/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
-"89T-hX-8ou.title" = "Öppna i ny flik";
-
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; Note = "don't translate"; */
-"8p6-fL-GfM.title" = "OtherViews";
-
-/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
-"8Yx-BY-UEi.title" = "Byt namn";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "923"; */
 "923.title" = "Meny";
@@ -250,12 +256,6 @@
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "956"; */
 "956.title" = "Objekt";
 
-/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
-"99.title" = "Förloppsfönster";
-
-/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; Note = "don't translate"; */
-"9xa-Ff-0K9.title" = "Table View Cell";
-
 /* Class = "NSToolbarItem"; label = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
 "B6r-1D-sbS.label" = "Direktläge";
 
@@ -272,16 +272,16 @@
 "bRl-As-x1L.title" = "Visa i Finder";
 
 /* Class = "NSToolbarItem"; label = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.label" = "";
+"cd1-SN-QSP.label" = "Samla ihop";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.paletteLabel" = "";
+"cd1-SN-QSP.paletteLabel" = "Samla ihop";
 
 /* Class = "NSToolbarItem"; toolTip = "Toggle Collecting from Clipboard"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
-"cd1-SN-QSP.toolTip" = "";
+"cd1-SN-QSP.toolTip" = "Växla mellan urklipp";
 
 /* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "Dng-16-a4Q"; Note = "@new-6.0b2"; */
-"Dng-16-a4Q.title" = "";
+"Dng-16-a4Q.title" = "Läs in eller spara en förinställning";
 
 /* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "drc-eC-pc8"; */
 "drc-eC-pc8.headerCell.title" = "Metod";
@@ -296,40 +296,37 @@
 "Eqj-CB-527.headerCell.title" = "Kommentera";
 
 /* Class = "NSButtonCell"; title = "Exclude empty folders"; ObjectID = "ext-bc-eef"; Note = "@new-6.0b2"; */
-"ext-bc-eef.title" = "";
+"ext-bc-eef.title" = "Exkludera tomma mappar";
 
 /* Class = "NSButtonCell"; title = "Extract flat"; ObjectID = "ext-bc-flt"; Note = "@new-6.0b2"; */
-"ext-bc-flt.title" = "";
+"ext-bc-flt.title" = "Extrahera som platt";
 
 /* Class = "NSButtonCell"; title = "Show extracted files in Finder"; ObjectID = "ext-bc-rev"; Note = "@new-6.0b2"; */
-"ext-bc-rev.title" = "";
+"ext-bc-rev.title" = "Visa extraherda filer i Finder";
 
 /* Class = "NSTextFieldCell"; title = "Exclude:"; ObjectID = "ext-lc-exc"; Note = "@new-6.0b2"; */
-"ext-lc-exc.title" = "";
+"ext-lc-exc.title" = "Exkludera:";
 
 /* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "ext-lc-mov"; Note = "@new-6.0b2"; */
-"ext-lc-mov.title" = "";
+"ext-lc-mov.title" = "Flytta arkiv till:";
 
 /* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "ext-lc-ren"; Note = "@new-6.0b2"; */
-"ext-lc-ren.title" = "";
-
-/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "ext-lc-scr"; Note = "@new-6.0b2"; */
-"ext-lc-scr.title" = "";
+"ext-lc-ren.title" = "Döp om objekt:";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
-"ext-mi-exc.title" = "";
+"ext-mi-exc.title" = "Ingen/Inget";
 
 /* Class = "NSMenuItem"; title = "Don't move"; ObjectID = "ext-mi-mov"; Note = "@new-6.0b2"; */
-"ext-mi-mov.title" = "";
+"ext-mi-mov.title" = "Flytta inte";
 
 /* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "ext-mi-pre"; Note = "@new-6.0b2"; */
-"ext-mi-pre.title" = "";
+"ext-mi-pre.title" = "Läs in eller spara förinställning";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-ren"; Note = "@new-6.0b2"; */
-"ext-mi-ren.title" = "";
+"ext-mi-ren.title" = "Ingen/Inget";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-scr"; Note = "@new-6.0b2"; */
-"ext-mi-scr.title" = "";
+"ext-mi-scr.title" = "Ingen/Inget";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-exc"; Note = "don't translate"; */
 "ext-mn-exc.title" = "OtherViews";
@@ -359,31 +356,31 @@
 "g4x-oH-yuM.placeholderString" = "Kommentar";
 
 /* Class = "NSTabViewItem"; label = "QuickLook"; ObjectID = "G7l-Ul-mns"; */
-"G7l-Ul-mns.label" = "";
+"G7l-Ul-mns.label" = "QuickLook";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Copy to Pasteboard"; ObjectID = "Gba-6O-FHF"; Note = "@new-6.0b2"; */
-"Gba-6O-FHF.ibShadowedToolTip" = "";
+"Gba-6O-FHF.ibShadowedToolTip" = "Kopiera som urklipp";
 
 /* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "h0w-vY-MO7"; */
 "h0w-vY-MO7.title" = "Flytta ursprungsfilerna till:";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Compare to Pasteboard"; ObjectID = "HAS-cb-btn"; Note = "@new-6.0b2"; */
-"HAS-cb-btn.ibShadowedToolTip" = "";
+"HAS-cb-btn.ibShadowedToolTip" = "Jämför med urklipp";
 
 /* Class = "NSMenuItem"; title = "CRC32"; ObjectID = "HAS-mi-cr"; Note = "@new-6.0b2"; */
-"HAS-mi-cr.title" = "";
+"HAS-mi-cr.title" = "CRC32";
 
 /* Class = "NSMenuItem"; title = "MD5"; ObjectID = "HAS-mi-md"; Note = "@new-6.0b2"; */
-"HAS-mi-md.title" = "";
+"HAS-mi-md.title" = "MD5";
 
 /* Class = "NSMenuItem"; title = "SHA-1"; ObjectID = "HAS-mi-s1"; Note = "@new-6.0b2"; */
-"HAS-mi-s1.title" = "";
+"HAS-mi-s1.title" = "SHA-1";
 
 /* Class = "NSMenuItem"; title = "SHA-256"; ObjectID = "HAS-mi-s2"; Note = "@new-6.0b2"; */
-"HAS-mi-s2.title" = "";
+"HAS-mi-s2.title" = "SHA-256";
 
 /* Class = "NSMenuItem"; title = "SHA-512"; ObjectID = "HAS-mi-s5"; Note = "@new-6.0b2"; */
-"HAS-mi-s5.title" = "";
+"HAS-mi-s5.title" = "SHA-512";
 
 /* Class = "NSToolbarItem"; label = "Save"; ObjectID = "Hk7-5H-N8G"; */
 "Hk7-5H-N8G.label" = "Spara";
@@ -425,16 +422,16 @@
 "M6K-Iz-FQE.ibShadowedToolTip" = "Spara lösenord";
 
 /* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "MIB-rn-lbc"; Note = "@new-6.0b2"; */
-"MIB-rn-lbc.title" = "";
+"MIB-rn-lbc.title" = "Döp om objekt:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MIB-rn-men"; Note = "don't translate"; */
 "MIB-rn-men.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-rn-non"; Note = "@new-6.0b2"; */
-"MIB-rn-non.title" = "";
+"MIB-rn-non.title" = "Ingen/inga";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-zd-non"; Note = "@new-6.0b2"; */
-"MIB-zd-non.title" = "";
+"MIB-zd-non.title" = "Ingen/inga";
 
 /* Class = "NSToolbarItem"; label = "View"; ObjectID = "mTa-N6-F1u"; */
 "mTa-N6-F1u.label" = "Visa";
@@ -463,11 +460,8 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
 "pTg-mn-c1A.title" = "OtherViews";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
-"qFO-f9-zNK.title" = "Exkludera mönster:";
-
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
-"QwO-eZ-IVh.label" = "";
+"QwO-eZ-IVh.label" = "Webbläsare";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Save comment"; ObjectID = "QXz-Vs-X5W"; */
 "QXz-Vs-X5W.ibShadowedToolTip" = "Spara kommentar";
@@ -493,32 +487,32 @@
 /* Class = "NSToolbarItem"; toolTip = "Add a new file or folder to the archive"; ObjectID = "sqM-P8-N3J"; */
 "sqM-P8-N3J.toolTip" = "Lägg till en ny fil eller mapp till arkivet";
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "t44-mi-non"; Note = "@new-6.0b2"; */
-"t44-mi-non.title" = "";
-
 /* Class = "NSMenuItem"; title = "Item1"; ObjectID = "T9W-iu-Su0"; */
 "T9W-iu-Su0.title" = "Item1";
 
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "t44-mi-non"; Note = "@new-6.0b2"; */
+"t44-mi-non.title" = "Ingen/Inget";
+
 /* Class = "NSTextFieldCell"; title = "Recovery volumes:"; ObjectID = "tn1-wt-m8P"; Note = "@new-6.0b2"; */
-"tn1-wt-m8P.title" = "";
+"tn1-wt-m8P.title" = "Återställningsvolymer:";
 
 /* Class = "NSTabViewItem"; label = "Icon"; ObjectID = "uGn-zk-IBN"; Note = "@new-6.0b2"; */
-"uGn-zk-IBN.label" = "";
+"uGn-zk-IBN.label" = "Ikon";
 
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "VfB-Ez-dR2"; */
 "VfB-Ez-dR2.title" = "Item2";
 
 /* Class = "NSTextFieldCell"; title = "Recovery records:"; ObjectID = "VFD-T9-BFv"; Note = "@new-6.0b2"; */
-"VFD-T9-BFv.title" = "";
+"VFD-T9-BFv.title" = "Återställningsregister:";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vMN-qb-Ugo"; Note = "don't translate"; */
 "vMN-qb-Ugo.title" = "Text Cell";
 
 /* Class = "NSTabViewItem"; label = "Web"; ObjectID = "VrR-IH-vfd"; Note = "@new-6.0b2"; */
-"VrR-IH-vfd.label" = "";
+"VrR-IH-vfd.label" = "Webb";
 
 /* Class = "NSTextFieldCell"; title = "After successful extraction"; ObjectID = "Vuk-qW-L0y"; Note = "@new-6.0b2"; */
-"Vuk-qW-L0y.title" = "";
+"Vuk-qW-L0y.title" = "Efter lyckad extrahering";
 
 /* Class = "NSToolbarItem"; label = "Move"; ObjectID = "wOI-VI-shq"; */
 "wOI-VI-shq.label" = "Flytta";
@@ -576,3 +570,4 @@
 
 /* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "zx3-jY-Ozc"; */
 "zx3-jY-Ozc.label" = "Innehåll";
+

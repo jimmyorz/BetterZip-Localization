@@ -44,8 +44,6 @@
 /* Params: date */
 "Registration: %@" = "Rejestracja: %@";
 
-"Registration: %@ u2013 %d licenses" = "";
-
 /* Parameters: date, license count */
 "Registration: %@ – %d licenses" = "Rejestracja: %1$@ – %2$d licencji";
 
@@ -61,7 +59,7 @@
 /* New in BetterZip 3 */
 "This function is available to registered users only." = "Ta funkcja jest dostępna tylko dla zarejestrowanych użytkowników.";
 
-"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "To jest kod licencyjny dla starszej wersji programu BetterZip. Możesz go użyć do zakupu licencji BetterZip 6 po obniżonej cenie aktualizacji %.2f USD. Kliknij \"Uaktualnij teraz\" poniżej, aby przejść do naszego sklepu internetowego.";
+"This is a license code for an older version of BetterZip. You can use it to purchase a BetterZip 6 license for the discounted upgrade price of US$ %@. Click “Upgrade now” below to go to our web shop." = "To jest kod licencyjny dla starszej wersji programu BetterZip. Możesz go użyć do zakupu licencji BetterZip 6 po obniżonej cenie aktualizacji %@ USD. Kliknij \"Uaktualnij teraz\" poniżej, aby przejść do naszego sklepu internetowego.";
 
 "Trial period, %d days left" = "Okres próbny, pozostało %d dni";
 
@@ -76,3 +74,6 @@
 "Your trial period is over. Although BetterZip will work for a few more days, you have to register, if you want to continue using it! Click the 'Buy now' button below and receive your license key within minutes." = "Twój okres próbny się skończył. Pomimo że BetterZip będzie działać kilka dni, musisz go zarejestrować, jeśli nadal chcesz go używać! Kliknij przycisk 'Kup online' poniżej i otrzymaj swój klucz licencyjny w ciągu kilku minut.";
 
 "Your trial period is over. You can still view archives, but saving archives has been disabled. Please register, if you want to continue using BetterZip! Click the 'Buy now' button below and receive your license key within minutes." = "Twój okres próbny się skończył. Nadal możesz oglądać archiwa ale zachowywanie archiwów zostało wyłączone. Proszę się zarejestrować jeśli nadal chcesz używać BetterZip! Kliknij przycisk 'Kup online' poniżej aby otrzymać klucz licencyjny w ciągu kilku minut.";
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */

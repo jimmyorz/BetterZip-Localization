@@ -1,0 +1,41 @@
+/* Formatting strings for NSPredicateEditor in PatternWindowController.
+   Loaded via predicateEditor.formattingStringsFilename = "Predicates".
+   Keys are the natural format produced by NSPredicateEditor; values are
+   what we want displayed in this locale. Keep keys identical across
+   locales; only values change.
+
+   NOTE: The date operators (before / after / is in the last / is not in the
+   last) are NOT set here. NSPredicateEditor resolves operator format strings
+   by operator alone, so a date "<" would collide with Size's "is less than".
+   Those labels are set directly on the pop-up in PatternWindowController.m
+   (MIBRenameOperatorPopup) and localized via Localizable.strings. */
+
+/* Left-hand attribute labels (string rows, 3-view) */
+"%[name]@ %@ %@"  = "%[Name]@ %@ %@";
+"%[path]@ %@ %@"  = "%[Path]@ %@ %@";
+"%[kind]@ %@ %@"  = "%[Kind]@ %@ %@";
+
+/* Left-hand attribute labels (4-view rows: size and date) */
+"%[uncoV]@ %@ %@ %@" = "%[Size]@ %@ %@ %@";
+"%[timeV]@ %@ %@ %@" = "%[Date Modified]@ %@ %@ %@";
+
+/* String operators (3-view rows) */
+"%@ %[is]@ %@"          = "%@ %[is]@ %@";
+"%@ %[is not]@ %@"      = "%@ %[is not]@ %@";
+"%@ %[contains]@ %@"    = "%@ %[contains]@ %@";
+"%@ %[begins with]@ %@" = "%@ %[begins with]@ %@";
+"%@ %[ends with]@ %@"   = "%@ %[ends with]@ %@";
+"%@ %[is like]@ %@"     = "%@ %[is like]@ %@";
+"%@ %[matches]@ %@"     = "%@ %[matches regex]@ %@";
+
+/* Size operators (4-view rows with KB/MB/GB unit popup). The "is" / "is not"
+   entries are shared by the absolute-date rows (which keep these titles). */
+"%@ %[is]@ %@ %@"                          = "%@ %[is]@ %@ %@";
+"%@ %[is not]@ %@ %@"                      = "%@ %[is not]@ %@ %@";
+"%@ %[is less than]@ %@ %@"                = "%@ %[is less than]@ %@ %@";
+"%@ %[is greater than]@ %@ %@"             = "%@ %[is greater than]@ %@ %@";
+"%@ %[is less than or equal to]@ %@ %@"    = "%@ %[is at most]@ %@ %@";
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[is at least]@ %@ %@";
+
+/* Compound row (All/Any of the following are true) */
+"%[All, Any]@ %[of the following are true]@" = "%[All, Any]@ %[of the following are true]@";

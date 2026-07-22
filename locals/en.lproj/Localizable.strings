@@ -26,7 +26,6 @@
 "Extracting archive: %@" = "Extracting archive: %@";
 "Opening archive with %d items" = "Opening archive with %d items";
 "Check for updates on startup?" = "Check for updates on startup?";
-"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time.";
 "Yes" = "Yes";
 "No" = "No";
 "Are you sure you want to overwrite the original archive?" = "Are you sure you want to overwrite the original archive?";
@@ -94,8 +93,6 @@
 "%d selected, uncompressed size: %@ %@" = "%d selected, uncompressed size: %@ %@";
 "%d items, uncompressed size: %@ %@" = "%d items, uncompressed size: %@ %@";
 "%d item, uncompressed size: %@ %@" = "%d item, uncompressed size: %@ %@";
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip will now remove one file matching the patterns configured in the preferences window from the archive.";
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive.";
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip will now remove one Mac specific file from the archive.";
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip will now remove %d Mac specific files from the archive.";
 "Remove" = "Remove";
@@ -107,7 +104,6 @@
 "Fast, but larger archives" = "Fast, but larger archives";
 "Normal" = "Normal";
 "Best, but slower operation" = "Best, but slower operation";
-"Remove files matching the patterns configured in the preferences window from the archive." = "Remove files matching the patterns configured in the preferences window from the archive.";
 "File Types" = "File Types";
 "N/A" = "N/A";
 "Multiple files" = "Multiple files";
@@ -183,7 +179,7 @@
 "Go to the win.rar GmbH web site" = "Go to the win.rar GmbH web site";
 "Extracting items from %@" = "Extracting items from %@";
 "The rar helper could not be found." = "The rar helper could not be found.";
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "Please set the correct path in Preferences > Helpers or choose a different format for saving.";
+"Please set the correct path in Settings > Helpers or choose a different format for saving." = "Please set the correct path in Settings > Helpers or choose a different format for saving.";
 "Merge Folders" = "Merge Folders";
 "Keep Both" = "Keep Both";
 "Apply to all folders" = "Apply to all folders";
@@ -216,13 +212,13 @@
 "An item named %@ already exists in this location inside the archive. Do you want to update it?" = "An item named %@ already exists in this location inside the archive. Do you want to update it?";
 
 "The archive cannot be created." = "The archive cannot be created.";
-"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip will now remove one file matching your patterns from the archive.";
-"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip will now remove %d files matching your patterns from the archive.";
+"BetterZip will now remove one file matching your filters from the archive." = "BetterZip will now remove one file matching your filters from the archive.";
+"BetterZip will now remove %d files matching your filters from the archive." = "BetterZip will now remove %d files matching your filters from the archive.";
 "After filtering, there are no files left to archive." = "After filtering, there are no files left to archive.";
 "macOS returned this error:" = "macOS returned this error:";
-"Use this pattern to specify which files and folders to add to the archive:" = "Use this pattern to specify which files and folders to add to the archive:";
+"Use this filter to select which files and folders to add:" = "Use this filter to select which files and folders to add:";
 "Add Files to Archive" = "Add Files to Archive";
-"Use this pattern to delete files and folders from the archive:" = "Use this pattern to delete files and folders from the archive:";
+"Use this filter to delete files and folders from the archive:" = "Use this filter to delete files and folders from the archive:";
 "Delete Files From Archive" = "Delete Files From Archive";
 
 /* displayed in the file types table for user defined extensions */
@@ -232,13 +228,13 @@
 "High, but slower operation" = "High, but slower operation";
 "Best (solid, slow extraction)" = "Best (solid, slow extraction)";
 
-/* Preferences window - name of the tab to manage filter patterns */
+/* Preferences tab title */
 "Filtering" = "Filtering";
 
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "Delete with pattern";
+/* Tooltip for the delete with filter toolbar button */
+"Delete with filter" = "Delete with filter";
 
-"<new pattern>" = "<new pattern>";
+"<new filter>" = "<new filter>";
 
 /* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
 "You should save this archive with ZIP or RAR format or your comment will be lost." = "You should save this archive with ZIP or RAR format or your comment will be lost.";
@@ -337,8 +333,8 @@
 "(newer)" = "(newer)";
 
 /* added in V 5.0 */
-"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip was denied access to %@. You can grant it access in the System Preferences.";
-"Open System Preferences" = "Open System Preferences";
+"BetterZip was denied access to %@. You can grant it access in the System Settings." = "BetterZip was denied access to %@. You can grant it access in the System Settings.";
+"Open System Settings" = "Open System Settings";
 
 /* File infos in preview sidebar */
 "Date" = "Date";
@@ -415,10 +411,10 @@
 
 /* Menu items for delete menu */
 "Delete Selected" = "Delete Selected";
-"Delete with Pattern" = "Delete with Pattern";
+"Delete with Filter" = "Delete with Filter";
 "Delete Empty Folders" = "Delete Empty Folders";
 "Delete Mac Files" = "Delete Mac Files";
-"Edit Patterns…" = "Edit Patterns…";
+"Edit Filters…" = "Edit Filters…";
 
 "New Preset (%@)" = "New Preset (%@)";
 "New Preset" = "New Preset";
@@ -482,7 +478,7 @@
 "Missing Volumes" = "Missing Volumes";
 "Reconstruct" = "Reconstruct";
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?";
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps.";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Settings › Helper Apps." = "The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Settings › Helper Apps.";
 
 /* Operations queue */
 "Operations Completed" = "Operations Completed";
@@ -542,3 +538,17 @@
 "Reset Learned Progress Weights?" = "Reset Learned Progress Weights?";
 "BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered.";
 "Reset" = "Reset";
+
+/* AppController – btrzp:// guarded action confirmation (M1) */
+"Allow this action?" = "Allow this action?";
+"An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself." = "An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself.";
+"An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself." = "An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself.";
+"An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself." = "An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself.";
+"An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself." = "An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself.";
+"An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself." = "An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself.";
+
+/* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
+"Toggle Sidebar" = "Toggle Sidebar";
+"Toggle Preview" = "Toggle Preview";
+"Show or hide the sidebar" = "Show or hide the sidebar";
+"Show or hide the preview" = "Show or hide the preview";

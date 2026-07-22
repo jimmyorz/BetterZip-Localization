@@ -1,0 +1,35 @@
+/* Formatting strings for NSPredicateEditor in PatternWindowController.
+   Loaded via predicateEditor.formattingStringsFilename = "Predicates".
+   The date operators (before / after / is in the last / …) are set directly on
+   the pop-up in PatternWindowController.m (MIBRenameOperatorPopup) and localized
+   via Localizable.strings, not here. */
+
+/* Left-hand attribute labels (string rows, 3-view) */
+"%[name]@ %@ %@"  = "%[Nome]@ %@ %@";
+"%[path]@ %@ %@"  = "%[Percorso]@ %@ %@";
+"%[kind]@ %@ %@"  = "%[Tipo]@ %@ %@";
+
+/* Left-hand attribute labels (4-view rows: size and date) */
+"%[uncoV]@ %@ %@ %@" = "%[Dimensione]@ %@ %@ %@";
+"%[timeV]@ %@ %@ %@" = "%[Data di modifica]@ %@ %@ %@";
+
+/* String operators (3-view rows) */
+"%@ %[is]@ %@"          = "%@ %[è]@ %@";
+"%@ %[is not]@ %@"      = "%@ %[non è]@ %@";
+"%@ %[contains]@ %@"    = "%@ %[contiene]@ %@";
+"%@ %[begins with]@ %@" = "%@ %[inizia con]@ %@";
+"%@ %[ends with]@ %@"   = "%@ %[finisce con]@ %@";
+"%@ %[is like]@ %@"     = "%@ %[è come]@ %@";
+"%@ %[matches]@ %@"     = "%@ %[corrisponde a regex]@ %@";
+
+/* Size operators (4-view rows with unit popup). "is" / "is not" are also used
+   by the absolute-date rows. */
+"%@ %[is]@ %@ %@"                          = "%@ %[è]@ %@ %@";
+"%@ %[is not]@ %@ %@"                      = "%@ %[non è]@ %@ %@";
+"%@ %[is less than]@ %@ %@"                = "%@ %[è minore di]@ %@ %@";
+"%@ %[is greater than]@ %@ %@"             = "%@ %[è maggiore di]@ %@ %@";
+"%@ %[is less than or equal to]@ %@ %@"    = "%@ %[è al massimo]@ %@ %@";
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[è almeno]@ %@ %@";
+
+/* Compound row */
+"%[All, Any]@ %[of the following are true]@" = "%[Tutte, Qualsiasi]@ %[delle seguenti condizioni è vera]@";

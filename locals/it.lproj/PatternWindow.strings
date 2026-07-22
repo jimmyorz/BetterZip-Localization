@@ -1,10 +1,7 @@
 /* Class = "NSTextFieldCell"; title = "Matching items"; ObjectID = "1Ui-VO-ddL"; */
 "1Ui-VO-ddL.title" = "Elementi corrispondenti";
 
-/* Class = "NSTextFieldCell"; title = "_placeholer"; ObjectID = "Cnm-J7-wjm"; */
-"Cnm-J7-wjm.title" = "";
-
-/* Class = "NSTextFieldCell"; title = "Specify Filter Patterns"; ObjectID = "DOK-5T-CvY"; */
+/* Class = "NSTextFieldCell"; title = "Specify Filters"; ObjectID = "DOK-5T-CvY"; */
 "DOK-5T-CvY.title" = "Specifica i pattern filtro";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; Note = "don't translate"; */

@@ -1,0 +1,35 @@
+/* Formatting strings for NSPredicateEditor in PatternWindowController.
+   Loaded via predicateEditor.formattingStringsFilename = "Predicates".
+   The date operators (before / after / is in the last / …) are set directly on
+   the pop-up in PatternWindowController.m (MIBRenameOperatorPopup) and localized
+   via Localizable.strings, not here. */
+
+/* Left-hand attribute labels (string rows, 3-view) */
+"%[name]@ %@ %@"  = "%[名称]@ %@ %@";
+"%[path]@ %@ %@"  = "%[路径]@ %@ %@";
+"%[kind]@ %@ %@"  = "%[种类]@ %@ %@";
+
+/* Left-hand attribute labels (4-view rows: size and date) */
+"%[uncoV]@ %@ %@ %@" = "%[大小]@ %@ %@ %@";
+"%[timeV]@ %@ %@ %@" = "%[修改日期]@ %@ %@ %@";
+
+/* String operators (3-view rows) */
+"%@ %[is]@ %@"          = "%@ %[为]@ %@";
+"%@ %[is not]@ %@"      = "%@ %[不为]@ %@";
+"%@ %[contains]@ %@"    = "%@ %[包含]@ %@";
+"%@ %[begins with]@ %@" = "%@ %[开头是]@ %@";
+"%@ %[ends with]@ %@"   = "%@ %[结尾是]@ %@";
+"%@ %[is like]@ %@"     = "%@ %[类似]@ %@";
+"%@ %[matches]@ %@"     = "%@ %[匹配正则表达式]@ %@";
+
+/* Size operators (4-view rows with unit popup). "is" / "is not" are also used
+   by the absolute-date rows. */
+"%@ %[is]@ %@ %@"                          = "%@ %[为]@ %@ %@";
+"%@ %[is not]@ %@ %@"                      = "%@ %[不为]@ %@ %@";
+"%@ %[is less than]@ %@ %@"                = "%@ %[小于]@ %@ %@";
+"%@ %[is greater than]@ %@ %@"             = "%@ %[大于]@ %@ %@";
+"%@ %[is less than or equal to]@ %@ %@"    = "%@ %[最多为]@ %@ %@";
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[至少为]@ %@ %@";
+
+/* Compound row */
+"%[All, Any]@ %[of the following are true]@" = "%[所有, 任何]@ %[以下条件为真]@";

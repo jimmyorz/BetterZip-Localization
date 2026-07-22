@@ -463,7 +463,7 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
 "pTg-mn-c1A.title" = "Altre viste";
 
-/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
+/* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
 "qFO-f9-zNK.title" = "Escludi Pattern:";
 
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */

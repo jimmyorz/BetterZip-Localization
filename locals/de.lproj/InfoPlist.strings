@@ -11,9 +11,6 @@
 "BinHex Archive" = "BinHex-Archiv";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Brotli-Archiv";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Brotli komprimiertes TAR-Archiv";
 
 /* No comment provided by engineer. */
@@ -39,9 +36,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Comicbook RAR-Archiv";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "Comicbook ZIP-Archiv";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "Kompiliertes HTML-Archiv";
@@ -74,9 +68,6 @@
 "LHA Archive" = "LHA-Archiv";
 
 /* No comment provided by engineer. */
-"Linux RPM Archive" = "Linux-RPM-Archiv";
-
-/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Microsoft E-Mail-Attachment";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -84,9 +75,6 @@
 
 /* Privacy - Contacts Usage Description */
 "NSContactsUsageDescription" = "Ihre E-Mail-Adresse wird nur benutzt, um das Kontaktfeld im Crash-Reporter vorauszufüllen.";
-
-/* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";
 
 /* No comment provided by engineer. */
 "NSIS Archive" = "NSIS-Archiv";
@@ -110,20 +98,22 @@
 "User-Defined Archive" = "Benutzerdefiniertes Archiv";
 
 /* No comment provided by engineer. */
-"xz Archive" = "XZ-Archiv";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "XZ-TAR-Archiv";
-
-/* No comment provided by engineer. */
-"Zip Archive" = "ZIP-Archiv";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "ZIP-Archiv";
 
 /* No comment provided by engineer. */
-"Zstandard Archive" = "Zstandard-Archiv";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Zstandard-TAR-Archiv";
 
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Comicbook ZIP-Archiv";
+"xz compressed Archive" = "XZ-Archiv";
+"Zstandard compressed Archive" = "Zstandard-Archiv";
+"Brotli compressed Archive" = "Brotli-Archiv";
+"RAR Legacy Archive" = "Älteres RAR-Archiv";
+"RPM Linux Archive" = "Linux-RPM-Archiv";
+"Disk Image" = "Disk-Image";
+"ISO Disk Image" = "ISO-Disk-Image";
+"MacBinary File" = "MacBinary-Datei";
+"XAR Archive" = "XAR-Archiv";

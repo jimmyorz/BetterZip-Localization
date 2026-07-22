@@ -11,9 +11,6 @@
 "BinHex Archive" = "BinHex-arkiv";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Brotli-arkiv";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Brotli-komprimerat TAR-arkiv";
 
 /* No comment provided by engineer. */
@@ -28,9 +25,6 @@
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
-/* Get Info string */
-"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
-
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
@@ -39,9 +33,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "Comicbook RAR-arkiv";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "Comicbook Zip-arkiv";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "Kompilerat HTML-arkiv";
@@ -74,9 +65,6 @@
 "LHA Archive" = "LHA-arkiv";
 
 /* No comment provided by engineer. */
-"Linux RPM Archive" = "Linux RPM-arkiv";
-
-/* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Microsoft E-post bilaga";
 
 /* Privacy - AppleEvents Sending Usage Description */
@@ -86,7 +74,7 @@
 "NSContactsUsageDescription" = "Din E-post kommer bara att användas för att auto-fylla i kontakt-fältet i BetterZips krashrapportering.";
 
 /* Copyright (human-readable) */
-"NSHumanReadableCopyright" = "";
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";
 
 /* No comment provided by engineer. */
 "NSIS Archive" = "NSIS-arkiv";
@@ -110,19 +98,23 @@
 "User-Defined Archive" = "Användar-definierat arkiv";
 
 /* No comment provided by engineer. */
-"xz Archive" = "xz-arkiv";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "xz-komprimerat TAR-arkiv";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "ZIP-arkiv";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "ZIP-arkiv";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "ZStandard-arkiv";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "ZStandard-komprimerat TAR-arkiv";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "Comicbook Zip-arkiv";
+"xz compressed Archive" = "xz-arkiv";
+"Zstandard compressed Archive" = "ZStandard-arkiv";
+"Brotli compressed Archive" = "Brotli-arkiv";
+"RAR Legacy Archive" = "Äldre RAR-arkiv";
+"RPM Linux Archive" = "Linux RPM-arkiv";
+"Disk Image" = "Skivavbild";
+"ISO Disk Image" = "ISO-skivavbild";
+"MacBinary File" = "MacBinary-fil";
+"XAR Archive" = "XAR-arkiv";
+

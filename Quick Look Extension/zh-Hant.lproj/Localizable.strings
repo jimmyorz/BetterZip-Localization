@@ -19,11 +19,17 @@
 /* No comment provided by engineer. Note = "don't translate"; */
 "Added" = "Added";
 
+/* No comment provided by engineer. */
+"Additional Parameters" = "";
+
 /* No comment provided by engineer. Note = "don't translate"; */
 "Cannot enumerate directory: %@" = "Cannot enumerate directory: %@";
 
 /* No comment provided by engineer. Note = "don't translate"; */
 "Cannot open file: %@" = "Cannot open file: %@";
+
+/* No comment provided by engineer. */
+"compression options" = "";
 
 /* No comment provided by engineer. */
 "Continue" = "繼續";
@@ -81,6 +87,9 @@
 
 /* No comment provided by engineer. Note = "don't translate"; */
 "Other…" = "Other…";
+
+/* No comment provided by engineer. */
+"Refusing to run the command: the value for “%@” contains characters that are not allowed for security reasons (%@)." = "";
 
 /* No comment provided by engineer. */
 "Stop" = "停止";

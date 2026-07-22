@@ -1,3 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "Aktivera BetterZip med återförsäljar-kod";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "Registrera BetterZip";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare";
+
 /* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
 "138.title" = "Tappat bort licensnyckeln?";
 
@@ -16,18 +28,6 @@
 /* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
 "144.title" = "Licensnyckel:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
-"17.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare.";
-
-/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
-"5qB-2K-8i7.title" = "Aktivera BetterZip med återförsäljar-kod";
-
-/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
-"8.title" = "Registrera BetterZip";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
-"98O-gG-uXk.ibShadowedToolTip" = "Öppna beställningssidan i din webbläsare";
-
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "Tillbaka";
 
@@ -40,8 +40,6 @@
 /* Class = "NSButtonCell"; title = "Register"; ObjectID = "MpD-2n-QXa"; */
 "MpD-2n-QXa.title" = "Registrera";
 
-/* Class = "NSTextFieldCell"; title = "BetterZip needs to personalize this code with your e-mail address to activate.\n"; ObjectID = "t2U-Sw-lRl"; */
-"t2U-Sw-lRl.title" = "";
-
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "Din E-post adress";
+

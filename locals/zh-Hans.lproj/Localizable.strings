@@ -4,42 +4,21 @@
 initial name of a duplicated save preset, %@ being the original name */
 "%@ copy" = "%@拷贝";
 
-/* Error messages */
-"%@ could not be extracted. Error code: %ld" = "";
-
 "%@ is not handled by any application. Try to extract the file and use Finder to open it." = "%@ 没有与任何程序关联，尝试解压缩文件并使用 Finder 打开。";
 
 "%@ of %@" = "%@ 已完成，共 %@";
 
-"%@ was unable to send the crashlog." = "";
-
 "%d item, uncompressed size: %@ %@" = "%d个项目，未压缩大小：%@ %@";
-
-/* UI elements */
-"%d Items" = "";
 
 "%d items, uncompressed size: %@ %@" = "%d个项目，未压缩大小：%@ %@";
 
 "%d selected, uncompressed size: %@ %@" = "选择了%d个项目，未压缩大小：%@ %@";
-
-/* merge conflicts message files only
-merge conflicts message folders only */
-"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
-
-/* merge conflicts message */
-"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "";
-
-/* pattern window label */
-"%lu matching items" = "";
 
 "(incl. %d hidden)" = "（包含%d个隐藏项目）";
 
 "(newer)" = "(更新的)";
 
 "(older)" = "(旧的)";
-
-/* unnamed filter predicate */
-"(untitled)" = "";
 
 "+pwd" = "+ PWD";
 
@@ -51,14 +30,11 @@ merge conflicts message folders only */
 /* initial name of a new password */
 "<new password>" = "<新密码>";
 
-"<new pattern>" = "-";
+"<new filter>" = "-";
 
 "<new preset>" = "<新的预置>";
 
 "A volume is missing: %@." = "丢失了一个卷：%@.";
-
-/* column header */
-"Action" = "";
 
 "Activate" = "启用";
 
@@ -87,9 +63,6 @@ merge conflicts message folders only */
 
 "After filtering, there are no files left to archive." = "筛选后，没有留下的压缩文件。";
 
-/* No comment provided by engineer. */
-"All" = "";
-
 "All Queued Archive Operations Complete" = "队列中的所有操作完成";
 
 "An error occurred" = "发生了一个错误";
@@ -108,8 +81,6 @@ merge conflicts message folders only */
 "An item with this name already exists in this folder!" = "该文件夹中已经存在一个同名项目了！";
 
 "An unknown error occurred." = "发生了一个未知错误。";
-
-"Another helper (%@) already uses tag %d." = "";
 
 "Apple Disk Image" = "苹果磁盘映像";
 
@@ -130,8 +101,6 @@ merge conflicts message folders only */
 
 "Archive Extraction Failed" = "解压缩操作失败";
 
-"Archive seems to be damaged" = "";
-
 "Archive Test Failed" = "压缩文件测试失败";
 
 "Archive Test Successful" = "压缩文件测试成功";
@@ -147,9 +116,6 @@ merge conflicts message folders only */
 "Archives" = "压缩文件";
 
 "Are you sure you want to overwrite the original archive?" = "您确定要替换原压缩文件吗？";
-
-/* Info table key */
-"Attributes" = "";
 
 /* Info table key */
 "Author" = "作者";
@@ -170,38 +136,26 @@ merge conflicts message folders only */
 "BetterZip Temporary Folder" = "BetterZip 临时文件夹";
 
 /* added in V 5.0 */
-"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip 被拒绝访问 %@。您可以在\"系统首选项\"中授予其访问权限。";
+"BetterZip was denied access to %@. You can grant it access in the System Settings." = "BetterZip 被拒绝访问 %@。您可以在\"系统首选项\"中授予其访问权限。";
 
-"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "";
-
-"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "根据偏好设置中的筛选列表内您所制定的格式，BetterZip 将从压缩文件中移除%d个文件。";
-
-"BetterZip will now remove %d files matching your patterns from the archive." = "根据您指定的筛选格式，BetterZip 将从压缩文件中移除%d个文件。";
+"BetterZip will now remove %d files matching your filters from the archive." = "根据您指定的筛选格式，BetterZip 将从压缩文件中移除%d个文件。";
 
 "BetterZip will now remove %d Mac specific files from the archive." = "BetterZip 将从压缩文件中移除%d个Mac特殊文件。";
 
 "BetterZip will now remove Mac specific files from the archive." = "BetterZip 即将从压缩文件中移除Mac特殊文件。";
 
-"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "根据偏好设置中的设定的模式，BetterZip 将从压缩文件中移除一个文件。";
-
-"BetterZip will now remove one file matching your patterns from the archive." = "根据您指定的筛选格式，BetterZip 将从压缩文件中移除一个文件。";
+"BetterZip will now remove one file matching your filters from the archive." = "根据您指定的筛选格式，BetterZip 将从压缩文件中移除一个文件。";
 
 "BetterZip will now remove one Mac specific file from the archive." = "BetterZip 将从压缩文件中移除一个Mac特殊文件。";
 
 /* AppController */
 "BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip将只运行在macOS 10.13 (High Sierra) 或者更新的系统。";
 
-/* No comment provided by engineer. */
-"Buy Now" = "";
-
 "BZip2-compressed image" = "BZip2 压缩图像";
 
 /* Import presets button
 button */
 "Cancel" = "取消";
-
-/* Extraction error suppression */
-"Cancel extraction" = "";
 
 "Cancel Opening" = "取消打开";
 
@@ -211,10 +165,6 @@ button */
 "Cancel the operation" = "取消操作";
 
 "cancelled" = "已取消";
-
-"Cannot enumerate directory: %@" = "";
-
-"Cannot open file: %@" = "";
 
 "Caution" = "警告";
 
@@ -240,9 +190,6 @@ button */
 
 "Clear" = "清除";
 
-/* No comment provided by engineer. */
-"Clear Logs" = "";
-
 "Close" = "关闭";
 
 "Columns" = "列";
@@ -261,34 +208,18 @@ button */
 /* Default title for dynamic preset services */
 "Compress with Preset %@" = "压缩预设%@";
 
-/* Info table key */
-"Compressed" = "";
-
 "Compressed %@" = "已压缩 %@";
 
 "Compressing %@" = "正在压缩 %@";
-
-"Compression:" = "";
-
-/* Hash helper */
-"Computing…" = "";
 
 "Continue" = "继续";
 
 /* Info table key */
 "Copyright" = "版权";
 
-"Corrupted" = "";
-
 "CPIO Format, uncompressed (cpio)" = "CPIO格式，压缩的(CPIO)";
 
-/* Crash reporter */
-"CrashReport" = "";
-
 "Create a new folder in the selected place inside the archive." = "在压缩文件中的所选位置创建一个新的文件夹。";
-
-/* Filter / pattern UI */
-"Create Filter" = "";
 
 "Create New Folder" = "新建文件夹";
 
@@ -298,21 +229,10 @@ button */
 /* No comment provided by engineer. */
 "date" = "日期";
 
-/* relative date unit */
-"days" = "";
-
-/* No comment provided by engineer. */
-"Debug" = "";
-
 /* Option in the password encoding pop-up to use the default encoding */
 "Default encoding" = "默认编码";
 
-"Define the filter criteria:" = "";
-
 "Delete" = "删除";
-
-/* No comment provided by engineer. */
-"Delete %lu log files?" = "";
 
 /* menu item */
 "Delete Empty Folders" = "删除空文件夹";
@@ -330,10 +250,10 @@ button */
 "Delete the selected files or folders from the archive" = "从压缩文件中删除选定的文件或文件夹";
 
 /* menu item */
-"Delete with Pattern" = "删除指定格式的文件";
+"Delete with Filter" = "删除指定格式的文件";
 
-/* Tooltip for the delete with pattern toolbar button */
-"Delete with pattern" = "删除指定格式的文件";
+/* Tooltip for the delete with filter toolbar button */
+"Delete with filter" = "删除指定格式的文件";
 
 "Deleting items" = "删除项目";
 
@@ -346,11 +266,8 @@ button */
 /* Info table key */
 "Dimensions" = "尺寸";
 
-/* column header */
-"Disk" = "";
-
 /* Welcome text, line 2 */
-"Dive into all available settings in the preferences window when you are ready." = "准备好后，深入了解首选项窗口中的所有可用设置。";
+"Dive into all available settings in the settings window when you are ready." = "准备好后，深入了解设置窗口中的所有可用设置。";
 
 "Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "如果您不习惯对数据进行定期备份，请勿启用此选项。如果使用启用了覆盖开关，BetterZip在覆盖文件之前不会发出警告。文件可能丢失。请慎重考虑风险。";
 
@@ -360,9 +277,6 @@ button */
 "Do you want to extract the %d archives that were found inside the selected folders?" = "您想到解压缩已选文件夹中包含的 %d 个压缩文件吗？";
 
 "Do you want to keep it that way or add metadata to your archive?" = "您是想保持这种方式，还是将元数据添加到压缩文件中？";
-
-/* Import presets alert message */
-"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "";
 
 "Do you want to save the changes back to the archive?" = "您希望将更改存储回压缩文件吗？";
 
@@ -375,8 +289,6 @@ button */
 
 "Don't Save" = "不保存";
 
-"Don't show again for this archive" = "";
-
 "Drag items here to compress or extract" = "把项目拖到这里来压缩或解压缩";
 
 "Drop archives here to extract" = "放入压缩文件进行解压缩";
@@ -385,22 +297,12 @@ button */
 
 "Drop the archives here to open them" = "把压缩文件拖到这里来打开";
 
-/* No comment provided by engineer. */
-"Drop the file here to add it to a new archive." = "";
-
 "Drop the files here to add them to a new archive" = "放入文件以添加到压缩文件";
-
-/* No comment provided by engineer. */
-"Drop the files here to filter and add them to a new archive" = "";
-
-"Duplicate Tag" = "";
 
 "DVD/CD-R master for export" = "以 DVD/CD-R masger 导出";
 
-"Edit Filter" = "";
-
 /* menu item */
-"Edit Patterns…" = "编辑模式…";
+"Edit Filters…" = "编辑模式…";
 
 /* menu item */
 "Edit Places…" = "编辑位置…";
@@ -411,19 +313,10 @@ button */
 /* Info table key */
 "Encryption" = "加密";
 
-/* save predicate alert message */
-"Enter a name for this predicate:" = "";
-
 "Error" = "错误";
 
 /* No comment provided by engineer. */
 "ext" = "文件扩展名";
-
-/* Preferences tab title */
-"Extensions" = "";
-
-/* No comment provided by engineer. */
-"External command returned: %d\n" = "";
 
 "External command returned: %d%c" = "外部命令返回：%d%c";
 
@@ -479,13 +372,7 @@ button */
 
 "Failed (Wrong size)" = "失败（大小错误）";
 
-/* No comment provided by engineer. */
-"Failed (wrong size)" = "";
-
 "Fast, but larger archives" = "速度快，但是压缩文件体积较大";
-
-/* singular */
-"file" = "";
 
 "File in archive:" = "压缩文件中的文件：";
 
@@ -499,28 +386,13 @@ button */
 /* Preferences tab title */
 "Files" = "文件类型";
 
-/* plural */
-"files" = "";
-
-/* popup label */
-"Files:" = "";
-
-/* name field placeholder */
-"Filter name" = "";
-
-/* Preferences window - name of the tab to manage filter patterns */
+/* Preferences tab title */
 "Filtering" = "筛选列表";
 
 "Finishing…" = "整理…";
 
 /* singular */
 "folder" = "文件夹";
-
-/* plural */
-"folders" = "";
-
-/* popup label */
-"Folders:" = "";
 
 /* Info table key */
 "Format" = "格式";
@@ -537,15 +409,7 @@ button */
 /* Info table key */
 "Hidden" = "隐藏";
 
-/* disclosure label */
-"Hide Details" = "";
-
 "Hide Favorites" = "隐藏收藏夹";
-
-"Hide password" = "";
-
-/* View menu */
-"Hide Path Bar" = "";
 
 "Hide Preview" = "隐藏预览";
 
@@ -554,30 +418,13 @@ button */
 
 "Hold cmd ⌘ to add them to a new archive" = "按住 cmd + 将其添加到新存档";
 
-/* No comment provided by engineer. */
-"Hold option ⌥ to apply a filter first" = "";
-
 "Ignore" = "忽略";
-
-"Ignore all remaining errors" = "";
 
 "Ignore and go on" = "忽略并继续";
 
 "Ignore Changes" = "忽略更改";
 
-"Ignore errors" = "";
-
 "Ignore This Time" = "仅这次忽略";
-
-/* No comment provided by engineer. */
-"Install Command-Line Tool…" = "";
-
-/* Error messages when saving Helpers configuration JSON */
-"Invalid Install Path" = "";
-
-"Invalid JSON" = "";
-
-"Invalid Tag" = "";
 
 "It is either damaged or in an unsupported format." = "它可能已损坏，或者是一种不支持的格式。";
 
@@ -595,8 +442,6 @@ button */
 /* Info table key */
 "Kind" = "类型";
 
-"Known file types" = "";
-
 /* PreferenceController */
 "Last checked: " = "最后一次检查：";
 
@@ -604,14 +449,6 @@ button */
 
 /* helpers */
 "Last modified: %@%cSize: %@" = "最后一次更改：%@%c大小：%@";
-
-"Let me add a filter" = "";
-
-/* No comment provided by engineer. */
-"Load or save a preset" = "";
-
-/* tasks button tooltip */
-"Load or save predicates" = "";
 
 "Loading archive: %@" = "正在加载压缩文件：%@";
 
@@ -623,27 +460,9 @@ button */
 
 "macOS returned this error:" = "macOS 返回此错误";
 
-/* menu item */
-"Manage Filters…" = "";
-
 "Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "目标磁盘已满或密码不正确。";
 
-/* conflict action */
-"Merge" = "";
-
-/* merge conflicts window title */
-"Merge Conflicts" = "";
-
 "Merge Folders" = "合并文件夹";
-
-/* Info table key */
-"Method" = "";
-
-/* Multi-volume RAR */
-"Missing Volumes" = "";
-
-/* Info table key */
-"Missing volumes" = "";
 
 /* possible file status strings */
 "Modified" = "修改";
@@ -651,22 +470,7 @@ button */
 /* Info table key */
 "Modified at" = "修改时间";
 
-/* relative date unit */
-"months" = "";
-
-"Move Archive" = "";
-
-/* Show file panel to ask for destination when moving archive/originals after operations */
-"Move archive here" = "";
-
 "Move Items" = "移动项目";
-
-"Move Originals" = "";
-
-"Move originals here" = "";
-
-/* No comment provided by engineer. */
-"Move to Trash" = "";
 
 "Moved" = "移动";
 
@@ -678,14 +482,8 @@ button */
 
 "N/A" = "不适用";
 
-/* column header */
-"Name" = "";
-
 /* No comment provided by engineer. */
 "name" = "名称";
-
-/* name label */
-"Name:" = "";
 
 "Never" = "从不";
 
@@ -695,7 +493,7 @@ button */
 
 "New Preset" = "新的预设";
 
-"New Preset (%@)" = "新预设 （%*）";
+"New Preset (%@)" = "新预设（%@）";
 
 "Next to archive" = "下一个压缩文件";
 
@@ -709,14 +507,7 @@ button */
 
 "no errors" = "无错误";
 
-/* No comment provided by engineer. */
-"No errors found" = "";
-
 "No files selected" = "没有选择文件";
-
-/* no filter predicate
-no rename */
-"None" = "";
 
 "Normal" = "正常";
 
@@ -724,12 +515,6 @@ no rename */
 
 /* button */
 "OK" = "确定";
-
-/* No comment provided by engineer. */
-"Older than a month" = "";
-
-/* No comment provided by engineer. */
-"Older than a week" = "";
 
 /* Descriptive title of the password editor window */
 "One password per line:" = "每一行一个密码：";
@@ -741,18 +526,11 @@ no rename */
 
 "Open Anyway" = "无论如何都要打开";
 
-"Open System Preferences" = "打开系统设置";
-
-"Open With" = "";
+"Open System Settings" = "打开系统设置";
 
 "Opening archive failed" = "无法打开压缩文件";
 
 "Opening archive with %d items" = "正在打开包含%d个文件的压缩文件";
-
-"Operation time: %.1lf s" = "";
-
-/* Operations queue */
-"Operations Completed" = "";
 
 /* menu item */
 "Other Folder…" = "其他文件夹…";
@@ -765,9 +543,6 @@ no rename */
 /* Info table key */
 "Pages" = "页面";
 
-/* No comment provided by engineer. */
-"Panel Settings" = "";
-
 /* Preferences tab title */
 "Passwords" = "密码";
 
@@ -779,14 +554,7 @@ no rename */
 /* Preferences tab title */
 "Places" = "位置";
 
-"Please confirm" = "";
-
-"Please download a fresh copy from our website." = "";
-
-"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "请在 偏好设置 > 程序助手 中设置正确的路径，或选择其他的格式存储。";
-
-/* placeholder */
-"Predicate name" = "";
+"Please set the correct path in Settings > Helpers or choose a different format for saving." = "请在 设置 > 程序助手 中设置正确的路径，或选择其他的格式存储。";
 
 /* Preferences tab title */
 "Presets" = "预置";
@@ -806,23 +574,16 @@ no rename */
 
 "RAR Format" = "RAR 格式";
 
-/* Info table key */
-"Ratio" = "";
-
 "Read-only image" = "只读图像";
 
 /* DMG Options */
 "Read/write image" = "读取/写入图像";
-
-"Reconstruct" = "";
 
 "Regular Expression" = "正则表达式";
 
 "Reload Drop Bar" = "重载Drop Bar";
 
 "Remove" = "移除";
-
-"Remove files matching the patterns configured in the preferences window from the archive." = "正在根据偏好设置中选中的模式从压缩文件中移除文件。";
 
 "Rename Item" = "重命名";
 
@@ -832,49 +593,20 @@ no rename */
 conflict action */
 "Replace" = "替换";
 
-/* rename mode */
-"Replace _ and . with space" = "";
-
-/* rename mode */
-"Replace _ with space" = "";
-
-/* Import presets alert title */
-"Replace or Add?" = "";
-
-/* rename mode */
-"Replace space with _" = "";
-
-"Reset" = "";
-
-/* Advanced prefs – reset learned progress weights */
-"Reset Learned Progress Weights?" = "";
-
 "Reset Password Manager" = "重置密码管理器";
 
 "Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "重置密码管理器将擦除您的所有密码和主密码。无法撤消该操作。";
-
-"Reveal" = "";
 
 "Reveal in Finder" = "在 Finder 中显示";
 
 "Running script" = "运行脚本";
 
-"Running shortcut" = "";
-
-"Running shortcut %@" = "";
-
 /* Progress messages */
 "Running user script %@" = "正在运行用户脚本 %@";
-
-/* rename mode */
-"Sanitize filenames for Windows" = "";
 
 "Save" = "存储";
 
 "Save As…" = "另存为…";
-
-/* save predicate alert title */
-"Save Predicate" = "";
 
 "Save the archive" = "存储压缩文件";
 
@@ -891,8 +623,6 @@ conflict action */
 
 "Saving archive: %@ of %@" = "正在存储压缩文件：第%@个，共%@个";
 
-"Scripts" = "";
-
 "Search" = "搜索";
 
 "Search the archive file" = "在压缩文件中搜索";
@@ -902,26 +632,7 @@ conflict action */
 /* possible button labels for setting and clearing passwords in the save presets configuration */
 "Set" = "设置";
 
-"Set Master Password…" = "";
-
-"Shortcuts" = "";
-
-/* No comment provided by engineer. */
-"Show Archive in Finder" = "";
-
-/* disclosure label */
-"Show Details" = "";
-
 "Show Favorites" = "显示收藏夹";
-
-/* No comment provided by engineer. */
-"Show in Finder" = "";
-
-/* Password */
-"Show password" = "";
-
-/* View menu */
-"Show Path Bar" = "";
 
 "Show Preview" = "显示预览";
 
@@ -933,15 +644,10 @@ conflict action */
 /* Info table key */
 "Size" = "大小";
 
-/* conflict action */
-"Skip" = "";
-
 /* Info table key */
 "Solid" = "实线";
 
 "Sorry!" = "抱歉！";
-
-"Sort By" = "";
 
 "Stop" = "停止";
 
@@ -953,8 +659,6 @@ conflict action */
 
 /* The system default app should handle this file type. */
 "System Default" = "系统默认";
-
-"Tags for user-defined formats must be 1000 or greater." = "";
 
 "TAR Format, Brotli compressed (tbr)" = "TAR 格式，Brotil压缩 （tbr）";
 
@@ -971,11 +675,7 @@ conflict action */
 
 "TAR Format, Zstandard compressed (tzst)" = "TAR 格式，Z 标准压缩 （tzst）";
 
-"tar options,compressor options" = "";
-
 "Test" = "测试";
-
-"Test Archive" = "";
 
 "Test the archive" = "测试压缩文件";
 
@@ -988,11 +688,6 @@ conflict action */
 /* Output while testing archives */
 "Testing: %@…" = "正在测试：%@…";
 
-"Thanks for helping us improve %@" = "";
-
-/* Application integrity */
-"The application is damaged." = "";
-
 "The archive cannot be created." = "无法创建压缩文件.";
 
 "The archive could not be extracted completely. It may be damaged." = "压缩文件无法被完整解压，它可能已经损坏。";
@@ -1002,8 +697,6 @@ conflict action */
 "The archive could not be extracted." = "压缩文件无法被解压。";
 
 "The archive disappeared" = "压缩文件缺失";
-
-"The archive extraction encountered errors." = "";
 
 "The archive extraction failed." = "解压缩失败。";
 
@@ -1024,27 +717,9 @@ conflict action */
 
 "The file %@ has been modified." = "文件 %@ 已经被更改。";
 
-"The file at '%@' does not exist." = "";
-
-/* No comment provided by engineer. */
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "";
-
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "";
-
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "";
-
-"The helper tool %@ could not be found or is not executable." = "";
-
-"The JSON must be a dictionary (top-level object)." = "";
-
 "The last error macOS reported was:" = "macOS  汇报的最后一个错误是：";
 
-/* No comment provided by engineer. */
-"The log files will be moved to the Trash." = "";
-
 "The password may be incorrect." = "密码错误.";
-
-"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "";
 
 "The rar helper could not be found." = "未找到RAR助手。";
 
@@ -1058,19 +733,8 @@ conflict action */
 
 "This archive doesn't contain any Mac specific files yet" = "这个压缩文件没有包含任何Mac特定文件";
 
-/* Import presets wrong type alert message */
-"This file contains extract presets, but you are importing into save presets." = "";
-
-/* Import presets wrong type alert message */
-"This file contains save presets, but you are importing into extract presets." = "";
-
-/* No comment provided by engineer. */
-"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "";
-
 /* The user entered a wrong master password. */
 "This is not the password you are looking for." = "这不是您正在寻找的密码。";
-
-"This name is invalid." = "";
 
 "This operation has been running for a while. Are you sure you want to cancel it?" = "This operation has been running for a while. Are you sure you want to cancel it?";
 
@@ -1085,29 +749,14 @@ conflict action */
 /* Today title string */
 "Today" = "今日";
 
-/* No comment provided by engineer. */
-"Toggle Preview" = "";
-
-/* No comment provided by engineer. */
-"Toggle Sidebar" = "";
-
 /* menu item */
 "Trash" = "废纸篓";
 
-/* No comment provided by engineer. */
-"Uninstall Command-Line Tool" = "";
-
 "Unknown" = "未知";
-
-"Unknown file types" = "";
 
 "Unlock Password Manager…" = "解锁密码管理器…";
 
-"Unlock the password manager to set a preset password." = "";
-
 "Unpacking failed" = "解包失败";
-
-"Untitled Archive" = "";
 
 "untitled folder" = "未命名的文件夹";
 
@@ -1115,8 +764,6 @@ conflict action */
 "Update" = "更新";
 
 "Update File" = "更新文件";
-
-"Update Items" = "";
 
 "Updated" = "更新";
 
@@ -1127,13 +774,11 @@ conflict action */
 
 "Use RAR" = "使用 RAR";
 
-"Use this filter to select which files and folders to add:" = "";
-
 "Use this password for the new archive" = "为新的压缩文件使用该密码";
 
-"Use this pattern to delete files and folders from the archive:" = "使用当前模式从压缩文件中删除文件和文件夹：";
+"Use this filter to delete files and folders from the archive:" = "使用当前模式从压缩文件中删除文件和文件夹：";
 
-"Use this pattern to specify which files and folders to add to the archive:" = "使用当前模式可以指定将哪些文件和文件夹添加到压缩文件：";
+"Use this filter to select which files and folders to add:" = "使用当前模式可以指定将哪些文件和文件夹添加到压缩文件：";
 
 "Use this preset as default in the toolbar" = "在工具栏中使用此预设作为默认设置";
 
@@ -1141,9 +786,6 @@ conflict action */
 
 /* No comment provided by engineer. */
 "user" = "用户";
-
-/* No comment provided by engineer. */
-"User confirmation for \"%@\" answered with %@" = "";
 
 /* Info table key */
 "Version" = "版本";
@@ -1164,19 +806,11 @@ conflict action */
 
 "Weak (PKZip2 compatible)" = "弱（PKZip2 兼容）";
 
-/* relative date unit */
-"weeks" = "";
-
 "When in Direct Mode, all archive operations are immediate and cannot be undone." = "在“立即执行模式”下，所有的操作都是直接的，不能被撤销。";
 
 "with errors" = "有错误";
 
-"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "您希望 %@ 在启动时检查更新吗？您可以在任何时候通过偏好设置窗口手动检查更新。";
-
 "Wrong checksum" = "错误的校验和输入";
-
-/* Import presets wrong type alert title */
-"Wrong Preset Type" = "";
 
 "XAR Format" = "XAR 格式";
 
@@ -1204,3 +838,183 @@ conflict action */
 "Zlib compressed (level 9)" = "Zlib 压缩（9级）";
 
 "⚠️ (older)" = "⚠️ (旧的)";
+
+/* @new-6.0b4 – strings that were missing from zh-Hans (previously fell back to English) */
+"%@ could not be extracted. Error code: %ld" = "无法解压 %@。错误代码：%ld";
+"%@ was unable to send the crashlog." = "%@ 无法发送崩溃日志。";
+"%d Items" = "%d 个项目";
+"(untitled)" = "（无标题）";
+"Another helper (%@) already uses tag %d." = "另一个助手（%@）已在使用标签 %d。";
+"Archive seems to be damaged" = "压缩文件似乎已损坏";
+"Attributes" = "属性";
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip 将丢弃它在此 Mac 上为压缩、解压及相关操作收集的计时样本。在收集到新样本之前，进度条和预计剩余时间的准确度会暂时下降。";
+"Cancel extraction" = "取消解压";
+"Cannot enumerate directory: %@" = "无法枚举目录：%@";
+"Cannot open file: %@" = "无法打开文件：%@";
+"Compressed" = "已压缩";
+"Compression:" = "压缩：";
+"Computing…" = "正在计算…";
+"Corrupted" = "已损坏";
+"CrashReport" = "崩溃报告";
+"Create Filter" = "创建过滤器";
+"Define the filter criteria:" = "定义过滤条件：";
+"Don't show again for this archive" = "对此压缩文件不再显示";
+"Duplicate Tag" = "重复的标签";
+"Edit Filter" = "编辑过滤器";
+"Hide password" = "隐藏密码";
+"Ignore all remaining errors" = "忽略所有剩余错误";
+"Ignore errors" = "忽略错误";
+"Invalid Install Path" = "无效的安装路径";
+"Invalid JSON" = "无效的 JSON";
+"Invalid Tag" = "无效的标签";
+"Known file types" = "已知文件类型";
+"Let me add a filter" = "让我添加一个过滤器";
+"Method" = "方法";
+"Missing Volumes" = "缺少分卷";
+"Missing volumes" = "缺少分卷";
+"Move Archive" = "移动压缩文件";
+"Move Originals" = "移动原始文件";
+"Move archive here" = "将压缩文件移到此处";
+"Move originals here" = "将原始文件移到此处";
+"None" = "无";
+"Open With" = "打开方式";
+"Operation time: %.1lf s" = "操作时间：%.1lf 秒";
+"Operations Completed" = "操作已完成";
+"Please confirm" = "请确认";
+"Please download a fresh copy from our website." = "请从我们的网站下载一个全新副本。";
+"Ratio" = "压缩比";
+"Reconstruct" = "重建";
+"Reset Learned Progress Weights?" = "重置已学习的进度权重？";
+"Reset" = "重置";
+"Reveal" = "显示";
+"Running shortcut %@" = "正在运行快捷指令 %@";
+"Running shortcut" = "正在运行快捷指令";
+"Scripts" = "脚本";
+"Set Master Password…" = "设置主密码…";
+"Shortcuts" = "快捷指令";
+"Show password" = "显示密码";
+"Sort By" = "排序方式";
+"Tags for user-defined formats must be 1000 or greater." = "用户自定义格式的标签必须大于或等于 1000。";
+"Test Archive" = "测试压缩文件";
+"Thanks for helping us improve %@" = "感谢您帮助我们改进 %@";
+"The JSON must be a dictionary (top-level object)." = "JSON 必须是一个字典（顶层对象）。";
+"The application is damaged." = "应用程序已损坏。";
+"The archive extraction encountered errors." = "解压压缩文件时遇到错误。";
+"The file at '%@' does not exist." = "位于 '%@' 的文件不存在。";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "“%@” 的第一个分卷缺失。已找到恢复分卷（.rev），但需要 rar 命令行工具才能重建缺失的分卷。请在“设置 › 程序助手”中配置 rar 的路径。";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "“%@” 的第一个分卷缺失。已找到恢复分卷（.rev）。是否要重建缺失的分卷？";
+"The helper tool %@ could not be found or is not executable." = "找不到助手工具 %@，或它不可执行。";
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "rar 解压可能需要大量内存（%@）。\n是否要继续？";
+"This name is invalid." = "此名称无效。";
+"Unknown file types" = "未知文件类型";
+"Unlock the password manager to set a preset password." = "解锁密码管理器以设置预设密码。";
+"Untitled Archive" = "未命名压缩文件";
+"Update Items" = "更新项目";
+"tar options,compressor options" = "tar 选项,压缩器选项";
+
+/* @new-6.0b4 – further strings that were missing from zh-Hans (found via genstrings) */
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目标位置已存在 %1$ld 个%2$@。\n请选择如何处理冲突：";
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目标位置已存在 %1$ld 个%2$@和 %3$ld 个%4$@。\n请选择如何处理冲突：";
+"%lu matching items" = "%lu 个匹配的项目";
+"Action" = "操作";
+"All" = "全部";
+"Before you can set passwords in presets, please set up the password manager and choose a master password. " = "在预设中设置密码之前，请先设置密码管理器并选择一个主密码。 ";
+"Clear Logs" = "清除日志";
+"Debug" = "调试";
+"Delete %lu log files?" = "删除 %lu 个日志文件？";
+"Disk" = "磁盘";
+"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "您要用导入的预设替换所有现有预设，还是将导入的预设添加到现有列表中？";
+"Drop the file here to add it to a new archive." = "将文件拖放到此处，以将其添加到新的压缩文件中。";
+"Drop the files here to filter and add them to a new archive" = "将文件拖放到此处，以筛选并将它们添加到新的压缩文件中";
+"Enter a name for this predicate:" = "为此谓词输入一个名称：";
+"Extensions" = "扩展名";
+"Failed (wrong size)" = "失败（大小错误）";
+"Files:" = "文件：";
+"Filter name" = "过滤器名称";
+"Folders:" = "文件夹：";
+"Hide Details" = "隐藏详细信息";
+"Hold option ⌥ to apply a filter first" = "按住 Option ⌥ 以先应用过滤器";
+"Install Command-Line Tool…" = "安装命令行工具…";
+"Load or save predicates" = "加载或保存谓词";
+"Manage Filters…" = "管理过滤器…";
+"Merge" = "合并";
+"Merge Conflicts" = "合并冲突";
+"Move to Trash" = "移到废纸篓";
+"Name" = "名称";
+"Name:" = "名称：";
+"Older than a month" = "早于一个月";
+"Older than a week" = "早于一周";
+"Predicate name" = "谓词名称";
+"Replace _ and . with space" = "将 _ 和 . 替换为空格";
+"Replace _ with space" = "将 _ 替换为空格";
+"Replace or Add?" = "替换还是添加？";
+"Replace space with _" = "将空格替换为 _";
+"Sanitize filenames for Windows" = "为 Windows 清理文件名";
+"Save Predicate" = "保存谓词";
+"Show Archive in Finder" = "在 Finder 中显示压缩文件";
+"Show Details" = "显示详细信息";
+"Show in Finder" = "在 Finder 中显示";
+"Skip" = "跳过";
+"The log files will be moved to the Trash." = "日志文件将被移到废纸篓。";
+"This file contains extract presets, but you are importing into save presets." = "此文件包含解压预设，但您正在导入到保存预设中。";
+"This file contains save presets, but you are importing into extract presets." = "此文件包含保存预设，但您正在导入到解压预设中。";
+"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "这是一个已列入黑名单的压缩文件。按住 Option ⌥ 以打开并查看其内容。";
+"Uninstall Command-Line Tool" = "卸载命令行工具";
+"Wrong Preset Type" = "预设类型错误";
+"days" = "天";
+"file" = "文件";
+"files" = "文件";
+"folders" = "文件夹";
+"months" = "个月";
+"weeks" = "周";
+
+/* date predicate operators (PatternWindowController) @new-6.0b4 */
+"before" = "早于";
+"after" = "晚于";
+"is in the last" = "在最近";
+"is not in the last" = "不在最近";
+
+/* relative-date unit in the filter date row (grammatical case after "in the last N") @new-6.0b4 */
+"relativeDateUnit.days" = "天";
+"relativeDateUnit.weeks" = "周";
+"relativeDateUnit.months" = "个月";
+
+/* AppController – btrzp:// guarded action confirmation (M1) */
+"Allow this action?" = "允许此操作吗？";
+"An app or web page is asking BetterZip to extract these items to “%@”:\n\n%@\n\nContinue only if you started this action yourself." = "某个应用或网页正在请求 BetterZip 将这些项目解压缩到“%@”：\n\n%@\n\n请仅在您本人发起此操作时才继续。";
+"An app or web page is asking BetterZip to extract these items:\n\n%@\n\nContinue only if you started this action yourself." = "某个应用或网页正在请求 BetterZip 解压缩这些项目：\n\n%@\n\n请仅在您本人发起此操作时才继续。";
+"An app or web page is asking BetterZip to compress these items:\n\n%@\n\nContinue only if you started this action yourself." = "某个应用或网页正在请求 BetterZip 压缩这些项目：\n\n%@\n\n请仅在您本人发起此操作时才继续。";
+"An app or web page is asking BetterZip to test these items:\n\n%@\n\nContinue only if you started this action yourself." = "某个应用或网页正在请求 BetterZip 测试这些项目：\n\n%@\n\n请仅在您本人发起此操作时才继续。";
+"An app or web page is asking BetterZip to open these items:\n\n%@\n\nContinue only if you started this action yourself." = "某个应用或网页正在请求 BetterZip 打开这些项目：\n\n%@\n\n请仅在您本人发起此操作时才继续。";
+
+/* @new-6.0b5 – save-panel / preset format names (Formats/*.json "name"); shown via MIBLocalizedFormatName */
+"7-Zip Format" = "7-Zip 格式";
+"ARJ Archive" = "ARJ 压缩";
+"BinHex Archive" = "BinHex 压缩";
+"CAB Archive" = "CAB 压缩";
+"Chromium Extra" = "Chromium Extra";
+"Compiled HTML Archive" = "压缩 HTML 存档";
+"Debian Linux Package" = "Debian Linux 包";
+"ISO Image" = "ISO 映像";
+"LHA Archive" = "LHA 存档";
+"Microsoft E-mail Attachment" = "微软电子邮件附件";
+"NSIS Archive" = "NSIS 存档";
+"PDF Document" = "PDF 文稿";
+"RPM Linux Archive" = "Linux RPM 存档";
+"SWF Flash Archive" = "SWF Flash 存档";
+"Split File" = "分割文件";
+"Stuffit Archive" = "Stuffit 压缩";
+"WIM Archive" = "WIM 存档";
+
+/* @new-6.0b5 – BetterTouchTool launcher plugin install (AppController) */
+"The BetterTouchTool plugin could not be found." = "找不到 BetterTouchTool 插件。";
+"The plugin file is missing from this copy of BetterZip." = "此 BetterZip 副本中缺少插件文件。";
+"BetterTouchTool isn’t installed." = "未安装 BetterTouchTool。";
+"Install BetterTouchTool first, then try again." = "请先安装 BetterTouchTool，然后重试。";
+"The BetterTouchTool plugin could not be installed." = "无法安装 BetterTouchTool 插件。";
+
+/* @new-6.0b6 – titlebar sidebar/preview toggle button tooltips & accessibility labels (ZipDocument) */
+"Toggle Sidebar" = "切换边栏";
+"Toggle Preview" = "切换预览";
+"Show or hide the sidebar" = "显示或隐藏边栏";
+"Show or hide the preview" = "显示或隐藏预览";

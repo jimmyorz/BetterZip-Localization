@@ -11,9 +11,6 @@
 "BinHex Archive" = "BinHex 压缩";
 
 /* No comment provided by engineer. */
-"Brotli Archive" = "Brotli 压缩";
-
-/* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "以 Brotli 方式压缩 TAR 存档";
 
 /* No comment provided by engineer. */
@@ -28,20 +25,14 @@
 /* Bundle display name */
 "CFBundleDisplayName" = "BetterZip";
 
-/* Get Info string */
-"CFBundleGetInfoString" = "";
-
 /* Bundle name */
 "CFBundleName" = "BetterZip";
 
 /* No comment provided by engineer. */
-"Chromium Extra" = "创建额外的文件夹";
+"Chromium Extra" = "Chromium Extra";
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "漫画书 RAR 存档";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "漫画书 ZIP 存档";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "压缩 HTML 存档";
@@ -72,9 +63,6 @@
 
 /* No comment provided by engineer. */
 "LHA Archive" = "LHA 存档";
-
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "Linux RPM 存档";
 
 /* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "微软电子邮件附件";
@@ -110,19 +98,22 @@
 "User-Defined Archive" = "用户定义的存档";
 
 /* No comment provided by engineer. */
-"xz Archive" = "xz 压缩";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "以 xz 方式压缩 TAR 存档";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "ZIP压缩";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "Zip 压缩";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "Zstandard 压缩";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "以 Zstandard 方式压缩 TAR 存档";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "漫画书 ZIP 存档";
+"xz compressed Archive" = "xz 压缩";
+"Zstandard compressed Archive" = "Zstandard 压缩";
+"Brotli compressed Archive" = "Brotli 压缩";
+"RAR Legacy Archive" = "RAR 旧版压缩";
+"RPM Linux Archive" = "Linux RPM 存档";
+"Disk Image" = "磁盘映像";
+"ISO Disk Image" = "ISO 磁盘映像";
+"MacBinary File" = "MacBinary 文件";
+"XAR Archive" = "XAR 压缩";

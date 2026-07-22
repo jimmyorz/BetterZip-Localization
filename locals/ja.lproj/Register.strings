@@ -1,3 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
+"5qB-2K-8i7.title" = "リセラーコードで BetterZip をアクティベートする";
+
+/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
+"8.title" = "BetterZip を登録";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
+"17.ibShadowedToolTip" = "Web ブラウザでオンラインの注文ページを開きます。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
+"98O-gG-uXk.ibShadowedToolTip" = "ウェブブラウザでオンライン注文ページを開く。";
+
 /* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
 "138.title" = "キーを紛失?";
 
@@ -16,18 +28,6 @@
 /* Class = "NSTextFieldCell"; title = "License key:"; ObjectID = "144"; */
 "144.title" = "ライセンスキー:";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "17"; */
-"17.ibShadowedToolTip" = "Web ブラウザでオンラインの注文ページを開きます。";
-
-/* Class = "NSTextFieldCell"; title = "Activate BetterZip with Reseller Code"; ObjectID = "5qB-2K-8i7"; */
-"5qB-2K-8i7.title" = "リセラーコードで BetterZip をアクティベートする";
-
-/* Class = "NSWindow"; title = "Register BetterZip"; ObjectID = "8"; */
-"8.title" = "BetterZip を登録";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
-"98O-gG-uXk.ibShadowedToolTip" = "ウェブブラウザでオンライン注文ページを開く。";
-
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "戻る";
 
@@ -45,3 +45,4 @@
 
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "あなたのメールアドレス";
+

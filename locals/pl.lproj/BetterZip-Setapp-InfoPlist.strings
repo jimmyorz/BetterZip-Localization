@@ -1,0 +1,13 @@
+
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
+/* (No Comment) */
+"CFBundleDisplayName" = "BetterZip";
+/* (No Comment) */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+/* (No Comment) */
+"CFBundleName" = "BetterZip";
+/* (No Comment) */
+"NSContactsUsageDescription" = "Twój adres e-mail jest używany wyłącznie do wstępnego wypełnienia pola kontaktowego w narzędziu do zgłaszania awarii BetterZip.";
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";

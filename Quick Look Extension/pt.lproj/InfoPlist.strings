@@ -1,5 +1,6 @@
 /* Bundle display name */
-"CFBundleDisplayName" = "";
+"CFBundleDisplayName" = "Extensão da Visualização Rápida do BetterZip";
 
 /* Bundle name */
-"CFBundleName" = "";
+"CFBundleName" = "Extensão da Visualização Rápida";
+

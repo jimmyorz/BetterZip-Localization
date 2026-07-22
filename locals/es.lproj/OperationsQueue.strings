@@ -1,17 +1,17 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Remove completed and stopped downloads from this list."; ObjectID = "23"; */
-"23.ibShadowedToolTip" = "Quitar descargas completadas y detenidas de esta lista.";
+"23.ibShadowedToolTip" = "Eliminar de esta lista las descargas finalizadas y detenidas.";
 
 /* Class = "NSButtonCell"; title = "Clear"; ObjectID = "24"; */
 "24.title" = "Limpiar";
 
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "AeX-VJ-9Sx"; */
-"AeX-VJ-9Sx.title" = "Don't translate";
+"AeX-VJ-9Sx.title" = "No traducir";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Cancel the operation"; ObjectID = "nTJ-qt-MAI"; */
 "nTJ-qt-MAI.ibShadowedToolTip" = "Cancelar la operación";
 
 /* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "QQe-6v-KhE"; */
-"QQe-6v-KhE.title" = "Don't translate";
+"QQe-6v-KhE.title" = "No traducir";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tRx-J3-VVa"; Note = "don't translate"; */
-"tRx-J3-VVa.title" = "Texto celda";
+"tRx-J3-VVa.title" = "Celda de texto";

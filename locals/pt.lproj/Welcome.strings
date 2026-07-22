@@ -11,7 +11,7 @@
 "bku-O5-RcK.title" = "Sempre abrir arquivos comprimidos no BetterZip";
 
 /* Class = "NSButtonCell"; title = "Browse the archive contents"; ObjectID = "bRc-Br-wse"; */
-"bRc-Br-wse.title" = "Explorar o conteúdo do arquivo";
+"bRc-Br-wse.title" = "Explorar o conteúdo";
 
 /* Class = "NSButtonCell"; title = "Extract it right away"; ObjectID = "eRc-Ex-trc"; */
 "eRc-Ex-trc.title" = "Extrair imediatamente";
@@ -20,7 +20,7 @@
 "Igc-GC-msG.title" = "Novidades do BetterZip 6";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to BetterZip!"; ObjectID = "ktm-z0-OrQ"; */
-"ktm-z0-OrQ.title" = "Bem-vindo ao BetterZip!";
+"ktm-z0-OrQ.title" = "Olá!";
 
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "Seguinte";
@@ -38,7 +38,11 @@
 "t2Q-rY-XuF.title" = "Ativar extensão do BetterZip no Finder";
 
 /* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
-"tI1-Pg-one.label" = "";
+"tI1-Pg-one.label" = "Comportamento de abertura";
 
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
-"tI2-Pg-two.label" = "";
+"tI2-Pg-two.label" = "Opções";
+
+
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "Instalar plugin do Launcher do BetterTouchTool";

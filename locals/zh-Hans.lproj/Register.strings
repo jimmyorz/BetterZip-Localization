@@ -1,3 +1,6 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "0FK-VE-wpk"; Note = "@new-6.0b4"; */
+"0FK-VE-wpk.ibShadowedToolTip" = "在Web浏览器中打开订购页面。";
+
 /* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "138"; */
 "138.title" = "丢失了密钥？";
 
@@ -28,11 +31,23 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Open the online order page in your Web browser."; ObjectID = "98O-gG-uXk"; */
 "98O-gG-uXk.ibShadowedToolTip" = "在Web浏览器中打开订购页面。";
 
+/* Class = "NSTabViewItem"; label = "MAS Convert"; ObjectID = "a9U-Bh-x3p"; Note = "@new-6.0b4"; */
+"a9U-Bh-x3p.label" = "MAS 转换";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "bmZ-yF-vW1"; Note = "@new-6.0b4"; */
+"bmZ-yF-vW1.title" = "注册";
+
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "EDz-qk-Feh"; */
 "EDz-qk-Feh.title" = "后退";
 
+/* Class = "NSTextFieldCell"; title = "Mac App Store License Detected"; ObjectID = "g81-Nf-GOk"; Note = "@new-6.0b4"; */
+"g81-Nf-GOk.title" = "检测到 Mac App Store 许可证";
+
 /* Class = "NSTabViewItem"; label = "Register"; ObjectID = "G8e-Xx-KQQ"; */
 "G8e-Xx-KQQ.label" = "注册";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "kIb-kC-2Vk"; Note = "@new-6.0b4"; */
+"kIb-kC-2Vk.placeholderString" = "您的电子邮件地址";
 
 /* Class = "NSTabViewItem"; label = "Claim Voucher"; ObjectID = "l3n-jx-lIq"; */
 "l3n-jx-lIq.label" = "索赔凭证";
@@ -45,3 +60,6 @@
 
 /* Class = "NSTextFieldCell"; placeholderString = "Your e-mail address"; ObjectID = "VOR-xE-oVT"; */
 "VOR-xE-oVT.placeholderString" = "您的电子邮件";
+
+/* Class = "NSButtonCell"; title = "Later"; ObjectID = "Xp6-Oz-aed"; Note = "@new-6.0b4"; */
+"Xp6-Oz-aed.title" = "以后再说";

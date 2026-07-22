@@ -1,0 +1,43 @@
+"%@ %[begins with]@ %@" = "";
+
+"%@ %[contains]@ %@" = "";
+
+"%@ %[ends with]@ %@" = "";
+
+"%@ %[is greater than or equal to]@ %@ %@" = "";
+
+"%@ %[is greater than]@ %@ %@" = "";
+
+"%@ %[is less than or equal to]@ %@ %@" = "";
+
+"%@ %[is less than]@ %@ %@" = "";
+
+"%@ %[is like]@ %@" = "";
+
+"%@ %[is not]@ %@" = "";
+
+"%@ %[is not]@ %@ %@" = "";
+
+/* String operators (3-view rows) */
+"%@ %[is]@ %@" = "";
+
+/* Size operators (4-view rows with KB/MB/GB unit popup). The "is" / "is not"
+   entries are shared by the absolute-date rows (which keep these titles). */
+"%@ %[is]@ %@ %@" = "";
+
+"%@ %[matches]@ %@" = "";
+
+/* Compound row (All/Any of the following are true) */
+"%[All, Any]@ %[of the following are true]@" = "";
+
+"%[kind]@ %@ %@" = "";
+
+/* Left-hand attribute labels (string rows, 3-view) */
+"%[name]@ %@ %@" = "";
+
+"%[path]@ %@ %@" = "";
+
+"%[timeV]@ %@ %@ %@" = "";
+
+/* Left-hand attribute labels (4-view rows: size and date) */
+"%[uncoV]@ %@ %@ %@" = "";

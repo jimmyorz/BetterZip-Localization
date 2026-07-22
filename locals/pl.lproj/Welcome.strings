@@ -25,9 +25,6 @@
 /* Class = "NSButtonCell"; title = "Next"; ObjectID = "nBc-Nx-pge"; */
 "nBc-Nx-pge.title" = "Dalej";
 
-/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
-"or3-DA-ngV.title" = "BetterZip to jeden z najpotężniejszych archiwizatorów dla systemu macOS, który można dostosować na wiele sposobów. Aby zacząć szybko, skorzystaj z kilku wybranych opcji poniżej.\n\nZanurz się we wszystkich dostępnych ustawieniach w oknie preferencji, kiedy będziesz gotowy.\n\nWybierz Pomoc > Pomoc BetterZip z menu, aby uzyskać więcej informacji.";
-
 /* Class = "NSButtonCell"; title = "Regularly check for updates"; ObjectID = "pAU-Gw-VpU"; */
 "pAU-Gw-VpU.title" = "Regularnie sprawdzaj aktualizacje";
 
@@ -37,8 +34,14 @@
 /* Class = "NSButtonCell"; title = "Activate the BetterZip extension in Finder"; ObjectID = "t2Q-rY-XuF"; */
 "t2Q-rY-XuF.title" = "Dodaj przycisk BetterZip do paska narzędziowego Findera";
 
-/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
-"tI1-Pg-one.label" = "";
+/* Class = "NSButtonCell"; title = "Install BetterTouchTool launcher plugin"; ObjectID = "btt-Ce-001"; Note = "@new-6.0b5"; */
+"btt-Ce-001.title" = "Instaluj wtyczkę Launchera BetterTouchTool";
 
+
+/* @new-6.0b5 – translations added to bring Polish to parity */
+/* Class = "NSTabViewItem"; label = "Opening Behavior"; ObjectID = "tI1-Pg-one"; */
+"tI1-Pg-one.label" = "Zachowanie przy otwieraniu";
 /* Class = "NSTabViewItem"; label = "Options"; ObjectID = "tI2-Pg-two"; */
-"tI2-Pg-two.label" = "";
+"tI2-Pg-two.label" = "Opcje";
+/* Class = "NSTextFieldCell"; title = "_placeholder"; ObjectID = "or3-DA-ngV"; */
+"or3-DA-ngV.title" = "_placeholder";

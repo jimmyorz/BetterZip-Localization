@@ -1,0 +1,1206 @@
+"%@ (damaged)" = "%@(損毀)";
+
+/* initial name of a duplicated extract preset, %@ being the original name
+initial name of a duplicated save preset, %@ being the original name */
+"%@ copy" = "%@ 的複本";
+
+/* Error messages */
+"%@ could not be extracted. Error code: %ld" = "無法解壓縮 %@。錯誤代碼：%ld";
+
+"%@ is not handled by any application. Try to extract the file and use Finder to open it." = "沒有任何 App 可處理 %@。請嘗試解壓縮檔案，再使用 Finder 將其打開。";
+
+"%@ of %@" = "%@ / %@";
+
+"%@ was unable to send the crashlog." = "%@ 無法傳送當機記錄。";
+
+"%d item, uncompressed size: %@ %@" = "%d 個項目，未壓縮大小：%@ %@";
+
+/* UI elements */
+"%d Items" = "%d 個項目";
+
+"%d items, uncompressed size: %@ %@" = "%d 個項目，未壓縮大小：%@ %@";
+
+"%d selected, uncompressed size: %@ %@" = "已選取 %d 個項目，未壓縮大小：%@ %@";
+
+/* merge conflicts message files only
+merge conflicts message folders only */
+"%ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@。\\n請選擇衝突的處理方式：";
+
+/* merge conflicts message */
+"%ld %@ and %ld %@ already exist at the destination.\nChoose how to handle conflicts:" = "目的地已有 %ld 個 %@ 和 %ld 個 %@。\\n請選擇衝突的處理方式：";
+
+/* pattern window label */
+"%lu matching items" = "%lu 個符合的項目";
+
+"(incl. %d hidden)" = "（包含 %d 個隱藏項目）";
+
+"(newer)" = "（較新）";
+
+"(older)" = "（較舊）";
+
+/* unnamed filter predicate */
+"(untitled)" = "（未命名）";
+
+"+pwd" = "+ PWD";
+
+"7-Zip Format (best compression)" = "7-Zip 格式（最高壓縮率）";
+
+/* displayed in the file types table for user defined extensions */
+"<Click to add your own>" = "<按一下以加入自訂項目>";
+
+/* initial name of a new password */
+"<new password>" = "<新增密碼>";
+
+"<new pattern>" = "<新增規則>";
+
+"<new preset>" = "<新增預設組合>";
+
+"A volume is missing: %@." = "缺少一個分卷：%@。";
+
+/* column header */
+"Action" = "動作";
+
+"Activate" = "啟用";
+
+/* Import presets button */
+"Add" = "加入";
+
+"Add a new file or folder to the archive" = "將新檔案或資料夾加入壓縮檔";
+
+"Add Files to Archive" = "將檔案加入壓縮檔";
+
+"Add Items" = "加入項目";
+
+"Add Mac Stuff" = "加入 Mac 特有項目";
+
+"Add the items to a new archive" = "將項目加入新的壓縮檔";
+
+"Add to %@…" = "加入 %@…";
+
+"Added" = "已加入";
+
+/* added in BetterZip 3 */
+"Adding files to archive %@" = "正在將檔案加入壓縮檔 %@";
+
+/* Preferences tab title */
+"Advanced" = "高階";
+
+"After filtering, there are no files left to archive." = "過濾後，沒有任何檔案可加入壓縮檔。";
+
+/* No comment provided by engineer. */
+"All" = "全部";
+
+"All Queued Archive Operations Complete" = "佇列中的所有壓縮檔作業均已完成";
+
+"An error occurred" = "發生錯誤";
+
+"An error occurred opening %@. Do you want to try to open the archive anyway?" = "打開 %@ 時發生錯誤。仍要嘗試打開此壓縮檔嗎？";
+
+"An error occurred opening %@. Do you want to try to repair the archive?" = "打開 %@ 時發生錯誤。要嘗試修復此壓縮檔嗎？";
+
+"An item named %@ already exists in this location inside the archive. Do you want to replace it with the one you are adding?" = "壓縮檔中的此位置已有名為 %@ 的項目。要以正在加入的項目取代嗎？";
+
+"An item named %@ already exists in this location inside the archive. Do you want to update it?" = "壓縮檔中的此位置已有名為 %@ 的項目。要更新嗎？";
+
+/* ReplaceExistingFiles */
+"An item named %@ already exists in this location. Do you want to replace it with the one you are extracting?" = "此位置已有名為 %@ 的項目。要以正在解壓縮的項目取代嗎？";
+
+"An item with this name already exists in this folder!" = "此資料夾中已有同名項目！";
+
+"An unknown error occurred." = "發生未知錯誤。";
+
+"Another helper (%@) already uses tag %d." = "另一個輔助工具（%@）已使用標記 %d。";
+
+"Apple Disk Image" = "Apple 磁碟映像檔";
+
+"Apply to all" = "全部套用";
+
+"Apply to all folders" = "套用至所有資料夾";
+
+"Apply to all in queue" = "套用至佇列中的所有項目";
+
+/* column header */
+"Archive" = "壓縮檔";
+
+"Archive Creation Complete" = "壓縮檔建立完成";
+
+"Archive Creation Failed" = "壓縮檔建立失敗";
+
+"Archive Extraction Complete" = "解壓縮完成";
+
+"Archive Extraction Failed" = "解壓縮失敗";
+
+"Archive seems to be damaged" = "壓縮檔似乎已損毀";
+
+"Archive Test Failed" = "壓縮檔測試失敗";
+
+"Archive Test Successful" = "壓縮檔測試成功";
+
+"Archive test successful" = "壓縮檔測試成功";
+
+/* No comment provided by engineer. */
+"Archive test successful. No errors were found." = "壓縮檔測試成功，找不到任何錯誤。";
+
+/* Preferences tab title */
+"Archive Types" = "壓縮檔類型";
+
+"Archives" = "壓縮檔";
+
+"Are you sure you want to overwrite the original archive?" = "確定要覆寫原始壓縮檔嗎？";
+
+/* Info table key */
+"Attributes" = "屬性";
+
+/* Info table key */
+"Author" = "作者";
+
+"Back" = "返回";
+
+"Best (solid, slow extraction)" = "最佳（實心壓縮，解壓縮較慢）";
+
+"Best, but slower operation" = "最佳，但作業速度較慢";
+
+"BetterZip cannot extract to this folder. Maybe you don't have write access." = "BetterZip 無法解壓縮至此資料夾。你可能沒有寫入權限。";
+
+/* Welcome text, line 1 */
+"BetterZip is the most powerful archiver for macOS, and you can customize it in many ways. To get started quickly use a few select options below. " = "BetterZip 是功能強大的 macOS 壓縮工具，並提供多種自訂方式。若要快速開始使用，請選擇下方的幾個選項。";
+
+"BetterZip Recovered Files" = "BetterZip 復原的檔案";
+
+"BetterZip Temporary Folder" = "BetterZip 暫存資料夾";
+
+/* added in V 5.0 */
+"BetterZip was denied access to %@. You can grant it access in the System Preferences." = "BetterZip 無法取用 %@。你可以在「系統設定」中允許取用。";
+
+"BetterZip will discard the timing samples it has collected for compress, extract, and related operations on this Mac. Progress bar and ETA accuracy will temporarily decrease until new samples are gathered." = "BetterZip 將捨棄這部 Mac 上收集的壓縮、解壓縮和相關作業時間樣本。在收集到新的樣本前，進度列和預估完成時間的準確度會暫時降低。";
+
+"BetterZip will now remove %d files matching the patterns configured in the preferences window from the archive." = "BetterZip 將從壓縮檔中移除 %d 個符合「偏好設定」中所設規則的檔案。";
+
+"BetterZip will now remove %d files matching your patterns from the archive." = "BetterZip 將從壓縮檔中移除 %d 個符合規則的檔案。";
+
+"BetterZip will now remove %d Mac specific files from the archive." = "BetterZip 將從壓縮檔中移除 %d 個 Mac 特有檔案。";
+
+"BetterZip will now remove Mac specific files from the archive." = "BetterZip 將從壓縮檔中移除 Mac 特有檔案。";
+
+"BetterZip will now remove one file matching the patterns configured in the preferences window from the archive." = "BetterZip 將從壓縮檔中移除一個符合「偏好設定」中所設規則的檔案。";
+
+"BetterZip will now remove one file matching your patterns from the archive." = "BetterZip 將從壓縮檔中移除一個符合規則的檔案。";
+
+"BetterZip will now remove one Mac specific file from the archive." = "BetterZip 將從壓縮檔中移除一個 Mac 特有檔案。";
+
+/* AppController */
+"BetterZip will only run on macOS 10.13 (High Sierra) or later systems." = "BetterZip將只執行在macOS 10.13 (High Sierra) 或者更新的系統。";
+
+/* No comment provided by engineer. */
+"Buy Now" = "立即購買";
+
+"BZip2-compressed image" = "BZip2 壓縮影像";
+
+/* Import presets button
+button */
+"Cancel" = "取消";
+
+/* Extraction error suppression */
+"Cancel extraction" = "取消解壓縮";
+
+"Cancel Opening" = "取消打開";
+
+"Cancel Operation" = "取消作業";
+
+/* V 2.0 */
+"Cancel the operation" = "取消作業";
+
+"cancelled" = "已取消";
+
+"Cannot enumerate directory: %@" = "無法列出目錄內容：%@";
+
+"Cannot open file: %@" = "無法打開檔案：%@";
+
+"Caution" = "注意";
+
+"Change Archive Mode" = "切換壓縮檔模式";
+
+"Check for updates on startup?" = "啟動時檢查更新？";
+
+"Choose from your favorite presets" = "從喜好的預設組合中選擇";
+
+/* Welcome text, line 3 */
+"Choose Help > BetterZip Help from the menu for more information." = "如需更多資訊，請從選單中選擇「輔助說明」>「BetterZip 輔助說明」。";
+
+/* The window title. */
+"Choose Master Password" = "選擇主密碼";
+
+"Clean" = "清理";
+
+"Clean Archive" = "清理壓縮檔";
+
+"Clean now" = "立即清理";
+
+"Cleaning" = "清理";
+
+"Clear" = "清除";
+
+/* No comment provided by engineer. */
+"Clear Logs" = "清除記錄檔";
+
+"Close" = "關閉";
+
+"Columns" = "欄";
+
+/* Info table key */
+"Comment" = "註解";
+
+"Comment Text" = "註解文字";
+
+/* Open panel title */
+"Compress" = "壓縮";
+
+/* default service name */
+"Compress with BetterZip" = "使用 BetterZip 壓縮";
+
+/* Default title for dynamic preset services */
+"Compress with Preset %@" = "使用「%@」預設組合壓縮";
+
+/* Info table key */
+"Compressed" = "壓縮後";
+
+"Compressed %@" = "已壓縮 %@";
+
+"Compressing %@" = "正在壓縮 %@";
+
+"Compression:" = "壓縮：";
+
+/* Hash helper */
+"Computing…" = "正在計算…";
+
+"Continue" = "繼續";
+
+/* Info table key */
+"Copyright" = "版權";
+
+"Corrupted" = "已損毀";
+
+"CPIO Format, uncompressed (cpio)" = "CPIO 格式，未壓縮（cpio）";
+
+/* Crash reporter */
+"CrashReport" = "當機報告";
+
+"Create a new folder in the selected place inside the archive." = "在壓縮檔中的所選位置新增資料夾。";
+
+/* Filter / pattern UI */
+"Create Filter" = "建立過濾器";
+
+"Create New Folder" = "新增資料夾";
+
+/* File infos in preview sidebar */
+"Date" = "日期";
+
+/* No comment provided by engineer. */
+"date" = "日期";
+
+/* relative date unit */
+"days" = "天";
+
+/* No comment provided by engineer. */
+"Debug" = "偵錯";
+
+/* Option in the password encoding pop-up to use the default encoding */
+"Default encoding" = "預設編碼";
+
+"Define the filter criteria:" = "定義過濾條件：";
+
+"Delete" = "刪除";
+
+/* No comment provided by engineer. */
+"Delete %lu log files?" = "要刪除 %lu 個記錄檔嗎？";
+
+/* menu item */
+"Delete Empty Folders" = "刪除空資料夾";
+
+"Delete Files From Archive" = "從壓縮檔中刪除檔案";
+
+"Delete Items" = "刪除項目";
+
+/* menu item */
+"Delete Mac Files" = "刪除 Mac 特有檔案";
+
+/* Menu items for delete menu */
+"Delete Selected" = "刪除所選";
+
+"Delete the selected files or folders from the archive" = "從壓縮檔中刪除所選檔案或資料夾";
+
+/* menu item */
+"Delete with Pattern" = "使用規則刪除";
+
+/* Tooltip for the delete with pattern toolbar button */
+"Delete with pattern" = "使用規則刪除";
+
+"Deleting items" = "刪除項目";
+
+/* Menu item for character encoding detector */
+"Detect Automatically" = "自動偵測";
+
+/* Option in the encoding pop-up to detect the encoding automatically */
+"Detect automatically" = "自動偵測";
+
+/* Info table key */
+"Dimensions" = "大小";
+
+/* column header */
+"Disk" = "磁碟";
+
+/* Welcome text, line 2 */
+"Dive into all available settings in the preferences window when you are ready." = "準備好後，深入瞭解偏好設定視窗中的所有可用設定。";
+
+"Do not enable this option, if you are not in the habit of making regular backups of your data. BetterZip will not warn you before overwriting files, if you use a preset with the overwrite switch enabled. Files can be lost. Use at your own risk." = "如果你不習慣對資料進行定期備份，請勿啟用此選項。如果使用啟用了覆蓋開關，BetterZip在覆蓋檔案之前不會發出警告。檔案可能丟失。請慎重考慮風險。";
+
+/* Warning when quitting BetterZip while operations are running */
+"Do you really want to quit BetterZip?" = "確定要結束 BetterZip 嗎？";
+
+"Do you want to extract the %d archives that were found inside the selected folders?" = "要解壓縮在所選資料夾中找到的 %d 個壓縮檔嗎？";
+
+"Do you want to keep it that way or add metadata to your archive?" = "要維持目前狀態，還是將中繼資料加入壓縮檔？";
+
+/* Import presets alert message */
+"Do you want to replace all existing presets with the imported ones, or add the imported presets to the existing list?" = "要以匯入的預設組合取代所有現有預設組合，還是將其加入現有列表？";
+
+"Do you want to save the changes back to the archive?" = "要將變更儲存回壓縮檔嗎？";
+
+"Do you want to save the changes you made in the document %@?" = "要儲存對文件 %@ 所做的變更嗎？";
+
+"Don't move" = "不移動";
+
+/* Button title */
+"Don't Quit" = "不要結束";
+
+"Don't Save" = "不儲存";
+
+"Don't show again for this archive" = "不要再對此壓縮檔顯示";
+
+"Drag items here to compress or extract" = "將項目拖到這裡以壓縮或解壓縮";
+
+"Drop archives here to extract" = "將壓縮檔拖到這裡以解壓縮";
+
+"Drop items here to compress" = "將項目拖到這裡以壓縮";
+
+"Drop the archives here to open them" = "將壓縮檔拖到這裡以打開";
+
+/* No comment provided by engineer. */
+"Drop the file here to add it to a new archive." = "將檔案拖到這裡以加入新的壓縮檔。";
+
+"Drop the files here to add them to a new archive" = "將檔案拖到這裡以加入新的壓縮檔";
+
+/* No comment provided by engineer. */
+"Drop the files here to filter and add them to a new archive" = "將檔案拖到這裡，經過濾後加入新的壓縮檔";
+
+"Duplicate Tag" = "重複的標記";
+
+"DVD/CD-R master for export" = "用於匯出的 DVD/CD-R 主映像檔";
+
+"Edit Filter" = "編輯過濾器";
+
+/* menu item */
+"Edit Patterns…" = "編輯規則…";
+
+/* menu item */
+"Edit Places…" = "編輯位置…";
+
+/* menu item */
+"Edit Presets…" = "編輯預設組合…";
+
+/* Info table key */
+"Encryption" = "加密";
+
+/* save predicate alert message */
+"Enter a name for this predicate:" = "輸入此條件的名稱：";
+
+"Error" = "錯誤";
+
+/* No comment provided by engineer. */
+"ext" = "副檔名";
+
+/* Preferences tab title */
+"Extensions" = "延伸功能";
+
+/* No comment provided by engineer. */
+"External command returned: %d\n" = "外部命令傳回：%d\n";
+
+"External command returned: %d%c" = "外部命令傳回：%d%c";
+
+/* Open panel title
+button */
+"Extract" = "解壓縮";
+
+"Extract All" = "全部解壓縮";
+
+"Extract all files and folders from the archive" = "從壓縮檔中解壓縮所有的檔案和資料夾";
+
+"Extract files or folders from the archive" = "從壓縮檔中解壓縮檔案或資料夾";
+
+"Extract Here" = "解壓縮到這裡";
+
+"Extract Selected" = "解壓縮所選項目";
+
+"Extract Selected Only" = "僅解壓縮所選項目";
+
+"Extract the selected files or folders from the archive" = "從壓縮檔中解壓縮所選檔案或資料夾";
+
+"Extract to…" = "解壓縮至…";
+
+/* default service name */
+"Extract with BetterZip" = "使用 BetterZip 解壓縮";
+
+/* Menu items for extract menu */
+"Extract with Preset" = "使用預設組合解壓縮";
+
+"Extract with Preset %@" = "使用「%@」預設組合解壓縮";
+
+"Extracted %@" = "已解壓縮 %@";
+
+"Extracting %@" = "正在解壓縮 %@";
+
+"Extracting archive: %@" = "正在解壓縮檔：%@";
+
+"Extracting items from %@" = "正在從 %@ 解壓縮項目";
+
+"Extracting items from archive: %@ of %@" = "正在從壓縮檔解壓縮項目：%@ / %@";
+
+"Extracting items temporarily" = "正在暫時解壓縮項目";
+
+"Failed" = "失敗";
+
+"Failed (unpacking failed)" = "失敗（解包失敗）";
+
+"Failed (unsupported)" = "失敗（不支援）";
+
+"Failed (wrong checksum)" = "失敗（錯誤校驗和）";
+
+"Failed (wrong password)" = "失敗（密碼錯誤）";
+
+"Failed (Wrong size)" = "失敗（大小錯誤）";
+
+/* No comment provided by engineer. */
+"Failed (wrong size)" = "失敗（大小不符）";
+
+"Fast, but larger archives" = "快速，但壓縮檔較大";
+
+/* singular */
+"file" = "檔案";
+
+"File in archive:" = "壓縮檔中的檔案：";
+
+"File on disc:" = "磁碟上的檔案：";
+
+"File Types" = "檔案類型";
+
+/* Info table key */
+"Filename encoding" = "檔名編碼";
+
+/* Preferences tab title */
+"Files" = "檔案";
+
+/* plural */
+"files" = "檔案";
+
+/* popup label */
+"Files:" = "檔案：";
+
+/* name field placeholder */
+"Filter name" = "過濾器名稱";
+
+/* Preferences window - name of the tab to manage filter patterns */
+"Filtering" = "過濾器";
+
+"Finishing…" = "正在完成…";
+
+/* singular */
+"folder" = "資料夾";
+
+/* plural */
+"folders" = "資料夾";
+
+/* popup label */
+"Folders:" = "資料夾：";
+
+/* Info table key */
+"Format" = "格式";
+
+/* Preferences tab title */
+"General" = "一般";
+
+/* Title of the 'download rar' button */
+"Go to the win.rar GmbH web site" = "前往 win.rar GmbH 網站";
+
+/* Preferences tab title */
+"Helpers" = "輔助工具";
+
+/* Info table key */
+"Hidden" = "隱藏";
+
+/* disclosure label */
+"Hide Details" = "隱藏詳細資訊";
+
+"Hide Favorites" = "隱藏喜好項目";
+
+"Hide password" = "隱藏密碼";
+
+/* View menu */
+"Hide Path Bar" = "隱藏路徑列";
+
+"Hide Preview" = "隱藏預覽";
+
+/* new compression levels */
+"High, but slower operation" = "高，但速度較慢";
+
+"Hold cmd ⌘ to add them to a new archive" = "按住 Command ⌘ 鍵可將其加入新的壓縮檔";
+
+/* No comment provided by engineer. */
+"Hold option ⌥ to apply a filter first" = "按住 Option ⌥ 鍵可先套用過濾器";
+
+"Ignore" = "忽略";
+
+"Ignore all remaining errors" = "忽略其餘所有錯誤";
+
+"Ignore and go on" = "忽略並繼續";
+
+"Ignore Changes" = "忽略變更";
+
+"Ignore errors" = "忽略錯誤";
+
+"Ignore This Time" = "僅這次忽略";
+
+/* No comment provided by engineer. */
+"Install Command-Line Tool…" = "安裝命令列工具…";
+
+/* Error messages when saving Helpers configuration JSON */
+"Invalid Install Path" = "無效的安裝路徑";
+
+"Invalid JSON" = "無效的 JSON";
+
+"Invalid Tag" = "無效的標記";
+
+"It is either damaged or in an unsupported format." = "它可能已損毀，或者是一種不支援的格式。";
+
+/* Info table key */
+"Items" = "項目";
+
+/* conflict action */
+"Keep Both" = "保留兩者";
+
+"Keep Mac Stuff out" = "排除 Mac 特有項目";
+
+/* conflict action */
+"Keep Newer" = "保留較新者";
+
+/* Info table key */
+"Kind" = "種類";
+
+"Known file types" = "已知的檔案類型";
+
+/* PreferenceController */
+"Last checked: " = "上次檢查：";
+
+"Last modified: %@ %@%cSize: %@" = "上次修改：%@ %@%c大小：%@";
+
+/* helpers */
+"Last modified: %@%cSize: %@" = "上次修改：%@%c大小：%@";
+
+"Let me add a filter" = "讓我加入過濾器";
+
+/* No comment provided by engineer. */
+"Load or save a preset" = "載入或儲存預設組合";
+
+/* tasks button tooltip */
+"Load or save predicates" = "載入或儲存條件";
+
+"Loading archive: %@" = "正在載入壓縮檔：%@";
+
+"Lock Password Manager" = "鎖定密碼管理器";
+
+"LZMA compressed (macOS 10.15+)" = "LZMA 壓縮（macOS 10.15+）";
+
+"macOS default (AES-128)" = "macOS 預設值（AES-128）";
+
+"macOS returned this error:" = "macOS 傳回此錯誤：";
+
+/* menu item */
+"Manage Filters…" = "管理過濾器…";
+
+"Maybe, there is not enough free space on the destination drive. Or the password is incorrect." = "目標磁碟已滿或密碼不正確。";
+
+/* conflict action */
+"Merge" = "合併";
+
+/* merge conflicts window title */
+"Merge Conflicts" = "合併衝突";
+
+"Merge Folders" = "合併資料夾";
+
+/* Info table key */
+"Method" = "方法";
+
+/* Multi-volume RAR */
+"Missing Volumes" = "缺少分卷";
+
+/* Info table key */
+"Missing volumes" = "缺少的分卷";
+
+/* possible file status strings */
+"Modified" = "已修改";
+
+/* Info table key */
+"Modified at" = "修改時間";
+
+/* relative date unit */
+"months" = "個月";
+
+"Move Archive" = "移動壓縮檔";
+
+/* Show file panel to ask for destination when moving archive/originals after operations */
+"Move archive here" = "將壓縮檔移到這裡";
+
+"Move Items" = "移動項目";
+
+"Move Originals" = "移動原始檔";
+
+"Move originals here" = "將原始檔移到這裡";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "丟到垃圾桶";
+
+"Moved" = "已移動";
+
+"Multi-volume" = "多分卷";
+
+"Multiple Copies Installed" = "已安裝多個複本";
+
+"Multiple files" = "多個檔案";
+
+"N/A" = "不適用";
+
+/* column header */
+"Name" = "名稱";
+
+/* No comment provided by engineer. */
+"name" = "名稱";
+
+/* name label */
+"Name:" = "名稱：";
+
+"Never" = "永不";
+
+"never" = "永不";
+
+"New Folder" = "新增資料夾";
+
+"New Preset" = "新增預設組合";
+
+"New Preset (%@)" = "新增預設組合（%@）";
+
+"Next to archive" = "壓縮檔旁";
+
+"Next to original" = "原始檔旁";
+
+"No" = "否";
+
+"No checksum" = "無檢查碼";
+
+"No compression" = "不壓縮";
+
+"no errors" = "沒有錯誤";
+
+/* No comment provided by engineer. */
+"No errors found" = "找不到任何錯誤";
+
+"No files selected" = "未選取任何檔案";
+
+/* no filter predicate
+no rename */
+"None" = "無";
+
+"Normal" = "正常";
+
+"Not encrypted" = "未加密";
+
+/* button */
+"OK" = "好";
+
+/* No comment provided by engineer. */
+"Older than a month" = "超過一個月";
+
+/* No comment provided by engineer. */
+"Older than a week" = "超過一週";
+
+/* Descriptive title of the password editor window */
+"One password per line:" = "每一行一個密碼：";
+
+/* Open panel title */
+"Open" = "打開";
+
+"Open and browse the archive" = "打開並瀏覽壓縮檔";
+
+"Open Anyway" = "仍要打開";
+
+"Open System Preferences" = "打開系統設定";
+
+"Open With" = "打開方式";
+
+"Opening archive failed" = "無法打開壓縮檔";
+
+"Opening archive with %d items" = "正在打開包含 %d 個項目的壓縮檔";
+
+"Operation time: %.1lf s" = "作業時間：%.1lf 秒";
+
+/* Operations queue */
+"Operations Completed" = "作業已完成";
+
+/* menu item */
+"Other Folder…" = "其他資料夾…";
+
+"Other folder…" = "其他資料夾…";
+
+/* open with other application */
+"Other…" = "其他…";
+
+/* Info table key */
+"Pages" = "頁面";
+
+/* No comment provided by engineer. */
+"Panel Settings" = "面板設定";
+
+/* Preferences tab title */
+"Passwords" = "密碼";
+
+/* Info table key */
+"Path" = "路徑";
+
+"Permission denied" = "權限遭拒";
+
+/* Preferences tab title */
+"Places" = "位置";
+
+"Please confirm" = "請確認";
+
+"Please download a fresh copy from our website." = "請從我們的網站重新下載。";
+
+"Please set the correct path in Preferences > Helpers or choose a different format for saving." = "請在「偏好設定」>「輔助工具」中設定正確路徑，或選擇其他儲存格式。";
+
+/* placeholder */
+"Predicate name" = "條件名稱";
+
+/* Preferences tab title */
+"Presets" = "預設組合";
+
+"Queued for compression" = "已加入壓縮佇列";
+
+"Queued for extraction" = "已加入解壓縮佇列";
+
+"Queued for testing" = "已加入測試佇列";
+
+/* Button title */
+"Quit" = "結束";
+
+"Quit and Reveal in Finder" = "結束並在 Finder 中顯示";
+
+"Quit!" = "結束！";
+
+"RAR Format" = "RAR 格式";
+
+/* Info table key */
+"Ratio" = "壓縮率";
+
+"Read-only image" = "唯讀映像檔";
+
+/* DMG Options */
+"Read/write image" = "讀寫映像檔";
+
+"Reconstruct" = "重建";
+
+"Regular Expression" = "正規表示式";
+
+"Reload Drop Bar" = "重新載入拖放列";
+
+"Remove" = "移除";
+
+"Remove files matching the patterns configured in the preferences window from the archive." = "從壓縮檔中移除符合「偏好設定」視窗中所設規則的檔案。";
+
+"Rename Item" = "重新命名項目";
+
+"Repair" = "修復";
+
+/* Import presets button
+conflict action */
+"Replace" = "取代";
+
+/* rename mode */
+"Replace _ and . with space" = "以空格取代 _ 和 .";
+
+/* rename mode */
+"Replace _ with space" = "以空格取代 _";
+
+/* Import presets alert title */
+"Replace or Add?" = "取代或加入？";
+
+/* rename mode */
+"Replace space with _" = "以 _ 取代空格";
+
+"Reset" = "重置";
+
+/* Advanced prefs – reset learned progress weights */
+"Reset Learned Progress Weights?" = "要重置已學習的進度權重嗎？";
+
+"Reset Password Manager" = "重置密碼管理器";
+
+"Resetting the password manager will erase all your passwords and the master password. The action cannot be undone." = "重置密碼管理器將擦除你的所有密碼和主密碼。無法撤消該操作。";
+
+"Reveal" = "在 Finder 中顯示";
+
+"Reveal in Finder" = "在 Finder 中顯示";
+
+"Running script" = "正在執行工序指令";
+
+"Running shortcut" = "正在執行捷徑";
+
+"Running shortcut %@" = "正在執行捷徑 %@";
+
+/* Progress messages */
+"Running user script %@" = "正在執行使用者工序指令 %@";
+
+/* rename mode */
+"Sanitize filenames for Windows" = "調整檔名以相容 Windows";
+
+"Save" = "儲存";
+
+"Save As…" = "另存新檔…";
+
+/* save predicate alert title */
+"Save Predicate" = "儲存條件";
+
+"Save the archive" = "儲存壓縮檔";
+
+/* menu item in sharing menu */
+"Save the archive before sharing" = "分享前先儲存壓縮檔";
+
+"Save the archive with another name." = "以其他名稱儲存壓縮檔。";
+
+"Save the current settings as preset" = "將目前設定儲存為預設組合";
+
+"Saving archive %@" = "正在儲存壓縮檔 %@";
+
+"Saving archive failed" = "無法儲存壓縮檔";
+
+"Saving archive: %@ of %@" = "正在儲存壓縮檔：%@ / %@";
+
+"Scripts" = "工序指令";
+
+"Search" = "搜尋";
+
+"Search the archive file" = "搜尋壓縮檔";
+
+"Service Name" = "服務名稱";
+
+/* possible button labels for setting and clearing passwords in the save presets configuration */
+"Set" = "設定";
+
+"Set Master Password…" = "設定主密碼…";
+
+"Shortcuts" = "捷徑";
+
+/* No comment provided by engineer. */
+"Show Archive in Finder" = "在 Finder 中顯示壓縮檔";
+
+/* disclosure label */
+"Show Details" = "顯示詳細資訊";
+
+"Show Favorites" = "顯示喜好項目";
+
+/* No comment provided by engineer. */
+"Show in Finder" = "在 Finder 中顯示";
+
+/* Password */
+"Show password" = "顯示密碼";
+
+/* View menu */
+"Show Path Bar" = "顯示路徑列";
+
+"Show Preview" = "顯示預覽";
+
+"Show save panel" = "顯示儲存面板";
+
+/* Pattern control */
+"Simple File Mask" = "簡易檔案比對樣式";
+
+/* Info table key */
+"Size" = "大小";
+
+/* conflict action */
+"Skip" = "略過";
+
+/* Info table key */
+"Solid" = "實心";
+
+"Sorry!" = "抱歉！";
+
+"Sort By" = "排序方式";
+
+"Stop" = "停止";
+
+"Strong (AES-256)" = "強（AES-256）";
+
+"Strong (AES-256) with header encryption" = "強（AES-256），含標頭加密";
+
+"Symbolic Link (no preview possible)" = "符號連線（不能預覽）";
+
+/* The system default app should handle this file type. */
+"System Default" = "系統預設";
+
+"Tags for user-defined formats must be 1000 or greater." = "使用者定義格式的標記必須為 1000 以上。";
+
+"TAR Format, Brotli compressed (tbr)" = "TAR 格式，Brotli 壓縮（tbr）";
+
+"TAR Format, BZip2 compressed (tbz)" = "TAR 格式，BZip2 壓縮（tbz）";
+
+"TAR Format, GZip compressed (tgz)" = "TAR 格式，GZip 壓縮（tgz）";
+
+"TAR Format, uncompressed (tar)" = "TAR 格式，未壓縮（tar）";
+
+"TAR Format, xz compressed (txz)" = "TAR 格式，xz 壓縮（txz）";
+
+/* New formats */
+"TAR Format, Z compressed (tz)" = "TAR 格式，Z 壓縮（tz）";
+
+"TAR Format, Zstandard compressed (tzst)" = "TAR 格式，Zstandard 壓縮（tzst）";
+
+"tar options,compressor options" = "tar 選項,壓縮工具選項";
+
+"Test" = "測試";
+
+"Test Archive" = "測試壓縮檔";
+
+"Test the archive" = "測試壓縮檔";
+
+"Test the archive integrity" = "測試壓縮檔完整性";
+
+"Testing %@" = "正在測試 %@";
+
+"Testing archive %@" = "正在測試壓縮檔 %@";
+
+/* Output while testing archives */
+"Testing: %@…" = "正在測試：%@…";
+
+"Thanks for helping us improve %@" = "感謝你協助我們改善 %@";
+
+/* Application integrity */
+"The application is damaged." = "此 App 已損毀。";
+
+"The archive cannot be created." = "無法建立壓縮檔。";
+
+"The archive could not be extracted completely. It may be damaged." = "壓縮檔無法被完整解壓縮，它可能已經損毀。";
+
+"The archive could not be extracted completely. It may be damaged. Do you want to try to repair the archive?" = "壓縮檔無法完成解壓縮。它可能已經損毀。請問你需要嘗試修復嗎?";
+
+"The archive could not be extracted." = "無法解壓縮此壓縮檔。";
+
+"The archive disappeared" = "壓縮檔已不存在";
+
+"The archive extraction encountered errors." = "解壓縮時發生錯誤。";
+
+"The archive extraction failed." = "解壓縮失敗。";
+
+"The archive is either damaged or in an unsupported format." = "壓縮檔可能已損毀或使用不支援的格式。";
+
+"The archive test failed. Do you want to try to repair the archive?" = "壓縮檔測試失敗。要嘗試修復此壓縮檔嗎？";
+
+"The archive test was completed successfully." = "壓縮檔測試成功。";
+
+"The archive tests failed." = "壓縮檔測試失敗。";
+
+/* No comment provided by engineer. */
+"The archive tests failed. The archive is either damaged or in an unsupported format. The transcript window may contain further details." = "壓縮檔測試失敗。壓縮檔可能已損毀或使用不支援的格式。「記錄」視窗中可能有更多詳細資訊。";
+
+"The file %@ could not be added to the archive. Maybe the system disc is full?" = "檔案 %@ 無法加入到壓縮檔，也許系統磁碟已滿？";
+
+"The file %@ could not be extracted." = "無法解壓縮檔案 %@。";
+
+"The file %@ has been modified." = "檔案 %@ 已修改。";
+
+"The file at '%@' does not exist." = "「%@」位置的檔案不存在。";
+
+/* No comment provided by engineer. */
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在 BetterZip >「設定」>「輔助工具」中設定 RAR 路徑。";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在「偏好設定」›「輔助 App」中設定 RAR 路徑。";
+
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "缺少「%@」的第一個分卷，但已找到復原分卷（.rev）。要重建缺少的分卷嗎？";
+
+"The helper tool %@ could not be found or is not executable." = "找不到輔助工具 %@，或該工具無法執行。";
+
+"The JSON must be a dictionary (top-level object)." = "JSON 頂層必須是字典（物件）。";
+
+"The last error macOS reported was:" = "macOS 最近回報的錯誤：";
+
+/* No comment provided by engineer. */
+"The log files will be moved to the Trash." = "記錄檔將移到垃圾桶。";
+
+"The password may be incorrect." = "密碼可能不正確。";
+
+"The rar extraction may require a large amount of memory (%@).\nDo you want to continue?" = "RAR 解壓縮可能需要大量記憶體（%@）。\\n要繼續嗎？";
+
+"The rar helper could not be found." = "找不到 RAR 輔助工具。";
+
+"The transcript window may contain further details." = "「記錄」視窗中可能有更多詳細資訊。";
+
+"There are operations in progress." = "目前仍有作業正在進行。";
+
+"There is not enough free space on the destination drive." = "目的地磁碟的可用空間不足。";
+
+"This archive appears to be damaged." = "此壓縮檔似乎已損毀。";
+
+"This archive doesn't contain any Mac specific files yet" = "此壓縮檔尚未包含任何 Mac 特有檔案";
+
+/* Import presets wrong type alert message */
+"This file contains extract presets, but you are importing into save presets." = "此檔案包含解壓縮預設組合，但你正將其匯入儲存預設組合。";
+
+/* Import presets wrong type alert message */
+"This file contains save presets, but you are importing into extract presets." = "此檔案包含儲存預設組合，但你正將其匯入解壓縮預設組合。";
+
+/* No comment provided by engineer. */
+"This is a blacklisted archive. Hold option ⌥ to open it and see its contents." = "此壓縮檔位於封鎖清單中。按住 Option ⌥ 鍵可將其打開並查看內容。";
+
+/* The user entered a wrong master password. */
+"This is not the password you are looking for." = "這不是你正在尋找的密碼。";
+
+"This name is invalid." = "此名稱無效。";
+
+"This operation has been running for a while. Are you sure you want to cancel it?" = "此作業已執行一段時間。確定要取消嗎？";
+
+/* No comment provided by engineer. */
+"time" = "時間";
+
+/* Info table key */
+"Title" = "標題";
+
+"To ignore the selected folders and only extract directly selected archives click “Extract Selected Only”." = "若要忽略所選資料夾，並且僅解壓縮直接所選壓縮檔，請按一下「僅解壓縮已選檔案」。";
+
+/* Today title string */
+"Today" = "今天";
+
+/* No comment provided by engineer. */
+"Toggle Preview" = "切換預覽";
+
+/* No comment provided by engineer. */
+"Toggle Sidebar" = "切換側邊欄";
+
+/* menu item */
+"Trash" = "垃圾桶";
+
+/* No comment provided by engineer. */
+"Uninstall Command-Line Tool" = "解除安裝命令列工具";
+
+"Unknown" = "未知";
+
+"Unknown file types" = "未知的檔案類型";
+
+"Unlock Password Manager…" = "解鎖密碼管理器…";
+
+"Unlock the password manager to set a preset password." = "若要替預設組合設定密碼，請先解鎖密碼管理器。";
+
+"Unpacking failed" = "解壓縮失敗";
+
+"Untitled Archive" = "未命名壓縮檔";
+
+"untitled folder" = "未命名資料夾";
+
+/* the two possible labels of the action button in the "file replace" alert panel */
+"Update" = "更新";
+
+"Update File" = "更新檔案";
+
+"Update Items" = "更新項目";
+
+"Updated" = "已更新";
+
+/* title of the OK button in the file open panel used to locate the temp folder or standard opening program */
+"Use" = "使用";
+
+"Use for subsequent archives" = "套用至後續壓縮檔";
+
+"Use RAR" = "使用 RAR";
+
+"Use this filter to select which files and folders to add:" = "使用此過濾器選擇要加入的檔案和資料夾：";
+
+"Use this password for the new archive" = "將此密碼用於新的壓縮檔";
+
+"Use this pattern to delete files and folders from the archive:" = "使用此規則從壓縮檔中刪除檔案和資料夾：";
+
+"Use this pattern to specify which files and folders to add to the archive:" = "使用目前模式可以指定將哪些檔案和資料夾加入到壓縮檔：";
+
+"Use this preset as default in the toolbar" = "在工具列中將此預設組合作為預設值";
+
+"Use this preset as service" = "將此預設組合作為服務";
+
+/* No comment provided by engineer. */
+"user" = "使用者";
+
+/* No comment provided by engineer. */
+"User confirmation for \"%@\" answered with %@" = "使用者對「%@」的確認回答為 %@";
+
+/* Info table key */
+"Version" = "版本";
+
+"View" = "顯示方式";
+
+"View the selected file" = "檢視所選檔案";
+
+/* Logging volume changes during extraction and testing of multi-volume rar archives */
+"Volume: %@" = "分卷：%@";
+
+/* Info table key */
+"Volumes" = "分卷";
+
+"Warning" = "警告";
+
+"Warning: Saving cannot be undone" = "警告：儲存後無法還原";
+
+"Weak (PKZip2 compatible)" = "弱（PKZip2 相容）";
+
+/* relative date unit */
+"weeks" = "週";
+
+"When in Direct Mode, all archive operations are immediate and cannot be undone." = "在「直接模式」中，所有壓縮檔作業都會立即執行，且無法還原。";
+
+"with errors" = "有錯誤";
+
+"Would you like %@ to check for updates on startup? You can initiate the check manually from the preferences window at any time." = "要讓 %@ 在啟動時檢查更新嗎？你隨時可以在「偏好設定」視窗中手動檢查。";
+
+"Wrong checksum" = "檢查碼錯誤";
+
+/* Import presets wrong type alert title */
+"Wrong Preset Type" = "預設組合類型錯誤";
+
+"XAR Format" = "XAR 格式";
+
+"Yes" = "是";
+
+/* Yesterday title string */
+"Yesterday" = "昨天";
+
+"You can still browse the contents, but all archive operations will fail. Do you want to close the window?" = "你仍可瀏覽內容，但所有壓縮檔作業都會失敗。要關閉視窗嗎？";
+
+"You can't move an item into one of its subfolders!" = "你不能將項目移入它自己的子資料夾！";
+
+"You don't have permission to write to this folder." = "你沒有此資料夾的寫入權限。";
+
+/* warning when a user adds an archive comment, but the current format doesn’t support that (user can still save with an other format */
+"You should save this archive with ZIP or RAR format or your comment will be lost." = "你應該以 ZIP 或 RAR 格式儲存此壓縮檔，否則註解將會遺失。";
+
+"Your changes will be lost if you don't save them." = "若不儲存，變更將會遺失。";
+
+/* ZipDocument */
+"Zip Format (recommended)" = "ZIP 格式（建議）";
+
+"Zlib compressed" = "Zlib 壓縮";
+
+"Zlib compressed (level 9)" = "Zlib 壓縮（等級 9）";
+
+"⚠️ (older)" = "⚠️（較舊）";

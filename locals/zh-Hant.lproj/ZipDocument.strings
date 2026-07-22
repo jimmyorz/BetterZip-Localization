@@ -1,0 +1,578 @@
+/* Class = "NSTableColumn"; headerCell.title = "key"; ObjectID = "0W4-j3-kLO"; */
+"0W4-j3-kLO.headerCell.title" = "鍵";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "189"; */
+"189.title" = "選單";
+
+/* Class = "NSMenuItem"; title = "Extract Selected…"; ObjectID = "190"; Note = "@changed-6.0b2 (previous: \"Extract Selected...\")"; */
+"190.title" = "解壓縮所選項目…";
+
+/* Class = "NSMenuItem"; title = "Add Here…"; ObjectID = "191"; Note = "@changed-6.0b2 (previous: \"Add Here...\")"; */
+"191.title" = "加入此處…";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "192"; */
+"192.title" = "刪除";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "193"; */
+"193.title" = "重新命名";
+
+/* Class = "NSMenuItem"; title = "Extract All…"; ObjectID = "198"; Note = "@changed-6.0b2 (previous: \"Extract All...\")"; */
+"198.title" = "全部解壓縮…";
+
+/* Class = "NSMenuItem"; title = "Enable File Browsing"; ObjectID = "19d-zw-yaW"; */
+"19d-zw-yaW.title" = "啟用檔案瀏覽";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "205"; Note = "don't translate"; */
+"205.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = ".zip"; ObjectID = "206"; */
+"206.title" = ".zip";
+
+/* Class = "NSMenuItem"; title = ".tar.gz"; ObjectID = "207"; */
+"207.title" = ".tar.gz";
+
+/* Class = "NSMenuItem"; title = "TAR format, BZip2 compressed (tbz)"; ObjectID = "208"; */
+"208.title" = "TAR 格式，BZip2 壓縮（tbz）";
+
+/* Class = "NSMenuItem"; title = ".tar"; ObjectID = "213"; */
+"213.title" = ".tar";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "226"; Note = "don't translate"; */
+"226.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Best, but slower"; ObjectID = "227"; */
+"227.title" = "最佳，但速度較慢";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "228"; */
+"228.title" = "不壓縮";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "229"; */
+"229.title" = "一般";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "286"; Note = "don't translate"; */
+"286.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "MB"; ObjectID = "287"; */
+"287.title" = "MB";
+
+/* Class = "NSMenuItem"; title = "GB"; ObjectID = "289"; */
+"289.title" = "GB";
+
+/* Class = "NSMenuItem"; title = "KB"; ObjectID = "292"; */
+"292.title" = "KB";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "311"; */
+"311.headerCell.title" = "名稱";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "322"; */
+"322.title" = "新增資料夾";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "326"; Note = "don't translate"; */
+"326.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "No encryption"; ObjectID = "327"; */
+"327.title" = "不加密";
+
+/* Class = "NSMenuItem"; title = "Strong (AES-256, WinZip compatible)"; ObjectID = "329"; */
+"329.title" = "強（AES-256，WinZip 相容）";
+
+/* Class = "NSMenuItem"; title = "Fast, but larger archive size"; ObjectID = "338"; */
+"338.title" = "快速，但壓縮檔較大";
+
+/* Class = "NSTabViewItem"; label = "Image"; ObjectID = "385"; */
+"385.label" = "影像";
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "386"; */
+"386.label" = "文字";
+
+/* Class = "NSTabViewItem"; label = "PDF"; ObjectID = "389"; */
+"389.label" = "PDF";
+
+/* Class = "NSMenuItem"; title = "Auto Size Columns"; ObjectID = "3Db-W6-KiY"; */
+"3Db-W6-KiY.title" = "自動調整欄寬";
+
+/* Class = "NSTabViewItem"; label = "Outline"; ObjectID = "5hI-Ex-L0h"; Note = "@new-6.0b2"; */
+"5hI-Ex-L0h.label" = "大綱";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "601"; Note = "don't translate"; */
+"601.title" = "Title";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "602"; */
+"602.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Warning"; ObjectID = "603"; */
+"603.title" = "警告";
+
+/* Class = "NSTextFieldCell"; title = "Warning message text"; ObjectID = "604"; */
+"604.title" = "警告訊息文字";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "605"; */
+"605.title" = "好";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "606"; */
+"606.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Don't ask again"; ObjectID = "607"; */
+"607.title" = "不再詢問";
+
+/* Class = "NSTextFieldCell"; title = "Archive format:"; ObjectID = "610"; */
+"610.title" = "壓縮檔格式：";
+
+/* Class = "NSTextFieldCell"; title = "Compression:"; ObjectID = "612"; */
+"612.title" = "壓縮：";
+
+/* Class = "NSTextFieldCell"; title = "Split into volumes of:"; ObjectID = "614"; */
+"614.title" = "分割為以下大小的分卷：";
+
+/* Class = "NSTextFieldCell"; title = "Encryption method:"; ObjectID = "617"; */
+"617.title" = "加密方式：";
+
+/* Class = "NSTextFieldCell"; title = "Filename"; ObjectID = "625"; */
+"625.title" = "檔名";
+
+/* Class = "NSButtonCell"; title = "Preview as Text"; ObjectID = "637"; */
+"637.title" = "作為文字預覽";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "648"; Note = "don't translate"; */
+"648.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Detail"; ObjectID = "659"; */
+"659.title" = "詳細資訊";
+
+/* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "681"; */
+"681.title" = "從壓縮檔中移除 Mac 特有項目";
+
+/* Class = "NSTextFieldCell"; title = "Additional parameters:"; ObjectID = "687"; */
+"687.title" = "其他參數：";
+
+/* Class = "NSWindow"; title = "ZipWindow"; ObjectID = "692"; */
+"692.title" = "BetterZip";
+
+/* Class = "NSTabViewItem"; label = "DropArea"; ObjectID = "6Il-Hd-fod"; */
+"6Il-Hd-fod.label" = "拖放區";
+
+/* Class = "NSMenuItem"; title = "Add to Favorites…"; ObjectID = "6qe-iQ-ixE"; Note = "@changed-6.0b2 (previous: \"Add to Favorites...\")"; */
+"6qe-iQ-ixE.title" = "加入喜好項目…";
+
+/* Class = "NSTableColumn"; headerCell.title = "CRC-32"; ObjectID = "703"; */
+"703.headerCell.title" = "CRC-32";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "704"; */
+"704.headerCell.title" = "路徑";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "705"; */
+"705.headerCell.title" = "種類";
+
+/* Class = "NSTableColumn"; headerCell.title = "Ratio"; ObjectID = "706"; */
+"706.headerCell.title" = "壓縮率";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "707"; */
+"707.headerCell.title" = "名稱";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modified"; ObjectID = "708"; */
+"708.headerCell.title" = "已修改";
+
+/* Class = "NSTableColumn"; headerCell.title = "Packed"; ObjectID = "709"; */
+"709.headerCell.title" = "壓縮後大小";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "710"; */
+"710.headerCell.title" = "大小";
+
+/* Class = "NSTableColumn"; headerCell.title = "Attributes"; ObjectID = "711"; */
+"711.headerCell.title" = "屬性";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "713"; Note = "don't translate"; */
+"713.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "714"; Note = "don't translate"; */
+"714.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "715"; Note = "don't translate"; */
+"715.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "716"; Note = "don't translate"; */
+"716.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "718"; Note = "don't translate"; */
+"718.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "720"; Note = "don't translate"; */
+"720.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "value"; ObjectID = "7f0-k5-lWA"; */
+"7f0-k5-lWA.headerCell.title" = "值";
+
+/* Class = "NSTabViewItem"; label = "Progress"; ObjectID = "848"; */
+"848.label" = "進度";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "855"; */
+"855.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Set the archive's date to the latest date in the archive"; ObjectID = "887"; */
+"887.title" = "將壓縮檔的修改日期設為其中項目的最新日期";
+
+/* Class = "NSTextFieldCell"; title = "Run when done:"; ObjectID = "895"; Note = "@changed-6.0b2 (previous: \"Run script when done:\")"; */
+"895.title" = "完成後執行：";
+
+/* Class = "NSButtonCell"; alternateTitle = "Fewer options"; ObjectID = "899"; */
+"899.alternateTitle" = "較少選項";
+
+/* Class = "NSButtonCell"; title = "More options"; ObjectID = "899"; */
+"899.title" = "更多選項";
+
+/* Class = "NSMenuItem"; title = "Open in New Tab"; ObjectID = "89T-hX-8ou"; */
+"89T-hX-8ou.title" = "在新標籤頁中打開";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8p6-fL-GfM"; Note = "don't translate"; */
+"8p6-fL-GfM.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "8Yx-BY-UEi"; */
+"8Yx-BY-UEi.title" = "重新命名";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "923"; */
+"923.title" = "選單";
+
+/* Class = "NSMenuItem"; title = "Remove From Favorites"; ObjectID = "928"; */
+"928.title" = "從喜好項目中移除";
+
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "929"; */
+"929.title" = "丟到垃圾桶";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "952"; */
+"952.title" = "顯示方式";
+
+/* Class = "NSMenuItem"; title = "Open With"; ObjectID = "954"; */
+"954.title" = "打開方式";
+
+/* Class = "NSMenu"; title = "Open With"; ObjectID = "955"; */
+"955.title" = "打開方式";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "956"; */
+"956.title" = "項目";
+
+/* Class = "NSWindow"; title = "ProgressWindow"; ObjectID = "99"; */
+"99.title" = "進度視窗";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "9xa-Ff-0K9"; Note = "don't translate"; */
+"9xa-Ff-0K9.title" = "Table View Cell";
+
+/* Class = "NSToolbarItem"; label = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.label" = "直接模式";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.paletteLabel" = "直接模式";
+
+/* Class = "NSToolbarItem"; toolTip = "Toggle the Direct Mode"; ObjectID = "B6r-1D-sbS"; */
+"B6r-1D-sbS.toolTip" = "切換「直接模式」";
+
+/* Class = "NSMenuItem"; title = "Use Preset Password"; ObjectID = "bnA-4H-jLt"; */
+"bnA-4H-jLt.title" = "使用預設組合密碼";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "bRl-As-x1L"; */
+"bRl-As-x1L.title" = "在 Finder 中顯示";
+
+/* Class = "NSToolbarItem"; label = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.label" = "收集";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Collect"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.paletteLabel" = "收集";
+
+/* Class = "NSToolbarItem"; toolTip = "Toggle Collecting from Clipboard"; ObjectID = "cd1-SN-QSP"; Note = "@new-6.0b2"; */
+"cd1-SN-QSP.toolTip" = "切換從剪貼板收集";
+
+/* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "Dng-16-a4Q"; Note = "@new-6.0b2"; */
+"Dng-16-a4Q.title" = "載入或儲存預設組合";
+
+/* Class = "NSTableColumn"; headerCell.title = "Method"; ObjectID = "drc-eC-pc8"; */
+"drc-eC-pc8.headerCell.title" = "方法";
+
+/* Class = "NSMenuItem"; title = "Show Archive Count"; ObjectID = "EGp-mY-cAx"; */
+"EGp-mY-cAx.title" = "顯示壓縮檔數量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show only archives"; ObjectID = "EHg-Kv-f4s"; */
+"EHg-Kv-f4s.ibShadowedToolTip" = "只顯示壓縮檔";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comment"; ObjectID = "Eqj-CB-527"; */
+"Eqj-CB-527.headerCell.title" = "註解";
+
+/* Class = "NSButtonCell"; title = "Exclude empty folders"; ObjectID = "ext-bc-eef"; Note = "@new-6.0b2"; */
+"ext-bc-eef.title" = "排除空資料夾";
+
+/* Class = "NSButtonCell"; title = "Extract flat"; ObjectID = "ext-bc-flt"; Note = "@new-6.0b2"; */
+"ext-bc-flt.title" = "不保留資料夾結構";
+
+/* Class = "NSButtonCell"; title = "Show extracted files in Finder"; ObjectID = "ext-bc-rev"; Note = "@new-6.0b2"; */
+"ext-bc-rev.title" = "在 Finder 中顯示解壓縮的檔案";
+
+/* Class = "NSTextFieldCell"; title = "Exclude:"; ObjectID = "ext-lc-exc"; Note = "@new-6.0b2"; */
+"ext-lc-exc.title" = "排除：";
+
+/* Class = "NSTextFieldCell"; title = "Move archive to:"; ObjectID = "ext-lc-mov"; Note = "@new-6.0b2"; */
+"ext-lc-mov.title" = "將壓縮檔移到：";
+
+/* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "ext-lc-ren"; Note = "@new-6.0b2"; */
+"ext-lc-ren.title" = "重新命名項目：";
+
+/* Class = "NSTextFieldCell"; title = "Run script:"; ObjectID = "ext-lc-scr"; Note = "@new-6.0b2"; */
+"ext-lc-scr.title" = "執行工序指令：";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
+"ext-mi-exc.title" = "無";
+
+/* Class = "NSMenuItem"; title = "Don't move"; ObjectID = "ext-mi-mov"; Note = "@new-6.0b2"; */
+"ext-mi-mov.title" = "不移動";
+
+/* Class = "NSMenuItem"; title = "Load or save a preset"; ObjectID = "ext-mi-pre"; Note = "@new-6.0b2"; */
+"ext-mi-pre.title" = "載入或儲存預設組合";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-ren"; Note = "@new-6.0b2"; */
+"ext-mi-ren.title" = "無";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-scr"; Note = "@new-6.0b2"; */
+"ext-mi-scr.title" = "無";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-exc"; Note = "don't translate"; */
+"ext-mn-exc.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-mov"; Note = "don't translate"; */
+"ext-mn-mov.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-pre"; Note = "don't translate"; */
+"ext-mn-pre.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ext-mn-ren"; Note = "don't translate"; */
+"ext-mn-ren.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fWl-GQ-HyD"; Note = "don't translate"; */
+"fWl-GQ-HyD.title" = "Table View Cell";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.label" = "分享";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.paletteLabel" = "分享";
+
+/* Class = "NSToolbarItem"; toolTip = "Share the archive"; ObjectID = "fX1-HF-4DM"; */
+"fX1-HF-4DM.toolTip" = "分享壓縮檔";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Comment"; ObjectID = "g4x-oH-yuM"; */
+"g4x-oH-yuM.placeholderString" = "註解";
+
+/* Class = "NSTabViewItem"; label = "QuickLook"; ObjectID = "G7l-Ul-mns"; */
+"G7l-Ul-mns.label" = "快速查看";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy to Pasteboard"; ObjectID = "Gba-6O-FHF"; Note = "@new-6.0b2"; */
+"Gba-6O-FHF.ibShadowedToolTip" = "拷貝到剪貼板";
+
+/* Class = "NSTextFieldCell"; title = "Move originals to:"; ObjectID = "h0w-vY-MO7"; */
+"h0w-vY-MO7.title" = "將原始檔移動到：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Compare to Pasteboard"; ObjectID = "HAS-cb-btn"; Note = "@new-6.0b2"; */
+"HAS-cb-btn.ibShadowedToolTip" = "與剪貼板比較";
+
+/* Class = "NSMenuItem"; title = "CRC32"; ObjectID = "HAS-mi-cr"; Note = "@new-6.0b2"; */
+"HAS-mi-cr.title" = "CRC32";
+
+/* Class = "NSMenuItem"; title = "MD5"; ObjectID = "HAS-mi-md"; Note = "@new-6.0b2"; */
+"HAS-mi-md.title" = "MD5";
+
+/* Class = "NSMenuItem"; title = "SHA-1"; ObjectID = "HAS-mi-s1"; Note = "@new-6.0b2"; */
+"HAS-mi-s1.title" = "SHA-1";
+
+/* Class = "NSMenuItem"; title = "SHA-256"; ObjectID = "HAS-mi-s2"; Note = "@new-6.0b2"; */
+"HAS-mi-s2.title" = "SHA-256";
+
+/* Class = "NSMenuItem"; title = "SHA-512"; ObjectID = "HAS-mi-s5"; Note = "@new-6.0b2"; */
+"HAS-mi-s5.title" = "SHA-512";
+
+/* Class = "NSToolbarItem"; label = "Save"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.label" = "儲存";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.paletteLabel" = "儲存";
+
+/* Class = "NSToolbarItem"; toolTip = "Save the archive"; ObjectID = "Hk7-5H-N8G"; */
+"Hk7-5H-N8G.toolTip" = "儲存壓縮檔";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hkk-Wb-LPd"; Note = "don't translate"; */
+"hkk-Wb-LPd.title" = "OtherViews";
+
+/* Class = "NSPopUpButtonCell"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "iKs-9F-vrS"; */
+"iKs-9F-vrS.ibExternalAccessibilityDescription" = "動作選單按鈕";
+
+/* Class = "NSToolbarItem"; label = "Test"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.label" = "測試";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Test"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.paletteLabel" = "測試";
+
+/* Class = "NSToolbarItem"; toolTip = "Test the archive integrity"; ObjectID = "j6w-GE-ey8"; */
+"j6w-GE-ey8.toolTip" = "測試壓縮檔的完整性";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "JR7-lR-q6a"; Note = "don't translate"; */
+"JR7-lR-q6a.title" = "OtherViews";
+
+/* Class = "NSToolbarItem"; toolTip = "Search the archive file"; ObjectID = "lAz-UZ-j4a"; */
+"lAz-UZ-j4a.toolTip" = "搜尋壓縮檔";
+
+/* Class = "NSMenuItem"; title = "Open in New Window"; ObjectID = "lz3-ce-RB0"; */
+"lz3-ce-RB0.title" = "在新視窗中打開";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action menu button"; ObjectID = "M6K-Iz-FQE"; */
+"M6K-Iz-FQE.ibExternalAccessibilityDescription" = "動作選單按鈕";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Preset password"; ObjectID = "M6K-Iz-FQE"; */
+"M6K-Iz-FQE.ibShadowedToolTip" = "預設組合密碼";
+
+/* Class = "NSTextFieldCell"; title = "Rename items:"; ObjectID = "MIB-rn-lbc"; Note = "@new-6.0b2"; */
+"MIB-rn-lbc.title" = "重新命名項目：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "MIB-rn-men"; Note = "don't translate"; */
+"MIB-rn-men.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-rn-non"; Note = "@new-6.0b2"; */
+"MIB-rn-non.title" = "無";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "MIB-zd-non"; Note = "@new-6.0b2"; */
+"MIB-zd-non.title" = "無";
+
+/* Class = "NSToolbarItem"; label = "View"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.label" = "顯示方式";
+
+/* Class = "NSToolbarItem"; paletteLabel = "View"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.paletteLabel" = "顯示方式";
+
+/* Class = "NSToolbarItem"; toolTip = "View the selected file"; ObjectID = "mTa-N6-F1u"; */
+"mTa-N6-F1u.toolTip" = "檢視所選檔案";
+
+/* Class = "NSMenuItem"; title = "Item3"; ObjectID = "nBv-d0-U0Q"; */
+"nBv-d0-U0Q.title" = "項目3";
+
+/* Class = "NSTableColumn"; headerCell.title = "Index"; ObjectID = "Nd6-Wb-kZI"; */
+"Nd6-Wb-kZI.headerCell.title" = "索引";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel editing comment"; ObjectID = "nfD-Px-ynP"; */
+"nfD-Px-ynP.ibShadowedToolTip" = "取消編輯註解";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nzp-Eb-OZ3"; Note = "don't translate"; */
+"nzp-Eb-OZ3.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8r-P4-qfV"; Note = "don't translate"; */
+"O8r-P4-qfV.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "pTg-mn-c1A"; Note = "don't translate"; */
+"pTg-mn-c1A.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Exclude Patterns:"; ObjectID = "qFO-f9-zNK"; */
+"qFO-f9-zNK.title" = "排除規則：";
+
+/* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
+"QwO-eZ-IVh.label" = "瀏覽器";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save comment"; ObjectID = "QXz-Vs-X5W"; */
+"QXz-Vs-X5W.ibShadowedToolTip" = "儲存註解";
+
+/* Class = "NSMenuItem"; title = "Preview as Text"; ObjectID = "RLi-Cg-7Eq"; */
+"RLi-Cg-7Eq.title" = "作為文字預覽";
+
+/* Class = "NSToolbarItem"; label = "New Folder"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.label" = "新增資料夾";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Folder"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.paletteLabel" = "新增資料夾";
+
+/* Class = "NSToolbarItem"; toolTip = "Create a new folder in the selected place inside the archive"; ObjectID = "S8f-eH-EmI"; */
+"S8f-eH-EmI.toolTip" = "在壓縮檔中的所選位置新增資料夾";
+
+/* Class = "NSToolbarItem"; label = "Add"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.label" = "加入";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Add"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.paletteLabel" = "加入";
+
+/* Class = "NSToolbarItem"; toolTip = "Add a new file or folder to the archive"; ObjectID = "sqM-P8-N3J"; */
+"sqM-P8-N3J.toolTip" = "將新檔案或資料夾加入壓縮檔";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "t44-mi-non"; Note = "@new-6.0b2"; */
+"t44-mi-non.title" = "無";
+
+/* Class = "NSMenuItem"; title = "Item1"; ObjectID = "T9W-iu-Su0"; */
+"T9W-iu-Su0.title" = "項目1";
+
+/* Class = "NSTextFieldCell"; title = "Recovery volumes:"; ObjectID = "tn1-wt-m8P"; Note = "@new-6.0b2"; */
+"tn1-wt-m8P.title" = "復原分卷：";
+
+/* Class = "NSTabViewItem"; label = "Icon"; ObjectID = "uGn-zk-IBN"; Note = "@new-6.0b2"; */
+"uGn-zk-IBN.label" = "圖像";
+
+/* Class = "NSMenuItem"; title = "Item2"; ObjectID = "VfB-Ez-dR2"; */
+"VfB-Ez-dR2.title" = "項目2";
+
+/* Class = "NSTextFieldCell"; title = "Recovery records:"; ObjectID = "VFD-T9-BFv"; Note = "@new-6.0b2"; */
+"VFD-T9-BFv.title" = "復原記錄：";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vMN-qb-Ugo"; Note = "don't translate"; */
+"vMN-qb-Ugo.title" = "Text Cell";
+
+/* Class = "NSTabViewItem"; label = "Web"; ObjectID = "VrR-IH-vfd"; Note = "@new-6.0b2"; */
+"VrR-IH-vfd.label" = "網頁";
+
+/* Class = "NSTextFieldCell"; title = "After successful extraction"; ObjectID = "Vuk-qW-L0y"; Note = "@new-6.0b2"; */
+"Vuk-qW-L0y.title" = "成功解壓縮後";
+
+/* Class = "NSToolbarItem"; label = "Move"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.label" = "移動";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Move"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.paletteLabel" = "移動";
+
+/* Class = "NSToolbarItem"; toolTip = "Move the archive to the Trash or another folder"; ObjectID = "wOI-VI-shq"; */
+"wOI-VI-shq.toolTip" = "將壓縮檔移到垃圾桶或其他資料夾";
+
+/* Class = "NSMenuItem"; title = "Enter New Password"; ObjectID = "x1E-4h-A7n"; */
+"x1E-4h-A7n.title" = "輸入新密碼";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "xia-Oz-guz"; */
+"xia-Oz-guz.headerCell.title" = "狀態";
+
+/* Class = "NSPathCell"; placeholderString = "Archive"; ObjectID = "XVl-a4-b5t"; */
+"XVl-a4-b5t.placeholderString" = "壓縮檔";
+
+/* Class = "NSTabViewItem"; label = "Comment"; ObjectID = "yBQ-i8-7Jw"; */
+"yBQ-i8-7Jw.label" = "註解";
+
+/* Class = "NSToolbarItem"; label = "Delete"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.label" = "刪除";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Delete"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.paletteLabel" = "刪除";
+
+/* Class = "NSToolbarItem"; toolTip = "Delete files and folders from the archive"; ObjectID = "Yrg-un-hwR"; */
+"Yrg-un-hwR.toolTip" = "從壓縮檔中刪除檔案和資料夾";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yWf-Lk-fWN"; Note = "don't translate"; */
+"yWf-Lk-fWN.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Hide follow-up parts of multi-volume archives"; ObjectID = "YXr-Xn-USm"; */
+"YXr-Xn-USm.ibShadowedToolTip" = "隱藏多分卷壓縮檔的後續分卷";
+
+/* Class = "NSTabViewItem"; label = "QL"; ObjectID = "z5p-yZ-uuv"; */
+"z5p-yZ-uuv.label" = "QL";
+
+/* Class = "NSTableColumn"; headerCell.title = "Total Size"; ObjectID = "zbK-89-hjt"; */
+"zbK-89-hjt.headerCell.title" = "總大小";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zoC-fh-3zP"; Note = "don't translate"; */
+"zoC-fh-3zP.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Extract"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.label" = "解壓縮";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extract"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.paletteLabel" = "解壓縮";
+
+/* Class = "NSToolbarItem"; toolTip = "Extract files or folders from the archive"; ObjectID = "ZOm-75-O5R"; */
+"ZOm-75-O5R.toolTip" = "從壓縮檔中解壓縮檔案或資料夾";
+
+/* Class = "NSTabViewItem"; label = "Contents"; ObjectID = "zx3-jY-Ozc"; */
+"zx3-jY-Ozc.label" = "內容";

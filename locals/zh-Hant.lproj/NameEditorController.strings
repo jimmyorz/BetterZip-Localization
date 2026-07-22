@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Filename:"; ObjectID = "1sj-HV-xCC"; */
+"1sj-HV-xCC.title" = "檔名：";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "4I6-D4-BfO"; */
+"4I6-D4-BfO.title" = "時間：";
+
+/* Class = "NSTextFieldCell"; title = "Extension:"; ObjectID = "C3r-jo-XHQ"; */
+"C3r-jo-XHQ.title" = "副檔名：";
+
+/* Class = "NSTextFieldCell"; title = "Drag components into the text field and add your own text:"; ObjectID = "deF-jE-FnN"; */
+"deF-jE-FnN.title" = "將元件拖到文字欄位中，並加入自訂文字：";
+
+/* Class = "NSTokenFieldCell"; title = "date"; ObjectID = "H7m-LI-yTh"; Note = "don't translate"; */
+"H7m-LI-yTh.title" = "date";
+
+/* Class = "NSTokenFieldCell"; title = "folder"; ObjectID = "hDv-Q4-njw"; Note = "don't translate"; */
+"hDv-Q4-njw.title" = "folder";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "ILh-Pp-d9R"; */
+"ILh-Pp-d9R.title" = "使用者名稱：";
+
+/* Class = "NSTokenFieldCell"; title = "name"; ObjectID = "KC9-EY-Fep"; Note = "don't translate"; */
+"KC9-EY-Fep.title" = "name";
+
+/* Class = "NSTextFieldCell"; title = "Date:"; ObjectID = "pJo-u2-akO"; */
+"pJo-u2-akO.title" = "日期：";
+
+/* Class = "NSTokenFieldCell"; title = "ext"; ObjectID = "r1x-T3-Wa3"; Note = "don't translate"; */
+"r1x-T3-Wa3.title" = "ext";
+
+/* Class = "NSTokenFieldCell"; title = "time"; ObjectID = "t48-mL-ayb"; Note = "don't translate"; */
+"t48-mL-ayb.title" = "time";
+
+/* Class = "NSTokenFieldCell"; title = "user"; ObjectID = "uN6-YH-JsR"; Note = "don't translate"; */
+"uN6-YH-JsR.title" = "user";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "xeb-8F-pHd"; */
+"xeb-8F-pHd.title" = "資料夾：";

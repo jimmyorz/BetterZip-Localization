@@ -2,13 +2,13 @@
 "1.title" = "回報當機問題";
 
 /* Class = "NSTextFieldCell"; title = "Oops, it seems like this application quit unexpectedly last time. You can send us a report to help us improving this application."; ObjectID = "198"; Note = "@new-6.0b2"; */
-"198.title" = "糟糕，此 App 上次似乎未預期結束。你可以傳送報告，協助我們改善此 App。";
+"198.title" = "糟糕，此應用程式上次似乎未預期結束。你可以傳送報告，協助我們改善此應用程式。";
 
 /* Class = "NSButtonCell"; title = "Include anonymous crash report with technical information"; ObjectID = "200"; Note = "@new-6.0b2"; */
 "200.title" = "包含附有技術資訊的匿名當機報告";
 
 /* Class = "NSTextFieldCell"; title = "Please specify what you did when the app crashed. (optional)"; ObjectID = "201"; Note = "@new-6.0b2"; */
-"201.title" = "請說明 App 當機時你正在進行的操作。（選填）";
+"201.title" = "請說明應用程式當機時你正在進行的操作。（選填）";
 
 /* Class = "NSButtonCell"; title = "Report"; ObjectID = "203"; Note = "@new-6.0b2"; */
 "203.title" = "回報";

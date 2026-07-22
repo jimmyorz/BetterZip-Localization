@@ -7,7 +7,7 @@ initial name of a duplicated save preset, %@ being the original name */
 /* Error messages */
 "%@ could not be extracted. Error code: %ld" = "無法解壓縮 %@。錯誤代碼：%ld";
 
-"%@ is not handled by any application. Try to extract the file and use Finder to open it." = "沒有任何 App 可處理 %@。請嘗試解壓縮檔案，再使用 Finder 將其打開。";
+"%@ is not handled by any application. Try to extract the file and use Finder to open it." = "沒有任何應用程式可處理 %@。請嘗試解壓縮檔案，再使用 Finder 將其打開。";
 
 "%@ of %@" = "%@ / %@";
 
@@ -83,7 +83,7 @@ merge conflicts message folders only */
 "Adding files to archive %@" = "正在將檔案加入壓縮檔 %@";
 
 /* Preferences tab title */
-"Advanced" = "高階";
+"Advanced" = "進階";
 
 "After filtering, there are no files left to archive." = "過濾後，沒有任何檔案可加入壓縮檔。";
 
@@ -991,7 +991,7 @@ conflict action */
 "Thanks for helping us improve %@" = "感謝你協助我們改善 %@";
 
 /* Application integrity */
-"The application is damaged." = "此 App 已損毀。";
+"The application is damaged." = "此應用程式已損毀。";
 
 "The archive cannot be created." = "無法建立壓縮檔。";
 
@@ -1029,7 +1029,7 @@ conflict action */
 /* No comment provided by engineer. */
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in BetterZip > Settings > Helpers." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在 BetterZip >「設定」>「輔助工具」中設定 RAR 路徑。";
 
-"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在「偏好設定」›「輔助 App」中設定 RAR 路徑。";
+"The first volume of “%@” is missing. Recovery volumes (.rev) were found but the rar command-line tool is required to reconstruct the missing volumes. Configure the path to rar in Preferences › Helper Apps." = "缺少「%@」的第一個分卷。雖然找到復原分卷（.rev），但需要 RAR 命令列工具才能重建缺少的分卷。請在「偏好設定」›「輔助工具」應用程式中設定 RAR 路徑。";
 
 "The first volume of “%@” is missing. Recovery volumes (.rev) were found. Do you want to reconstruct the missing volumes?" = "缺少「%@」的第一個分卷，但已找到復原分卷（.rev）。要重建缺少的分卷嗎？";
 

@@ -35,7 +35,7 @@
 "136.title" = "結束 BetterZip";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
-"145.title" = "隱藏其他 App";
+"145.title" = "隱藏其他應用程式";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
 "150.title" = "全部顯示";
@@ -323,7 +323,7 @@
 "Obb-b9-aac.title" = "自動";
 
 /* Class = "NSMenuItem"; title = "Open BetterZip's App Support Folder"; ObjectID = "PoJ-NB-tKs"; */
-"PoJ-NB-tKs.title" = "打開 BetterZip 的 App 支援資料夾";
+"PoJ-NB-tKs.title" = "打開 BetterZip 的應用程式支援資料夾";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "Q9U-li-Mpb"; */
 "Q9U-li-Mpb.title" = "偏好設定…";

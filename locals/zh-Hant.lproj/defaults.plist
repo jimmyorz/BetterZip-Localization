@@ -215,7 +215,7 @@
 			<key>moveArchiveTo</key>
 			<string>1</string>
 			<key>name</key>
-			<string>為使用者安裝 App 並在 Finder 中顯示</string>
+			<string>為使用者安裝應用程式並在 Finder 中顯示</string>
 			<key>openExtracted</key>
 			<false/>
 			<key>reveal</key>

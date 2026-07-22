@@ -35,7 +35,7 @@
 "1419.title" = "RAR 工具路徑：";
 
 /* Class = "NSTextFieldCell"; title = "Manage your filters"; ObjectID = "1420"; */
-"1420.title" = "管理過濾器列表中的規則";
+"1420.title" = "管理過濾器";
 
 /* Class = "NSButtonCell"; title = "Restore Defaults"; ObjectID = "1423"; */
 "1423.title" = "回復預設值";
@@ -116,10 +116,10 @@
 "1564.title" = "Text Cell";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "159"; */
-"159.ibShadowedToolTip" = "加入新規則（⌘N）";
+"159.ibShadowedToolTip" = "加入新過濾器（⌘N）";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "160"; */
-"160.ibShadowedToolTip" = "移除所選規則（⌫）";
+"160.ibShadowedToolTip" = "移除所選過濾器（⌫）";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1624"; Note = "don't translate"; */
 "1624.title" = "OtherViews";
@@ -215,7 +215,7 @@
 "1670.ibShadowedToolTip" = "加入新預設組合（⌘N）";
 
 /* Class = "NSWindow"; title = "Settings"; ObjectID = "17"; */
-"17.title" = "偏好設定";
+"17.title" = "設定";
 
 /* Class = "NSButtonCell"; title = "Remove Mac specific stuff from the archive"; ObjectID = "1748"; */
 "1748.title" = "從壓縮檔中移除 Mac 特有項目";
@@ -338,7 +338,7 @@
 "2199.title" = "在 Finder 中顯示解壓縮的項目";
 
 /* Class = "NSButtonCell"; title = "Quit when the last window is closed"; ObjectID = "2218"; */
-"2218.title" = "關閉最後一個視窗時結束 App";
+"2218.title" = "關閉最後一個視窗時結束應用程式";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "leave empty to use default"; ObjectID = "2223"; */
 "2223.ibShadowedToolTip" = "留空以使用預設值";
@@ -377,7 +377,7 @@
 "302.headerCell.title" = "副檔名";
 
 /* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "309"; */
-"309.headerCell.title" = "App";
+"309.headerCell.title" = "應用程式";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove the selected file types (⌫)"; ObjectID = "3B4-7C-4y7"; */
 "3B4-7C-4y7.ibShadowedToolTip" = "移除所選檔案類型 (⌫)";
@@ -404,7 +404,7 @@
 "4q5-eh-t7M.title" = "在「移動壓縮檔」選單中顯示「垃圾桶」";
 
 /* Class = "NSTableColumn"; headerCell.title = "Application or Path"; ObjectID = "4RA-gd-5xM"; */
-"4RA-gd-5xM.headerCell.title" = "App 或路徑";
+"4RA-gd-5xM.headerCell.title" = "應用程式或路徑";
 
 /* Class = "NSTextFieldCell"; title = "Use this encoding for Windows ZIP files: "; ObjectID = "4rb-cX-TxH"; */
 "4rb-cX-TxH.title" = "Windows ZIP 檔案使用此編碼：";
@@ -449,7 +449,7 @@
 "7Qu-Ib-mZN.ibShadowedToolTip" = "設定此預設組合在拖放列中的顯示方式";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "<new filter>"; ObjectID = "83K-Oo-tNH"; */
-"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<新增規則>";
+"83K-Oo-tNH.ibShadowedIsNilPlaceholder" = "<新增過濾器>";
 
 /* Class = "NSMenuItem"; title = "1"; ObjectID = "8RN-GJ-7fQ"; Note = "@new-6.0b2"; */
 "8RN-GJ-7fQ.title" = "1";
@@ -515,7 +515,7 @@
 "aY0-4Y-0cq.title" = "項目2";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Remove the selected filter (⌫)"; ObjectID = "B6X-qu-uuB"; */
-"B6X-qu-uuB.ibShadowedToolTip" = "移除所選規則（⌫）";
+"B6X-qu-uuB.ibShadowedToolTip" = "移除所選過濾器（⌫）";
 
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Configure these on the Filters tab"; ObjectID = "b7U-a9-zVL"; Note = "@new-6.0b2"; */
 "b7U-a9-zVL.ibShadowedToolTip" = "請在「過濾器」標籤頁中設定";
@@ -677,7 +677,7 @@
 "hBQ-Lk-s4E.title" = "服務名稱";
 
 /* Class = "NSTextFieldCell"; title = "Files with these extensions will not be treated as archives (although they technically are):"; ObjectID = "HF5-KD-zr7"; */
-"HF5-KD-zr7.title" = "以下副檔名的檔案將不作為壓縮檔（雖然技術上講它們是的）";
+"HF5-KD-zr7.title" = "以下副檔名的檔案將不作為壓縮檔（雖然技術來說它們是）";
 
 /* Class = "NSMenuItem"; title = "Item2"; ObjectID = "HFB-rn-yOD"; */
 "HFB-rn-yOD.title" = "項目2";
@@ -905,7 +905,7 @@
 "MmQ-Ln-iay.title" = "1 年";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Add a new filter (⌘N)"; ObjectID = "mOB-1s-KZf"; */
-"mOB-1s-KZf.ibShadowedToolTip" = "加入新規則（⌘N）";
+"mOB-1s-KZf.ibShadowedToolTip" = "加入新過濾器（⌘N）";
 
 /* Class = "NSButtonCell"; title = "Display all sizes in kibi-, mebi-, and gibibyte"; ObjectID = "MWZ-CN-jVv"; */
 "MWZ-CN-jVv.title" = "所有大小均以 KiB、MiB 和 GiB 顯示";
@@ -1088,7 +1088,7 @@
 "uQx-G2-Y41.title" = "儲存變更，即使在「直接模式」中也一樣";
 
 /* Class = "NSButtonCell"; title = "Do not quarantine extracted apps (less secure)"; ObjectID = "uSg-Fm-gvh"; */
-"uSg-Fm-gvh.title" = "不要隔離解壓縮的 App（安全性較低）";
+"uSg-Fm-gvh.title" = "不要隔離解壓縮的應用程式（安全性較低）";
 
 /* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "Uy5-5t-Meo"; */
 "Uy5-5t-Meo.headerCell.title" = "資料夾";
@@ -1118,7 +1118,7 @@
 "wEH-3v-cO0.title" = "自動";
 
 /* Class = "NSTextFieldCell"; title = "Application:"; ObjectID = "WMK-yD-Eak"; */
-"WMK-yD-Eak.title" = "App：";
+"WMK-yD-Eak.title" = "應用程式：";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "WuH-Dj-aQj"; */
 "WuH-Dj-aQj.title" = "取消";

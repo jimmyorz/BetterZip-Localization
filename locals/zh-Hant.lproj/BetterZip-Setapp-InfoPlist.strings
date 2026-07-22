@@ -1,0 +1,10 @@
+/* (No Comment) */
+"CFBundleDisplayName" = "BetterZip";
+/* (No Comment) */
+"CFBundleGetInfoString" = "BetterZip $(MARKETING_VERSION), Copyright © 2006-2026 MacItBetter, Robert Rezabek";
+/* (No Comment) */
+"CFBundleName" = "BetterZip";
+/* (No Comment) */
+"NSContactsUsageDescription" = "你的電子郵件地址只會用於預先填寫 BetterZip 當機報告中的聯絡欄位。";
+/* (No Comment) */
+"NSHumanReadableCopyright" = "Copyright © 2006-2026 MacItBetter, Robert Rezabek";

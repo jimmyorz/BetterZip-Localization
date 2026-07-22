@@ -314,7 +314,7 @@
 "ext-lc-ren.title" = "重新命名項目：";
 
 /* Class = "NSTextFieldCell"; title = "Run when done:"; ObjectID = "ext-lc-scr"; Note = "@changed-6.0b3 (previous: \"Run script:\")"; */
-"ext-lc-scr.title" = "執行工序指令：";
+"ext-lc-scr.title" = "完成後執行：";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ext-mi-exc"; Note = "@new-6.0b2"; */
 "ext-mi-exc.title" = "無";
@@ -464,7 +464,7 @@
 "pTg-mn-c1A.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Exclude Filters:"; ObjectID = "qFO-f9-zNK"; */
-"qFO-f9-zNK.title" = "排除規則：";
+"qFO-f9-zNK.title" = "排除過濾器：";
 
 /* Class = "NSTabViewItem"; label = "Browser"; ObjectID = "QwO-eZ-IVh"; Note = "@new-6.0b2"; */
 "QwO-eZ-IVh.label" = "瀏覽器";

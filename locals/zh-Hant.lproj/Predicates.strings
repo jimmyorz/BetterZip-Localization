@@ -1,43 +1,43 @@
-"%@ %[begins with]@ %@" = "";
+"%@ %[begins with]@ %@" = "%@ %[開頭是]@ %@";
 
-"%@ %[contains]@ %@" = "";
+"%@ %[contains]@ %@" = "%@ %[包含]@ %@";
 
-"%@ %[ends with]@ %@" = "";
+"%@ %[ends with]@ %@" = "%@ %[結尾是]@ %@";
 
-"%@ %[is greater than or equal to]@ %@ %@" = "";
+"%@ %[is greater than or equal to]@ %@ %@" = "%@ %[至少為]@ %@ %@";
 
-"%@ %[is greater than]@ %@ %@" = "";
+"%@ %[is greater than]@ %@ %@" = "%@ %[大於]@ %@ %@";
 
-"%@ %[is less than or equal to]@ %@ %@" = "";
+"%@ %[is less than or equal to]@ %@ %@" = "%@ %[最多為]@ %@ %@";
 
-"%@ %[is less than]@ %@ %@" = "";
+"%@ %[is less than]@ %@ %@" = "%@ %[小於]@ %@ %@";
 
-"%@ %[is like]@ %@" = "";
+"%@ %[is like]@ %@" = "%@ %[類似]@ %@";
 
-"%@ %[is not]@ %@" = "";
+"%@ %[is not]@ %@" = "%@ %[不是]@ %@";
 
-"%@ %[is not]@ %@ %@" = "";
+"%@ %[is not]@ %@ %@" = "%@ %[不等於]@ %@ %@";
 
 /* String operators (3-view rows) */
-"%@ %[is]@ %@" = "";
+"%@ %[is]@ %@" = "%@ %[是]@ %@";
 
 /* Size operators (4-view rows with KB/MB/GB unit popup). The "is" / "is not"
    entries are shared by the absolute-date rows (which keep these titles). */
-"%@ %[is]@ %@ %@" = "";
+"%@ %[is]@ %@ %@" = "%@ %[等於]@ %@ %@";
 
-"%@ %[matches]@ %@" = "";
+"%@ %[matches]@ %@" = "%@ %[符合正規表示式]@ %@";
 
 /* Compound row (All/Any of the following are true) */
-"%[All, Any]@ %[of the following are true]@" = "";
+"%[All, Any]@ %[of the following are true]@" = "%[符合下列全部, 符合下列任一]@ %[條件]@";
 
-"%[kind]@ %@ %@" = "";
+"%[kind]@ %@ %@" = "%[種類]@ %@ %@";
 
 /* Left-hand attribute labels (string rows, 3-view) */
-"%[name]@ %@ %@" = "";
+"%[name]@ %@ %@" = "%[名稱]@ %@ %@";
 
-"%[path]@ %@ %@" = "";
+"%[path]@ %@ %@" = "%[路徑]@ %@ %@";
 
-"%[timeV]@ %@ %@ %@" = "";
+"%[timeV]@ %@ %@ %@" = "%[修改日期]@ %@ %@ %@";
 
 /* Left-hand attribute labels (4-view rows: size and date) */
-"%[uncoV]@ %@ %@ %@" = "";
+"%[uncoV]@ %@ %@ %@" = "%[大小]@ %@ %@ %@";

@@ -1,5 +1,5 @@
 /* Bundle display name */
-"CFBundleDisplayName" = "BetterZip Finder 按鈕";
+"CFBundleDisplayName" = "BetterZip Finder 延伸功能";
 
 /* Bundle name */
-"CFBundleName" = "$(PRODUCT_NAME)";
+"CFBundleName" = "Finder 同步延伸功能";

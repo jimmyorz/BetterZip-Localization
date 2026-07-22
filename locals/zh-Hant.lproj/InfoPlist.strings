@@ -2,16 +2,13 @@
 "7-Zip Archive" = "7-Zip 壓縮檔";
 
 /* No comment provided by engineer. */
-"Android Application Package" = "Android App 套件";
+"Android Application Package" = "Android 應用程式套件";
 
 /* No comment provided by engineer. */
 "ARJ Archive" = "ARJ 壓縮檔";
 
 /* No comment provided by engineer. */
 "BinHex Archive" = "BinHex 壓縮檔";
-
-/* No comment provided by engineer. */
-"Brotli Archive" = "Brotli 壓縮檔";
 
 /* No comment provided by engineer. */
 "Brotli compressed TAR Archive" = "Brotli 壓縮的 TAR 壓縮檔";
@@ -39,9 +36,6 @@
 
 /* No comment provided by engineer. */
 "Comicbook RAR Archive" = "漫畫書 RAR 壓縮檔";
-
-/* No comment provided by engineer. */
-"Comicbook Zip Archive" = "漫畫書 ZIP 壓縮檔";
 
 /* No comment provided by engineer. */
 "Compiled HTML Archive" = "已編譯的 HTML 壓縮檔";
@@ -72,9 +66,6 @@
 
 /* No comment provided by engineer. */
 "LHA Archive" = "LHA 壓縮檔";
-
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "Linux RPM 壓縮檔";
 
 /* No comment provided by engineer. */
 "Microsoft E-mail Attachment" = "Microsoft 電子郵件附件";
@@ -110,19 +101,22 @@
 "User-Defined Archive" = "使用者定義的壓縮檔";
 
 /* No comment provided by engineer. */
-"xz Archive" = "xz 壓縮檔";
-
-/* No comment provided by engineer. */
 "xz compressed TAR Archive" = "xz 壓縮的 TAR 壓縮檔";
 
 /* No comment provided by engineer. */
 "ZIP Archive" = "ZIP 壓縮檔";
 
 /* No comment provided by engineer. */
-"Zip Archive" = "ZIP 壓縮檔";
-
-/* No comment provided by engineer. */
-"Zstandard Archive" = "Zstandard 壓縮檔";
-
-/* No comment provided by engineer. */
 "Zstandard compressed TAR Archive" = "Zstandard 壓縮的 TAR 壓縮檔";
+
+/* @new-6.0b5 – type names present in Info.plist but missing from this localization */
+"Comicbook ZIP Archive" = "漫畫書 ZIP 壓縮檔";
+"xz compressed Archive" = "xz 壓縮檔";
+"Zstandard compressed Archive" = "Zstandard 壓縮檔";
+"Brotli compressed Archive" = "Brotli 壓縮檔";
+"RAR Legacy Archive" = "舊版 RAR 壓縮檔";
+"RPM Linux Archive" = "Linux RPM 壓縮檔";
+"Disk Image" = "磁碟映像檔";
+"ISO Disk Image" = "ISO 磁碟映像檔";
+"MacBinary File" = "MacBinary 檔案";
+"XAR Archive" = "XAR 壓縮檔";

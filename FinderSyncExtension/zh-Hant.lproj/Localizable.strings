@@ -2,16 +2,40 @@
 "Add Items to New Archive in BetterZip" = "在 BetterZip 中將項目加入新的壓縮檔";
 
 /* (No Comment) */
+"Compress with BetterZip" = "使用 BetterZip 壓縮";
+
+/* (No Comment) */
 "Compress with Preset" = "使用預設組合壓縮";
+
+/* No comment provided by engineer. */
+"Error" = "錯誤";
+
+/* No comment provided by engineer. */
+"External command returned: %d%c" = "外部命令傳回：%1$d%2$c";
 
 /* (No Comment) */
 "Extract to" = "解壓縮至";
 
 /* (No Comment) */
+"Extract with BetterZip" = "使用 BetterZip 解壓縮";
+
+/* (No Comment) */
 "Extract with Preset" = "使用預設組合解壓縮";
+
+/* No comment provided by engineer. */
+"Ignore and go on" = "忽略並繼續";
 
 /* (No Comment) */
 "Next to Archives" = "壓縮檔旁";
+
+/* No comment provided by engineer. */
+"No compression" = "不壓縮";
+
+/* No comment provided by engineer. */
+"Not encrypted" = "未加密";
+
+/* No comment provided by engineer. */
+"OK" = "好";
 
 /* (No Comment) */
 "Open in BetterZip" = "在 BetterZip 中打開";
@@ -22,5 +46,23 @@
   Created by Robert Rezabek on 07.05.17. */
 "Other Actions" = "其他動作";
 
+/* No comment provided by engineer. */
+"Other…" = "其他…";
+
+/* (No Comment) */
+"Start collecting items in a new archive" = "開始在新的壓縮檔中收集項目";
+
+/* No comment provided by engineer. */
+"Stop" = "停止";
+
 /* (No Comment) */
 "Test Validity of Archives" = "測試壓縮檔完整性";
+
+/* No comment provided by engineer. */
+"The helper tool %@ could not be found or is not executable." = "找不到輔助工具 %@，或該工具無法執行。";
+
+/* No comment provided by engineer. */
+"There is not enough free space on the destination drive." = "目的地磁碟的可用空間不足。";
+
+/* No comment provided by engineer. */
+"Warning" = "警告";
